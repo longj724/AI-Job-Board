@@ -1,0 +1,13 @@
+test.py
+.env
+test.txt
+sampleData2.txt
+sampleData.txt
+chunks.txt
+debugOutput.txt
+output.txt
+leverOutput.txt
+finalOutput.json
+data/
+env
+node_modules/
