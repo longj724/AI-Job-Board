@@ -11,3 +11,5 @@ finalOutput.json
 data/
 env
 node_modules/
+newPipeline/data
+newPipeline/appOutput.txt
