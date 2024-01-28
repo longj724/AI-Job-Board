@@ -1,28 +1,42 @@
 // External Dependencies
-const fs = require('fs');
-const cheerio = require('cheerio');
-const { supabaseClient } = require('./supabaseClient');
-const openAI = require('./openAIClient');
-const dotenv = require('dotenv');
+import fs from 'fs';
+import cheerio from 'cheerio';
+import dotenv from 'dotenv';
 dotenv.config();
 
-module.exports.getJobInfoFromGreenhouseApplications = async () => {
+// Relative Dependencies
+import { supabaseClient } from './supabaseClient';
+import { openAI } from './openAIClient';
+
+export const getJobInfoFromLeverApplications = async (): Promise<void> => {
   let numEmbeddingCalls = 0;
   let startTime = Date.now();
-  const files = fs.readdirSync('./data/applications/gh');
-  files.forEach(async (file) => {
-    const content = fs.readFileSync(`./data/applications/gh/${file}`);
+  const files = fs.readdirSync('./data/applications/lever');
+
+  for (const file of files) {
+    const content = fs.readFileSync(
+      `./data/applications/lever/${file}`,
+      'utf-8'
+    );
     const $ = cheerio.load(content);
 
-    const companyName = $('.company-name').text().replace('at', '').trim();
-    const jobTitle = $('.app-title').text();
+    const companyName = file.split('-')[0];
+    const jobTitle = $('.posting-headline h2').text();
     const location = $('.location').text();
 
-    const applicationDivs = $('#content p, #content span, #content ul');
+    console.log(companyName);
+    console.log(jobTitle);
+    console.log(location);
+
+    const department = $('.department').text().trim();
+    const commitment = $('.commitment').text();
+    const workplaceType = $('.workplaceTypes').text().trim();
+
+    const applicationDivs = $('.section-wrapper.page-full-width > div');
 
     let applicationText = '';
-    let applicationChunks = [];
-    applicationDivs.each(function () {
+    let applicationChunks: string[] = [];
+    applicationDivs.each(function (this: any) {
       const text = $(this).text().trim();
       applicationText += text;
       if (text.split(' ').length > 7) {
@@ -30,8 +44,7 @@ module.exports.getJobInfoFromGreenhouseApplications = async () => {
       }
     });
 
-    // Put application into db
-    if (companyName != '' && jobTitle != '' && applicationChunks.length > 0) {
+    if (companyName !== '' && jobTitle !== '' && applicationChunks.length > 0) {
       const supabase = supabaseClient();
       const { data: applicationData, error: appError } = await supabase
         .from('Applications')
@@ -42,8 +55,6 @@ module.exports.getJobInfoFromGreenhouseApplications = async () => {
           content: applicationText,
         })
         .select('*');
-      console.log('appData is', applicationData);
-      console.log('chunks are', applicationChunks);
 
       if (applicationData !== null) {
         for (const chunk of applicationChunks) {
@@ -78,14 +89,17 @@ module.exports.getJobInfoFromGreenhouseApplications = async () => {
               content: applicationText,
             })
             .select('*');
+          console.log('chunk is', chunk);
+          console.log('embedding is', data);
+          console.log('**********');
         }
       }
     }
-  });
+  }
 };
 
-const main = () => {
-  this.getJobInfoFromGreenhouseApplications();
+const main = (): void => {
+  getJobInfoFromLeverApplications();
 };
 
 main();

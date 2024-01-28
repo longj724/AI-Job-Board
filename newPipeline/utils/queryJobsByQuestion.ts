@@ -1,8 +1,11 @@
-const { supabaseClient } = require('./supabaseClient');
-const openAI = require('./openAIClient');
+// External Dependencies
 
-module.exports.queryJobsByQuestion = async () => {
-  const supabase = supabaseClient();
+// Relative Dependencies
+import { supabaseClient } from './supabaseClient';
+import { openAI } from './openAIClient';
+
+export const queryJobsByQuestion = async (): Promise<void> => {
+  const supabase = supabaseClient(); // Adjust according to actual supabaseClient export
   const question = 'I am looking for software engineering internships';
 
   const embeddingResponse = await openAI.embeddings.create({
@@ -21,8 +24,8 @@ module.exports.queryJobsByQuestion = async () => {
     .select('*');
 };
 
-const main = () => {
-  this.queryJobsByQuestion();
+const main = async (): Promise<void> => {
+  await queryJobsByQuestion();
 };
 
 main();

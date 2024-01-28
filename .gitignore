@@ -13,3 +13,5 @@ env
 node_modules/
 newPipeline/data
 newPipeline/appOutput.txt
+newPipeline/utils/openAIClient.ts
+newPipeline/utils/supabaseClient.ts
