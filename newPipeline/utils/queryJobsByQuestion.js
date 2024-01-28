@@ -3,7 +3,7 @@ const openAI = require('./openAIClient');
 
 module.exports.queryJobsByQuestion = async () => {
   const supabase = supabaseClient();
-  const question = 'I am looking for an internship';
+  const question = 'I am looking for software engineering internships';
 
   const embeddingResponse = await openAI.embeddings.create({
     model: 'text-embedding-ada-002',
@@ -12,18 +12,13 @@ module.exports.queryJobsByQuestion = async () => {
 
   const [{ embedding }] = embeddingResponse.data;
 
-  console.log('embedding is', embedding);
-
   const { error: matchError, data: matchingApplications } = await supabase
-    .rpc('application_similarity_search', {
+    .rpc('application_similarity_search_no_join', {
       query_embedding: embedding,
-      similarity_threshold: 0.1,
-      match_count: 10,
+      similarity_threshold: 0.75,
+      match_count: 50,
     })
     .select('*');
-
-  console.log('matchingApplications', matchingApplications);
-  console.log('matchingError', matchError);
 };
 
 const main = () => {
