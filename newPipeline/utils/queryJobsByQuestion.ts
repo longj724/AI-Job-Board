@@ -17,7 +17,8 @@ export const queryJobsByQuestion = async (): Promise<void> => {
 
   const { error: matchError, data: matchingApplications } = await supabase
     .rpc('application_similarity_search_no_join', {
-      query_embedding: embedding,
+      // Can't pass in embedding type - https://github.com/supabase/postgres-meta/issues/578
+      query_embedding: JSON.stringify(embedding),
       similarity_threshold: 0.75,
       match_count: 50,
     })
