@@ -2,7 +2,7 @@
 import fs from 'fs';
 
 // Relative Dependencies
-import { getJobBoards } from './utils/getJobBoards';
+import { getJobBoards } from '../utils/getJobBoards';
 
 const getAccelJobBoards = () => {
   const data = fs.readFileSync('./data/companies/accel.txt', 'utf8');
