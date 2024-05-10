@@ -1,0 +1,290 @@
+100ms
+1Password
+Acko
+Ada
+Agave
+Agrostar
+Airbyte
+Akridata
+Algolia
+Altinity
+Amagi
+Anyfin
+ApnaMart
+Appsmith
+Arista Networks
+Ascend.io
+AssemblyAI
+Atlassian
+Aura Company
+Away
+Axonius
+BaubleBar
+Beaconstac
+BeReal
+BetterCloud
+Bevy
+Bizongo
+BlaBlaCar
+Blackbuck
+Blackpoint
+Breathe Well-being
+Brick&Bolt
+BrowserStack
+Bryter
+Bumble
+Callsign
+Captain Fresh
+CaptivateIQ
+CARTO
+Carwow
+Catawiki
+Catch and Release
+Causal
+Celonis
+Chainalysis
+Chargebee
+Charles
+Checkly
+Checkr
+Chronicle
+Cinder
+CleverTap
+Cloudera
+Coast
+Cognite
+Cogoport
+Cohesity
+CoinTracker
+commercetools
+Complete
+ConductorOne
+Conduktor
+Corelight
+Couchbase
+Coverfox
+Credgenics
+CrowdStrike
+CyCognito
+Cyera
+Deepnote
+Delightree
+Deliveroo
+Dezerv
+Discord
+DJI
+DocuSign
+Dovetail
+Drip Capital
+DriveWealth
+Dropbox
+Duetto
+Eagle Eye Networks
+EdgeDB
+Emeritus
+Entytle
+Ethos
+Fabhotels
+Facet
+Facilio
+FalconX
+Fashinza
+Fever
+Fictiv
+Flipturn
+Flywire
+Folk
+Framer
+Freshworks
+FRVR
+Funding Circle
+Fuse
+G2
+Gametime
+Gem
+Genesis Global
+Gloat
+GOAT Group
+GoCardless
+GoFundMe
+GoPuff
+Govini
+Groupon
+Guru
+Hashnode
+Headway
+Helpling
+homelane
+Hootsuite
+Hotelogix
+Hudl
+Illumio
+Indifi
+Insify
+Instabug
+Invoca
+Ironclad
+Jellyfish
+Jifflenow
+Juspay
+Kevin.
+Kirusa
+Klaviyo
+Knoetic
+Koo App
+Leap Wallet
+Ledger Investing
+Lightdash
+Lighthouse
+Lightspeed POS
+Linear
+Locofy
+LogicLoop
+Lookout
+Lower
+Lydia
+Marigold
+Mason
+Melio
+Mensa Brands
+Merge
+MerXu
+MessageBird
+Middesk
+Mihup
+MindTickle
+Miro.com
+Misfits Market
+Moglix
+Monarch Money
+Monte Carlo
+Monzo
+Mytx
+Nansen
+Netskope
+NextRoll
+Nimble Robotics
+Ninjacart
+Onsitego
+OPAL
+Orange Health
+Orum
+OzForex
+PagerDuty
+PayFit
+Personio
+PharmaCCX
+Pismo
+Pluang
+Podium
+Portea Medical
+Power2SME
+Prezi
+Primer.io
+Process Street
+Prodigal
+Productiv
+ProjectDiscovery
+Propeller Aero
+Public
+Qogita
+Qwilt
+Radar
+Rasa
+Raycast
+Remote
+Rentomojo
+Rex
+Rhythms
+Rigi
+Rovio
+Salto
+Samunnati
+Sayre Therapeutics
+Scale AI
+Scripbox
+Searchlight
+SeatGeek
+Securden
+Sennder
+Sense
+Sentry
+Shift Technology
+Shogun
+SigTuple
+SingleStore
+Sky Mavis
+Skydio
+SLAY
+Snaptrude
+Snorkel AI
+Snyk
+Socure
+Soldo
+Sorare
+Spendflo
+Split
+Sprig
+Sprinter Health
+Sprinto
+Spyne
+Squarespace
+Stacklok
+Stairwell
+Strapi
+Sumo Logic
+Sunrun
+Super Payments
+Swan
+Swiggy
+Synthesia
+Syrup
+Sysdig
+Tailscale
+Taxdoo
+Teabox
+Tenable
+Tenderly Technologies
+Tessian
+Testsigma
+Teya
+Time is Ltd
+Tines
+Titan
+Tonkean
+Tracxn
+Trade Republic
+Transit
+Travelstop
+Trinkerr
+Truora
+TrustArc
+Turbine AI
+UiPath
+Uni Cards
+Unit
+UnitQ
+Urban Company
+UserTesting
+Vcomply
+Vectra
+Venwiz
+Vercel
+Veriff
+Veza
+Vinted
+VISO
+Vivun
+Vox Media
+VSCO
+Webflow
+Wizard
+Wonder
+xalts
+xendit
+Zenoti
+Zepz
+Zetwerk
+Zinier
+Zolve
+Zomentum

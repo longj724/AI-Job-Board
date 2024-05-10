@@ -2,16 +2,16 @@
 PROJECT_DIR="$(pwd)"
 
 # Clear temp folders
-rm -rf "$PROJECT_DIR/data/boards/gh/*"
-rm -rf "$PROJECT_DIR/data/boards/lever/*"
-rm -rf "$PROJECT_DIR/data/applications/gh/*"
-rm -rf "$PROJECT_DIR/data/applications/lever/*"
+rm -rf "$PROJECT_DIR/activeData/boards/gh/*"
+rm -rf "$PROJECT_DIR/activeData/boards/lever/*"
+rm -rf "$PROJECT_DIR/activeData/applications/gh/*"
+rm -rf "$PROJECT_DIR/activeData/applications/lever/*"
 
 # Create temp folders
-mkdir "$PROJECT_DIR/data/boards/gh"
-mkdir "$PROJECT_DIR/data/boards/lever"
-mkdir "$PROJECT_DIR/data/applications/gh"
-mkdir "$PROJECT_DIR/data/applications/lever"
+mkdir "$PROJECT_DIR/activeData/boards/gh"
+mkdir "$PROJECT_DIR/activeData/boards/lever"
+mkdir "$PROJECT_DIR/activeData/applications/gh"
+mkdir "$PROJECT_DIR/activeData/applications/lever"
 
 # Get job boards
 npx ts-node "$PROJECT_DIR/companyScrapers/getAccelJobBoards.ts"

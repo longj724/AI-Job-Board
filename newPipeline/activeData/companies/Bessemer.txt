@@ -1,0 +1,415 @@
+2U
+Abridge
+Acceleron
+Acquire.com (fka MicroAcquire)
+ACTIV Financial Systems
+ACV Auctions
+Ada
+Adaptive Insights
+Affirmed Networks
+Alcresta Therapeutics
+Allena Pharmaceuticals
+Alloy
+Allscripts
+Altair Semiconductor
+Anaqua
+Ansible Health
+Anunta
+ANYbotics
+Appwrite
+Apron
+Archy
+Arcion Labs
+Artemis Health
+Aspen RxHealth
+Astrix
+Atomo Coffee
+August
+Auth0
+Avant Arte
+Axis Network Technology
+Axonius
+Bankjoy
+Basis Theory
+Bastille Networks
+Betterment
+Bettermode
+Bevi
+Beyond
+Bharat Matrimony
+bigbasket
+BigID
+BillGuard
+Black Sheep Foods
+BladeLogic
+Blue Apron
+Blue Nile
+Boards
+Bold Metrics
+Boom Supersonic
+Box
+Brainbase
+Bread Financial
+Bright Health Group
+BrightBytes
+Brightwheel
+Broadsoft
+Bumble
+Cambly
+Candid Co.
+Canva
+Capmo
+Capsule8
+CaptivateIQ
+Carefull Corporation
+cargo.one
+Cashify
+Choco
+Ciena
+Clarity Money
+Claroty
+Clear Ballot
+ClearCare
+Clearing
+Clio
+Cloudinary
+CloudLock
+Coactive AI
+Coiled
+Collective Medical
+ComboCurve
+Contractbook
+Convertro, Inc.
+CopilotIQ
+Cornerstone OnDemand
+Courier
+CPower, Inc.
+Criteo
+Crosschq
+CTERA
+Curri
+CyberGRX
+Cyota, Inc
+Cypress.io
+Dashbot
+Dashlane
+Databand
+Databook
+Datalot
+DeepL
+Defense.net
+Demostack
+Devo
+DISCO
+Discord
+DocuSign
+DocuTAP
+DoubleDutch
+DriveNets
+DroneDeploy
+Dropcam
+Dynamic Yield
+eEye Digital Security
+Electric
+Eloqua
+Endgame
+Enjoei
+Entropik
+EvenUp
+Eye Security
+Fabric Technologies
+Fandom
+Farther
+Finmark
+Firebolt
+Fiverr
+Flarion Technologies
+Flex Pharma, Inc.
+Fold
+Folx Health
+Foraged
+Forever Oceans
+ForeVR
+Formally
+Forter
+Fractyl
+Fulcrum
+Fuze
+Gainsight
+Gamefam
+Gankster
+Gerson Lehrman Group (GLG)
+GetAccept
+GetInsured
+GigFinesse
+Glint
+GlossGenius
+Good Glamm Group
+Gracenote
+Groups
+GTS Central Europe
+Guild
+Habana Labs
+Halter
+HashiCorp
+Headspace
+Hibob
+Hinge Health
+HomeFirst
+House Rx
+Hungama
+Hunters
+Hyperscience
+IAG Research, Inc.
+Illusive Networks
+Imply
+Impossible Aerospace
+Indian Energy Exchange
+Innoviti
+Insmed
+Instructure
+Intacct
+Intego
+Intercom
+Intucell
+Iris Automation
+iSIGHT Security
+Jasper
+Jingle
+K2 Integrity
+Kandou
+Kenna Security
+Kindred
+Klook
+Knewton
+Kroll Bond Rating Agency
+Kymera Therapeutics
+LaunchDarkly
+Leaba Semiconductor
+Leena AI
+Legit Security
+Lentra
+Liazon
+Life360
+LifeLock
+LinkedIn
+Lithic
+Litify
+LiveAuctioneers
+Livspace
+LogicNow
+Loveseat
+Lumachain
+Lumere
+Luxury Presence
+Main Street Hub
+MaintainX
+Makersplace
+Mambu
+Manta
+Manychat
+Matrimony.com
+MealPal
+Medi Assist
+MediBuddy (fka DocsApp)
+MediSage
+Melio Payments
+Metalogix
+Millennial Media
+Milo
+Mindbody
+Motilal Oswal
+Mural Health
+MyHeritage
+nCino
+NephroPlus
+Netdata
+Netlify
+Netography
+Netsmart Technologies
+Newfront Insurance
+NewVoiceMedia
+Nido Biosciences
+Nilus
+Nominum
+Nova Benefits
+npm
+NYDIG
+Nym
+Okera
+Ola
+OLX
+OMGPOP
+OMsignal
+Onaroll
+OnXMaps
+Oper
+Optibus
+Optimal Dynamics
+Oshi Health
+Otonomo
+OvaScience
+PagerDuty
+Pana
+Papaya Global
+Papaya Pay
+Parallels
+Pave
+Pepper Content
+Peptone
+Perfios
+Periscope
+Periscope Data
+Perplexity
+Phantom Auto
+Pharmeasy
+PhishMe
+Piazza
+Pinterest
+Pipedrive
+Playdom
+Plenful
+Plobal Apps
+Portainer
+Postini
+Prefect
+Preql
+Procore
+productboard
+Prospera
+Provi
+Pure Networks
+Qogita
+Qualys
+Quantopian
+Quidsi (fka Diapers.com)
+Qventus
+Qwak
+Qwilt
+Raft
+Rainforest QA
+Ravello Systems
+Recurrency
+Render
+Renoviso
+Reputation
+Restaurant365
+Retail Solutions
+RevenueBase
+Rewind
+Rigetti Computing
+Rimsys
+Rocket Lab
+Rupa Health
+Rupifi
+Salto
+Scopely
+ScyllaDB
+Scytale
+Second Measure
+Sedona Systems
+Seismic Therapeutic
+SendGrid
+Sentra
+ServiceTitan
+Shift Technology
+Shippo
+Shopify
+Shopmonkey
+Shriram City
+Sign In Enterprise
+Sila Nanotechnologies
+SilverSky
+Sirtris Pharmaceuticals
+Sisense
+SiteAdvisor, Inc.
+Sixfold AI
+Skippr
+Skype
+SmarterDx
+Smashfly
+Smule
+SnapDeal
+Social Tables
+Soluto
+Sorare
+Spire
+Spruce
+Staircase
+Statespace
+Storwize
+Streamloots
+Stromedix
+Stubhub
+StuffThatWorks
+Subtle Medical
+Sweep
+Swiggy
+Syndio
+Tackle.io
+TaxiForSure
+Teachable
+Team8
+TeamViewer
+Teleport
+Teller Finance
+Terra Bella (fka Skybox Imaging)
+ThreatTrack Security
+Thunes
+Tile
+Toast
+Torch
+Torq
+Toss
+Traffix
+Tripwire
+TRM Labs
+Truebill
+TScan Therapeutics
+TSM
+Turquoise Health
+Twilio
+Twitch
+Ualá
+United Capital
+Unito
+Upside
+Upvest
+Urban Company
+US Health Partners, LLC
+Vayyar
+Velo3D
+VendorPM
+Verastem
+Verata Health
+Verato
+VeriSign
+Verodin
+Vertice
+Vidyard
+View The Space (Fmr Hightower)
+Virtru
+Visor
+Vlocity
+Wandera
+Watershed
+Weave
+Welltok
+Wildlife Studios
+Winc
+Windfall Bio
+WiredScore
+Wix
+Wukong Education
+Xanadu
+Xtime
+Yelp
+Yodle
+Yotpo
+Zapier
+Zenskar
+Zoomin
+Zoosk
+Zopa
+Zopper
+Zylo
