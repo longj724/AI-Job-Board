@@ -9,7 +9,8 @@ jobs:
   execute_typescript:
     runs-on: ubuntu-latest
     defaults:
-      working-directory: ./newPipeline
+      run:
+        working-directory: ./newPipeline
 
     steps:
       - uses: actions/checkout@v2
