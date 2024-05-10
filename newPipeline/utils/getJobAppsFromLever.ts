@@ -21,21 +21,24 @@ export const getJobApplicationsFromLever = async (): Promise<void> => {
       });
 
       applicationHrefs.forEach((url, index) => {
-        axios.get(url).then((res) => {
-          // Want to just save the application to read from later
-          fs.writeFile(
-            `./data/applications/lever/${file.replace(
-              /(\.txt)$/,
-              `-${index}$1`
-            )}`,
-            res.data,
-            (err) => {
-              if (err) {
-                console.log(err);
+        axios
+          .get(url)
+          .then((res) => {
+            // Want to just save the application to read from later
+            fs.writeFile(
+              `./data/applications/lever/${file.replace(
+                /(\.txt)$/,
+                `-${index}$1`
+              )}`,
+              res.data,
+              (err) => {
+                if (err) {
+                  console.log(err);
+                }
               }
-            }
-          );
-        });
+            );
+          })
+          .catch((err: any) => {});
       });
     });
   } catch (err: unknown) {

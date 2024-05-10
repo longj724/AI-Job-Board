@@ -1,0 +1,33 @@
+name: 'VC Backed Job'
+description: 'A GitHub Action to find and embed job applications from various job boards'
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  execute_typescript:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14' # Specify your Node.js version
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run Bash script
+        run: ./newPipeline/scripts/refetchJobData.sh
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'long724'
+          git config --global user.email 'justin.long586@gmail.com'
+          git add -A
+          git commit -m "Fetching updated data" -a || echo "No changes to commit"
+          git push

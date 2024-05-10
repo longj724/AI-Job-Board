@@ -10,7 +10,6 @@ export const getJobBoards = async (name: string): Promise<void> => {
   try {
     const res = await axios.get(leverUrl);
     const data = res.data;
-    console.log('lever - writing to files');
 
     if (fs.existsSync(`./data/boards/lever/${name}.txt`)) {
       console.log('Company job board already exists on lever');
@@ -30,19 +29,18 @@ export const getJobBoards = async (name: string): Promise<void> => {
     });
   } catch (err: any) {
     const errorMessage = err.response ? err.response.data.message : err.message;
-    console.error(errorMessage);
     success = false;
   }
 
   if (!success) {
-    // Try greenhouse
+    // Try Greenhouse
     const greenhouseUrl = `https://boards.greenhouse.io/${name}`;
 
     try {
       const res = await axios.get(greenhouseUrl);
       const data = res.data;
-      console.log('greenhouse - writing to files');
 
+      // console.log('Found job board on greenhouse', name);
       fs.writeFile(`./data/boards/gh/${name}.txt`, data, (err) => {
         if (err) {
           console.error(err);
@@ -53,7 +51,7 @@ export const getJobBoards = async (name: string): Promise<void> => {
       const errorMessage = err.response
         ? err.response.data.message
         : err.message;
-      console.error(errorMessage);
+      // console.log('Company job board not found on any site', name);
     }
   }
 };
