@@ -1,23 +1,26 @@
+# Get the absolute path to the project directory
+PROJECT_DIR="$(pwd)"
+
 # Clear temp folders
-rm -rf ./data/boards/gh/*
-rm -rf ./data/boards/lever/*
-rm -rf ./data/applications/gh/*
-rm -rf ./data/applications/lever/*
+rm -rf "$PROJECT_DIR/data/boards/gh/*"
+rm -rf "$PROJECT_DIR/data/boards/lever/*"
+rm -rf "$PROJECT_DIR/data/applications/gh/*"
+rm -rf "$PROJECT_DIR/data/applications/lever/*"
 
 # Create temp folders
-mkdir ./data/boards/gh
-mkdir ./data/boards/lever
-mkdir ./data/applications/gh
-mkdir ./data/applications/lever
+mkdir "$PROJECT_DIR/data/boards/gh"
+mkdir "$PROJECT_DIR/data/boards/lever"
+mkdir "$PROJECT_DIR/data/applications/gh"
+mkdir "$PROJECT_DIR/data/applications/lever"
 
 # Get job boards
-npx ts-node ./companyScrapers/getAccelJobBoards.ts
+npx ts-node "$PROJECT_DIR/companyScrapers/getAccelJobBoards.ts"
 
 # Get job applications from those boards
-npx ts-node ./utils/getJobAppsFromLever.ts
-npx ts-node ./utils/getJobAppsFromGH.ts
+npx ts-node "$PROJECT_DIR/utils/getJobAppsFromLever.ts"
+npx ts-node "$PROJECT_DIR/utils/getJobAppsFromGH.ts"
 
 # Get job info from those applications
-npx ts-node ./utils/getJobInfoFromLeverApplication.ts
-npx ts-node ./utils/getJobInfoFromGHApplication.ts
+npx ts-node "$PROJECT_DIR/utils/getJobInfoFromLeverApplication.ts"
+npx ts-node "$PROJECT_DIR/utils/getJobInfoFromGHApplication.ts"
 
