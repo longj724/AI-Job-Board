@@ -1,5 +1,4 @@
 name: 'VC Backed Job'
-description: 'A GitHub Action to find and embed job applications from various job boards'
 
 on:
   schedule:
