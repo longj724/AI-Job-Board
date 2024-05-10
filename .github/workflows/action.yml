@@ -27,7 +27,7 @@ jobs:
         run: chmod +x refetchJobData.sh
 
       - name: Run Bash script
-        run: ./newPipeline/refetchJobData.sh
+        run: ./refetchJobData.sh
 
       - name: Commit and Push changes
         run: |
