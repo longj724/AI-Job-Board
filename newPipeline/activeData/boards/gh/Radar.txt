@@ -1,0 +1,160 @@
+
+<!doctype HTML>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=Edge,chrome=1" />
+<link rel="icon" href="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-180x180.png" />
+<meta name="msapplication-TileImage" content="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-270x270.png" />
+<title>Jobs &bull; goradar.com</title>
+<meta name="robots" content="max-image-preview:large" />
+
+<link rel="canonical" href="https://goradar.com/jobs/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Jobs &bull; goradar.com" />
+<meta property="og:url" content="https://goradar.com/jobs/" />
+<meta property="og:site_name" content="goradar.com" />
+<meta property="article:publisher" content="https://www.facebook.com/useradar/" />
+<meta property="og:image" content="https://goradar.com/wp-content/uploads/2017/11/RADAR_LOGO_ORANGE_MASTER_4X.png" />
+<meta property="og:image:secure_url" content="https://goradar.com/wp-content/uploads/2017/11/RADAR_LOGO_ORANGE_MASTER_4X.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Jobs &bull; goradar.com" />
+<meta name="twitter:image" content="https://goradar.com/wp-content/uploads/2017/11/RADAR_LOGO_ORANGE_MASTER_4X.png" />
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/goradar.com\/","name":"goradar.com","potentialAction":{"@type":"SearchAction","target":"https:\/\/goradar.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/goradar.com\/jobs\/","sameAs":["https:\/\/www.facebook.com\/useradar\/","https:\/\/www.linkedin.com\/company\/10894576\/"],"@id":"#organization","name":"RADAR","logo":"https:\/\/goradar.com\/wp-content\/uploads\/2017\/11\/RADAR_LOGO_ORANGE_MASTER_4X.png"}</script>
+
+<link rel="stylesheet" id="wp-block-library-css" href="https://goradar.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3" type="text/css" media="all" />
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="SFL-stylesheet-css" href="https://goradar.com/wp-content/themes/wpt_goradar/library/css/min/style.css?ver=1627514868" type="text/css" media="all" />
+<link rel="icon" href="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-180x180.png" />
+<meta name="msapplication-TileImage" content="https://goradar.com/wp-content/uploads/2017/08/cropped-RADAR_FAVICON_MASTER-270x270.png" />
+</head>
+<body class="page-template page-template-page-jobs page-template-page-jobs-php page page-id-6 bg-lightGrey body--padding">
+<div class="blocker blocker--logo js-blocker--logo"></div>
+<div class="blocker blocker--nav js-blocker--nav"></div>
+<header>
+<h1 class="m0 logoMainPositioner">
+<div class="logoMain"><a href="/" class="js-logoMain__posAndPad js-logoMain"><svg width="296" height="81" viewBox="0 0 296 81" xmlns="http://www.w3.org/2000/svg"><title>RADAR_LOGO</title><g fill="#000" fill-rule="evenodd"><path d="M12.6 48.4c-.7 0-1.1.5-1.1 1.1V78c0 1.3-1 2.3-2.3 2.3H2.9c-1.3 0-2.3-1-2.3-2.3V2.7C.6 1.4 1.6.4 2.9.4h20.5c13.2 0 24 10.7 24 24 0 8.7-4.9 16.3-11.9 20.4-2.2 1.3-3 2.3-1.9 4.3l13.5 27.8c.8 1.7.1 3.4-2.2 3.4h-6.4c-1.8 0-2.6-.9-3.3-2.3L21.7 49.7c-.3-.7-.9-1.4-2.2-1.4h-6.9v.1zm0-37.1c-.7 0-1.1.5-1.1 1.1v24c0 .7.5 1.1 1.1 1.1h10.8c7 0 13.1-5.8 13.1-13.1 0-7.2-5.9-13.1-13.1-13.1H12.6zM69.5 78.6c-.3 1-1.1 1.7-2.2 1.7H61c-1.8 0-2.5-1.3-2.3-2.3L79.9 2.1c.2-1 1.1-1.7 2.2-1.7h8c1 0 1.9.7 2.2 1.7L113.5 78c.2 1-.5 2.3-2.3 2.3h-6.3c-1 0-1.8-.7-2.2-1.7l-5-17.5c-.2-1-1.1-1.6-2.2-1.6H76.6c-1 0-1.8.6-2.2 1.6l-4.9 17.5zm8.6-30.8c-.2.9.2 1.3.9 1.3h14.1c.7 0 1.1-.3.9-1.3L86.6 16c-.1-.5-.2-.7-.5-.7h-.2c-.2 0-.3.2-.5.7l-7.3 31.8zM128.7 80.3c-1.3 0-2.3-1-2.3-2.3V2.7c0-1.3 1-2.3 2.3-2.3h21.7c13.2 0 22.4 10.7 24 24 1.1 9.1 1 22.8 0 31.9-1.5 13.1-10.7 24-24 24h-21.7zm21.7-10.7c7 0 12.3-6.3 13.1-13.1 1.1-9.1 1.1-22.8 0-31.9-.8-6.8-6.2-13.1-13.1-13.1h-12c-.7 0-1.1.5-1.1 1.1v55.9c0 .7.5 1.1 1.1 1.1h12zM193.7 78.6c-.3 1-1.1 1.7-2.2 1.7h-6.3c-1.8 0-2.5-1.3-2.3-2.3l21.2-75.9c.2-1 1.1-1.7 2.2-1.7h8c1 0 1.9.7 2.2 1.7L237.7 78c.2 1-.5 2.3-2.3 2.3h-6.3c-1 0-1.8-.7-2.2-1.7l-5-17.5c-.2-1-1.1-1.6-2.2-1.6h-18.9c-1 0-1.8.6-2.2 1.6l-4.9 17.5zm8.7-30.8c-.2.9.2 1.3.9 1.3h14.1c.7 0 1.1-.3.9-1.3L210.9 16c-.1-.5-.2-.7-.5-.7h-.2c-.2 0-.3.2-.5.7l-7.3 31.8zM277.1 48.4c-1.3 0-1.8.7-2.2 1.4l-13.5 28.3c-.7 1.4-1.5 2.3-3.3 2.3h-6.4c-2.3 0-3-1.7-2.2-3.4L263 49.3c1-2.1.2-3.1-1.9-4.3-7-4.1-11.9-11.7-11.9-20.4 0-13.2 10.7-24 24-24h20.5c1.3 0 2.3 1 2.3 2.3v75.3c0 1.3-1 2.3-2.3 2.3h-6.3c-1.3 0-2.3-1-2.3-2.3V49.7c0-.7-.5-1.1-1.1-1.1h-6.9v-.2zm-3.9-37.1c-7.2 0-13.1 5.9-13.1 13.1 0 7.3 6.2 13.1 13.1 13.1h10.9c.7 0 1.1-.5 1.1-1.1v-24c0-.7-.5-1.1-1.1-1.1h-10.9z" /></g></svg></a></div>
+</h1>
+<nav class="navMain ">
+<ul id="menu-main-menu" class="noBullets m0"><li id="menu-item-30" class="js-aboutLink aboutLink menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="#">About</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-27"><a href="https://goradar.com/jobs/" aria-current="page">Jobs</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="/cdn-cgi/l/email-protection#92faf7fefefdd2f5fde0f3f6f3e0bcf1fdff">Contact</a></li>
+</ul>
+</nav>
+</header>
+<div class="gc">
+<div class="g g8-12 gp2 jobs__header g-layoutLargeBreak">
+<h1 class="c-orange bigHeader p0">
+Jobs </h1>
+</div>
+<div class="cf"></div>
+</div>
+<div class="gc jobs__gcOverride">
+<div class="g g8-12 gp2 g-layoutLargeBreak jobs__gOverride">
+<div id="grnhse_app" class="container"></div>
+<p><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://boards.greenhouse.io/embed/job_board/js?for=radar"></script></p>
+</div>
+<div class="cf"></div>
+</div>
+<div class="aboutPane bg-orange js-paneAbout">
+<div class="gc relative viewportTextResize">
+<div class="g g12-12">
+<h2 class="c-white">
+REIMAGINING RFID TECHNOLOGY
+</h2>
+</div>
+<div class="cf"></div>
+<div class="g g11-12 p0 g-layoutLargeBreak">
+<div class="g g4-12 p0 g-layoutLargeBreak">
+<div class="g g12-12 g-layoutLargeBreak">
+<p class="c-black">Today, buying inventory remains the largest cost in retail, yet managing that inventory effectively is still one of the industry&#8217;s biggest problems. When it was introduced, RFID was meant to revolutionize inventory management, but it still hasn’t. As a result:</p>
+<p class="c-black">1. Store associates can’t identify what’s on the sales floor vs. in the stockroom in real-time, let alone find misplaced items in real-time.</p>
+<p class="c-black">2.Stores have not become reliable fulfillment centers for e-commerce orders, even as e-commerce orders become a larger portion of your sales.</p>
+<p class="c-black">3. The solutions that do exist are not only ineffective, they’re expensive.</p>
+</div>
+</div>
+<div class="g g8-12 p0 g-layoutLargeBreak">
+<div class="g g6-12 g-layoutLargeBreak">
+<p class="c-black">This is where we come in. RADAR is a fully-integrated hardware and software solution that is powered by RFID and enhanced by computer vision. Our improved location accuracy means that you can find inventory more easily than ever before. Our heightened speed ensures immediate and accurate performance, even in the busiest of retail environments. RADAR’s speed and accuracy is a game-changer for the retail industry, because it introduces item-level analytics and even autonomous checkout.</p>
+</div>
+<div class="g g6-12 g-layoutLargeBreak">
+<p class="c-black">Our team is comprised of talented, passionate, and experienced individuals that have collectively designed and launched 18 satellites, manufactured thousands of RFID readers, and led teams and tech implementations across 1000+ stores. With a shared understanding of the retail space, we rely on the feedback of our partners to improve our business and products. Your input and insights are our clearest guide to building what you need.</p>
+</div>
+<div class="cf"></div>
+<div class="g g12-12 g-layoutLargeBreak">
+<h2 class="c-white">
+<br>GET ON OUR RADAR<br>
+</h2>
+<div class="mailingList--submitBlack">
+<form class="mailingList cf m0 js-mailingList" action="https://goradar.com/wp-content/themes/wpt_goradar/library/parts/mailingList/subscribe.php" method="POST">
+
+<input type="text" placeholder="Enter email address" class="mailingList__email js-mailingList__email" id="js-mailingList__email" name="email">
+<label>
+<input type="submit" class="mailingList__submit">
+<div class="mailingList__submitSVG">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 8.6"><path d="M8.3 3.8L5.6 1.3c-.2-.2-.2-.4-.2-.5V.3c0-.2.3-.4.4-.2l4.1 4.1c.1.1.1.3 0 .5l-4 3.8c-.2.2-.6 0-.6-.3v-.4c0-.2.1-.3.3-.4l2.6-2.5H.4c-.2 0-.4-.2-.4-.4v-.3c0-.2.2-.4.4-.4h7.9z" /></svg>
+</div>
+</label>
+</form>
+
+<p class="js-mailingList__status">
+</p>
+<p style="font-weight: bold;font-size:1.2em;">To purchase, call 914-303-6310</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p class="aboutCredit m0 js-aboutCredit">
+&copy; RADAR 2024</p>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-104089448-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/navBGManager.js?ver=1511210688" id="SFL-JS-navBGManager-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/dataParticles.js?ver=1511210687" id="SFL-JS-particles-ball-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/utils.js?ver=1511210689" id="SFL-JS-utils-ball-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/main-ball.js?ver=1511210688" id="SFL-JS-main-ball-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/mailingList.js?ver=1511210688" id="SFL-JS-main-mailingList-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/pipController.js?ver=1511210689" id="SFL-JS-pipmeister-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/seedrandom.min.js?ver=1511210710" id="SFL-JS-anim-seedRandom-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/helpers.js?ver=1511210709" id="SFL-JS-anim-helpers-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/colours.js?ver=1511210708" id="SFL-JS-anim-colours-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/environment.js?ver=1511290069" id="SFL-JS-anim-environment-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/meterController.js?ver=1511210710" id="SFL-JS-anim-meterController-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/animController.js?ver=1511210708" id="SFL-JS-anim-animController-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/boxControllerAndBox.js?ver=1511210708" id="SFL-JS-anim-boxCOntrollerAndBox-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/ping.js?ver=1511210710" id="SFL-JS-anim-ping-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/dot.js?ver=1511210709" id="SFL-JS-anim-dot-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/timeline.js?ver=1511210711" id="SFL-JS-anim-timeline-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/anim/main-anim.js?ver=1511210710" id="SFL-JS-anim-main-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/main.js?ver=1511210688" id="SFL-JS-main-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/main-frontEnd.js?ver=1511210688" id="SFL-JS-main-frontEnd-js"></script>
+<script type="text/javascript" src="https://goradar.com/wp-content/themes/wpt_goradar/library/js/scroll.js?ver=1511210689" id="SFL-JS-scroll-js"></script>
+</body>
+</html>

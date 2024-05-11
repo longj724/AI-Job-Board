@@ -1,0 +1,1906 @@
+<!doctype html><html lang="en"><head>
+    <meta charset="utf-8">
+    <title>Open Jobs - Cybersecurity | Axonius</title>
+    <link rel="shortcut icon" href="https://www.axonius.com/hubfs/Axonius-Mark-PMS-55x55.png">
+    <meta name="description" content="View open job positions at Axonius and apply to be a part of the team solving the toughest challenges in cybersecurity.">
+    
+    
+    
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <meta property="og:description" content="View open job positions at Axonius and apply to be a part of the team solving the toughest challenges in cybersecurity.">
+    <meta property="og:title" content="Open Jobs - Cybersecurity | Axonius">
+    <meta name="twitter:description" content="View open job positions at Axonius and apply to be a part of the team solving the toughest challenges in cybersecurity.">
+    <meta name="twitter:title" content="Open Jobs - Cybersecurity | Axonius">
+
+    
+
+    
+
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/template_assets/127413636684/1707421122137/Axonius_Redesign/css/main.min.css">
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/template_assets/127413430588/1710278832998/Axonius_Redesign/css/theme-overrides.min.css">
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/template_assets/154490477882/1706305097649/Axonius_Redesign/css/modules/Global_Top_Navigation_Min.min.css">
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/template_assets/155137600054/1710160133936/Axonius_Redesign/css/modules/New_Main_Nav_Min.css">
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/module_assets/154979329901/1714745996431/module_154979329901_Test_for_Global_Nav.min.css">
+
+        <style>
+        .col.col-new:first-child {
+          flex:0 1 40% !important;
+          margin-right:50px;
+          }
+ .col.col-new {
+          flex:0 1 100%;
+          margin-right:50px;
+          }
+        </style>
+        
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/module_assets/136013487430/1698411781786/module_136013487430_Internal_Image_Hero.min.css">
+
+<style>
+  .banner-container::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+    z-index: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+  
+</style>
+
+
+<style>
+#hs_cos_wrapper_widget_1697144674064 .rich-text {}
+
+</style>
+
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/template_assets/154489982344/1706303112299/Axonius_Redesign/css/modules/Resources_Three_Across.min.css">
+
+<style>
+.resources-card-bk.one::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+    z-index: 0;
+  background: rgb(255,255,255);
+background-image: url('https://www.axonius.com/hubfs/Resources%203%20accross_Blog.svg');
+  filter:grayscale(1) brightness(.45);
+  background-size:contain;
+  background-position:50% 20%;
+  background-repeat:no-repeat;
+  background-color:#000000;
+}
+.resources-card-bk.two::before {
+ content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+    z-index: 0;
+  background: rgb(255,255,255);
+background-image: url('https://www.axonius.com/hubfs/Resources_Resources.svg');
+  filter:grayscale(1) brightness(.45);
+  background-size:contain;
+  background-position:50% 20%;
+  background-repeat:no-repeat;
+  background-color:#000000;
+}
+.resources-card-bk.three::before {
+ content: "";
+  position: absolute;
+  left: 0; right: 0;
+  top: 0; bottom: 0;
+    z-index: 0;
+  background: rgb(255,255,255);
+background-image: url('https://www.axonius.com/hubfs/Webinar_Webinars-1.svg');
+  filter:grayscale(1) brightness(.45);
+  background-size:contain;
+  background-position:50% 20%;
+  background-repeat:no-repeat;
+  background-color:#000000;
+}
+
+</style>
+
+<link rel="stylesheet" href="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/module_assets/136086956660/1707844268697/module_136086956660_Global_Footer_Navigation.min.css">
+<!-- Editor Styles -->
+<style id="hs_editor_style" type="text/css">
+.dnd_area-row-0-force-full-width-section > .row-fluid {
+  max-width: none !important;
+}
+.dnd_area1-row-1-force-full-width-section > .row-fluid {
+  max-width: none !important;
+}
+.footer-row-0-background-color {
+  background-color: rgba(33, 33, 33, 1) !important;
+}
+/* HubSpot Styles (default) */
+.dnd_area-row-0-padding {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.dnd_area1-row-0-padding {
+  padding-top: 80px !important;
+  padding-bottom: 80px !important;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+.dnd_area1-row-1-padding {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.footer-row-0-padding {
+  padding-top: 80px !important;
+  padding-bottom: 40px !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.cell_16953897680632-padding {
+  padding-left: 40px !important;
+  padding-right: 20px !important;
+}
+/* HubSpot Styles (mobile) */
+@media (max-width: 767px) {
+  .cell_16953897680632-padding {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+}
+</style>
+<style>
+  @font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src: url("/_hcms/googlefonts/Lato/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Lato/regular.woff") format("woff");
+  }
+</style>
+
+    
+
+
+    
+    <link rel="canonical" href="https://www.axonius.com/company/careers/open-jobs">
+
+<meta name="google-site-verification" content="McV9I9oFQAC-UVSBBZaqqdBrM2_l2Ozr9TnvKNuwq0c"><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NQMMZBT');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="facebook-domain-verification" content="suipi73foziu0pmymd02133jwjtb91">
+<!--<meta property="og:image" content="https://info.axonius.com/hubfs/Axonius%20Logo/Black%20Font/Axonius%20Logo%20-%20Horizontal.png">
+<meta name="twitter:image" content="https://info.axonius.com/hubfs/Axonius%20Logo/Black%20Font/Axonius%20Logo%20-%20Horizontal.png">-->
+<!--<link href="https://info.axonius.com/hubfs/NB%202021/fontawesome5.min.css" rel="stylesheet">-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<style>
+  div#hs-eu-cookie-confirmation{
+  display:none;
+}
+</style>
+
+
+<meta property="og:url" content="https://www.axonius.com/company/careers/open-jobs">
+<meta name="twitter:card" content="summary">
+<meta http-equiv="content-language" content="en">
+
+
+
+
+
+
+  <meta name="generator" content="HubSpot"></head>
+  <body>
+    <div class="body-wrapper   hs-content-id-35744061398 hs-site-page page ">
+      
+        <div data-global-resource-path="Axonius Redesign/templates/partials/header.html">
+<header class="header">
+  
+
+  <a href="#main-content" class="header__skip">Skip to content</a>
+  <style>.dnd-section>.row-fluid {
+    max-width: unset;margin:unset;
+    }</style>
+  
+
+  <div class="container-fluid">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_navigation-module-1" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+<nav class="top-navigation dark">
+  <div class="live-area" style="position:relative;z-index:99999;">
+    <div class="row-fluid">
+      <div class="span8">
+
+      </div>
+      
+      <div class="span4">
+        <ul class="toplink">
+        
+          <li>
+          <a class="item1" href="https://www.axoniusfed.com/" role="link">Axonius Federal Systems</a>
+          
+          </li>
+        
+          <li>
+          <a class="item2" href="https://www.axonius.com/partners" role="link">Partners</a>
+          
+          </li>
+        
+          <li>
+          <a class="item3" href="https://docs.axonius.com" role="link">Documentation</a>
+          
+          </li>
+        
+          <li>
+          <a class="item4" href="https://www.axonius.com/blog" role="link">Blog</a>
+          
+          </li>
+        
+           </ul>
+      </div>
+      
+      <div class="locale_navigation">
+        
+      </div>
+      
+    </div>
+  </div>
+</nav></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_navigation-module-2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+<nav class="main-navigation dark">
+  <div class="live-area">
+    <!-- logo -->
+    <div class="logo span2">
+      <a href="https://www.axonius.com">
+        <img src="https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp?width=210&amp;height=42&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp" alt="Axonius Logo" loading="lazy" width="210" height="42" srcset="https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp?width=105&amp;height=21&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp 105w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp?width=210&amp;height=42&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp 210w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp?width=315&amp;height=63&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp 315w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp?width=420&amp;height=84&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp 420w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp?width=525&amp;height=105&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp 525w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp?width=630&amp;height=126&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse%20(1).webp 630w" sizes="(max-width: 210px) 100vw, 210px">         
+      </a>
+    </div>
+    <div class="span1">
+      
+    </div>
+    <!-- nav wrap -->
+    <div id="flyouts" class="nav-wrap span5">
+      
+      
+
+      <div class="mega-item megaMenu">
+        <ul class="parent-link">
+          
+          <li class="parent-link-url no-link">Platform
+            </li>
+           
+        </ul>
+        
+        <div class="mega-drop dark">
+          <div class="mega-drop-inner reorder">
+            <div class="menu-group span8">
+              <div class="child-links">
+                
+                <div class="col">
+                  
+                  
+                  
+                  <div class="child-item-title">PLATFORM</div>
+                  <div class="header-hr"></div>
+                  
+                  
+                  <ul class="child-items">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/platform">
+                        Axonius Platform
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/platform/cybersecurity-asset-management">
+                        Cybersecurity Asset Management
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/platform/saas-management">
+                        SaaS Management
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  
+                </div>
+                
+                <div class="col">
+                  
+                  
+                  
+                  <div class="child-item-title">MODULES</div>
+                  <div class="header-hr"></div>
+                  
+                  
+                  <ul class="child-items">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/platform/software-management">
+                        Software Management
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/platform/cloud-asset-compliance">
+                        Cloud Asset Compliance
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/platform/policy-enforcement/">
+                        Policy Enforcement
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  
+                </div>
+                
+                <div class="col">
+                  
+                  
+                  
+                  <div class="child-item-title">WHY AXONIUS</div>
+                  <div class="header-hr"></div>
+                  
+                  
+                  <ul class="child-items">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/about-us-our-approach-axonius">
+                        Our Approach
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/adapters">
+                        View Adapters
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  
+                </div>
+                
+              </div>
+              
+            </div>
+            <div class="featured-area span4">
+               
+              
+              
+              
+              <a class="featured-link" href="https://www.axonius.com/product-tour">                    
+                            
+              <div class="featured-content">
+                
+                
+                
+                
+                
+                
+                
+                <img src="https://www.axonius.com/hs-fs/hubfs/Asset%201-4.webp?width=860&amp;height=660&amp;name=Asset%201-4.webp" alt="Asset 1-4" loading="lazy" width="860" height="660" style="max-width: 100%; height: auto;" srcset="https://www.axonius.com/hs-fs/hubfs/Asset%201-4.webp?width=430&amp;height=330&amp;name=Asset%201-4.webp 430w, https://www.axonius.com/hs-fs/hubfs/Asset%201-4.webp?width=860&amp;height=660&amp;name=Asset%201-4.webp 860w, https://www.axonius.com/hs-fs/hubfs/Asset%201-4.webp?width=1290&amp;height=990&amp;name=Asset%201-4.webp 1290w, https://www.axonius.com/hs-fs/hubfs/Asset%201-4.webp?width=1720&amp;height=1320&amp;name=Asset%201-4.webp 1720w, https://www.axonius.com/hs-fs/hubfs/Asset%201-4.webp?width=2150&amp;height=1650&amp;name=Asset%201-4.webp 2150w, https://www.axonius.com/hs-fs/hubfs/Asset%201-4.webp?width=2580&amp;height=1980&amp;name=Asset%201-4.webp 2580w" sizes="(max-width: 860px) 100vw, 860px">
+                
+                
+                <div class="featured-button row-fluid">
+                  
+               
+                <span class="featured-content-button">
+                  Take a Product Tour
+                </span>  
+                   </div>
+              </div></a> 
+              
+            </div> 
+          </div><!--.mega-drop-inner-->
+         
+        </div>
+        
+      </div>
+      
+      
+      
+
+      <div class="mega-item megaMenu">
+        <ul class="parent-link">
+          
+          <li class="parent-link-url no-link">Solutions
+            </li>
+           
+        </ul>
+        
+        
+        <div class="mega-drop dark">
+          <div class="mega-drop-inner">
+            <div class="menu-group span12">
+              <div class="child-links">
+                
+                <div class="col col-new">
+                  
+                  
+                  
+                  <div class="child-item-title">BY TEAM</div>
+                  <div class="header-hr"></div>
+                  
+                  
+                  <ul class="child-items">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/axonius-for-it-teams">
+                        IT
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/axonius-for-security-teams-axonius">
+                        Security
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  
+                </div>
+                
+                <div class="col col-new">
+                  
+                  
+                  
+                  <div class="child-item-title">BY INDUSTRY</div>
+                  <div class="header-hr"></div>
+                  
+                   <div class="twocol">
+                  <ul class="child-items span6">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/energy">
+                        Energy
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/finance">
+                        Finance
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/healthcare">
+                        Healthcare
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/manufacturing">
+                        Manufacturing
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  <ul class="child-items span6">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/state-local-government">
+                        State &amp; Local Government
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/education">
+                        Education
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/retail">
+                        Retail
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/industries/technology">
+                        Technology
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                   </div>
+                </div>
+                
+                <div class="col col-new">
+                  
+                  
+                  
+                  <div class="child-item-title">BY USE CASE</div>
+                  <div class="header-hr"></div>
+                  
+                   <div class="twocol">
+                  <ul class="child-items span6">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/platform/cyber-asset-attack-surface-management-caasm">
+                        Cyber Asset Attack Surface Management (CAASM)
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases/saas-security-posture-management">
+                        SaaS Security Posture Management (SSPM)
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases/coverage-gap-discovery">
+                        Coverage Gap Discovery
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases/vulnerability-management">
+                        Vulnerability Management
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases/it-asset-management">
+                        IT Asset Management
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  <ul class="child-items span6">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases/device-discovery">
+                        Device Discovery
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases/agent-coverage">
+                        Agent Coverage
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases/cmdb-reconciliation">
+                        CMDB Reconciliation
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/use-cases">
+                        See More Use Cases →
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                   </div>
+                </div>
+                
+              </div>
+              
+            </div>
+           
+          </div><!--.mega-drop-inner-->
+         
+        </div>
+        
+      </div>
+      
+      
+      
+
+      <div class="mega-item megaMenu">
+        <ul class="parent-link">
+          
+          <li class="parent-link-url no-link">Resources
+            </li>
+           
+        </ul>
+        
+        <div class="mega-drop dark">
+          <div class="mega-drop-inner">
+            <div class="menu-group resources row-fluid">
+             
+                
+                <div class="resource-card image">
+                  <a class="link-block" href="https://www.axonius.com/resources" role="button" alt="Resource Center">
+                    <div class="card-image-container">
+                  
+                      
+                       <div class="resource-card-image">
+                         <img src="https://www.axonius.com/hubfs/resource-center-dash-final-1.webp" alt="Resource Center">
+                       
+                      </div>
+                     
+                 <div class="resource-link">
+                   
+                    
+                      
+                        
+                      <h3 class="child-item-title">
+                                                Resource Center
+                    
+                      </h3> 
+                       </div>
+                     
+                      
+                      </div>
+                   
+                  </a>
+                </div>
+
+                
+                <div class="resource-card image">
+                  <a class="link-block" href="https://www.axonius.com/resources?topic=Case+Study" role="button" alt="Case Studies">
+                    <div class="card-image-container">
+                  
+                      
+                       <div class="resource-card-image">
+                         <img src="https://www.axonius.com/hubfs/case-study-dash-final-1.webp" alt="Case Studies">
+                       
+                      </div>
+                     
+                 <div class="resource-link">
+                   
+                    
+                      
+                        
+                      <h3 class="child-item-title">
+                                                Case Studies
+                    
+                      </h3> 
+                       </div>
+                     
+                      
+                      </div>
+                   
+                  </a>
+                </div>
+
+                
+                <div class="resource-card image">
+                  <a class="link-block" href="https://www.axonius.com/blog" role="button" alt="Blog">
+                    <div class="card-image-container">
+                  
+                      
+                       <div class="resource-card-image">
+                         <img src="https://www.axonius.com/hubfs/blog-test-1-2.webp" alt="Axonius Blog">
+                       
+                      </div>
+                     
+                 <div class="resource-link">
+                   
+                    
+                      
+                        
+                      <h3 class="child-item-title">
+                                                Blog
+                    
+                      </h3> 
+                       </div>
+                     
+                      
+                      </div>
+                   
+                  </a>
+                </div>
+
+                
+                <div class="resource-card image">
+                  <a class="link-block" href="https://www.axonius.com/resources/glossary" role="button" alt="Glossary">
+                    <div class="card-image-container">
+                  
+                      
+                       <div class="resource-card-image">
+                         <img src="https://www.axonius.com/hubfs/glossary-new-1%20(1).webp" alt="glossary-new-1 (1)">
+                       
+                      </div>
+                     
+                 <div class="resource-link">
+                   
+                    
+                      
+                        
+                      <h3 class="child-item-title">
+                                                Glossary
+                    
+                      </h3> 
+                       </div>
+                     
+                      
+                      </div>
+                   
+                  </a>
+                </div>
+
+                
+           
+             
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      
+      
+      
+
+      <div class="mega-item megaMenu">
+        <ul class="parent-link">
+          
+          <li class="parent-link-url no-link">About
+            </li>
+           
+        </ul>
+        
+        <div class="mega-drop dark">
+          <div class="mega-drop-inner">
+            <div class="menu-group span8">
+              <div class="child-links">
+                
+                <div class="col">
+                  
+                  
+                  
+                  <div class="child-item-title">About Axonius</div>
+                  <div class="header-hr"></div>
+                  
+                   <div class="twocol">
+                  <ul class="child-items span6">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/company">
+                        Who We Are
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/company/leadership">
+                        Leadership
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/company/axoniusx">
+                        AxoniusX
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  <ul class="child-items span6">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/company/news">
+                        News
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/company/events">
+                        Events
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/security">
+                        Axonius Security Program
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                   </div>
+                </div>
+                
+                <div class="col">
+                  
+                  
+                  
+                  <div class="child-item-title">Become an Axonian</div>
+                  <div class="header-hr"></div>
+                  
+                  
+                  <ul class="child-items">
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/company/careers">
+                        Careers
+                      </a>
+                      
+                    </li>
+                    
+                    <li class="child-item">
+                      
+                      
+                      
+                      <a href="https://www.axonius.com/company/careers/open-jobs">
+                        Open Jobs
+                      </a>
+                      
+                    </li>
+                                              
+                  </ul>
+                  
+                  
+                </div>
+                
+              </div>
+              
+            </div>
+            <div class="featured-area span4">
+               
+              
+              
+              
+              <a class="featured-link" href="https://www.axonius.com/spotlight-directory">                    
+                            
+              <div class="featured-content">
+                
+                
+                
+                
+                
+                
+                
+                <img src="https://www.axonius.com/hs-fs/hubfs/Employee%20Spotlight-1.webp?width=860&amp;height=660&amp;name=Employee%20Spotlight-1.webp" alt="Employee Spotlight-1" loading="lazy" width="860" height="660" style="max-width: 100%; height: auto;" srcset="https://www.axonius.com/hs-fs/hubfs/Employee%20Spotlight-1.webp?width=430&amp;height=330&amp;name=Employee%20Spotlight-1.webp 430w, https://www.axonius.com/hs-fs/hubfs/Employee%20Spotlight-1.webp?width=860&amp;height=660&amp;name=Employee%20Spotlight-1.webp 860w, https://www.axonius.com/hs-fs/hubfs/Employee%20Spotlight-1.webp?width=1290&amp;height=990&amp;name=Employee%20Spotlight-1.webp 1290w, https://www.axonius.com/hs-fs/hubfs/Employee%20Spotlight-1.webp?width=1720&amp;height=1320&amp;name=Employee%20Spotlight-1.webp 1720w, https://www.axonius.com/hs-fs/hubfs/Employee%20Spotlight-1.webp?width=2150&amp;height=1650&amp;name=Employee%20Spotlight-1.webp 2150w, https://www.axonius.com/hs-fs/hubfs/Employee%20Spotlight-1.webp?width=2580&amp;height=1980&amp;name=Employee%20Spotlight-1.webp 2580w" sizes="(max-width: 860px) 100vw, 860px">
+                
+                
+                <div class="featured-button row-fluid">
+                  
+               
+                <span class="featured-content-button">
+                  Employee Spotlight
+                </span>  
+                   </div>
+              </div></a> 
+              
+            </div> 
+          </div><!--.mega-drop-inner-->
+         
+        </div>
+        
+      </div>
+      
+      
+       </div>
+    <div id="not-flyout" class="nav-wrap span4">
+      
+   
+      <div class="search-toggle"><svg class="search-toggle-button" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z" /></svg></div>
+      <div class="cta-contain">
+                    
+        <span class="filled"><span id="hs_cos_wrapper_navigation-module-2_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"><div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="142376721273"> 
+ <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLJnvXEZKVxiFoRcS6cIL1%2FpjbcIbpcyMdYDbmWGDTE5s%2Bd%2FPCgirNEaJEJjGjb1uf4jqx6r5hoxcgldwEBSD8bWvEm86JMm8dINPsLaNnBRabPzqJ2rSSiOdMIkfNWhDSjp3AxhZPnLb9s9o%2BYO1CDRdVnRLiuccotnFf8lIHo%3D&amp;portalId=3790635" class="hs-inline-web-interactive-142376721273 new-orange-cta  " data-hubspot-cta-id="142376721273"> Request A Demo </a> 
+</div></span></span>
+         
+        
+        <span class="stroked"><span id="hs_cos_wrapper_navigation-module-2_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"><div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="142376721430"> 
+ <style data-hubspot-cta-style="hs-inline-web-interactive-142376721430">
+
+  a.hs-inline-web-interactive-142376721430 {
+    padding: 8px 16px; background: #ffffff;
+    border-radius: 3px;
+    border: 2px solid #212121;
+    color: #212121;
+    text-align: center;
+    font-family: Roboto-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: capitalize;
+    vertical-align: middle;
+text-decoration:none;
+@media (max-width:1024px){
+padding: 12px 24px !important;
+font-size: 16px;
+}
+  }
+
+  a.hs-inline-web-interactive-142376721430:hover {
+    background:#ff925a;
+  }
+
+</style> 
+ <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLIZkR9GfVF21zXgCSIMz41vc2lcOaY4jLiC8mBBZqOvIorSYGGo5mbD3XnDsu5Xd4VWpG%2Ffwzmmkjn5mxv7ONhpbSHvp4e7neCf%2BieY6Ptpz49OzXe8f7yyZ0WMosvSINS7st%2BdrXTXQH0LJLZCYhATZ0%2Fz2bI1o5nXoKfXs6hdnCCZgRo%3D&amp;portalId=3790635" class="hs-inline-web-interactive-142376721430 new-white-cta  " data-hubspot-cta-id="142376721430"> Request A Free Trial </a> 
+</div></span></span>
+        
+
+      </div>
+       </div>
+   <!--nav-wrap-->
+  </div>      
+</nav>
+
+<div class="search-overlay">
+  <div class="hs-search-field"> 
+    <div class="hs-search-field__bar"> 
+      <form action="/hs-search-results">
+        <input type="text" class="hs-search-field__input search-input" name="term" autocomplete="on" aria-label="Search">
+       
+        <input type="hidden" name="type" value="SITE_PAGE">
+        <input type="hidden" name="type" value="LANDING_PAGE">
+        <input type="hidden" name="type" value="BLOG_POST">
+        <input type="hidden" name="type" value="LISTING_PAGE">
+        <input type="hidden" name="type" value="KNOWLEDGE_ARTICLE">     
+       
+        <svg class="search-button" width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M22 20.59L17.31 15.9C18.36 14.55 19 12.85 19 11C19 6.58 15.42 3 11 3C6.58 3 3 6.58 3 11C3 15.42 6.58 19 11 19C12.85 19 14.55 18.37 15.9 17.31L20.59 22L22 20.59ZM5 11C5 7.69 7.69 5 11 5C14.31 5 17 7.69 17 11C17 14.31 14.31 17 11 17C7.69 17 5 14.31 5 11Z" fill="white" />
+        </svg>
+        <svg class="search-overlay-close" width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M20 5.41L18.59 4L12 10.59L5.41 4L4 5.41L10.59 12L4 18.59L5.41 20L12 13.41L18.59 20L20 18.59L13.41 12L20 5.41Z" fill="white" />
+        </svg>
+       
+      </form>
+    </div>
+    <ul class="hs-search-field__suggestions"></ul>
+  </div>
+  
+  <div class="ghost-text">Search</div>
+</div> 
+
+<button class="hamburger-toggle x2"><span class="lines"></span></button>
+<div class="offscreen-menu">
+
+  <div class="content">
+    <div class="mobile-menu">
+      <!-- For more settings use the AutoHTML plugin tab ... --> 
+      <div class="header-light-nav-mobile">
+        <div style="display:block;">
+          <span class="mobile-logo">
+            <img src="https://www.axonius.com/hubfs/Axonius%20Logo/Black%20Font/Axonius%20Logo%20-%20Horizontal.svg" alt="Axonius Logo">
+          </span>
+        </div>
+        <div>
+          <span class="search">
+            <svg class="nav2" width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M22 20.59L17.31 15.9C18.36 14.55 19 12.85 19 11C19 6.58 15.42 3 11 3C6.58 3 3 6.58 3 11C3 15.42 6.58 19 11 19C12.85 19 14.55 18.37 15.9 17.31L20.59 22L22 20.59ZM5 11C5 7.69 7.69 5 11 5C14.31 5 17 7.69 17 11C17 14.31 14.31 17 11 17C7.69 17 5 14.31 5 11Z" fill="#CE4A0D" />
+            </svg>
+          </span>
+          <span class="menu-close">
+
+          </span>
+        </div>
+
+
+      </div>
+      <span id="hs_cos_wrapper_navigation-module-2_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_navigation-module-2_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="default" data-menu-id="141737791883" aria-label="Navigation Menu">
+ <ul role="menu" class="active-branch">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Platform</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="javascript:;" role="menuitem">Platform</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/platform" role="menuitem">Axonius Platform</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/platform/cybersecurity-asset-management" role="menuitem">Cybersecurity Asset Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/platform/saas-management" role="menuitem">SaaS Management</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="javascript:;" role="menuitem">Modules</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/platform/software-management" role="menuitem">Software Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/platform/cloud-asset-compliance" role="menuitem">Cloud Asset Compliance</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/platform/policy-enforcement/" role="menuitem">Policy Enforcement</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="javascript:;" role="menuitem">Why Axonius</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/about-us-our-approach-axonius" role="menuitem">Our Approach</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/adapters" role="menuitem">View Adapters</a></li>
+     </ul></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Solutions</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="javascript:;" role="menuitem">By Team</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/axonius-for-it-teams" role="menuitem">IT</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/axonius-for-security-teams-axonius" role="menuitem">Security</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="javascript:;" role="menuitem">By Industry</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/energy" role="menuitem">Energy</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/finance" role="menuitem">Finance</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/healthcare" role="menuitem">Healthcare</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/manufacturing" role="menuitem">Manufacturing</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/state-local-government" role="menuitem">State and Local Government</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/education" role="menuitem">Education</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/retail" role="menuitem">Retail</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/industries/technology" role="menuitem">Technology</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="javascript:;" role="menuitem">By Use Case</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/platform/cyber-asset-attack-surface-management-caasm" role="menuitem">Cyber Asset Attack Surface Management (CAASM)</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases/saas-security-posture-management" role="menuitem">SaaS Security Posture Management (SSPM)</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases/coverage-gap-discovery" role="menuitem">Coverage Gap Discovery</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases/vulnerability-management" role="menuitem">Vulnerability Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases/it-asset-management" role="menuitem">IT Asset Management</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases/device-discovery" role="menuitem">Device Discovery</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases/agent-coverage" role="menuitem">Agent Coverage</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases/cmdb-reconciliation" role="menuitem">CMDB Reconciliation</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/use-cases" role="menuitem">See More Use Cases →</a></li>
+     </ul></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">Resources</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.axonius.com/resources" role="menuitem">Resource Center</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.axonius.com/resources#case-studies" role="menuitem">Case Studies</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.axonius.com/blog" role="menuitem">Blog</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://www.axonius.com/resources/glossary" role="menuitem">Glossary</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children active-branch" role="none"><a href="javascript:;" aria-haspopup="true" aria-expanded="false" role="menuitem">About</a>
+   <ul role="menu" class="hs-menu-children-wrapper active-branch">
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children" role="none"><a href="javascript:;" role="menuitem">About Axonius</a>
+     <ul role="menu" class="hs-menu-children-wrapper">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/company" role="menuitem">Who We Are</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/company/leadership" role="menuitem">Leadership</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/company/axoniusx" role="menuitem">Axonius X</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/company/news" role="menuitem">News</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/company/events" role="menuitem">Events</a></li>
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/security" role="menuitem">Axonius Security Program</a></li>
+     </ul></li>
+    <li class="hs-menu-item hs-menu-depth-2 hs-item-has-children active-branch" role="none"><a href="javascript:;" role="menuitem">Become an Axonian</a>
+     <ul role="menu" class="hs-menu-children-wrapper active-branch">
+      <li class="hs-menu-item hs-menu-depth-3" role="none"><a href="https://www.axonius.com/company/careers" role="menuitem">Careers</a></li>
+      <li class="hs-menu-item hs-menu-depth-3 active active-branch" role="none"><a href="https://www.axonius.com/company/careers/open-jobs" role="menuitem">Open Jobs</a></li>
+     </ul></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.axoniusfed.com/" role="menuitem">Axonius Federal Systems</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.axonius.com/partners" role="menuitem">Partners</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://docs.axonius.com" role="menuitem">Documentation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.axonius.com/blog" role="menuitem">Blog</a></li>
+ </ul>
+</div></span></div>               
+      
+    <div class="button-row">
+      <div class="button-div"><span id="hs_cos_wrapper_navigation-module-2_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"><div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="142376721430"> 
+ <style data-hubspot-cta-style="hs-inline-web-interactive-142376721430">
+
+  a.hs-inline-web-interactive-142376721430 {
+    padding: 8px 16px; background: #ffffff;
+    border-radius: 3px;
+    border: 2px solid #212121;
+    color: #212121;
+    text-align: center;
+    font-family: Roboto-Regular, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: capitalize;
+    vertical-align: middle;
+text-decoration:none;
+@media (max-width:1024px){
+padding: 12px 24px !important;
+font-size: 16px;
+}
+  }
+
+  a.hs-inline-web-interactive-142376721430:hover {
+    background:#ff925a;
+  }
+
+</style> 
+ <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLIZkR9GfVF21zXgCSIMz41vc2lcOaY4jLiC8mBBZqOvIorSYGGo5mbD3XnDsu5Xd4VWpG%2Ffwzmmkjn5mxv7ONhpbSHvp4e7neCf%2BieY6Ptpz49OzXe8f7yyZ0WMosvSINS7st%2BdrXTXQH0LJLZCYhATZ0%2Fz2bI1o5nXoKfXs6hdnCCZgRo%3D&amp;portalId=3790635" class="hs-inline-web-interactive-142376721430 new-white-cta  " data-hubspot-cta-id="142376721430"> Request A Free Trial </a> 
+</div></span></div>
+      
+      <div class="button-div button1"><span id="hs_cos_wrapper_navigation-module-2_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"><div class="hs-web-interactive-inline" style="" data-hubspot-wrapper-cta-id="142376721273"> 
+ <a href="https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/click?encryptedPayload=AVxigLJnvXEZKVxiFoRcS6cIL1%2FpjbcIbpcyMdYDbmWGDTE5s%2Bd%2FPCgirNEaJEJjGjb1uf4jqx6r5hoxcgldwEBSD8bWvEm86JMm8dINPsLaNnBRabPzqJ2rSSiOdMIkfNWhDSjp3AxhZPnLb9s9o%2BYO1CDRdVnRLiuccotnFf8lIHo%3D&amp;portalId=3790635" class="hs-inline-web-interactive-142376721273 new-orange-cta  " data-hubspot-cta-id="142376721273"> Request A Demo </a> 
+</div></span></div>
+    </div>
+
+    <!--<div class="mobile-search">
+      <div class="hs-search-field"> 
+        <div class="hs-search-field__bar"> 
+          <form action="/hs-search-results">
+            <input type="text" class="hs-search-field__input search-input" name="term" autocomplete="on" aria-label="Search">
+            
+            <input type="hidden" name="type" value="SITE_PAGE">
+            <input type="hidden" name="type" value="LANDING_PAGE">
+            <input type="hidden" name="type" value="BLOG_POST">
+            <input type="hidden" name="type" value="LISTING_PAGE">
+            <input type="hidden" name="type" value="KNOWLEDGE_ARTICLE">     
+            
+                
+            
+            
+            
+            <button aria-label="Search" class="search-button"><i class="fas fa-search"></i></button>
+          </form>
+        </div>
+        <ul class="hs-search-field__suggestions"></ul>
+      </div>
+    </div> -->             
+  </div>
+</div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+</header></div>
+      
+
+      
+
+      <main id="main-content" class="body-container-wrapper">
+        
+<div class="container-fluid body-container">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd_area-row-0-force-full-width-section dnd-section dnd_area-row-0-padding">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_16971447958933" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+<div class="banner-overlay">
+  <div class="banner-container" style="background-image:url('https://www.axonius.com/hubfs/Website_Header_OpenJobs1920x366_012022.webp')">
+    <div class="banner-content-wrapper"> 
+             <div class="banner-text span6" style="background-color:#CE4A0D;">
+		 <div class="preheader">
+                  <span>CAREERS</span>
+               </div> 
+		  <h1>
+			 BECOME AN AXONIAN
+			</h1>
+   
+       
+   
+    <p>
+      Check out our current openings below. Don't see the role you're looking for? Send a note to careers@axonius.com — we’re always on the lookout for supremely talented people.
+    </p>
+   
+	
+ <div class="button-row">
+     <span class="button1">   
+     <span id="hs_cos_wrapper_module_16971447958933_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"></span>
+         </span>
+   <div class="cta-container"><span id="hs_cos_wrapper_module_16971447958933_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_cta" style="" data-hs-cos-general-type="widget" data-hs-cos-type="cta"></span></div> 
+ </div>
+               
+               
+    </div>
+ 
+
+  </div>
+</div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+
+<div class="container-fluid body-container--about">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 dnd_area1-row-0-padding dnd-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1697144674064" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><div class="rich-text">
+  <span id="hs_cos_wrapper_widget_1697144674064_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div id="grnhse_app">&nbsp;</div>
+<a id="jobs" data-hs-anchor="true"></a></span>
+</div>
+  
+
+
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd_area1-row-1-padding dnd-section dnd_area1-row-1-force-full-width-section">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1697144710539" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+<div class="resources-three-across-wrapper">
+    <div class="resources-three-container">
+      
+
+           
+             
+      
+      
+   
+        
+    <div class="resources-card-bk one span4 resource-red" style="background-image:url('https://www.axonius.com/hubfs/Resources%203%20accross_Blog.svg');border-bottom: 10px solid #E3242E;background-color:#000000;">
+     <div class="resource-content">
+       <div class="actual-content">
+         
+
+       <div class="preheader">
+         <span>Axonius Blog
+         </span>
+       </div> 
+   <div class="r-title">
+     <p>
+        The Keys to Successful Cyber Asset Attack Surface Management
+      </p> 
+         </div>      
+     <div class="r-paragraph">
+        <p>
+       Stay up to date on the latest IT and cybersecurity trends, Axonius product updates, and tips and tricks.
+      </p> 
+         </div>  
+    
+      </div>
+        <div class="r-link">   <p style="font-size:16px;font-weight:bold;color:#FFFFFF;"><a class="resource-link" href="https://www.axonius.com/blog/axonius-federal-the-keys-to-successful-cyber-asset-attack-surface-management">   Read the Blog</a>   →  </p> </div>
+              </div>
+    </div>
+        
+        
+      
+      
+       <div class="resources-card-bk two span4 resource-orange" style="background-image:url('https://www.axonius.com/hubfs/Resources_Resources.svg');border-bottom: 10px solid #FF671F;background-color:#000000;">      
+     <div class="resource-content">
+       <div class="actual-content">
+       <div class="preheader">
+         <span>Resources
+         </span>
+       </div> 
+         
+
+
+
+
+    
+    <div class="r-title">
+        <p>The First Step to Zero Trust: Building a Strong Cybersecurity Foundation</p>
+    </div>
+    <div class="r-paragraph">
+        <p>
+            View our latest research, customer stories, technical documents, and other useful links.
+        </p>
+    </div>
+         </div>
+    <div class="r-link">
+        <p style="font-size:16px;font-weight:bold;color:#FFFFFF;">
+            <a class="resource-link" href="https://www.axonius.com/resources/zero-trust-2024">See this Resource</a> →
+        </p>
+    </div>
+
+       </div> 
+    </div>
+       
+         
+    
+   
+       <div class="resources-card-bk three span4 resource-light-orange" style="background-image:url('https://www.axonius.com/hubfs/Webinar_Webinars-1.svg');border-bottom: 10px solid #FF9933;background-color:#000000;">
+        
+     <div class="resource-content">
+        <div class="actual-content">
+       <div class="preheader">
+         <span>Webinars
+         </span>
+       </div> 
+     
+
+
+
+    
+    
+    <div class="r-title">
+        <p>Prioritizing Proactive Security: Making Sense of a Misunderstood Objective</p>
+    </div>
+       
+  <div class="r-paragraph"> <p>Learn proven strategies for improving your IT and security functions within your organization.</p> </div> </div>
+    <div class="r-link">
+        <p style="font-size:16px;font-weight:bold;color:#FFFFFF;">
+            <a class="resource-link" href="https://www.axonius.com/prioritizing-proactive-security-webinar-2024?channel=rc">Watch the Webinar</a> →
+        </p>
+    </div>
+
+         </div>
+     
+         
+    </div>
+     
+   
+
+
+
+  </div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+
+      
+
+      
+        <div data-global-resource-path="Axonius Redesign/templates/partials/footer.html"><footer class="footer">
+  <div class="container-fluid footer__container">
+<div class="row-fluid-wrapper">
+<div class="row-fluid">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 footer-row-0-background-color dnd-section footer-row-0-padding">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell cell_16953897680632-padding dnd-column" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 dnd-row">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_widget_1695389768062" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<nav class="footer-navigation dark">
+  <div class="live-area dark">
+    <div class="logo span4">
+      <a href="https://www.axonius.com">
+        <img src="https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo/Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png?width=210&amp;height=42&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png" alt="Axonius Logo" loading="lazy" width="210" height="42" srcset="https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo/Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png?width=105&amp;height=21&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png 105w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo/Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png?width=210&amp;height=42&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png 210w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo/Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png?width=315&amp;height=63&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png 315w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo/Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png?width=420&amp;height=84&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png 420w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo/Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png?width=525&amp;height=105&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png 525w, https://www.axonius.com/hs-fs/hubfs/Axonius%20Logo/Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png?width=630&amp;height=126&amp;name=Axonius%20Logo%20-%20Horizontal%20-%20Reverse.png 630w" sizes="(max-width: 210px) 100vw, 210px">         
+      </a>
+    </div>
+    
+    <!-- mega nav link family -->
+    <div class="mega-drop-inner row-fluid">
+      <div class="info span4">
+        <div class="_41-madison-avenue-37th-floor-new-york-ny-10010-716-296-6487">
+          <span>
+            <span class="_41-madison-avenue-37th-floor-new-york-ny-10010-716-296-6487-span">41 Madison Avenue, 37th Floor<br>New York, NY 10010<br>
+              <br>
+            </span>
+            <span class="_41-madison-avenue-37th-floor-new-york-ny-10010-716-296-6487-span">(716) 296-6487</span>
+          </span>
+        </div>
+        <div class="contact-us">
+          <a href="https://www.axonius.com/contact" role="link">Contact Us</a></div>
+        <div class="social">
+          <div class="social_media">
+            
+            
+            <a href="https://www.linkedin.com/company/axonius/">
+              <span id="hs_cos_wrapper_widget_1695389768062_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="LinkedIn1_layer"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z" /></g></svg></span>
+            </a>
+            
+            
+            <a href="https://www.youtube.com/channel/UCQyvVbKwuQOUvTBORSZ5TJA">
+              <span id="hs_cos_wrapper_widget_1695389768062_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" aria-hidden="true"><g id="YouTube2_layer"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></g></svg></span>
+            </a>
+            
+            
+            <a href="https://twitter.com/AxoniusInc">
+              <span id="hs_cos_wrapper_widget_1695389768062_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" aria-hidden="true"><g id="X Twitter3_layer"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></g></svg></span>
+            </a>
+            
+            
+            <a href="https://www.facebook.com/Axonius/">
+              <span id="hs_cos_wrapper_widget_1695389768062_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" aria-hidden="true"><g id="Facebook4_layer"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z" /></g></svg></span>
+            </a>
+            
+            
+            <a href="https://www.instagram.com/axoniuslife/" target="_blank" rel="noopener">
+              <span id="hs_cos_wrapper_widget_1695389768062_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_icon" style="" data-hs-cos-general-type="widget" data-hs-cos-type="icon"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="Instagram5_layer"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></g></svg></span>
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="menu-group span8">
+        <div class="child-links row-fluid">
+          
+          <div class="navigation col span3">
+            
+            
+            
+            <div class="child-item-title">Products</div>
+            
+            
+            <ul class="child-items">
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/platform">
+                  Platform Overview
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/platform/cybersecurity-asset-management">
+                  Cybersecurity Asset Management
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/platform/saas-management">
+                  SaaS Management
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/adapters">
+                  Adapters
+                </a>
+                
+              </li>
+                                        
+            </ul>
+            
+            
+          </div>
+          
+          <div class="navigation col span3">
+            
+            
+            
+            <div class="child-item-title">Solutions</div>
+            
+            
+            <ul class="child-items">
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/use-cases">
+                  Use Cases
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/axonius-for-it-teams">
+                  IT
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/security">
+                  Security
+                </a>
+                
+              </li>
+                                        
+            </ul>
+            
+            
+          </div>
+          
+          <div class="navigation col span3">
+            
+            
+            
+            <div class="child-item-title">Resources</div>
+            
+            
+            <ul class="child-items">
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/resources">
+                  Resource Center
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/blog">
+                  Blog
+                </a>
+                
+              </li>
+                                        
+            </ul>
+            
+            
+          </div>
+          
+          <div class="navigation col span3">
+            
+            
+            
+            <div class="child-item-title">Company</div>
+            
+            
+            <ul class="child-items">
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/company">
+                  Who We Are
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/company/leadership">
+                  Leadership
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/spotlight-directory">
+                  Employee Spotlight
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/company/news">
+                  News
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/company/events">
+                  Events
+                </a>
+                
+              </li>
+              
+              <li class="child-item">
+                
+                
+                
+                <a href="https://www.axonius.com/company/careers">
+                  Careers
+                </a>
+                
+              </li>
+                                        
+            </ul>
+            
+            
+          </div>
+          
+        </div>
+      </div>
+    </div><!--.mega-drop-inner-->
+     
+    <div class="bottom-navigation">
+    <span class="copyright">© Axonius 2024. All Rights Reserved</span>
+    <nav class="span12">
+      
+      <ul class="bottomlink">
+        
+        <li>
+          <a class="item1" href="https://www.axonius.com/privacy-policy" role="link">Privacy Policy</a>
+          
+        </li>
+        
+        <li>
+          <a class="item2" href="https://www.axonius.com/terms-conditions/" role="link">Terms &amp; Conditions</a>
+          
+        </li>
+        
+        <li><a id="ot-sdk-btn" class="ot-sdk-show-settings">CookieSettings</a></li>
+      </ul>
+      
+    </nav>
+  </div>
+  </div>
+</nav></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div>
+</div>
+</div>
+</footer></div>
+      
+    </div>
+    
+    
+    
+<!-- HubSpot performance collection script -->
+<script defer src="https://static.hsappstatic.net/content-cwv-embed/static-1.840/embed.js"></script>
+<script src="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/template_assets/127413430596/1701380106517/Axonius_Redesign/js/main.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="https://302335.fs1.hubspotusercontent-na1.net/hubfs/302335/unified3/libraries/hubspot.search.min.js"></script>
+<script src="https://302335.fs1.hubspotusercontent-na1.net/hubfs/302335/unified3/libraries/jquery.nb.offscreenMenuToggle.min.js"></script>
+<script src="https://www.axonius.com/hubfs/NB%202021/lazyload.min.js"></script>
+<script src="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/module_assets/131648084029/1706305115340/module_131648084029_Global_Top_Navigation.min.js"></script>
+<script src="https://www.axonius.com/hs-fs/hub/3790635/hub_generated/module_assets/154979329901/1714745995730/module_154979329901_Test_for_Global_Nav.min.js"></script>
+<!-- Start of Web Interactives Embed Code -->
+<script defer src="https://js.hubspot.com/web-interactives-embed.js" type="text/javascript" id="hubspot-web-interactives-loader" data-loader="hs-previewer" data-hsjs-portal="3790635" data-hsjs-env="prod" data-hsjs-hublet="na1"></script>
+<!-- End of Web Interactives Embed Code -->
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "standard-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.axonius.com\/company\/careers\/open-jobs"]);
+_hsq.push(["setPageId", "35744061398"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 35744061398,
+    "legacyPageId": "35744061398",
+    "contentFolderId": null,
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 35744061398,
+    "languageCode": "en",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/3790635.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "e6d66452-6716-443b-a5a1-5a6e50d2a9ad",
+    ticks: 1715362841274,
+    page_id: 35744061398,
+    
+    content_group_id: 0,
+    portal_id: 3790635,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page",
+    scp_content_type: "",
+    analytics_page_id: "35744061398",
+    category_id: 1,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.321/js/index.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQMMZBT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script src="https://boards.greenhouse.io/embed/job_board/js?for=axonius"></script>
+
+
+  
+</div></main></div></body></html>
