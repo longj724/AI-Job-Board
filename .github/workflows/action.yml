@@ -1,4 +1,4 @@
-name: 'VC Backed Job'
+name: 'Generate Job Openings'
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2.5.1
         with:
-          node-version: '20' # Specify your Node.js version
+          node-version: '20'
 
       - name: Install dependencies
         run: npm install
@@ -34,5 +34,5 @@ jobs:
           git config --global user.name 'long724'
           git config --global user.email 'justin.long586@gmail.com'
           git add -A
-          git commit -m "Fetching updated data" -a || echo "No changes to commit"
-          git push
+          git commit -m "Updating jobs data" -a || echo "No changes to commit"
+          git push https://${{ secrets.GH_TOKEN }}@github.com/longj724/AI-Job-Board.git HEAD:master
