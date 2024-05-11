@@ -32,7 +32,7 @@ jobs:
       - name: Commit and Push changes
         run: |
           git config --global user.name 'long724'
-          git config --global user.email 'justin.long586@gmail.com'
+          git config --global user.email 'justin.long596@gmail.com'
           git add -A
           git commit -m "Updating jobs data" -a || echo "No changes to commit"
-          git push https://${{ secrets.GH_TOKEN }}@github.com/longj724/AI-Job-Board.git HEAD:master
+          git push https://${{ secrets.GH_TOKEN }}@github.com/longj724/AI-Job-Board.git HEAD:main
