@@ -11,17 +11,17 @@ export const getJobBoards = async (name: string): Promise<void> => {
     const res = await axios.get(leverUrl);
     const data = res.data;
 
-    if (fs.existsSync(`./data/boards/lever/${name}.txt`)) {
+    if (fs.existsSync(`./activeData/boards/lever/${name}.txt`)) {
       console.log('Company job board already exists on lever');
       return;
     }
 
-    if (fs.existsSync(`./data/boards/gh/${name}.txt`)) {
+    if (fs.existsSync(`./activeData/boards/gh/${name}.txt`)) {
       console.log('Company job board already exists on greenhouse');
       return;
     }
 
-    fs.writeFile(`./data/boards/lever/${name}.txt`, data, (err) => {
+    fs.writeFile(`./activeData/boards/lever/${name}.txt`, data, (err) => {
       if (err) {
         console.error(err);
         return;
@@ -41,7 +41,7 @@ export const getJobBoards = async (name: string): Promise<void> => {
       const data = res.data;
 
       // console.log('Found job board on greenhouse', name);
-      fs.writeFile(`./data/boards/gh/${name}.txt`, data, (err) => {
+      fs.writeFile(`./activeData/boards/gh/${name}.txt`, data, (err) => {
         if (err) {
           console.error(err);
           return;

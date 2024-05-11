@@ -8,11 +8,11 @@ dotenv.config();
 
 export const getJobInfoFromLeverApplications = async (): Promise<void> => {
   let startTime = Date.now();
-  const files = fs.readdirSync('./data/applications/lever');
+  const files = fs.readdirSync('./activeData/applications/lever');
 
   for (const file of files) {
     const content = fs.readFileSync(
-      `./data/applications/lever/${file}`,
+      `./activeData/applications/lever/${file}`,
       'utf-8'
     );
 

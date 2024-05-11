@@ -6,9 +6,12 @@ import axios from 'axios';
 // This will read through all lever job boards and get applications
 export const getJobApplicationsFromLever = async (): Promise<void> => {
   try {
-    const files = fs.readdirSync('./data/boards/lever');
+    const files = fs.readdirSync('./activeData/boards/lever');
     files.forEach((file) => {
-      const content = fs.readFileSync(`./data/boards/lever/${file}`, 'utf-8');
+      const content = fs.readFileSync(
+        `./activeData/boards/lever/${file}`,
+        'utf-8'
+      );
       const $ = cheerio.load(content);
 
       const applicationHrefs: string[] = [];
@@ -26,7 +29,7 @@ export const getJobApplicationsFromLever = async (): Promise<void> => {
           .then((res) => {
             // Want to just save the application to read from later
             fs.writeFile(
-              `./data/applications/lever/${file.replace(
+              `./activeData/applications/lever/${file.replace(
                 /(\.txt)$/,
                 `-${index}$1`
               )}`,

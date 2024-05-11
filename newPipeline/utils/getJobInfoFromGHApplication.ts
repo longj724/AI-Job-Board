@@ -12,10 +12,13 @@ export const getJobInfoFromGreenhouseApplications = async (): Promise<void> => {
   let newCompaniesAdded = new Set();
   let numEmbeddingCalls = 0;
   let startTime = Date.now();
-  const files = fs.readdirSync('./data/applications/gh');
+  const files = fs.readdirSync('./activeData/applications/gh');
 
   for (const file of files) {
-    const content = fs.readFileSync(`./data/applications/gh/${file}`, 'utf-8');
+    const content = fs.readFileSync(
+      `./activeData/applications/gh/${file}`,
+      'utf-8'
+    );
     const $ = cheerio.load(content);
 
     const companyName = $('.company-name').text().replace('at', '').trim();
