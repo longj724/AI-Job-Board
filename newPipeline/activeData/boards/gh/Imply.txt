@@ -1,0 +1,987 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+            <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    
+    <title>Careers - Imply</title>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/solid.css"
+          integrity="sha384-v2Tw72dyUXeU3y4aM2Y0tBJQkGfplr39mxZqlTBDUZAb9BGoC40+rdFCG0m10lXk" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/fontawesome.css"
+          integrity="sha384-q3jl8XQu1OpdLgGFvNRnPdj5VIlCvgsDQTQB6owSOHWlAurxul7f+JpUOVdAiJ5P" crossorigin="anonymous">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://imply.io/careers/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Careers - Imply" />
+	<meta property="og:url" content="https://imply.io/careers/" />
+	<meta property="og:site_name" content="Imply" />
+	<meta property="article:modified_time" content="2023-12-11T19:45:12+00:00" />
+	<meta property="og:image" content="https://imply.io/wp-content/uploads/2023/05/og-Imply-the-analytics-database-when-real‑time-matters.jpeg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://imply.io/wp-content/uploads/2023/05/og-Imply-the-analytics-database-when-real‑time-matters.jpeg" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="7 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://imply.io/careers/","url":"https://imply.io/careers/","name":"Careers - Imply","isPartOf":{"@id":"https://imply.io/#website"},"datePublished":"2021-12-01T06:10:29+00:00","dateModified":"2023-12-11T19:45:12+00:00","breadcrumb":{"@id":"https://imply.io/careers/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://imply.io/careers/"]}]},{"@type":"BreadcrumbList","@id":"https://imply.io/careers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://imply.io/"},{"@type":"ListItem","position":2,"name":"Careers"}]},{"@type":"WebSite","@id":"https://imply.io/#website","url":"https://imply.io/","name":"Imply","description":"The database for modern analytics applications","publisher":{"@id":"https://imply.io/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://imply.io/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://imply.io/#organization","name":"Imply","url":"https://imply.io/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://imply.io/#/schema/logo/image/","url":"https://imply.io/wp-content/uploads/2021/12/why-imply-banner-imply-logo-1.png","contentUrl":"https://imply.io/wp-content/uploads/2021/12/why-imply-banner-imply-logo-1.png","width":641,"height":212,"caption":"Imply"},"image":{"@id":"https://imply.io/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Imply &raquo; Feed" href="https://imply.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Imply &raquo; Comments Feed" href="https://imply.io/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://imply.io/wp-includes/css/dist/block-library/style.min.css?ver=6.5.2' type='text/css' media='all' />
+<style id='kevinbatdorf-code-block-pro-style-inline-css' type='text/css'>
+.wp-block-kevinbatdorf-code-block-pro{box-sizing:border-box!important;direction:ltr!important;font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;position:relative!important}.wp-block-kevinbatdorf-code-block-pro *{box-sizing:border-box!important}.wp-block-kevinbatdorf-code-block-pro pre,.wp-block-kevinbatdorf-code-block-pro pre *{font-size:inherit!important;line-height:inherit!important}.wp-block-kevinbatdorf-code-block-pro:not(.code-block-pro-editor) pre{--tw-shadow:0 0 #0000!important;--tw-shadow-colored:0 0 #0000!important;background-image:none!important;border:0!important;border-radius:0!important;border-style:none!important;border-width:0!important;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)!important;color:inherit!important;font-family:inherit!important;margin:0!important;overflow:auto!important;overflow-wrap:normal!important;padding:16px 0 16px 16px!important;text-align:left!important;white-space:pre!important}.wp-block-kevinbatdorf-code-block-pro.padding-disabled:not(.code-block-pro-editor) pre{padding:0!important}.wp-block-kevinbatdorf-code-block-pro.padding-bottom-disabled pre{padding-bottom:0!important}.wp-block-kevinbatdorf-code-block-pro:not(.code-block-pro-editor) pre code{--tw-shadow:0 0 #0000!important;--tw-shadow-colored:0 0 #0000!important;background:none!important;background-color:transparent!important;border:0!important;border-radius:0!important;border-style:none!important;border-width:0!important;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)!important;color:inherit!important;display:block!important;font-family:inherit!important;margin:0!important;overflow-wrap:normal!important;padding:0!important;text-align:left!important;white-space:pre!important;width:100%!important}.wp-block-kevinbatdorf-code-block-pro:not(.code-block-pro-editor) pre code .line{display:inline-block!important;width:100%!important}.wp-block-kevinbatdorf-code-block-pro.cbp-has-line-numbers:not(.code-block-pro-editor) pre code{counter-increment:step calc(var(--cbp-line-number-start, 1) - 1)!important;counter-reset:step!important}.wp-block-kevinbatdorf-code-block-pro pre code .line{position:relative!important}.wp-block-kevinbatdorf-code-block-pro:not(.code-block-pro-editor) pre code .line:before{content:""!important;display:inline-block!important}.wp-block-kevinbatdorf-code-block-pro.cbp-has-line-numbers:not(.code-block-pro-editor) pre code .line:not(.cbp-line-number-disabled):before{color:var(--cbp-line-number-color,#999)!important;content:counter(step)!important;counter-increment:step!important;display:inline-block!important;margin-right:12px!important;opacity:.5!important;text-align:right!important;transition-duration:.5s!important;transition-property:opacity!important;transition-timing-function:cubic-bezier(.4,0,.2,1)!important;-webkit-user-select:none!important;-moz-user-select:none!important;user-select:none!important;width:var(--cbp-line-number-width,auto)!important}.wp-block-kevinbatdorf-code-block-pro pre .line.cbp-line-highlight .cbp-line-highlighter{background:var(--cbp-line-highlight-color,rgb(14 165 233/.2))!important;height:100%!important;left:-16px!important;min-width:calc(var(--cbp-block-width, 100%))!important;position:absolute!important;top:0!important;width:100%!important}.wp-block-kevinbatdorf-code-block-pro:not(.code-block-pro-editor).padding-disabled pre .line.cbp-line-highlight:after{left:0!important;width:100%!important}.wp-block-kevinbatdorf-code-block-pro.cbp-blur-enabled pre .line:not(.cbp-no-blur){filter:blur(1px)!important;opacity:.4!important;transition-duration:.2s!important;transition-property:all!important;transition-timing-function:cubic-bezier(.4,0,.2,1)!important}.wp-block-kevinbatdorf-code-block-pro.cbp-blur-enabled.cbp-unblur-on-hover:hover pre .line:not(.cbp-no-blur){--tw-blur:blur(0)!important;filter:var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow)!important;opacity:1!important}.wp-block-kevinbatdorf-code-block-pro:not(.code-block-pro-editor) pre *{font-family:inherit!important}.cbp-see-more-simple-btn-hover{transition-property:none!important}.cbp-see-more-simple-btn-hover:hover{box-shadow:inset 0 0 100px 100px hsla(0,0%,100%,.1)!important}.code-block-pro-copy-button{background:none!important;background-color:transparent!important;border:0!important;border-style:none!important;border-width:0!important;cursor:pointer!important;left:auto!important;line-height:1!important;opacity:.1!important;padding:6px!important;position:absolute!important;right:0!important;top:0!important;transition-duration:.2s!important;transition-property:opacity!important;transition-timing-function:cubic-bezier(.4,0,.2,1)!important;z-index:10!important}.code-block-pro-copy-button:focus{opacity:.4!important}.wp-block-kevinbatdorf-code-block-pro.padding-disabled .code-block-pro-copy-button{padding:0!important}.wp-block-kevinbatdorf-code-block-pro:hover .code-block-pro-copy-button{opacity:.5!important}.wp-block-kevinbatdorf-code-block-pro .code-block-pro-copy-button:hover{opacity:.9!important}.code-block-pro-copy-button .without-check{display:block!important}.code-block-pro-copy-button .with-check,.code-block-pro-copy-button.copying .without-check{display:none!important}.code-block-pro-copy-button.copying .with-check{display:block!important}.cbp-footer-link:hover{text-decoration-line:underline!important}
+
+</style>
+<link rel='stylesheet' id='e25m-style-css-custom-css' href='https://imply.io/wp-content/plugins/berg-custom/dist/frontend_blocks.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e25m-style-css-css' href='https://imply.io/wp-content/plugins/berg/dist/frontend_blocks.css?ver=1.0.0' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://imply.io/wp-includes/css/dashicons.min.css?ver=6.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://imply.io/wp-content/themes/gc-responsive-v5/css/bootstrap-custom/custom.css?ver=6.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://imply.io/wp-content/themes/gc-responsive-v5/style.css?ver=6.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flickityfadecss-css' href='https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/flickity/flickity-fade.css?ver=6.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='modalvideocss-css' href='https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/modal-videos/modal-videos.css?ver=6.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://imply.io/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.61' type='text/css' media='all' />
+<style id='heateor_sss_frontend_css-inline-css' type='text/css'>
+.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}div.heateor_sss_vertical_sharing  a.heateor_sss_button_instagram span{background:#fff!important;}div.heateor_sss_floating_follow_icons_container a.heateor_sss_button_instagram span{background:#fff}.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent}.heateor_sss_horizontal_sharing .heateorSssTCBackground{color:#666}.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{background-color:#fff!important;background:#fff!important;color:#000;border-width:0px;border-style:solid;border-color:transparent;}.heateor_sss_vertical_sharing .heateorSssTCBackground{color:#666;}.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media screen and (max-width:783px){div.heateor_sss_bottom_sharing .heateorSssTCBackground{background-color:white}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing a{width:25% !important;}div.heateor_sss_bottom_sharing .heateor_sss_svg{width: 100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:24.5px!important}div.heateor_sss_bottom_sharing div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:35px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing .heateor_sss_square_count{line-height:inherit;}.heateor_sss_bottom_sharing .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:1.1em!important}}div.heateorSssSharingArrow{display:none}
+</style>
+<script type="text/javascript" src="https://imply.io/wp-content/plugins/berg-custom/dist/frontend_blocks_custom.js?ver=1.0.0" id="e25m-block-frontend-js-custom-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://imply.io/wp-json/" /><link rel="alternate" type="application/json" href="https://imply.io/wp-json/wp/v2/pages/2915" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://imply.io/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://imply.io/?p=2915' />
+<link rel="alternate" type="application/json+oembed" href="https://imply.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimply.io%2Fcareers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://imply.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimply.io%2Fcareers%2F&#038;format=xml" />
+<!-- Mutiny Script -->
+<script>
+(function(){var a=window.mutiny=window.mutiny||{};if(!window.mutiny.client){a.client={_queue:{}};var b=["identify","trackConversion"];var c=[].concat(b,["defaultOptOut","optOut","optIn"]);var d=function factory(c){return function(){for(var d=arguments.length,e=new Array(d),f=0;f<d;f++){e[f]=arguments[f]}a.client._queue[c]=a.client._queue[c]||[];if(b.includes(c)){return new Promise(function(b,d){a.client._queue[c].push({args:e,resolve:b,reject:d});setTimeout(d,500)})}else{a.client._queue[c].push({args:e})}}};c.forEach(function(b){a.client[b]=d(b)})}})();
+</script>
+<script data-cfasync="false" src="https://client-registry.mutinycdn.com/personalize/client/cb7adb8af4ffca1f.js"></script>
+<!-- Mutiny Script -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-65105235-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-65105235-1');
+</script>
+<!-- End Google tag (gtag.js) -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N48DSKS');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Marketo Munchkin -->
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('910-OTN-223');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+<script type="text/javascript" src="https://cdn.bizible.com/scripts/bizible.js" async=""></script>
+<!-- End Marketo Munchkin -->
+
+<!-- GCLID -->
+<script type="text/javascript">
+    function setCookie(name, value, days){
+var date = new Date();
+    date.setTime(date.getTime() + (days*24*60*60*1000));
+    var expires = "; expires=" + date.toGMTString();
+    document.cookie = name + "=" + value + expires + ";path=/";
+}
+    function getParam(p){
+var match = RegExp('[?&]' + p + '=([^&]*)').exec(window.location.search);
+    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+}
+    var gclid = getParam('gclid');
+    if(gclid){
+var gclsrc = getParam('gclsrc');
+    if(!gclsrc || gclsrc.indexOf('aw') !== -1){
+        setCookie('gclid_imply', gclid, 90);
+}
+}
+</script>
+<!-- End GCLID -->
+<!-- OneTrust Cookies Consent Notice start for imply.io -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="fc14114e-487a-4be8-8815-3ea99cf8b314" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for imply.io -->
+<!-- Qualified -->
+<script>
+(function(w,q){w['QualifiedObject']=q;w[q]=w[q]||function(){
+(w[q].q=w[q].q||[]).push(arguments)};})(window,'qualified')
+</script>
+<script async src="https://js.qualified.com/qualified.js?token=T8VndWmTu2phEUuS"></script>
+<!-- End Qualified -->
+
+<!-- Crazy egg -->
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0104/0422.js" async="async" ></script>
+<!-- Crazy egg end -->
+
+<!-- Hotjar start -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3222362,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!-- Hotjar end --><script>
+window.onload = function() {
+    // Function to add event listeners to sub-menu items
+    function addClickListenersToSubMenu(navItemSelector) {
+        // Select all main navigation items
+        var mainNavItems = document.querySelectorAll(navItemSelector);
+		var scopingVariable = 'empty';
+		if(mainNavItems.length == 0){ //technology
+			scopingVariable = 'technology';
+			mainNavItems = document.getElementById('mega-menu-item-15787');
+			if (mainNavItems) {
+					var subMenuItems = mainNavItems.querySelectorAll('.subnav-item');
+					subMenuItems.forEach(function(item) {
+						item.addEventListener('click', function(event) {
+							window.mutiny.client.trackConversion({ name: 'technology-nav-item-clicked' });
+							console.log('technology clicked');
+						});
+					});
+			}
+		} else { //product variation
+			scopingVariable = 'product';
+			// Iterate over each main navigation item
+			mainNavItems.forEach(function(mainNavItem) {
+				// Check if the main navigation item exists
+				if (mainNavItem) {
+					// Select all sub-menu items within the main navigation item
+					var subMenuItems = mainNavItem.querySelectorAll('.subnav-item');
+
+					// Add event listener to each sub-menu item
+					subMenuItems.forEach(function(item) {
+						item.addEventListener('click', function(event) {
+							if(mainNavItems && (scopingVariable == 'product')){
+								window.mutiny.client.trackConversion({ name: 'product-nav-item-clicked' });
+								console.log('product clicked');
+							}
+						});
+					});
+				}
+			});
+		}
+        
+    }
+
+    // Add listeners to sub-menu items of both navigation items
+    // Assuming 'technologytopnav' and 'producttopnav' are classes
+    addClickListenersToSubMenu('.producttopnav');
+}
+</script>
+<style>
+
+section#section-communicate .container-let-us h3:before, section#section-communicate .container-let-us .h3:before {
+    background: url(/wp-content/uploads/2023/04/icon-headet2.svg);
+}
+
+body.single.single-customer section.header p.headline {
+    max-width: 1100px;
+}
+
+body.page-template-customers section.customers-section #container-customers .item-customer img {
+    width: 180px;
+    height: auto;
+}
+
+
+body.home #section-performance .container-quote,
+body.home #section-concurrency .container-quote,
+body.home #section-streaming .container-quote {
+    margin-top: 30px;
+}
+
+body.home .screenshot-hero {
+    margin: 60px 0 0;
+}
+
+.page-template-feature .container-page {
+    margin-top: 140px !important;
+}
+
+@media (min-width: 1200px) {
+    body.page-template-feature .feature-row .row {
+        padding: 30px 0 80px 15px;
+    }
+
+    .page-template-feature .right img {
+        max-width: 560px !important;
+        height: auto;
+    }
+
+    section.flexible.basic-section .row {
+        padding: 30px 0 30px 30px;
+    }
+
+    .page-template-feature #data-stream-footer {
+        margin-top: 0;
+        width: 99vw;
+    }
+}
+
+
+
+</style><link rel="icon" href="https://imply.io/wp-content/uploads/2023/05/favicon-96x96-imply-data.png" sizes="32x32" />
+<link rel="icon" href="https://imply.io/wp-content/uploads/2023/05/favicon-96x96-imply-data.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://imply.io/wp-content/uploads/2023/05/favicon-96x96-imply-data.png" />
+<meta name="msapplication-TileImage" content="https://imply.io/wp-content/uploads/2023/05/favicon-96x96-imply-data.png" />
+<style type="text/css">/** Mega Menu CSS: disabled **/</style>
+
+	
+	
+<style>
+@media only screen and (max-width: 575px) {
+    #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item.btn-white > a {
+        font-size: 14px !important;
+        width: 150px !important;
+    }
+}
+</style>
+
+
+<style>
+.cta-link {
+    padding: 1px 10px 2px 10px;
+    display: inline-block;
+    background-image: url(/wp-content/themes/gc-responsive-v5/templates/dev-center-images/Frame.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 10px;
+    font-size: 15px !important;
+    font-weight: 400 !important;
+}
+
+.cta-link:hover {
+    background-image: url(/wp-content/uploads/2023/10/bg_change_.png) !important;
+}
+</style>
+
+<script>
+  (function(options) {
+    var s = document.createElement("script");
+    s.async = true;
+    s.src = "https://cdn.metadata.io/site-insights.js";
+    s.onload = function() {
+      window.Metadata.siteInsights.init(options);
+    };
+    document.head.appendChild(s);
+  })({ accountId: 1852 });
+</script>
+<script>
+  (function(options) {
+  var s = document.createElement("script");
+  s.async = true;
+  s.src = "https://cdn.metadata.io/site-script.js";
+  s.onload = function() {
+  window.Metadata.siteScript.init(options);
+
+  // Capture and store cid
+  var minutes = 30;
+  var setCookie = function (name, value) {
+  var expires = new Date(Date.now() + minutes * 60 * 1000).toUTCString();
+  document.cookie = name + "=" + encodeURIComponent(value) + "; path=/; expires=" + expires;
+  };
+  var cid = new URLSearchParams(window.location.search).get("metadata_cid");
+
+  if (cid) {
+  setCookie("metadata_cid", cid);
+  }
+  };
+  document.head.appendChild(s);
+  })({ accountId: 1852 });
+</script>
+
+</head>
+
+    <body class="page-template page-template-templates page-template-flexible-content page-template-templatesflexible-content-php page page-id-2915 wp-custom-logo mega-menu-primary page-careers">
+
+<div class="page-wrapper">
+
+    <header class="page-header">
+        <div class="eyebrow">
+            <div class="container">
+                <div class="textwidget custom-html-widget">
+                    <a href="https://imply.io/whitepapers/a-data-teams-guide-to-real-time-analytics-for-apache-kafka/?utm_source=topBanner" style="text-decoration:none;color:white !important;font-weight: 400 !important;" target="_blank" rel="noopener">&#x1F4DA; Download the Whitepaper: A Data Team's Guide to Real-time Analytics for Apache Kafka&#x00AE; ⇒</a>
+                </div>                            
+            </div>
+        </div>
+        <div class="container container-menus">
+            <nav class="navbar navbar-expand-xl navbar-dark" role="navigation">
+
+                                    <a class="navbar-brand" href="https://imply.io">
+                        <img src="/wp-content/themes/gc-responsive-v5/images/logo-imply.svg" class="img-responsive logo" alt="Imply"/>
+                    </a>
+                
+
+                <div class="container-menu-animated">
+
+                <div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="1199" data-unbind="true" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-technologytopnav mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-15787 technologytopnav' id='mega-menu-item-15787'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Product<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-15787-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-something mega-menu-columns-4-of-12 something' id='mega-menu-15787-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-16' id='mega-menu-item-custom_html-16'><h4 class="mega-block-title">APACHE DRUID</h4><div class="textwidget custom-html-widget"><a class="subnav-item" href="/what-is-druid/"><strong>Apache Druid 101</strong>
+<p>Learn what makes Druid the Reader’s Choice winner for analytics databases</p></a>
+
+<a class="subnav-item" href="/compare-druid-to-other-databases/"><strong>Tech Comparisons</strong>
+<p>See why 1000s of companies choose Druid over Clickhouse, Pinot, and others</p></a>
+
+<a class="subnav-item" href="/why-imply/"><strong>Why Imply for Druid</strong>
+<p>Get the best developer experience with a lower operational cost with Imply</p></a></div></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-15787-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-17' id='mega-menu-item-custom_html-17'><h4 class="mega-block-title">IMPLY PRODUCTS</h4><div class="textwidget custom-html-widget"><a class="subnav-item" href="/imply-fully-managed-dbaas-polaris/"><strong>Database as a Service</strong>
+<p>Imply Polaris is a secure, cloud-native database service for Apache Druid</p></a>
+
+<a class="subnav-item" href="/imply-enterprise-hybrid/"><strong>Hybrid Managed in AWS</strong>
+<p>Imply Enterprise Hybrid brings the ease of a cloud service to your AWS VPC</p></a>
+
+<a class="subnav-item" href="/imply-enterprise"><strong>Commercial Software</strong>
+<p>Imply Enterprise makes Druid easy with tools, support, and expertise</p></a>
+</div></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-15787-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-18' id='mega-menu-item-custom_html-18'><h4 class="mega-block-title">INTEGRATIONS</h4><div class="textwidget custom-html-widget"><a class="subnav-item" href="/true-stream-ingestion/"><strong>Streams</strong>
+<p>Get true stream ingestion without the hassle of a connector or latency of batch</p></a>
+
+<a class="subnav-item" href="/database-ingeston/"><strong>Databases</strong>
+<p>Ingest batch data from databases, data warehouses, and data lakes with ease</p></a>
+
+<a class="subnav-item" href="/integrations-visualizations/"><strong>Visualizations</strong>
+<p>Turn data into human-consumable graphics and dashboards</p></a></div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-15791' id='mega-menu-item-15791'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Use Cases<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-15791-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-15791-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-19' id='mega-menu-item-custom_html-19'><h4 class="mega-block-title">By Functional Use</h4><div class="textwidget custom-html-widget"><a href="https://imply.io/use-cases/a-database-for-operational-visibility/"><strong>Operational Visibility</strong>
+<p>Multi-dimensional analysis for streams</p></a>
+
+<a href="https://imply.io/use-cases/a-database-for-rapid-data-exploration/"><strong>Rapid Data Exploration</strong>
+<p>Fast ad-hoc queries on TBs to PBs of data</p></a>
+
+<a href="https://imply.io/a-database-for-external-facing-analytics/"><strong>Customer-facing Analytics</strong>
+<p>Interactive insights for external users</p></a>
+
+<a href="https://imply.io/use-cases/a-database-for-real-time-decisioning/"><strong>Real-time Decisioning</strong>
+<p>Instant queries for automated pipelines</p></a></div></li>		</ul>
+</li><li class='mega-menu-column mega-just-links mega-menu-columns-4-of-12 just-links' id='mega-menu-15791-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-20' id='mega-menu-item-custom_html-20'><h4 class="mega-block-title">By Application</h4><div class="textwidget custom-html-widget"><p><a href="https://imply.io/use-cases/a-database-for-application-observability/"><strong>Application Observability</strong></a></p>
+
+<p><a href="https://imply.io/use-cases/a-database-for-security-and-fraud-analytics/"><strong>Security / Fraud</strong></a></p>
+
+<p><a href="https://imply.io/use-cases/a-database-for-product-analytics/"><strong>Product Analytics</strong></a></p>
+
+<p><a href="https://imply.io/use-cases/a-database-for-iot-and-telemetry/"><strong>IoT / Telemetry Analytics</strong></a></p>
+
+<p><a href="https://imply.io/use-cases/a-database-for-real-time-analytics/"><strong>Real-time Analytics</strong></a></p></div></li>		</ul>
+</li><li class='mega-menu-column mega-featured-right mega-menu-columns-4-of-12 featured-right' id='mega-menu-15791-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-21' id='mega-menu-item-custom_html-21'><h4 class="mega-block-title">FEATURED</h4><div class="textwidget custom-html-widget"><a href="/success-stories/"><img src="/wp-content/themes/gc-responsive-v5/images/featured-fpo.jpg" alt="featured" class="img-featured" /></a>
+<p>See how developers at 1000s of companies have become the new heroes of analytics with Apache Druid.</p>
+
+<a href="/success-stories/">Visit the Druid Success Center</a></div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-15792' id='mega-menu-item-15792'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Success Stories<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row mega-success-stories success-stories' id='mega-menu-15792-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-12-of-12' id='mega-menu-15792-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-22' id='mega-menu-item-custom_html-22'><h4 class="mega-block-title">DRUID CASE STUDIES</h4><div class="textwidget custom-html-widget"><ul class="two-column">
+<li class="icon-confluent"><a href="/case-studies/confluents-next-gen-observability-platform-powered-by-apache-druid/">Confluent delivers real-time operational visibility for Confluent Cloud with Apache Druid</a></li>
+<li class="icon-target"><a href="/case-studies/target-and-apache-druid-real-time-analytics-at-massive-scale/">Target enables 70,000 daily active users to rapidly explore data at 4 million queries per day</a></li>
+<li class="icon-netflix"><a href="/case-studies/how-druid-provides-internet-scale-observability-at-netflix/">Netflix engineers ensure high quality software updates analyzing trillions of rows in milliseconds</a></li>
+<li class="icon-atlassian"><a href="/case-studies/atlassian-switches-from-postgresql-to-druid-for-customer-analytics/">Atlassian delivers user behavior analytics to their customers using Druid with Imply</a></li>
+<li class="icon-poshmark"><a href="/case-studies/how-poshmark-uses-druid-to-monitor-their-platform-in-real-time/">Poshmark engineers monitor and explore data from their ecommerce platform in real-time</a></li>
+<li class="icon-paytm"><a href="/case-studies/paytm-built-a-pb-scale-analytics-application-using-druid-with-imply/">PayTM builds a petabyte-scale analytics application and saves 50% on infrastructure using Druid with Imply</a></li>
+</ul>
+
+<a href="/success-stories/"><strong>See 30+ technical stories at the Druid Success Center</strong></a>
+</div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-16764' id='mega-menu-item-16764'><a target="_blank" class="mega-menu-link" href="https://imply.io/developer" tabindex="0">Developer Center</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-16765' id='mega-menu-item-16765'><a class="mega-menu-link" href="https://imply.io/resources" aria-haspopup="true" aria-expanded="false" tabindex="0">Resources<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-16765-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-16765-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-29' id='mega-menu-item-custom_html-29'><h4 class="mega-block-title">Apache Druid</h4><div class="textwidget custom-html-widget"><a href="https://imply.io/developer"><strong>Druid Developer Center</strong>
+<p>Resource hub for Druid developers</p></a>
+
+<a href="https://imply.io/success-stories/"><strong>Druid Success Center</strong>
+<p>Hub for Apache Druid success stories</p></a>
+
+<a href="https://apachedruidworkspace.slack.com/join/shared_invite/zt-2652557xj-PKSalIShaaWTNiMrTBBtWQ#/shared-invite/email" target="_blank" rel="noopener"><strong>Druid Slack</strong>
+<p>Community chat for Druid discussions</p></a></div></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-16765-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-30' id='mega-menu-item-custom_html-30'><h4 class="mega-block-title">Content</h4><div class="textwidget custom-html-widget"><a href="https://imply.io/resources/blog/"><strong>Blog</strong>
+<p>Insights &amp; technology updates</p></a>
+
+<a href="https://imply.io/resources/videos/"><strong>Videos</strong>
+<p>Informative visual content</p></a>
+
+<a href="https://imply.io/resources/podcasts"><strong>Podcasts</strong>
+<p>Discussions on emerging technologies</p></a></div></li>		</ul>
+</li><li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-16765-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-31' id='mega-menu-item-custom_html-31'><h4 class="mega-block-title">Support</h4><div class="textwidget custom-html-widget"><a href="https://docs.imply.io/" target="_blank" rel="noopener"><strong>Documentation</strong>
+<p>Technical Imply documentation</p></a>
+
+<a href="https://learn.imply.io/"><strong>Learning hub</strong>
+<p>Interactive Apache Druid courses</p></a>
+
+<a href="https://support.imply.io/hc/en-us" target="_blank" rel="noopener"><strong>Support center</strong>
+<p>Customer knowledgebase &amp; helpdesk</p></a></div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-menu-item-14580' id='mega-menu-item-14580'><a class="mega-menu-link" href="https://imply.io/imply-polaris-pricing/" tabindex="0">Pricing</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-11765' id='mega-menu-item-11765'><a class="mega-menu-link" href="/" tabindex="0">Search</a></li><li class='mega-btn-bright-purple mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-15823 btn-bright-purple' id='mega-menu-item-15823'><a target="_blank" class="mega-menu-link" href="https://id.imply.io/auth/" tabindex="0">Login</a></li><li class='mega-btn-white mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-14987 btn-white' id='mega-menu-item-14987'><a class="mega-menu-link" href="https://imply.io/request-a-demo" tabindex="0">Request a Demo</a></li></ul></div>
+                </div>
+            </nav>
+        </div>
+
+        <div class="container container-search">
+
+            <form class="search-main" id="search-main" method="get" action="/">
+                <div class="form-group">
+                    <label for="s">Search</label>
+                    <input type="text" class="form-control" id="s" name="s" placeholder="Search">
+                </div>
+
+                <button type="submit" class="btn btn-arrow">Submit</button>
+            </form>
+
+        </div>
+    </header>
+
+<style>
+    .hidden {
+    display: none;
+    }
+
+    .tooltip-container {
+    position: relative;
+    display: inline-block;
+    }
+
+    #tooltip {
+        max-width: 300px;
+        margin-top: 15px;
+        position: absolute !important;
+        left: 45% !important;
+        transform: translateX(-50%) !important;
+        background-color: black !important;
+        color: white !important;
+        padding: 10px !important;
+        border-radius: 5px !important;
+        z-index: 1 !important;
+    }
+
+    #tooltip2 {
+        max-width: 300px;
+        margin-top: 15px;
+        position: absolute !important;
+        left: 65% !important;
+        transform: translateX(-50%) !important;
+        background-color: black !important;
+        color: white !important;
+        padding: 10px !important;
+        border-radius: 5px !important;
+        z-index: 1 !important;
+    }
+
+    #tooltip h5 {
+        font-size: 14px !important;
+    }
+
+    #tooltip2 h5 {
+        font-size: 14px !important;
+    }
+</style>
+
+<div class="container-page">
+	<div id="main">
+
+		
+                        <section id="lets-build-the-future-of-realtime-analytics-together"
+                     class="header-section flexible dark"  style=" background-image: url(https://imply.io/wp-content/uploads/2023/04/careers-header-bg-2880x828-test-1-scaled.jpg); background-position: center; background-repeat: no-repeat; background-size: cover; ">
+
+                <div class="container">
+                    <div class="row left">
+                        <div class="col-sm-1 col-md-14">
+
+
+
+                            
+                            <h1>Let’s build the future of real-time analytics, together</h1>
+															<div class="container-description">
+                                	                            	</div>
+														                                <a href="https://imply.io/careers/#join-us-today" class="btn btn-lg btn-primary">View careers</a>
+	                                                    </div>
+													<div class="col-sm-1 col-md-10 flex-center">
+							    							</div>
+							
+
+
+                    </div>
+										
+                </div>
+
+            </section>
+
+                    <section id="quotescarousel" class="freeform-html-section flexible">
+                <div class="container">
+											<div class="title">quotescarousel</div>
+												<div class="short_description"><style>
+@media screen and (max-width: 768px) {
+  .freeform-html-section iframe {
+    height: 2350px !important;
+  }
+}
+</style>
+<section class="quotes-carousel">
+
+    <div class="container center col-sm-1 col-md-14">
+		<h2>Join us on our mission</h2>
+		<div class="container-description">
+			<p>We're not just committed to realizing the full potential of data, we’re also committed to realize the full potential of every employee. We are a group of developers, innovators, problem-solvers, and pioneers – and we want you to be a part of our world.</p>
+		</div>
+	</div>
+	
+	<hr class="fancy gradient-gray-bright short" role="separator" />
+
+	<div class="container">
+		<div id="resource-carousel"  data-aos="fade">
+			<div class="carousel-cell">
+				<div class="row">
+					<div class="col-md-6  offset-md-1 left">
+						<img src="https://imply.io/wp-content/uploads/2023/04/Fangjin-Yang-color-background.jpeg" alt="featured" />
+					</div>
+					<div class="col-md-17 right">
+						<div class="container-carousel-info">
+							<div class="quote">“Imply’s culture and core values are the manifestation of our best – what we believe to be possible. Ours is an evolution of deliberate actions that push us to strive towards excellence.”</div>
+							<div class="author">
+								Fangjin Yang
+							</div>
+							<div class="title-co">
+								<span class="light">CEO and Co-founder,</span> Imply
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-cell">
+				<div class="row">
+					<div class="col-md-6  offset-md-1 left">
+						<img src="https://imply.io/wp-content/uploads/2023/04/Kerrie-Madrigal.jpg" alt="featured" />
+					</div>
+					<div class="col-md-17 right">
+						<div class="container-carousel-info">
+							<div class="quote">“I have been an Imployee for about four years now, and I can say I feel empowered with the journey I’ve had at Imply. Not only do I feel heard and trusted, but I am also very grateful for the support in my professional development.”</div>
+							<div class="author">
+								Kerrie Madrigal
+							</div>
+							<div class="title-co">
+								<span class="light">Recruiting Coordinator</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-cell">
+				<div class="row">
+					<div class="col-md-6  offset-md-1 left">
+						<img src="https://imply.io/wp-content/uploads/2023/04/Carrell-Jackson.jpeg" alt="featured" />
+					</div>
+					<div class="col-md-17 right">
+						<div class="container-carousel-info">
+							<div class="quote">“Everyday I am engaged and often challenged in a new and unique way. Imply provides a rare experience, through my work with others, where dreams empower positive energy which propels ideas into reality.”</div>
+							<div class="author">
+								Carrell Jackson
+							</div>
+							<div class="title-co">
+								<span class="light">Vice President, Information Security</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-cell">
+				<div class="row">
+					<div class="col-md-6  offset-md-1 left">
+						<img src="https://imply.io/wp-content/uploads/2023/04/Margo-Kane-Ratte.jpg" alt="featured" />
+					</div>
+					<div class="col-md-17 right">
+						<div class="container-carousel-info">
+							<div class="quote">“Grateful to be at a company that treats their employees so well! Thank you Imply for this sweet baby welcome gift box. I’ve felt nothing but support from everyone as my family plans to welcome a new member this summer.”</div>
+							<div class="author">
+								Margo Kane Ratté
+							</div>
+							<div class="title-co">
+								<span class="light">Enterprise Account Executive</span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div>
+						                </div>
+            </section>
+			            <section id="access-nextgen-benefits"
+                     class="feature-section flexible" style="background-color: #21262d">
+
+                <div class="container center">
+
+                    <h2>Access next-gen benefits</h2>
+
+                    <div class="container-description">
+                        <p>Our employees work hard, and we recognize that. That’s why we provide several best-in-class options, like:</p>
+                    </div>
+					                </div>
+				            </section>
+                    <section id="section-4" class="boxes-basic-section flexible" style="background-color: #21262d">
+
+                <div class="container">
+
+                                            <div class="container-grid">
+
+                            <ul class="list">
+                                                                    <li class="list-item three-cols default border-h-top">
+										<div class="list-content">
+	                                        <img src="https://imply.io/wp-content/uploads/2023/04/icon-remote-first.svg" class="image-icon" alt="icon-remote-first" decoding="async" />		                                        <h4>Remote first</h4>
+														                                        <p>At Imply you have the flexibility to decide how and where you work the best- we are a remote first company.</p>
+																						</div>
+                                    </li>
+
+                                                                    <li class="list-item three-cols default border-h-top">
+										<div class="list-content">
+	                                        <img src="https://imply.io/wp-content/uploads/2023/04/incon-invested-in-you.svg" class="image-icon" alt="incon-invested-in-you" decoding="async" />		                                        <h4>Invested in you</h4>
+														                                        <p>Employees are rewarded with competitive compensation packages including the opportunity to win as our company does through participation in our stock option program</p>
+																						</div>
+                                    </li>
+
+                                                                    <li class="list-item three-cols default border-h-top">
+										<div class="list-content">
+	                                        <img src="https://imply.io/wp-content/uploads/2023/04/icon-health-and-wellness.svg" class="image-icon" alt="icon-health-and-wellness" decoding="async" />		                                        <h4>Health and wellness</h4>
+														                                        <p>We offer 100% paid medical, dental and vision benefit options for Imployees and 80% paid coverage for dependents. All Imployees can focus on their mental wellbeing through access to behavioral health therapy and our emotional wellness support program.</p>
+																						</div>
+                                    </li>
+
+                                                                    <li class="list-item three-cols default border-h-top">
+										<div class="list-content">
+	                                        <img src="https://imply.io/wp-content/uploads/2023/04/icon-happy-family.svg" class="image-icon" alt="icon-happy-family" decoding="async" loading="lazy" />		                                        <h4>Happy family</h4>
+														                                        <p>If you are interested in growing your family or caring for your family pets, our benefits plan provide a range of options.</p>
+																						</div>
+                                    </li>
+
+                                                                    <li class="list-item three-cols default border-h-top">
+										<div class="list-content">
+	                                        <img src="https://imply.io/wp-content/uploads/2023/04/icon-flexible-paid-time-off.svg" class="image-icon" alt="icon-flexible-paid-time-off" decoding="async" loading="lazy" />		                                        <h4>Flexible paid time off</h4>
+														                                        <p>Whether it’s a well-earned vacation or time needed to spend with your family, we have you covered with our unlimited paid time off plan.</p>
+																						</div>
+                                    </li>
+
+                                                                    <li class="list-item three-cols default border-h-top">
+										<div class="list-content">
+	                                        <img src="https://imply.io/wp-content/uploads/2023/04/icon-plan-for-the-future.svg" class="image-icon" alt="icon-plan-for-the-future" decoding="async" loading="lazy" />		                                        <h4>Plan for the future</h4>
+														                                        <p>We don't just help you grow your career, we help you invest in yourself through savings and retirement benefits.</p>
+																						</div>
+                                    </li>
+
+                                
+                            </ul>
+                        </div>
+                                    </div>
+            </section>
+                    <section id="expand-your-potential" class="freeform-html-section flexible">
+                <div class="container">
+											<div class="title">Expand your potential</div>
+												<div class="description"><section id="potential" class="boxes-basic-section flexible">
+<div class="container-grid">
+<ul class="list">
+<li class="list-item three-cols spaced">
+<div class="list-content">
+<h4>Power change</h4>
+<p>Our founders created Apache Druid. And now, we&#8217;ve built a complete, high-performance, real-time analytics database around it. Now that is game-changing.</p>
+</div>
+</li>
+<li class="list-item three-cols spaced">
+<div class="list-content">
+<h4>Progress with the best</h4>
+<p>We respect each other and are committed to transparency and inclusion. Our values connect and inspire us while driving reliable business results.</p>
+</div>
+</li>
+<li class="list-item three-cols spaced">
+<div class="list-content">
+<h4>Put people first</h4>
+<p>We are passionate about delivering for our customers, our investors and most importantly, for each other and we fervently support the Open Source Community.</p>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+						                </div>
+            </section>
+			
+            <hr class="container fancy tall data-stream" role="separator" />
+
+                    <section id="join-us-today" class="freeform-html-section flexible">
+                <div class="container">
+											<div class="title">Join us today</div>
+												<div class="description"><p><iframe loading="lazy" id="grnhse_iframe" title="Greenhouse Job Board" src="https://boards.greenhouse.io/embed/job_board?for=imply&amp;b=https%3A%2F%2Fimply.io%2Fcareers%2F" width="100%" height="2000" frameborder="0" scrolling="yes"></iframe></p>
+</div>
+						                </div>
+            </section>
+			
+            
+
+        
+	</div>
+</div>
+
+    </div>
+
+<div class="stream-footer-trigger"></div>
+<canvas id="data-stream-footer"></canvas>
+<style>
+#section-communicate .container-let-us h3 {
+    max-width: 100% !important;
+    padding-top: 0px !important;
+}
+#section-communicate .container-let-us h3:before {
+    display: none !important;
+}
+</style>
+    <section id="section-communicate">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-24">
+                    <div class="container-let-us">
+                            <h3>Let us help with your analytics apps</h3>
+                            <a href="https://imply.io/request-a-demo" target="_blank" class="btn btn-primary btn-lg">Request a Demo</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<footer class="footer">
+    <div class="footer-page-inner">
+        <div class="container footer-top">
+            <div class="row">
+                <div class="col-lg-7 container-site-info">
+                                            <div id="footer-widget" role="complementary">
+                            <img src="/wp-content/themes/gc-responsive-v5/images/logo-imply-white.svg" alt="Imply" class="logo-footer" />
+                            <div><p>
+Imply, the real-time analytics platform built from Apache Druid, is a fast, easy way to provide the best experience possible for your analytics apps.
+</p>
+
+<a href="#">Read more about Apache Druid</a></div>                        </div>
+                                                                <div id="social-widget" class="social-widget-desktop" role="complementary">
+                            <div><ul>
+	<li class="linkedin"><a href="https://www.linkedin.com/company/imply/" target="_blank">LinkedIn</a></li>
+	<li class="twitter"><a href="https://twitter.com/implydata" target="_blank">Twitter</a></li>
+	<li class="youtube"><a href="https://www.youtube.com/c/Implydata" target="_blank">YouTube</a></li>
+	<li class="github"><a href="https://github.com/apache/druid-website-src" target="_blank">GitHub</a></li>
+	<li class="slack"><a href="https://druid.apache.org/community/join-slack?v=1" target="_blank">Flower</a></li>
+</ul></div>                        </div>
+                                    </div>
+                <div class=" col-lg-17">
+                    <nav role="navigation">
+                        <div class="menu-footer"><ul id="menu-footer-menu" class="nav-footer" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-11789" class="menu-item nav-apachedruid"><a href="#">Apache Druid</a>
+<ul class="sub-menu">
+	<li id="menu-item-11790" class="menu-item nav-apachedruid101"><a href="/what-is-druid/">Apache Druid 101</a></li>
+	<li id="menu-item-11792" class="menu-item nav-whyimplyfordruid"><a href="/why-imply/">Why Imply for Druid</a></li>
+	<li id="menu-item-11794" class="menu-item nav-implypolaris"><a href="/imply-fully-managed-dbaas-polaris/">Imply Polaris</a></li>
+	<li id="menu-item-11796" class="menu-item nav-implyenterprisehybrid"><a href="/imply-enterprise-hybrid/">Imply Enterprise Hybrid</a></li>
+	<li id="menu-item-11795" class="menu-item nav-implyenterprise"><a href="/imply-enterprise">Imply Enterprise</a></li>
+	<li id="menu-item-16766" class="menu-item nav-pricing"><a href="https://imply.io/imply-polaris-pricing/">Pricing</a></li>
+</ul>
+</li>
+<li id="menu-item-11809" class="menu-item nav-resources"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-16767" class="menu-item nav-druiddevelopercenter"><a target="_blank" rel="noopener" href="https://imply.io/developer">Druid Developer Center</a></li>
+	<li id="menu-item-11811" class="menu-item nav-druidsuccesscenter"><a href="https://imply.io/success-stories/">Druid Success Center</a></li>
+	<li id="menu-item-11812" class="menu-item nav-druidslack"><a target="_blank" rel="noopener" href="https://druid.apache.org/community/join-slack?v=1">Druid Slack</a></li>
+	<li id="menu-item-15717" class="menu-item nav-podcast"><a href="/podcasts">Podcast</a></li>
+	<li id="menu-item-11816" class="menu-item nav-events"><a href="/resources/events/">Events</a></li>
+	<li id="menu-item-11810" class="menu-item nav-blog"><a href="/resources/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-11821" class="menu-item nav-company"><a href="#">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-11822" class="menu-item nav-about"><a href="/about-imply/">About</a></li>
+	<li id="menu-item-11823" class="menu-item current-menu-item nav-careers"><a href="/careers/" aria-current="page">Careers</a></li>
+	<li id="menu-item-15711" class="menu-item nav-leadership"><a href="/leadership-team/">Leadership</a></li>
+	<li id="menu-item-15713" class="menu-item nav-newsroom"><a href="/news-and-press/">Newsroom</a></li>
+	<li id="menu-item-11820" class="menu-item nav-trustcenter"><a href="/trust-center/">Trust Center</a></li>
+	<li id="menu-item-15714" class="menu-item nav-contact"><a href="/contact">Contact</a></li>
+</ul>
+</li>
+</ul></div>                    </nav>
+                </div>
+            </div>
+        </div>
+        <div class="container footer-bottom">
+							<div id="social-widget" class="social-widget-mobile" role="complementary">
+					<div><ul>
+	<li class="linkedin"><a href="https://www.linkedin.com/company/imply/" target="_blank">LinkedIn</a></li>
+	<li class="twitter"><a href="https://twitter.com/implydata" target="_blank">Twitter</a></li>
+	<li class="youtube"><a href="https://www.youtube.com/c/Implydata" target="_blank">YouTube</a></li>
+	<li class="github"><a href="https://github.com/apache/druid-website-src" target="_blank">GitHub</a></li>
+	<li class="slack"><a href="https://druid.apache.org/community/join-slack?v=1" target="_blank">Flower</a></li>
+</ul></div>				</div>
+						<div class="container-bottom-scroll-to-top d-none">
+				<div class="scroll-to-top"></div>
+			</div>
+							<div id="copyright-widget" role="complementary">
+					<div><p>2024 Imply. All rights reserved. Imply, the Imply logo, and Polaris are trademarks of Imply Data, Inc. In the U.S. and/or other countries. Apache Kafka, Apache Druid, Druid and the Druid logo are either registered trademarks or trademarks of the Apache Software Foundation in the USA and/or other countries. All other marks and logos are the property of their respective owners.</p>
+
+<ul>
+    <li>Also of interest</li>
+    <li><a href="/videos/pivot-2-0/">Pivot 2.0 - The Next Gen Visualization Tool</a></li>
+    <li><a href="https://www.youtube.com/watch?v=jk1YEJduq_g" target="_blank">Imply Twitch explains the benefits of - Imply Pivot</a></li>
+    <li><a href="/blog/hello-pivot/">Imply Pivot analytics UI - Imply</a></li>
+</ul>
+
+<ul>
+    <li>2024 Imply Data, Inc. All Rights reserved.</li>
+    <li><a href="/privacy/">Privacy</a></li>
+     <li><a href="/trust-center/">Trust Center</a></li>
+    <li><a href="/imply-cookie-policy/">Cookie Policy</a></li>
+    <li><a href="/legal/">Legal</a></li>
+</ul></div>				</div>
+			        </div>
+	</div>
+</footer>
+</div>
+
+
+<script type="text/javascript"> _linkedin_partner_id = "3080266"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3080266&fmt=gif" /> </noscript>
+<script type="text/javascript">
+_linkedin_partner_id = "3080266";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3080266&fmt=gif" />
+</noscript><script type="text/javascript" src="https://imply.io/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.21" id="lodash-js"></script>
+<script type="text/javascript" id="lodash-js-after">
+/* <![CDATA[ */
+window.lodash = _.noConflict();
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://imply.io/wp-content/plugins/berg/src/block/advance-accordion/js/advance-accordion-block.js?ver=6.5.2" id="e25m-advance-accordion-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/bootstrap/bootstrap.bundle.js?ver=5.1.3" id="bootstrapjs-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/flickity/flickity.pkgd.js?ver=2.0" id="flickity-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/modal-videos/modal-videos.js?ver=2.0" id="modalvideo-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/aos/aos.js?ver=2.0" id="aos-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/jquery-easing/jquery.easing.js?ver=2.0" id="easing-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/appear-js/appear.min.js?ver=2.0" id="appear-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/isotope/isotope.pkgd.min.js?ver=3.0.6" id="isotope-js-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/chris-gannon/ScrubGSAPTimeline_3_1.js?ver=1.3" id="scrub-js-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/chris-gannon/gsap.min.js?ver=1.3" id="gsap-js-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/chris-gannon/CustomEase.min.js?ver=1.3" id="custom-ease-js-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/chris-gannon/EasePack.min.js?ver=1.3" id="ease-pack-js-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/vendor/chris-gannon/ScrollTrigger.min.js?ver=1.3" id="scroll-trigger-js-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/site.js?ver=1.3" id="main-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/site.careers.js?ver=1.0" id="careers-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-content/themes/gc-responsive-v5/js/site.acf.js?ver=1.0" id="acf-header-js"></script>
+<script type="text/javascript" id="heateor_sss_sharing_js-js-before">
+/* <![CDATA[ */
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://imply.io/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://imply.io/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://imply.io/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 1;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://imply.io/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.61" id="heateor_sss_sharing_js-js"></script>
+<script type="text/javascript" src="https://imply.io/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="megamenu-js-extra">
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://imply.io/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.3.1" id="megamenu-js"></script>
+
+
+</body>
+</html>

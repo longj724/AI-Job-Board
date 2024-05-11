@@ -1,0 +1,2167 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- This is Squarespace. --><!-- purple-iguana-dd8f -->
+<base href="">
+<meta charset="utf-8" />
+<title>Job Posting &mdash; Gamefam</title>
+<meta http-equiv="Accept-CH" content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" /><link rel="icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/293653a7-cb26-4c10-8cc0-351fd5bcf632/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://gamefam.com/job-posting"/>
+<meta property="og:site_name" content="Gamefam"/>
+<meta property="og:title" content="Job Posting &mdash; Gamefam"/>
+<meta property="og:url" content="https://gamefam.com/job-posting"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/6331d661f8212b3f6a2679cd/t/63d01e59e55a475eb00dbae2/1674583641366/+socialimage.png?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="787"/>
+<meta itemprop="name" content="Job Posting — Gamefam"/>
+<meta itemprop="url" content="https://gamefam.com/job-posting"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/6331d661f8212b3f6a2679cd/t/63d01e59e55a475eb00dbae2/1674583641366/+socialimage.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/6331d661f8212b3f6a2679cd/t/63d01e59e55a475eb00dbae2/1674583641366/+socialimage.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/6331d661f8212b3f6a2679cd/t/63d01e59e55a475eb00dbae2/1674583641366/+socialimage.png?format=1500w"/>
+<meta name="twitter:title" content="Job Posting — Gamefam"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/6331d661f8212b3f6a2679cd/t/63d01e59e55a475eb00dbae2/1674583641366/+socialimage.png?format=1500w"/>
+<meta name="twitter:url" content="https://gamefam.com/job-posting"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/3qazMoM_TUDURC0fFDOVXNxPXQJWOI8gEz6KJc5z5gSfez32fFHN4UJLFRbh52jhWDjDwDBqFRjUZR6kwQ4KwhjhjQJhFD8RZg7HMkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0SYmkSeU8OA81iAB0jPuqZ2ycO1FUiABkZWF3jAF8OcFzdP37O1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80Zko0ZWbCjWw0dA9CZhBlZAZydPoRdhXCdeNRjAUGdaFXOYguS1gCZPuTZamydcIlZebtZKoDSWmyScmDSeBRZPoRdhXCSaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80ZkoRdhXCiaiaOcBRiA8XpWFR-emqiAUTdcS0dcmXOYiaikoySkolZPUaiaS0ZhBlZAZydPoRdhXCiaiaO1guS1gCZPuTZamydcIlZebtZKoDSWmyScmDSeBRZPoRdhXCiaiaO1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXKIcBqdh48OAiyScBldhoqOWgkdkJWdAB1-WFXScBCOWi8jKuRdhoqZAoDZAb7fbRDFgMMeMb6MKG4f4toIMIjgkMfqMeJnpepg6.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700">
+<script type="text/javascript" crossorigin="anonymous" defer="defer" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" defer="defer" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-020b0fb45cb485bd3bf2-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-020b0fb45cb485bd3bf2-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-61a01b41fe335828ded0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-61a01b41fe335828ded0-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-d290cbc4ad3b71e2abac-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-d290cbc4ad3b71e2abac-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-a421cd35cd6417f1d39b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-a421cd35cd6417f1d39b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-35e50722ab0bf1abdb44-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-9fb16b1675c0ff315dae-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-8be052f38e2c155258ee-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-0ac0afef4825691a4645-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-806a48ce3e4728cb9d65-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-e1c09c17d776634c0edc-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-bc47025de0c2dc839bf3-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-24b74a0326eae0cd5049-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-9fc311647ccafdf0c2d4-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-73e57f4e74d32d434fca-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-7f20186b47d1beb1b01d-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-d77586c90cd453051fec-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-5fede2f429b285a333ee-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-0e361398b7723c9dc63e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-7cc7366bda2c5540f0b1-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-78bb784006e4a84aa9cc-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-8d93ba2c12ff0765b64c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-0e32250c5a05298f4a3a-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4015fa07502fd85cce51-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9c7b93bd6c6eec5cef37-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-a5020f5bd4c8ffda4ef1-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b2bf7df4402e207cd72c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-25eec8644c11ab1c81b0-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-4aec27f1bd826750e9db-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-5b06990968e0559d4e41-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-4f86cb20877dafd2ae07-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-5869a38a2bb3cda993d1-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-dcc0462e30efbd6dc562-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-c748fbeab0ff3ac8287f-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-a5ab82bfe253d3d2dd8c-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-a9eb87c1b73b199ce387-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-78c29e2a12a5aa2a2d61-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-98ee3a678d356d849b76-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-c52b0741952de8df0b07-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-0106e2d3707028a62a85-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-6494713832425f8e79d2-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-6dfb472f441e39d78b13-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-e0b85974b943e62386de-min.en-US.js"}},"pageType":2,"website":{"id":"6331d661f8212b3f6a2679cd","identifier":"purple-iguana-dd8f","websiteType":1,"contentModifiedOn":1713485537815,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Gamefam","fullSiteTitle":"Job Posting \u2014 Gamefam","siteDescription":"","logoImageId":"6361a24e4c67c3403333f633","socialLogoImageId":"63d01e59e55a475eb00dbae2","shareButtonOptions":{"6":true,"3":true,"7":true,"8":true,"4":true,"1":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/cf3fdee2-edba-41f8-84e8-68e6800960cb/+socialimage.png","authenticUrl":"https://gamefam.com","internalUrl":"https://purple-iguana-dd8f.squarespace.com","baseUrl":"https://gamefam.com","primaryDomain":"gamefam.com","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":81,"screenname":"Discord","addedOn":1668294996689,"profileUrl":"https://discord.gg/Dp3AcA3yPB","iconEnabled":true,"serviceName":"discord-unauth"},{"serviceId":62,"screenname":"Twitter","addedOn":1668295043125,"profileUrl":"https://twitter.com/gamefamstudios","iconEnabled":true,"serviceName":"twitter-unauth"},{"serviceId":82,"screenname":"TikTok","addedOn":1668295061331,"profileUrl":"https://www.tiktok.com/@gamefamstudios?lang=en","iconEnabled":true,"serviceName":"tiktok-unauth"},{"serviceId":65,"screenname":"LinkedIn","addedOn":1668295224342,"profileUrl":"https://www.linkedin.com/company/gamefam/","iconEnabled":true,"serviceName":"linkedin-unauth"},{"serviceId":74,"screenname":"URL","addedOn":1668489027820,"profileUrl":"https://www.roblox.com/groups/6742246/Gamefam#!/about","iconEnabled":true,"serviceName":"url"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"8ac15fcdea45fb383ceacd1c166d4bdf9f953e5f22f5bc0ac5267abdb741154c","captchaSettings":{"siteKey":"","enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"6331d661f8212b3f6a2679d0","websiteId":"6331d661f8212b3f6a2679cd","subjects":[],"country":"US","state":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"minimumOrderSubtotalEnabled":false,"minimumOrderSubtotal":{"currency":"USD","value":"0.00"},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false,"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":""},"websiteCloneable":false,"collection":{"title":"Job Posting","id":"6451f0e1c9c92954c7d2e44f","fullUrl":"/job-posting","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"form-use-theme-colors":"false","header-logo-height":"31px","header-mobile-logo-max-height":"30px","header-vert-padding":"2.2vw","header-width":"Full","maxPageWidth":"1200px","pagePadding":"4vw","tweak-blog-alternating-side-by-side-image-aspect-ratio":"16:9 Widescreen","tweak-blog-alternating-side-by-side-image-spacing":"6%","tweak-blog-alternating-side-by-side-meta-spacing":"20px","tweak-blog-alternating-side-by-side-primary-meta":"Categories","tweak-blog-alternating-side-by-side-read-more-spacing":"20px","tweak-blog-alternating-side-by-side-secondary-meta":"None","tweak-blog-basic-grid-columns":"2","tweak-blog-basic-grid-image-aspect-ratio":"16:9 Widescreen","tweak-blog-basic-grid-image-spacing":"20px","tweak-blog-basic-grid-meta-spacing":"10px","tweak-blog-basic-grid-primary-meta":"None","tweak-blog-basic-grid-read-more-spacing":"20px","tweak-blog-basic-grid-secondary-meta":"Categories","tweak-blog-item-custom-width":"75","tweak-blog-item-show-author-profile":"false","tweak-blog-item-width":"Medium","tweak-blog-masonry-columns":"2","tweak-blog-masonry-horizontal-spacing":"30px","tweak-blog-masonry-image-spacing":"20px","tweak-blog-masonry-meta-spacing":"20px","tweak-blog-masonry-primary-meta":"Categories","tweak-blog-masonry-read-more-spacing":"20px","tweak-blog-masonry-secondary-meta":"Date","tweak-blog-masonry-vertical-spacing":"30px","tweak-blog-side-by-side-image-aspect-ratio":"16:9 Widescreen","tweak-blog-side-by-side-image-spacing":"7%","tweak-blog-side-by-side-meta-spacing":"20px","tweak-blog-side-by-side-primary-meta":"Categories","tweak-blog-side-by-side-read-more-spacing":"15px","tweak-blog-side-by-side-secondary-meta":"None","tweak-blog-single-column-image-spacing":"50px","tweak-blog-single-column-meta-spacing":"0px","tweak-blog-single-column-primary-meta":"Date","tweak-blog-single-column-read-more-spacing":"0px","tweak-blog-single-column-secondary-meta":"Categories","tweak-events-stacked-show-thumbnails":"true","tweak-events-stacked-thumbnail-size":"3:2 Standard","tweak-fixed-header":"true","tweak-fixed-header-style":"Scroll Back","tweak-global-animations-animation-curve":"ease","tweak-global-animations-animation-delay":"0.6s","tweak-global-animations-animation-duration":"0.60s","tweak-global-animations-animation-style":"fade","tweak-global-animations-animation-type":"slide","tweak-global-animations-complexity-level":"detailed","tweak-global-animations-enabled":"true","tweak-portfolio-grid-basic-custom-height":"50","tweak-portfolio-grid-overlay-custom-height":"50","tweak-portfolio-hover-follow-acceleration":"10%","tweak-portfolio-hover-follow-animation-duration":"Fast","tweak-portfolio-hover-follow-animation-type":"Fade","tweak-portfolio-hover-follow-delimiter":"Bullet","tweak-portfolio-hover-follow-front":"false","tweak-portfolio-hover-follow-layout":"Inline","tweak-portfolio-hover-follow-size":"50","tweak-portfolio-hover-follow-text-spacing-x":"1.5","tweak-portfolio-hover-follow-text-spacing-y":"1.5","tweak-portfolio-hover-static-animation-duration":"Fast","tweak-portfolio-hover-static-animation-type":"Fade","tweak-portfolio-hover-static-delimiter":"Hyphen","tweak-portfolio-hover-static-front":"true","tweak-portfolio-hover-static-layout":"Inline","tweak-portfolio-hover-static-size":"50","tweak-portfolio-hover-static-text-spacing-x":"1.5","tweak-portfolio-hover-static-text-spacing-y":"1.5","tweak-portfolio-index-background-animation-duration":"Medium","tweak-portfolio-index-background-animation-type":"Fade","tweak-portfolio-index-background-custom-height":"50","tweak-portfolio-index-background-delimiter":"None","tweak-portfolio-index-background-height":"Small","tweak-portfolio-index-background-horizontal-alignment":"Center","tweak-portfolio-index-background-link-format":"Stacked","tweak-portfolio-index-background-persist":"false","tweak-portfolio-index-background-vertical-alignment":"Middle","tweak-portfolio-index-background-width":"Full Bleed","tweak-product-basic-item-click-action":"None","tweak-product-basic-item-gallery-aspect-ratio":"3:4 Three-Four (Vertical)","tweak-product-basic-item-gallery-design":"Slideshow","tweak-product-basic-item-gallery-width":"50%","tweak-product-basic-item-hover-action":"None","tweak-product-basic-item-image-spacing":"2vw","tweak-product-basic-item-image-zoom-factor":"2","tweak-product-basic-item-product-variant-display":"Dropdown","tweak-product-basic-item-thumbnail-placement":"Side","tweak-product-basic-item-variant-picker-layout":"Dropdowns","tweak-products-add-to-cart-button":"false","tweak-products-columns":"2","tweak-products-gutter-column":"2vw","tweak-products-gutter-row":"2vw","tweak-products-header-text-alignment":"Middle","tweak-products-image-aspect-ratio":"2:3 Standard (Vertical)","tweak-products-image-text-spacing":"0.5vw","tweak-products-mobile-columns":"1","tweak-products-text-alignment":"Left","tweak-products-width":"Full","tweak-transparent-header":"false"},"templateId":"5c5a519771c10ba3470d8101","templateVersion":"7.1","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/","betaFeatureFlags":["fluid_engine","commerce_etsy_product_import","visitor_react_forms","hideable_header_footer_for_videos","campaigns_new_image_layout_picker","themes","website_fonts","order_status_page_checkout_landing_enabled","customer_accounts_email_verification","nested_categories","is_feature_gate_refresh_enabled","background_art_onboarding","pdp_subs_otp_visitor_site","customer_account_creation_recaptcha","commerce_clearpay","campaigns_global_uc_ab","supports_versioned_template_assets","new_stacked_index","member_areas_feature","toggle_preview_new_shortcut","campaigns_discount_section_in_automations","nested_categories_migration_enabled","campaigns_thumbnail_layout","commerce_paywall_renewal_notifications","collection_typename_switching","campaigns_import_discounts","enable_css_variable_tweaks","hide_header_footer_beta","commerce_order_status_access","google_consent_v2","marketing_landing_page","hideable_header_footer","pdp_product_add_ons_visitor_site","campaigns_discount_section_in_blasts","commerce_site_visitor_metrics","proposals_beta_in_circle_labs","fluid_engine_clean_up_grid_contextual_change","hideable_header_footer_for_courses","hideable_header_footer_for_memberareas","commerce_restock_notifications","send_local_pickup_ready_email","crm_product_contacts_use_mfe","accounting_orders_sync","i18n_beta_website_locales","commerce_etsy_shipping_import","scripts_defer","override_block_styles","commerce_subscription_renewal_notifications","crm_redesign_phase_1","unify_edit_mode_p2","commsplat_forms_visitor_profile"],"videoAssetsFeatureFlags":["mux-data-video-collection","mux-data-video-block","mux-data-course-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"America/Los_Angeles","name":"Pacific Time"}},"env":"PRODUCTION"};</script><script type="application/ld+json">{"url":"https://gamefam.com","name":"Gamefam","description":"","image":"//images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/6331d661f8212b3f6a2679cd/75/5c5a519771c10ba3470d8101/6331d661f8212b3f6a2679e7/1523/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-54JD9HJHP7"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'G-54JD9HJHP7');</script><!-- End of Squarespace Headers -->
+    
+      <link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1715197027547-1FGVIYTO5FID3JQL1XAN/static.css">
+    
+  </head>
+
+  <body
+    id="collection-6451f0e1c9c92954c7d2e44f"
+    class="
+      primary-button-style-solid primary-button-shape-pill secondary-button-style-solid secondary-button-shape-pill tertiary-button-style-solid tertiary-button-shape-square  form-field-style-solid form-field-shape-square form-field-border-all form-field-checkbox-type-icon form-field-checkbox-fill-solid form-field-checkbox-color-inverted form-field-checkbox-shape-square form-field-checkbox-layout-stack form-field-radio-type-icon form-field-radio-fill-solid form-field-radio-color-normal form-field-radio-shape-pill form-field-radio-layout-stack form-field-survey-fill-solid form-field-survey-color-normal form-field-survey-shape-pill form-field-hover-focus-outline form-submit-button-style-label header-overlay-alignment-center header-width-full  tweak-fixed-header tweak-fixed-header-style-scroll-back tweak-blog-alternating-side-by-side-width-inset tweak-blog-alternating-side-by-side-image-aspect-ratio-169-widescreen tweak-blog-alternating-side-by-side-text-alignment-left tweak-blog-alternating-side-by-side-read-more-style-show tweak-blog-alternating-side-by-side-image-text-alignment-middle tweak-blog-alternating-side-by-side-delimiter-bullet tweak-blog-alternating-side-by-side-meta-position-top tweak-blog-alternating-side-by-side-primary-meta-categories tweak-blog-alternating-side-by-side-secondary-meta-none tweak-blog-alternating-side-by-side-excerpt-show tweak-blog-basic-grid-width-inset tweak-blog-basic-grid-image-aspect-ratio-169-widescreen tweak-blog-basic-grid-text-alignment-left tweak-blog-basic-grid-delimiter-bullet tweak-blog-basic-grid-image-placement-above tweak-blog-basic-grid-read-more-style-show tweak-blog-basic-grid-primary-meta-none tweak-blog-basic-grid-secondary-meta-categories tweak-blog-basic-grid-excerpt-show tweak-blog-item-width-medium tweak-blog-item-text-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-show-categories    tweak-blog-item-delimiter-bullet tweak-blog-masonry-width-full tweak-blog-masonry-text-alignment-left tweak-blog-masonry-primary-meta-categories tweak-blog-masonry-secondary-meta-date tweak-blog-masonry-meta-position-top tweak-blog-masonry-read-more-style-show tweak-blog-masonry-delimiter-space tweak-blog-masonry-image-placement-above tweak-blog-masonry-excerpt-show tweak-blog-side-by-side-width-inset tweak-blog-side-by-side-image-placement-left tweak-blog-side-by-side-image-aspect-ratio-169-widescreen tweak-blog-side-by-side-primary-meta-categories tweak-blog-side-by-side-secondary-meta-none tweak-blog-side-by-side-meta-position-top tweak-blog-side-by-side-text-alignment-left tweak-blog-side-by-side-image-text-alignment-middle tweak-blog-side-by-side-read-more-style-show tweak-blog-side-by-side-delimiter-bullet tweak-blog-side-by-side-excerpt-show tweak-blog-single-column-width-full tweak-blog-single-column-text-alignment-center tweak-blog-single-column-image-placement-above tweak-blog-single-column-delimiter-bullet tweak-blog-single-column-read-more-style-show tweak-blog-single-column-primary-meta-date tweak-blog-single-column-secondary-meta-categories tweak-blog-single-column-meta-position-top tweak-blog-single-column-content-title-only tweak-events-stacked-width-full tweak-events-stacked-height-large  tweak-events-stacked-show-thumbnails tweak-events-stacked-thumbnail-size-32-standard tweak-events-stacked-date-style-with-text tweak-events-stacked-show-time tweak-events-stacked-show-location  tweak-events-stacked-show-excerpt  tweak-global-animations-enabled tweak-global-animations-complexity-level-detailed tweak-global-animations-animation-style-fade tweak-global-animations-animation-type-slide tweak-global-animations-animation-curve-ease tweak-portfolio-grid-basic-width-full tweak-portfolio-grid-basic-height-large tweak-portfolio-grid-basic-image-aspect-ratio-11-square tweak-portfolio-grid-basic-text-alignment-left tweak-portfolio-grid-basic-hover-effect-fade tweak-portfolio-grid-overlay-width-full tweak-portfolio-grid-overlay-height-large tweak-portfolio-grid-overlay-image-aspect-ratio-11-square tweak-portfolio-grid-overlay-text-placement-center tweak-portfolio-grid-overlay-show-text-after-hover tweak-portfolio-index-background-link-format-stacked tweak-portfolio-index-background-width-full-bleed tweak-portfolio-index-background-height-small  tweak-portfolio-index-background-vertical-alignment-middle tweak-portfolio-index-background-horizontal-alignment-center tweak-portfolio-index-background-delimiter-none tweak-portfolio-index-background-animation-type-fade tweak-portfolio-index-background-animation-duration-medium tweak-portfolio-hover-follow-layout-inline  tweak-portfolio-hover-follow-delimiter-bullet tweak-portfolio-hover-follow-animation-type-fade tweak-portfolio-hover-follow-animation-duration-fast tweak-portfolio-hover-static-layout-inline tweak-portfolio-hover-static-front tweak-portfolio-hover-static-delimiter-hyphen tweak-portfolio-hover-static-animation-type-fade tweak-portfolio-hover-static-animation-duration-fast tweak-product-basic-item-product-variant-display-dropdown tweak-product-basic-item-product-subscription-display-radio tweak-product-basic-item-product-subscription-border-shape-square tweak-product-basic-item-width-full tweak-product-basic-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-basic-item-text-alignment-left tweak-product-basic-item-navigation-breadcrumbs tweak-product-basic-item-content-alignment-top tweak-product-basic-item-gallery-design-slideshow tweak-product-basic-item-gallery-placement-left tweak-product-basic-item-thumbnail-placement-side tweak-product-basic-item-click-action-none tweak-product-basic-item-hover-action-none tweak-product-basic-item-variant-picker-layout-dropdowns tweak-products-width-full tweak-products-image-aspect-ratio-23-standard-vertical tweak-products-text-alignment-left  tweak-products-price-show tweak-products-nested-category-type-top tweak-products-category-title tweak-products-header-text-alignment-middle tweak-products-breadcrumbs image-block-poster-text-alignment-center image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-content-position-center image-block-collage-text-alignment-left image-block-stack-text-alignment-left hide-opentable-icons opentable-style-dark tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-6451f0e1c9c92954c7d2e44f collection-layout-default mobile-style-available sqs-seven-one
+      
+        show-pdp-product-add-ons
+      
+      
+        show-pdp-subs-otp
+      
+      
+      
+        
+          
+            
+              
+            
+          
+        
+      
+    "
+    data-description="plp-mobile-editor-column"
+    tabindex="-1"
+  >
+    <div
+      id="siteWrapper"
+      class="clearfix site-wrapper"
+    >
+      
+        <div id="floatingCart" class="floating-cart hidden">
+          <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
+            <span class="Cart-inner">
+              
+
+
+
+  <svg class="icon icon--cart" viewBox="0 0 31 24">
+  <g class="svg-icon cart-icon--odd">
+    <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
+    <circle fill="none" stroke-miterlimit="10" cx="9.5" cy="21.5" r="1"/>
+    <path fill="none" stroke-miterlimit="10" d="M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12"/>
+  </g>
+</svg>
+
+              <div class="legacy-cart icon-cart-quantity">
+                <span class="sqs-cart-quantity">0</span>
+              </div>
+            </span>
+          </a>
+        </div>
+      
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <header
+    data-test="header"
+    id="header"
+    
+    class="
+      
+        black
+      
+      header theme-col--primary
+    "
+    data-section-theme="black"
+    data-controller="Header"
+    data-current-styles="{
+                  &quot;layout&quot;: &quot;navRight&quot;,
+                  &quot;action&quot;: {
+                    &quot;href&quot;: &quot;/donate&quot;,
+                    &quot;buttonText&quot;: &quot;Get in Touch&quot;,
+                    &quot;newWindow&quot;: false
+                  },
+                  &quot;showSocial&quot;: false,
+                  &quot;socialOptions&quot;: {
+                    &quot;socialBorderShape&quot;: &quot;none&quot;,
+                    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                    &quot;socialBorderThickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 1.0
+                    }
+                  },
+                  &quot;sectionTheme&quot;: &quot;black&quot;,
+                  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                  &quot;cartStyle&quot;: &quot;cart&quot;,
+                  &quot;cartText&quot;: &quot;Cart&quot;,
+                  &quot;showEmptyCartState&quot;: true,
+                  &quot;cartOptions&quot;: {
+                    &quot;iconType&quot;: &quot;stroke-1&quot;,
+                    &quot;cartBorderShape&quot;: &quot;none&quot;,
+                    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                    &quot;cartBorderThickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 1.0
+                    }
+                  },
+                  &quot;showButton&quot;: false,
+                  &quot;showCart&quot;: false,
+                  &quot;showAccountLogin&quot;: true,
+                  &quot;headerStyle&quot;: &quot;theme&quot;,
+                  &quot;languagePicker&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;iconEnabled&quot;: false,
+                    &quot;iconType&quot;: &quot;globe&quot;,
+                    &quot;flagShape&quot;: &quot;shiny&quot;,
+                    &quot;languageFlags&quot;: [ ]
+                  },
+                  &quot;mobileOptions&quot;: {
+                    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                    &quot;menuIconOptions&quot;: {
+                      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 1.0
+                      }
+                    }
+                  },
+                  &quot;dynamicOptions&quot;: {
+                    &quot;border&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;position&quot;: &quot;allSides&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 4.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    }
+                  },
+                  &quot;solidOptions&quot;: {
+                    &quot;headerOpacity&quot;: {
+                      &quot;unit&quot;: &quot;%&quot;,
+                      &quot;value&quot;: 100.0
+                    },
+                    &quot;border&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;position&quot;: &quot;allSides&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 4.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;dropShadow&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blur&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 30.0
+                      },
+                      &quot;spread&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;distance&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;blurBackground&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blurRadius&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 12.0
+                      }
+                    },
+                    &quot;backgroundColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;white&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    },
+                    &quot;navigationColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;black&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    }
+                  },
+                  &quot;gradientOptions&quot;: {
+                    &quot;gradientType&quot;: &quot;faded&quot;,
+                    &quot;headerOpacity&quot;: {
+                      &quot;unit&quot;: &quot;%&quot;,
+                      &quot;value&quot;: 90.0
+                    },
+                    &quot;border&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;position&quot;: &quot;allSides&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 4.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;dropShadow&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blur&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 30.0
+                      },
+                      &quot;spread&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;distance&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;blurBackground&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blurRadius&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 12.0
+                      }
+                    },
+                    &quot;backgroundColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;white&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    },
+                    &quot;navigationColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;black&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    }
+                  },
+                  &quot;dropShadowOptions&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blur&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    },
+                    &quot;spread&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    },
+                    &quot;distance&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  },
+                  &quot;borderOptions&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;bottom&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  },
+                  &quot;showPromotedElement&quot;: false,
+                  &quot;buttonVariant&quot;: &quot;primary&quot;,
+                  &quot;blurBackground&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blurRadius&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  },
+                  &quot;headerOpacity&quot;: {
+                    &quot;unit&quot;: &quot;%&quot;,
+                    &quot;value&quot;: 100.0
+                  }
+                }"
+    data-section-id="header"
+    data-header-style="theme"
+    data-language-picker="{
+                  &quot;enabled&quot;: false,
+                  &quot;iconEnabled&quot;: false,
+                  &quot;iconType&quot;: &quot;globe&quot;,
+                  &quot;flagShape&quot;: &quot;shiny&quot;,
+                  &quot;languageFlags&quot;: [ ]
+                }"
+    
+    data-first-focusable-element
+    tabindex="-1"
+    style="
+      
+        
+        
+      
+      
+        --solidHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --solidHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+      
+        --gradientHeaderBackgroundColor: hsla(var(--white-hsl), 1);
+      
+      
+        --gradientHeaderNavigationColor: hsla(var(--black-hsl), 1);
+      
+    "
+  >
+    
+<div class="sqs-announcement-bar-dropzone"></div>
+
+    <div class="header-announcement-bar-wrapper">
+      
+      <a
+        href="#page"
+        class="header-skip-link sqs-button-element--primary"
+      >
+        Skip to Content
+      </a>
+      
+
+
+<style>
+    @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+        .header-blur-background {
+            
+            
+        }
+    }
+</style>
+      <div
+        class="header-border"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-border="false"
+        data-test="header-border"
+        style="
+
+
+
+
+
+
+
+
+  
+
+
+
+"
+      ></div>
+      <div
+        class="header-dropshadow"
+        data-header-style="theme"
+        data-header-usability-enabled="true"
+        data-header-dropshadow="false"
+        data-test="header-dropshadow"
+        style="
+
+
+  
+"
+      ></div>
+      
+      
+
+      <div class='header-inner container--fluid
+        
+        
+        
+         header-mobile-layout-logo-left-nav-right
+        
+        
+        
+        
+        
+        
+         header-layout-nav-right
+        
+        
+        
+        
+        
+        
+        
+        
+        '
+        style="
+
+
+
+
+
+
+
+
+"
+        data-test="header-inner"
+        >
+        <!-- Background -->
+        <div class="header-background theme-bg--primary"></div>
+
+        <div class="header-display-desktop" data-content-field="site-title">
+          
+
+          
+
+          
+
+          
+
+          
+
+          
+          
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
+<img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=1500w" alt="Gamefam" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+
+                        </a>
+                      </div>
+
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--homepage">
+      <a
+        href="/"
+        data-animation-role="header-element"
+        
+      >
+        HOME
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/games"
+        data-animation-role="header-element"
+        
+      >
+        OUR GAMES
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/for-brands"
+        data-animation-role="header-element"
+        
+      >
+        FOR BRANDS
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/now-hiring"
+        data-animation-role="header-element"
+        
+      >
+        NOW HIRING!
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/about"
+        data-animation-role="header-element"
+        
+      >
+        ABOUT US
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/contact"
+        data-animation-role="header-element"
+        
+      >
+        CONTACT US
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div>
+
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 1px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+
+        </div>
+        <div class="header-display-mobile" data-content-field="site-title">
+          
+            
+            <!-- Social -->
+            
+          
+            
+            <!-- Title and nav wrapper -->
+            <div class="header-title-nav-wrapper">
+              
+
+              
+
+              
+                
+                <!-- Title -->
+                
+                  <div
+                    class="
+                      header-title
+                      
+                    "
+                    data-animation-role="header-element"
+                  >
+                    
+                      <div class="header-title-logo">
+                        <a href="/" data-animation-role="header-element">
+                        
+<img elementtiming="nbf-header-logo-desktop" src="//images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=1500w" alt="Gamefam" style="display:block" fetchpriority="high" loading="eager" decoding="async" data-loader="raw">
+
+                        </a>
+                      </div>
+
+                    
+                    
+                  </div>
+                
+              
+                
+                <!-- Nav -->
+                <div class="header-nav">
+                  <div class="header-nav-wrapper">
+                    <nav class="header-nav-list">
+                      
+
+
+  
+    <div class="header-nav-item header-nav-item--collection header-nav-item--homepage">
+      <a
+        href="/"
+        data-animation-role="header-element"
+        
+      >
+        HOME
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/games"
+        data-animation-role="header-element"
+        
+      >
+        OUR GAMES
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/for-brands"
+        data-animation-role="header-element"
+        
+      >
+        FOR BRANDS
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/now-hiring"
+        data-animation-role="header-element"
+        
+      >
+        NOW HIRING!
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/about"
+        data-animation-role="header-element"
+        
+      >
+        ABOUT US
+      </a>
+    </div>
+  
+  
+  
+
+
+  
+    <div class="header-nav-item header-nav-item--collection">
+      <a
+        href="/contact"
+        data-animation-role="header-element"
+        
+      >
+        CONTACT US
+      </a>
+    </div>
+  
+  
+  
+
+
+
+                    </nav>
+                  </div>
+                </div>
+              
+              
+            </div>
+          
+            
+            <!-- Actions -->
+            <div class="header-actions header-actions--right">
+              
+              
+
+              
+
+            
+            
+
+              
+              <div class="showOnMobile">
+                
+              </div>
+
+              
+              <div class="showOnDesktop">
+                
+              </div>
+
+              
+            </div>
+          
+            
+
+
+<style>
+  .top-bun, 
+  .patty, 
+  .bottom-bun {
+    height: 1px;
+  }
+</style>
+
+<!-- Burger -->
+<div class="header-burger
+
+  menu-overlay-has-visible-non-navigation-items
+
+
+  
+  no-actions
+  
+" data-animation-role="header-element">
+  <button class="header-burger-btn burger" data-test="header-burger">
+    <span hidden class="js-header-burger-open-title visually-hidden">Open Menu</span>
+    <span hidden class="js-header-burger-close-title visually-hidden">Close Menu</span>
+    <div class="burger-box">
+      <div class="burger-inner header-menu-icon-doubleLineHamburger">
+        <div class="top-bun"></div>
+        <div class="patty"></div>
+        <div class="bottom-bun"></div>
+      </div>
+    </div>
+  </button>
+</div>
+
+          
+          
+          
+          
+          
+        </div>
+      </div>
+    </div>
+    <!-- (Mobile) Menu Navigation -->
+    <div class="header-menu header-menu--folder-list
+      
+      
+      
+      
+      
+      "
+      data-section-theme=""
+      data-current-styles="{
+                  &quot;layout&quot;: &quot;navRight&quot;,
+                  &quot;action&quot;: {
+                    &quot;href&quot;: &quot;/donate&quot;,
+                    &quot;buttonText&quot;: &quot;Get in Touch&quot;,
+                    &quot;newWindow&quot;: false
+                  },
+                  &quot;showSocial&quot;: false,
+                  &quot;socialOptions&quot;: {
+                    &quot;socialBorderShape&quot;: &quot;none&quot;,
+                    &quot;socialBorderStyle&quot;: &quot;outline&quot;,
+                    &quot;socialBorderThickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 1.0
+                    }
+                  },
+                  &quot;sectionTheme&quot;: &quot;black&quot;,
+                  &quot;menuOverlayAnimation&quot;: &quot;fade&quot;,
+                  &quot;cartStyle&quot;: &quot;cart&quot;,
+                  &quot;cartText&quot;: &quot;Cart&quot;,
+                  &quot;showEmptyCartState&quot;: true,
+                  &quot;cartOptions&quot;: {
+                    &quot;iconType&quot;: &quot;stroke-1&quot;,
+                    &quot;cartBorderShape&quot;: &quot;none&quot;,
+                    &quot;cartBorderStyle&quot;: &quot;outline&quot;,
+                    &quot;cartBorderThickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 1.0
+                    }
+                  },
+                  &quot;showButton&quot;: false,
+                  &quot;showCart&quot;: false,
+                  &quot;showAccountLogin&quot;: true,
+                  &quot;headerStyle&quot;: &quot;theme&quot;,
+                  &quot;languagePicker&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;iconEnabled&quot;: false,
+                    &quot;iconType&quot;: &quot;globe&quot;,
+                    &quot;flagShape&quot;: &quot;shiny&quot;,
+                    &quot;languageFlags&quot;: [ ]
+                  },
+                  &quot;mobileOptions&quot;: {
+                    &quot;layout&quot;: &quot;logoLeftNavRight&quot;,
+                    &quot;menuIcon&quot;: &quot;doubleLineHamburger&quot;,
+                    &quot;menuIconOptions&quot;: {
+                      &quot;style&quot;: &quot;doubleLineHamburger&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 1.0
+                      }
+                    }
+                  },
+                  &quot;dynamicOptions&quot;: {
+                    &quot;border&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;position&quot;: &quot;allSides&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 4.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    }
+                  },
+                  &quot;solidOptions&quot;: {
+                    &quot;headerOpacity&quot;: {
+                      &quot;unit&quot;: &quot;%&quot;,
+                      &quot;value&quot;: 100.0
+                    },
+                    &quot;border&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;position&quot;: &quot;allSides&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 4.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;dropShadow&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blur&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 30.0
+                      },
+                      &quot;spread&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;distance&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;blurBackground&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blurRadius&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 12.0
+                      }
+                    },
+                    &quot;backgroundColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;white&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    },
+                    &quot;navigationColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;black&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    }
+                  },
+                  &quot;gradientOptions&quot;: {
+                    &quot;gradientType&quot;: &quot;faded&quot;,
+                    &quot;headerOpacity&quot;: {
+                      &quot;unit&quot;: &quot;%&quot;,
+                      &quot;value&quot;: 90.0
+                    },
+                    &quot;border&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;position&quot;: &quot;allSides&quot;,
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 4.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;dropShadow&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blur&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 30.0
+                      },
+                      &quot;spread&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;distance&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 0.0
+                      },
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                        &quot;sitePaletteColor&quot;: {
+                          &quot;colorName&quot;: &quot;black&quot;,
+                          &quot;alphaModifier&quot;: 1.0
+                        }
+                      }
+                    },
+                    &quot;blurBackground&quot;: {
+                      &quot;enabled&quot;: false,
+                      &quot;blurRadius&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 12.0
+                      }
+                    },
+                    &quot;backgroundColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;white&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    },
+                    &quot;navigationColor&quot;: {
+                      &quot;type&quot;: &quot;SITE_PALETTE_COLOR&quot;,
+                      &quot;sitePaletteColor&quot;: {
+                        &quot;colorName&quot;: &quot;black&quot;,
+                        &quot;alphaModifier&quot;: 1.0
+                      }
+                    }
+                  },
+                  &quot;dropShadowOptions&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blur&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    },
+                    &quot;spread&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    },
+                    &quot;distance&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  },
+                  &quot;borderOptions&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;position&quot;: &quot;bottom&quot;,
+                    &quot;thickness&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 4.0
+                    }
+                  },
+                  &quot;showPromotedElement&quot;: false,
+                  &quot;buttonVariant&quot;: &quot;primary&quot;,
+                  &quot;blurBackground&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;blurRadius&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 12.0
+                    }
+                  },
+                  &quot;headerOpacity&quot;: {
+                    &quot;unit&quot;: &quot;%&quot;,
+                    &quot;value&quot;: 100.0
+                  }
+                }"
+      data-section-id="overlay-nav"
+      data-show-account-login="true"
+      data-test="header-menu">
+      <div class="header-menu-bg theme-bg--primary"></div>
+      <div class="header-menu-nav">
+        <nav class="header-menu-nav-list">
+          <div data-folder="root" class="header-menu-nav-folder">
+            <div class="header-menu-nav-folder-content">
+              <!-- Menu Navigation -->
+<div class="header-menu-nav-wrapper">
+  
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection header-menu-nav-item--homepage">
+              <a
+                href="/"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  HOME
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/games"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  OUR GAMES
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/for-brands"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  FOR BRANDS
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/now-hiring"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  NOW HIRING!
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/about"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  ABOUT US
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+      
+        
+          
+            <div class="container header-menu-nav-item header-menu-nav-item--collection">
+              <a
+                href="/contact"
+                
+              >
+                <div class="header-menu-nav-item-content">
+                  CONTACT US
+                </div>
+              </a>
+            </div>
+          
+        
+      
+    
+  
+</div>
+
+              
+            </div>
+            
+            
+            
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+
+
+
+      <main id="page" class="container" role="main">
+        
+          
+<article class="sections" id="sections" data-page-sections="6451f0e1c9c92954c7d2e450">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+      
+    
+    
+    '
+  
+  data-section-id="6451f0f03a682a7da41587db"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+                  &quot;imageOverlayOpacity&quot;: 0.15,
+                  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+                  &quot;customSectionHeight&quot;: 1,
+                  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+                  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                  &quot;customContentWidth&quot;: 50,
+                  &quot;backgroundColor&quot;: &quot;&quot;,
+                  &quot;sectionTheme&quot;: &quot;&quot;,
+                  &quot;sectionAnimation&quot;: &quot;none&quot;,
+                  &quot;backgroundMode&quot;: &quot;image&quot;
+                }"
+  data-current-context="{
+                  &quot;video&quot;: {
+                    &quot;playbackSpeed&quot;: 0.5,
+                    &quot;filter&quot;: 1,
+                    &quot;filterStrength&quot;: 0,
+                    &quot;zoom&quot;: 0,
+                    &quot;videoSourceProvider&quot;: &quot;none&quot;
+                  },
+                  &quot;backgroundImageId&quot;: null,
+                  &quot;backgroundMediaEffect&quot;: {
+                    &quot;type&quot;: &quot;none&quot;
+                  },
+                  &quot;divider&quot;: {
+                    &quot;enabled&quot;: false,
+                    &quot;type&quot;: &quot;wavy&quot;,
+                    &quot;width&quot;: {
+                      &quot;unit&quot;: &quot;vw&quot;,
+                      &quot;value&quot;: 100.0
+                    },
+                    &quot;height&quot;: {
+                      &quot;unit&quot;: &quot;vw&quot;,
+                      &quot;value&quot;: 6.0
+                    },
+                    &quot;isFlipX&quot;: false,
+                    &quot;isFlipY&quot;: false,
+                    &quot;offset&quot;: {
+                      &quot;unit&quot;: &quot;px&quot;,
+                      &quot;value&quot;: 0.0
+                    },
+                    &quot;stroke&quot;: {
+                      &quot;style&quot;: &quot;solid&quot;,
+                      &quot;color&quot;: {
+                        &quot;type&quot;: &quot;THEME_COLOR&quot;
+                      },
+                      &quot;thickness&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 6.0
+                      },
+                      &quot;dashLength&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 5.0
+                      },
+                      &quot;gapLength&quot;: {
+                        &quot;unit&quot;: &quot;px&quot;,
+                        &quot;value&quot;: 15.0
+                      },
+                      &quot;linecap&quot;: &quot;square&quot;
+                    }
+                  },
+                  &quot;typeName&quot;: &quot;page&quot;
+                }"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6451f0f29cf63f3ad64898b8 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(8,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6451f0f29cf63f3ad64898b8 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6451f0f29cf63f3ad64898b8 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1688583440130_3396 {
+    grid-area: 1/2/3/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1688583440130_3396 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1688583440130_3396 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1688583440130_3396 {
+      grid-area: 1/14/3/26;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1688583440130_3396 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1688583440130_3396 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1683091620843_4942 {
+    grid-area: 3/2/9/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1683091620843_4942 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1683091620843_4942 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1683091620843_4942 {
+      grid-area: 3/1/9/27;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1683091620843_4942 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1683091620843_4942 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6451f0f29cf63f3ad64898b8"><div class="fe-block fe-block-yui_3_17_2_1_1688583440130_3396"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1688583440130_3396"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p style="text-align:right;white-space:pre-wrap;" class="sqsrte-small"><a href="https://gamefam.com/now-hiring#open-positions"><span class="sqsrte-text-color--black">Back to all openings</span></a></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1683091620843_4942"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1683091620843_4942"><div class="sqs-block-content"><div id="grnhse_app"></div></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>
+
+
+          
+
+          
+            
+          
+        
+      </main>
+      <script type="text/javascript">
+        const firstSection = document.querySelector('.page-section');
+        const header = document.querySelector('.header');
+        const mobileOverlayNav = document.querySelector('.header-menu');
+        const sectionBackground = firstSection ? firstSection.querySelector('.section-background') : null;
+        const headerHeight = header ? header.getBoundingClientRect().height : 0;
+        const firstSectionHasBackground = firstSection ? firstSection.className.indexOf('has-background') >= 0 : false;
+        const isFirstSectionInset = firstSection ? firstSection.className.indexOf('background-width--inset') >= 0 : false;
+        const isLayoutEngineSection = firstSection ? firstSection.className.indexOf('layout-engine-section') >= 0 : false;
+
+        if (firstSection) {
+          firstSection.style.paddingTop = headerHeight + 'px';
+        }
+        if (sectionBackground && isLayoutEngineSection) {
+          if (isFirstSectionInset) {
+            sectionBackground.style.top = headerHeight + 'px';
+          } else {
+            sectionBackground.style.top = '';
+          }
+        }
+        //# sourceURL=headerPositioning.js
+      </script>
+
+      
+        <footer class="sections" id="footer-sections" data-footer-sections>
+  
+  
+  
+  
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="6331d662f8212b3f6a2679fa"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+                  &quot;backgroundImage&quot;: {
+                    &quot;id&quot;: &quot;636c430f4feb3455a56e0b5c&quot;,
+                    &quot;recordType&quot;: 2,
+                    &quot;addedOn&quot;: 1668039439043,
+                    &quot;updatedOn&quot;: 1668039449440,
+                    &quot;workflowState&quot;: 1,
+                    &quot;publishOn&quot;: 1668039439043,
+                    &quot;authorId&quot;: &quot;569c04b10ab377ab2b4897e0&quot;,
+                    &quot;systemDataId&quot;: &quot;3085df99-a42a-4115-b243-47f39aceda5c&quot;,
+                    &quot;systemDataVariants&quot;: &quot;1500x500,100w,300w,500w,750w,1000w,1500w&quot;,
+                    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+                    &quot;filename&quot;: &quot;footer_wave.png&quot;,
+                    &quot;mediaFocalPoint&quot;: {
+                      &quot;x&quot;: 0.46875,
+                      &quot;y&quot;: 0.16374269005847952,
+                      &quot;source&quot;: 3
+                    },
+                    &quot;colorData&quot;: {
+                      &quot;topLeftAverage&quot;: &quot;000014&quot;,
+                      &quot;topRightAverage&quot;: &quot;00002b&quot;,
+                      &quot;bottomLeftAverage&quot;: &quot;26296a&quot;,
+                      &quot;bottomRightAverage&quot;: &quot;f9c7b8&quot;,
+                      &quot;centerAverage&quot;: &quot;181952&quot;,
+                      &quot;suggestedBgColor&quot;: &quot;352f59&quot;
+                    },
+                    &quot;urlId&quot;: &quot;6fdnnadgrfcip2b67a6f4ycydwxk64&quot;,
+                    &quot;title&quot;: &quot;&quot;,
+                    &quot;body&quot;: null,
+                    &quot;likeCount&quot;: 0,
+                    &quot;commentCount&quot;: 0,
+                    &quot;publicCommentCount&quot;: 0,
+                    &quot;commentState&quot;: 2,
+                    &quot;unsaved&quot;: false,
+                    &quot;author&quot;: {
+                      &quot;id&quot;: &quot;569c04b10ab377ab2b4897e0&quot;,
+                      &quot;displayName&quot;: &quot;Jeff Immer&quot;,
+                      &quot;firstName&quot;: &quot;Jeff&quot;,
+                      &quot;lastName&quot;: &quot;Immer&quot;,
+                      &quot;bio&quot;: &quot;&quot;
+                    },
+                    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png&quot;,
+                    &quot;contentType&quot;: &quot;image/png&quot;,
+                    &quot;items&quot;: [ ],
+                    &quot;pushedServices&quot;: { },
+                    &quot;pendingPushedServices&quot;: { },
+                    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+                    &quot;originalSize&quot;: &quot;1500x500&quot;
+                  },
+                  &quot;imageOverlayOpacity&quot;: 0.15,
+                  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+                  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+                  &quot;customSectionHeight&quot;: 46,
+                  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+                  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+                  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+                  &quot;customContentWidth&quot;: 50,
+                  &quot;sectionTheme&quot;: &quot;black&quot;,
+                  &quot;sectionAnimation&quot;: &quot;none&quot;,
+                  &quot;backgroundMode&quot;: &quot;image&quot;
+                }"
+  data-current-context="{
+                  &quot;video&quot;: {
+                    &quot;playbackSpeed&quot;: 0.5,
+                    &quot;filter&quot;: 1,
+                    &quot;filterStrength&quot;: 0,
+                    &quot;zoom&quot;: 0,
+                    &quot;videoSourceProvider&quot;: &quot;none&quot;
+                  },
+                  &quot;backgroundImageId&quot;: null,
+                  &quot;backgroundMediaEffect&quot;: {
+                    &quot;type&quot;: &quot;none&quot;
+                  },
+                  &quot;divider&quot;: null,
+                  &quot;typeName&quot;: &quot;page&quot;
+                }"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 46vh;" 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" data-src="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png" data-image="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png" data-image-dimensions="1500x500" data-image-focal-point="0.46875,0.16374269005847952" alt="footer_wave.png" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png" width="1500" height="500" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 46.875% 16.374269005847953%" srcset="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/3085df99-a42a-4115-b243-47f39aceda5c/footer_wave.png?format=2500w 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+           padding-bottom: calc(46vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6331d662f8212b3f6a2679f9 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 0.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(15,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 0.0px;
+  column-gap: 0.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6331d662f8212b3f6a2679f9 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6331d662f8212b3f6a2679f9 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 0.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1667589928213_147612 {
+    grid-area: 2/4/4/8;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1667589928213_147612 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1667589928213_147612 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1667589928213_147612 {
+      grid-area: 1/20/4/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1667589928213_147612 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1667589928213_147612 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-33bce969a815bf529998 {
+    grid-area: 5/3/7/9;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-33bce969a815bf529998 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-33bce969a815bf529998 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-33bce969a815bf529998 {
+      grid-area: 4/2/8/8;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-33bce969a815bf529998 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-33bce969a815bf529998 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1667589928213_195238 {
+    grid-area: 8/2/11/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1667589928213_195238 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1667589928213_195238 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1667589928213_195238 {
+      grid-area: 1/2/3/19;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1667589928213_195238 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1667589928213_195238 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6331d662f8212b3f6a2679f9"><div class="fe-block fe-block-yui_3_17_2_1_1667589928213_147612"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1667589928213_147612"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            <a
+              class="sqs-block-image-link content-fit"
+              href="http://www.gamefam.com"
+              
+            >
+              
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" data-src="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png" data-image="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png" data-image-dimensions="384x76" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png" width="384" height="76" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 50vw, 25vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/6331d661f8212b3f6a2679cd/bd610bc7-0715-468c-8306-98c4986d5fc6/gamefam_logo.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+            </a>
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1667589928213_147612 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-33bce969a815bf529998"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-33bce969a815bf529998"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color- social-icons-size-medium social-icons-shape-circle social-icons-style-knockout" >
+  <style>
+    #block-33bce969a815bf529998 .social-icons-style-border .sqs-svg-icon--wrapper {
+      
+        box-shadow: 0 0 0 2px inset;
+      
+      border: none; 
+    }
+  </style>
+  <nav class="sqs-svg-icon--list">
+    <a href="https://discord.gg/Dp3AcA3yPB" target="_blank" class="sqs-svg-icon--wrapper discord-unauth" aria-label="Discord">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#discord-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#discord-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/gamefamstudios" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.tiktok.com/@gamefamstudios?lang=en" target="_blank" class="sqs-svg-icon--wrapper tiktok-unauth" aria-label="TikTok">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#tiktok-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#tiktok-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.linkedin.com/company/gamefam/" target="_blank" class="sqs-svg-icon--wrapper linkedin-unauth" aria-label="LinkedIn">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.roblox.com/groups/6742246/Gamefam#!/about" target="_blank" class="sqs-svg-icon--wrapper url" aria-label="URL">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#url-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#url-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1667589928213_195238"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1667589928213_195238"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <pre><code><a href="/games">Our Games</a>    <a href="/for-brands">for Brands</a>    <a href="/now-hiring">Now Hiring! </a>    <a href="/about">About Us</a>    <a href="/news">NEWS</a>    <a href="/contact">Contact US</a>    <a href="/privacy-notice">Privacy</a></code></pre>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</footer>
+
+      
+    </div>
+
+    <script defer="defer" src="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/scripts/site-bundle.d000490d56799ef0c7f535a69682ca3c.js" type="text/javascript"></script>
+    <script src="https://boards.greenhouse.io/embed/job_board/js?for=gamefam"></script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="discord-unauth-icon" viewBox="0 0 64 64"><path d="M42.3963 22.8955C40.4842 22.0182 38.4337 21.3718 36.2899 21.0016C36.2508 20.9944 36.2118 21.0123 36.1917 21.048C35.928 21.517 35.6359 22.1289 35.4314 22.6098C33.1255 22.2646 30.8315 22.2646 28.5729 22.6098C28.3683 22.1182 28.0656 21.517 27.8007 21.048C27.7806 21.0135 27.7416 20.9956 27.7026 21.0016C25.5599 21.3706 23.5095 22.017 21.5962 22.8955C21.5796 22.9027 21.5654 22.9146 21.556 22.93C17.6667 28.7405 16.6013 34.4081 17.124 40.0055C17.1263 40.0329 17.1417 40.0591 17.163 40.0757C19.729 41.9601 22.2146 43.1041 24.6541 43.8624C24.6931 43.8743 24.7345 43.8601 24.7594 43.8279C25.3364 43.0399 25.8508 42.209 26.2918 41.3352C26.3179 41.284 26.293 41.2233 26.2398 41.203C25.4239 40.8935 24.647 40.5162 23.8997 40.0876C23.8405 40.0531 23.8358 39.9686 23.8902 39.9281C24.0475 39.8102 24.2048 39.6876 24.3549 39.5638C24.3821 39.5412 24.42 39.5364 24.4519 39.5507C29.3616 41.7923 34.6769 41.7923 39.5287 39.5507C39.5606 39.5352 39.5985 39.54 39.6268 39.5626C39.7771 39.6864 39.9343 39.8102 40.0928 39.9281C40.1472 39.9686 40.1436 40.0531 40.0845 40.0876C39.3372 40.5245 38.5602 40.8935 37.7431 41.2019C37.6899 41.2221 37.6663 41.284 37.6923 41.3352C38.1428 42.2077 38.6572 43.0387 39.2236 43.8267C39.2473 43.8601 39.2898 43.8743 39.3289 43.8624C41.7802 43.1041 44.2658 41.9601 46.8318 40.0757C46.8543 40.0591 46.8685 40.0341 46.8708 40.0067C47.4964 33.5355 45.8231 27.9143 42.4353 22.9312C42.427 22.9146 42.4128 22.9027 42.3963 22.8955ZM27.025 36.5973C25.5469 36.5973 24.3289 35.2402 24.3289 33.5736C24.3289 31.907 25.5233 30.55 27.025 30.55C28.5386 30.55 29.7448 31.9189 29.7211 33.5736C29.7211 35.2402 28.5268 36.5973 27.025 36.5973ZM36.9934 36.5973C35.5153 36.5973 34.2974 35.2402 34.2974 33.5736C34.2974 31.907 35.4917 30.55 36.9934 30.55C38.507 30.55 39.7132 31.9189 39.6895 33.5736C39.6895 35.2402 38.507 36.5973 36.9934 36.5973Z" /></symbol><symbol id="discord-unauth-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0V64H64V0ZM36.23 20.0021C36.42 20.0021 40.8 20.3921 43.57 22.6221C45.07 24.0021 48 31.9321 47.98 38.7821C47.9812 38.9047 47.9501 39.0253 47.89 39.1321C45.87 42.6521 40.35 43.6521 39.09 43.6521C38.9798 43.6529 38.8709 43.628 38.772 43.5794C38.673 43.5308 38.5868 43.4598 38.52 43.3721L37.25 41.6221C39.1718 41.1872 40.9765 40.3412 42.54 39.1421C42.6637 39.0161 42.7351 38.8481 42.7401 38.6716C42.7451 38.4951 42.6832 38.3233 42.5669 38.1905C42.4506 38.0578 42.2884 37.9738 42.1128 37.9556C41.9372 37.9373 41.7612 37.9861 41.62 38.0921C41.59 38.1221 38.35 40.8721 32 40.8721C25.65 40.8721 22.36 38.0921 22.36 38.0921C22.2189 37.9861 22.0429 37.9373 21.8673 37.9556C21.6917 37.9738 21.5295 38.0578 21.4132 38.1905C21.2968 38.3233 21.2349 38.4951 21.2399 38.6716C21.2449 38.8481 21.3164 39.0161 21.44 39.1421C23.0035 40.3412 24.8083 41.1872 26.73 41.6221L25.46 43.3721C25.3933 43.4598 25.307 43.5308 25.2081 43.5794C25.1091 43.628 25.0003 43.6529 24.89 43.6521C23.63 43.6121 18.09 42.6821 16.09 39.1321C16.0299 39.0253 15.9989 38.9047 16 38.7821C16 31.9321 18.93 24.0021 20.4 22.6521C23.2 20.3921 27.58 20.0021 27.77 20.0021C27.9146 19.9908 28.0591 20.0252 28.1829 20.1006C28.3068 20.176 28.4037 20.2885 28.46 20.4221C28.5436 20.6103 28.6138 20.8041 28.67 21.0021C26.4824 21.3233 24.3773 22.0635 22.47 23.1821C22.3885 23.232 22.3178 23.2979 22.2623 23.3757C22.2068 23.4536 22.1676 23.5419 22.1471 23.6353C22.1265 23.7287 22.125 23.8252 22.1427 23.9192C22.1604 24.0132 22.1969 24.1026 22.25 24.1821C22.2981 24.2656 22.3628 24.3383 22.4402 24.3956C22.5176 24.4529 22.606 24.4936 22.6999 24.5152C22.7937 24.5368 22.891 24.5388 22.9857 24.5211C23.0804 24.5033 23.1704 24.4662 23.25 24.4121C25.9097 22.9176 28.9092 22.1326 31.96 22.1326C35.0108 22.1326 38.0103 22.9176 40.67 24.4121C40.7497 24.4662 40.8397 24.5033 40.9344 24.5211C41.029 24.5388 41.1263 24.5368 41.2202 24.5152C41.3141 24.4936 41.4025 24.4529 41.4799 24.3956C41.5573 24.3383 41.622 24.2656 41.67 24.1821C41.7231 24.1026 41.7596 24.0132 41.7773 23.9192C41.795 23.8252 41.7935 23.7287 41.773 23.6353C41.7525 23.5419 41.7133 23.4536 41.6578 23.3757C41.6023 23.2979 41.5316 23.232 41.45 23.1821C39.5679 22.0696 37.4907 21.3263 35.33 20.9921C35.3895 20.7952 35.4596 20.6015 35.54 20.4121C35.5991 20.2813 35.697 20.1718 35.8204 20.0984C35.9439 20.0251 36.0869 19.9915 36.23 20.0021ZM26.4843 35.7456C26.7961 35.8958 27.1345 35.983 27.48 36.0021C28.1619 35.9409 28.793 35.6163 29.2392 35.0972C29.6855 34.5781 29.9118 33.9054 29.87 33.2221C29.9141 32.5308 29.6836 31.85 29.2286 31.3276C28.7736 30.8052 28.1309 30.4834 27.44 30.4321C26.7474 30.4809 26.1021 30.8016 25.645 31.3243C25.1879 31.8469 24.9561 32.5292 25 33.2221C24.9798 33.5676 25.0279 33.9137 25.1416 34.2406C25.2554 34.5675 25.4326 34.8687 25.6629 35.1269C25.8933 35.3852 26.1724 35.5955 26.4843 35.7456ZM34.6952 35.1102C35.1499 35.6304 35.791 35.9508 36.48 36.0021H36.52C36.8656 35.983 37.204 35.8958 37.5158 35.7456C37.8276 35.5955 38.1067 35.3852 38.3371 35.1269C38.5675 34.8687 38.7447 34.5675 38.8584 34.2406C38.9722 33.9137 39.0203 33.5676 39 33.2221C39.0216 32.8726 38.9732 32.5223 38.8576 32.1917C38.742 31.8612 38.5615 31.5571 38.3268 31.2972C38.092 31.0373 37.8078 30.8269 37.4907 30.6784C37.1735 30.5298 36.8299 30.4461 36.48 30.4321C35.7892 30.4834 35.1465 30.8052 34.6915 31.3276C34.2365 31.85 34.006 32.5308 34.05 33.2221C34.0087 33.9118 34.2405 34.59 34.6952 35.1102Z" /></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="tiktok-unauth-icon" viewBox="0 0 64 64"><path d="M37.9281 17C38.4298 21.2545 40.825 23.7941 45 24.0658V28.8451C42.5859 29.0794 40.4652 28.3016 38.0038 26.821V35.7423C38.0038 47.147 25.4788 50.7361 20.4233 42.5457C17.1856 37.3073 19.1642 28.1048 29.5496 27.73V32.781C28.7296 32.9058 27.9219 33.1002 27.1355 33.362C24.835 34.1398 23.5191 35.583 23.8883 38.1413C24.5889 43.033 33.6584 44.4856 32.901 34.9176V17H37.9091H37.9281Z" /></symbol><symbol id="tiktok-unauth-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0V64H64V0ZM45.44 23.54C41 23.25 38.5 20.54 38 16H32.68V35.12C33.48 45.33 23.9 43.78 23.16 38.56C22.78 35.83 24.16 34.29 26.6 33.46C27.4272 33.1806 28.2771 32.9732 29.14 32.84V27.45C18.18 27.85 16.08 37.67 19.5 43.26C24.82 52 38.05 48.17 38.05 36V26.48C40.65 28.06 42.89 28.89 45.44 28.64V23.54Z" /></symbol><symbol id="linkedin-unauth-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol><symbol id="url-icon" viewBox="0 0 64 64"><path d="M40.038 24c2.203 0 4.08.801 5.633 2.404C47.224 27.956 48 29.834 48 32.038c0 2.203-.776 4.106-2.329 5.709-1.552 1.552-3.43 2.328-5.633 2.328h-6.46v-3.08h6.46c1.352 0 2.504-.475 3.455-1.427 1.002-1.002 1.502-2.178 1.502-3.53 0-1.353-.5-2.504-1.502-3.456-.952-1.001-2.103-1.502-3.455-1.502h-6.46V24h6.46zm-14.423 9.615V30.46h12.77v3.155h-12.77zm-5.183-5.033c-.952.952-1.427 2.103-1.427 3.456 0 1.352.475 2.529 1.427 3.53 1.002.952 2.178 1.427 3.53 1.427h6.46v3.08h-6.46c-2.203 0-4.08-.776-5.633-2.329C16.776 36.145 16 34.241 16 32.038c0-2.204.776-4.082 2.329-5.634C19.88 24.8 21.759 24 23.962 24h6.46v3.08h-6.46c-1.352 0-2.529.5-3.53 1.502z"/></symbol><symbol id="url-mask" viewBox="0 0 64 64"><path fill-rule="evenodd" clip-rule="evenodd" d="M64 0H0v64h64V0zM45.671 26.404C44.12 24.8 42.241 24 40.038 24h-6.46v3.08h6.46c1.352 0 2.504.5 3.455 1.502 1.002.952 1.502 2.103 1.502 3.456 0 1.352-.5 2.529-1.502 3.53-.952.952-2.103 1.427-3.455 1.427h-6.46v3.08h6.46c2.203 0 4.08-.776 5.633-2.329C47.224 36.145 48 34.241 48 32.038c0-2.204-.776-4.082-2.329-5.634zm-7.286 4.056h-12.77v3.155h12.77V30.46zm-19.38 1.578c0-1.353.475-2.504 1.427-3.456 1.002-1.001 2.178-1.502 3.53-1.502h6.46V24h-6.46c-2.203 0-4.08.801-5.633 2.404C16.776 27.956 16 29.834 16 32.038c0 2.203.776 4.106 2.329 5.709 1.552 1.552 3.43 2.328 5.633 2.328h6.46v-3.08h-6.46c-1.352 0-2.529-.475-3.53-1.427-.952-1.002-1.427-2.178-1.427-3.53z"/></symbol></svg>
+
+  </body>
+</html>

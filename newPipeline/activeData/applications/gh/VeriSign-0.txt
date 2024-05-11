@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<script>var _rollbarConfig = {"accessToken":"a9e544e2eb674f56b12d47e1d2ed4cd1","captureUncaught":true,"payload":{"environment":"production"},"hostBlockList":["linkedin.com","recruitics.com"],"checkIgnore":function(isUncaught, args, payload) {
+  try {
+    var isPhantomJS = window.navigator.userAgent.match(/phantomjs/i);
+    var isSplash= window.navigator.userAgent.match(/splash version/i);
+    var firefox = window.navigator.userAgent.match(/(firefox)\/(\w+)/i); // JSON, must escape slash
+    var chrome = window.navigator.userAgent.match(/(chrome)\/(\w+)/i); // JSON, must escape slash
+
+    var browserExtensionOrAutomationFile = function(frame) {
+      var regExPatterns = [/^chrome-extension/, /^safari-extension/, /^moz-extension/, /^pptr/];
+      return regExPatterns.some(function(regEx) {
+        return regEx.test(frame.filename);
+      });
+    }
+
+    var isBrowserExtensionOrAutomation = payload.body.trace &&
+                                         payload.body.trace.frames &&
+                                         payload.body.trace.frames.some(browserExtensionOrAutomationFile);
+
+    var isFirefoxLessThan50;
+    if (firefox) {
+      var majorVersion = Number(firefox[2]);
+      isFirefoxLessThan50 = majorVersion < 50
+    }
+
+    var isChromeLessThan50;
+    if (chrome) {
+      var chromeVersion = Number(chrome[2]);
+      isChromeLessThan50 = chromeVersion < 50;
+    }
+
+    return Boolean(isPhantomJS) ||
+           Boolean(isSplash) ||
+           Boolean(isFirefoxLessThan50) ||
+           Boolean(isChromeLessThan50) ||
+           Boolean(isBrowserExtensionOrAutomation);
+  } catch (e) {
+    return true;
+  }
+}
+,"ignoredMessages":["BetterJsPop","vungle","Script error","awliwidget","ResizeObserver loop completed with undelivered notifications.","jQuery is missing","Attempting to configurable attribute of unconfigurable property.","WeakMap is not defined","Cannot change the configurable attribute of","Cannot call method \"get\" of undefined","\\$ is not defined","Can't find variable: \\$","uncaught exception: \\[object Object\\]","Unexpected token ';'","Failed S3 Direct Upload for field: resume","Failed to open/load the window. Dropbox.choose and Dropbox.save should only be called from within a user-triggered event handler such as a tap or click event.","googletag","solana|ethereum","originalPrompt"]};</script>
+<script>!function(r){var e={};function o(n){if(e[n])return e[n].exports;var t=e[n]={i:n,l:!1,exports:{}};return r[n].call(t.exports,t,t.exports,o),t.l=!0,t.exports}o.m=r,o.c=e,o.d=function(r,e,n){o.o(r,e)||Object.defineProperty(r,e,{enumerable:!0,get:n})},o.r=function(r){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(r,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(r,"__esModule",{value:!0})},o.t=function(r,e){if(1&e&&(r=o(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var n=Object.create(null);if(o.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var t in r)o.d(n,t,function(e){return r[e]}.bind(null,t));return n},o.n=function(r){var e=r&&r.__esModule?function(){return r.default}:function(){return r};return o.d(e,"a",e),e},o.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},o.p="",o(o.s=0)}([function(r,e,o){"use strict";var n=o(1),t=o(5);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdn.rollbar.com/rollbarjs/refs/tags/v2.26.1/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,o){"use strict";var n=o(2),t=o(3);function a(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}var l=0;function i(r,e){this.options=r,this._rollbarOldOnError=null;var o=l++;this.shimId=function(){return o},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[o]={handler:e,messages:[]})}var s=o(4),d=function(r,e){return new i(r,e)},c=function(r){return new s(d,r)};function u(r){return a((function(){var e=this,o=Array.prototype.slice.call(arguments,0),n={shim:e,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)}))}i.prototype.loadFull=function(r,e,o,n,t){var l=!1,i=e.createElement("script"),s=e.getElementsByTagName("script")[0],d=s.parentNode;i.crossOrigin="",i.src=n.rollbarJsUrl,o||(i.async=!0),i.onload=i.onreadystatechange=a((function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){i.onload=i.onreadystatechange=null;try{d.removeChild(i)}catch(r){}l=!0,function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var o,n,a,l,i=0;o=r._rollbarShims[i++];)for(o=o.messages||[];n=o.shift();)for(a=n.args||[],i=0;i<a.length;++i)if("function"==typeof(l=a[i])){l(e);break}}"function"==typeof t&&t(e)}()}})),d.insertBefore(i,s)},i.prototype.wrap=function(r,e,o){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){o&&"function"==typeof o&&o.apply(this,arguments);try{return r.apply(this,arguments)}catch(o){var e=o;throw e&&("string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e),e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var p="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<p.length;++f)i.prototype[p[f]]=u(p[f]);r.exports={setupShim:function(r,e){if(r){var o=e.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShims={},r._rollbarWrappedError=null;var l=new c(e);return a((function(){e.captureUncaught&&(l._rollbarOldOnError=r.onerror,n.captureUncaughtExceptions(r,l,!0),e.wrapGlobalEventHandlers&&t(r,l,!0)),e.captureUnhandledRejections&&n.captureUnhandledRejections(r,l,!0);var a=e.autoInstrument;return!1!==e.enabled&&(void 0===a||!0===a||function(r){return!("object"!=typeof r||void 0!==r.page&&!r.page)}(a))&&r.addEventListener&&(r.addEventListener("load",l.captureLoad.bind(l)),r.addEventListener("DOMContentLoaded",l.captureDomContentLoaded.bind(l))),r[o]=l,l}))()}},Rollbar:c}},function(r,e,o){"use strict";function n(r,e,o,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null);var t=e.handleUncaughtException.apply(e,n);o&&o.apply(r,n),"anonymous"===t&&(e.anonymousErrorsPending+=1)}r.exports={captureUncaughtExceptions:function(r,e,o){if(r){var t;if("function"==typeof e._rollbarOldOnError)t=e._rollbarOldOnError;else if(r.onerror){for(t=r.onerror;t._rollbarOldOnError;)t=t._rollbarOldOnError;e._rollbarOldOnError=t}e.handleAnonymousErrors();var a=function(){var o=Array.prototype.slice.call(arguments,0);n(r,e,t,o)};o&&(a._rollbarOldOnError=t),r.onerror=a}},captureUnhandledRejections:function(r,e,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var o,n,t;try{o=r.reason}catch(r){o=void 0}try{n=r.promise}catch(r){n="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!o&&t&&(o=t.reason,n=t.promise)}catch(r){}o||(o="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(o,n)};n.belongsToShim=o,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}}},function(r,e,o){"use strict";function n(r,e,o){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var n=e.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(e,o,t){n.call(this,e,r.wrap(o),t)};t._rollbarOldAdd=n,t.belongsToShim=o,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,o){a.call(this,r,e&&e._rollbar_wrapped||e,o)};l._rollbarOldRemove=a,l.belongsToShim=o,e.removeEventListener=l}}r.exports=function(r,e,o){if(r){var t,a,l="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<l.length;++t)r[a=l[t]]&&r[a].prototype&&n(e,r[a].prototype,o)}}},function(r,e,o){"use strict";function n(r,e){this.impl=r(e,this),this.options=e,function(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},o="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<o.length;n++)r[o[n]]=e(o[n])}(n.prototype)}n.prototype._swapAndProcessMessages=function(r,e){var o,n,t;for(this.impl=r(this.options);o=e.shift();)n=o.method,t=o.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],o.ts]):this[n].apply(this,t));return this},r.exports=n},function(r,e,o){"use strict";r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){for(var o,n,t=(r=r||{}).globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;o=window._rollbarShims[i++];)n||(n=o.handler),o.handler._swapAndProcessMessages(l,o.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);</script>
+  <title>Job Application for Sr Compensation Analyst at Verisign</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-e29eeeeaffa6e21c2acd8ed593e7b9333d5991f4d98df3fedf41dfb407d274bf.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  <script class="js-metadata" data-key="Polyglot.translation" data-type="json" data-value="{&quot;date&quot;:{&quot;formats&quot;:{&quot;default&quot;:&quot;%Y-%m-%d&quot;,&quot;short&quot;:&quot;%b %d&quot;,&quot;long&quot;:&quot;%B %d, %Y&quot;},&quot;day_names&quot;:[&quot;Sunday&quot;,&quot;Monday&quot;,&quot;Tuesday&quot;,&quot;Wednesday&quot;,&quot;Thursday&quot;,&quot;Friday&quot;,&quot;Saturday&quot;],&quot;abbr_day_names&quot;:[&quot;Sun&quot;,&quot;Mon&quot;,&quot;Tue&quot;,&quot;Wed&quot;,&quot;Thu&quot;,&quot;Fri&quot;,&quot;Sat&quot;],&quot;month_names&quot;:[null,&quot;January&quot;,&quot;February&quot;,&quot;March&quot;,&quot;April&quot;,&quot;May&quot;,&quot;June&quot;,&quot;July&quot;,&quot;August&quot;,&quot;September&quot;,&quot;October&quot;,&quot;November&quot;,&quot;December&quot;],&quot;abbr_month_names&quot;:[null,&quot;Jan&quot;,&quot;Feb&quot;,&quot;Mar&quot;,&quot;Apr&quot;,&quot;May&quot;,&quot;Jun&quot;,&quot;Jul&quot;,&quot;Aug&quot;,&quot;Sep&quot;,&quot;Oct&quot;,&quot;Nov&quot;,&quot;Dec&quot;],&quot;order&quot;:[&quot;year&quot;,&quot;month&quot;,&quot;day&quot;]},&quot;time&quot;:{&quot;formats&quot;:{&quot;default&quot;:&quot;%a, %d %b %Y %H:%M:%S %z&quot;,&quot;short&quot;:&quot;%d %b %H:%M&quot;,&quot;long&quot;:&quot;%B %d, %Y %H:%M&quot;},&quot;am&quot;:&quot;am&quot;,&quot;pm&quot;:&quot;pm&quot;},&quot;support&quot;:{&quot;array&quot;:{&quot;words_connector&quot;:&quot;, &quot;,&quot;two_words_connector&quot;:&quot; and &quot;,&quot;last_word_connector&quot;:&quot;, and &quot;}},&quot;number&quot;:{&quot;format&quot;:{&quot;separator&quot;:&quot;.&quot;,&quot;delimiter&quot;:&quot;,&quot;,&quot;precision&quot;:3,&quot;significant&quot;:false,&quot;strip_insignificant_zeros&quot;:false},&quot;currency&quot;:{&quot;format&quot;:{&quot;format&quot;:&quot;%u%n&quot;,&quot;unit&quot;:&quot;$&quot;,&quot;separator&quot;:&quot;.&quot;,&quot;delimiter&quot;:&quot;,&quot;,&quot;precision&quot;:2,&quot;significant&quot;:false,&quot;strip_insignificant_zeros&quot;:false}},&quot;percentage&quot;:{&quot;format&quot;:{&quot;delimiter&quot;:&quot;&quot;,&quot;format&quot;:&quot;%n%&quot;}},&quot;precision&quot;:{&quot;format&quot;:{&quot;delimiter&quot;:&quot;&quot;}},&quot;human&quot;:{&quot;format&quot;:{&quot;delimiter&quot;:&quot;&quot;,&quot;precision&quot;:3,&quot;significant&quot;:true,&quot;strip_insignificant_zeros&quot;:true},&quot;storage_units&quot;:{&quot;format&quot;:&quot;%n %u&quot;,&quot;units&quot;:{&quot;byte&quot;:{&quot;one&quot;:&quot;Byte&quot;,&quot;other&quot;:&quot;Bytes&quot;},&quot;kb&quot;:&quot;KB&quot;,&quot;mb&quot;:&quot;MB&quot;,&quot;gb&quot;:&quot;GB&quot;,&quot;tb&quot;:&quot;TB&quot;,&quot;pb&quot;:&quot;PB&quot;,&quot;eb&quot;:&quot;EB&quot;}},&quot;decimal_units&quot;:{&quot;format&quot;:&quot;%n %u&quot;,&quot;units&quot;:{&quot;unit&quot;:&quot;&quot;,&quot;thousand&quot;:&quot;Thousand&quot;,&quot;million&quot;:&quot;Million&quot;,&quot;billion&quot;:&quot;Billion&quot;,&quot;trillion&quot;:&quot;Trillion&quot;,&quot;quadrillion&quot;:&quot;Quadrillion&quot;}}},&quot;nth&quot;:{&quot;ordinals&quot;:{},&quot;ordinalized&quot;:{}}},&quot;errors&quot;:{&quot;format&quot;:&quot;%{attribute} %{message}&quot;,&quot;messages&quot;:{&quot;model_invalid&quot;:&quot;Validation failed: %{errors}&quot;,&quot;inclusion&quot;:&quot;is not included in the list&quot;,&quot;exclusion&quot;:&quot;is reserved&quot;,&quot;invalid&quot;:&quot;is invalid&quot;,&quot;confirmation&quot;:&quot;doesn&#39;t match %{attribute}&quot;,&quot;accepted&quot;:&quot;must be accepted&quot;,&quot;empty&quot;:&quot;can&#39;t be empty&quot;,&quot;blank&quot;:&quot;can&#39;t be blank&quot;,&quot;present&quot;:&quot;must be blank&quot;,&quot;too_long&quot;:{&quot;one&quot;:&quot;is too long (maximum is 1 character)&quot;,&quot;other&quot;:&quot;is too long (maximum is %{count} characters)&quot;},&quot;too_short&quot;:{&quot;one&quot;:&quot;is too short (minimum is 1 character)&quot;,&quot;other&quot;:&quot;is too short (minimum is %{count} characters)&quot;},&quot;wrong_length&quot;:{&quot;one&quot;:&quot;is the wrong length (should be 1 character)&quot;,&quot;other&quot;:&quot;is the wrong length (should be %{count} characters)&quot;},&quot;not_a_number&quot;:&quot;is not a number&quot;,&quot;not_an_integer&quot;:&quot;must be an integer&quot;,&quot;greater_than&quot;:&quot;must be greater than %{count}&quot;,&quot;greater_than_or_equal_to&quot;:&quot;must be greater than or equal to %{count}&quot;,&quot;equal_to&quot;:&quot;must be equal to %{count}&quot;,&quot;less_than&quot;:&quot;must be less than %{count}&quot;,&quot;less_than_or_equal_to&quot;:&quot;must be less than or equal to %{count}&quot;,&quot;other_than&quot;:&quot;must be other than %{count}&quot;,&quot;odd&quot;:&quot;must be odd&quot;,&quot;even&quot;:&quot;must be even&quot;,&quot;required&quot;:&quot;must exist&quot;,&quot;taken&quot;:&quot;has already been taken&quot;},&quot;board_misconfigured&quot;:&quot;This job board is not yet configured. Please complete configuration in Greenhouse before embedding.&quot;,&quot;board_no_longer_available&quot;:&quot;The board you are looking for is no longer open.&quot;,&quot;job_not_live&quot;:{&quot;job_closed&quot;:&quot;The job you are looking for is no longer open.&quot;,&quot;board_closed&quot;:&quot;The board on which this job was on is no longer open.&quot;},&quot;job_not_found&quot;:&quot;The job you are looking for was not found.&quot;,&quot;job_processing_timed_out&quot;:&quot;Uh oh!  Your application took too long to process.  If you&#39;re attaching lots of files, try making them smaller.&quot;,&quot;job_stale&quot;:&quot;The company you are applying to has updated this job application. Please save your responses, reload the page, and try to submit again.&quot;,&quot;missing_application&quot;:&quot;Missing required field: job_application&quot;,&quot;max_file_size&quot;:&quot;%{file_size} MB maximum file size&quot;},&quot;activerecord&quot;:{&quot;errors&quot;:{&quot;messages&quot;:{&quot;record_invalid&quot;:&quot;Validation failed: %{errors}&quot;,&quot;restrict_dependent_destroy&quot;:{&quot;has_one&quot;:&quot;Cannot delete record because a dependent %{record} exists&quot;,&quot;has_many&quot;:&quot;Cannot delete record because dependent %{record} exist&quot;}}}},&quot;datetime&quot;:{&quot;distance_in_words&quot;:{&quot;half_a_minute&quot;:&quot;half a minute&quot;,&quot;less_than_x_seconds&quot;:{&quot;one&quot;:&quot;less than 1 second&quot;,&quot;other&quot;:&quot;less than %{count} seconds&quot;},&quot;x_seconds&quot;:{&quot;one&quot;:&quot;1 second&quot;,&quot;other&quot;:&quot;%{count} seconds&quot;},&quot;less_than_x_minutes&quot;:{&quot;one&quot;:&quot;less than a minute&quot;,&quot;other&quot;:&quot;less than %{count} minutes&quot;},&quot;x_minutes&quot;:{&quot;one&quot;:&quot;1 minute&quot;,&quot;other&quot;:&quot;%{count} minutes&quot;},&quot;about_x_hours&quot;:{&quot;one&quot;:&quot;about 1 hour&quot;,&quot;other&quot;:&quot;about %{count} hours&quot;},&quot;x_days&quot;:{&quot;one&quot;:&quot;1 day&quot;,&quot;other&quot;:&quot;%{count} days&quot;},&quot;about_x_months&quot;:{&quot;one&quot;:&quot;about 1 month&quot;,&quot;other&quot;:&quot;about %{count} months&quot;},&quot;x_months&quot;:{&quot;one&quot;:&quot;1 month&quot;,&quot;other&quot;:&quot;%{count} months&quot;},&quot;about_x_years&quot;:{&quot;one&quot;:&quot;about 1 year&quot;,&quot;other&quot;:&quot;about %{count} years&quot;},&quot;over_x_years&quot;:{&quot;one&quot;:&quot;over 1 year&quot;,&quot;other&quot;:&quot;over %{count} years&quot;},&quot;almost_x_years&quot;:{&quot;one&quot;:&quot;almost 1 year&quot;,&quot;other&quot;:&quot;almost %{count} years&quot;}},&quot;prompts&quot;:{&quot;year&quot;:&quot;Year&quot;,&quot;month&quot;:&quot;Month&quot;,&quot;day&quot;:&quot;Day&quot;,&quot;hour&quot;:&quot;Hour&quot;,&quot;minute&quot;:&quot;Minute&quot;,&quot;second&quot;:&quot;Seconds&quot;}},&quot;helpers&quot;:{&quot;select&quot;:{&quot;prompt&quot;:&quot;Please select&quot;},&quot;submit&quot;:{&quot;create&quot;:&quot;Create %{model}&quot;,&quot;update&quot;:&quot;Update %{model}&quot;,&quot;submit&quot;:&quot;Save %{model}&quot;},&quot;page_entries_info&quot;:{&quot;entry&quot;:{&quot;zero&quot;:&quot;entries&quot;,&quot;one&quot;:&quot;entry&quot;,&quot;other&quot;:&quot;entries&quot;},&quot;one_page&quot;:{&quot;display_entries&quot;:{&quot;zero&quot;:&quot;No %{entry_name} found&quot;,&quot;one&quot;:&quot;Displaying \u003cb\u003e1\u003c/b\u003e %{entry_name}&quot;,&quot;other&quot;:&quot;Displaying \u003cb\u003eall %{count}\u003c/b\u003e %{entry_name}&quot;}},&quot;more_pages&quot;:{&quot;display_entries&quot;:&quot;Displaying %{entry_name} \u003cb\u003e%{first}\u0026nbsp;-\u0026nbsp;%{last}\u003c/b\u003e of \u003cb\u003e%{total}\u003c/b\u003e in total&quot;}}},&quot;flash&quot;:{&quot;actions&quot;:{&quot;create&quot;:{&quot;notice&quot;:&quot;%{resource_name} was successfully created.&quot;},&quot;update&quot;:{&quot;notice&quot;:&quot;%{resource_name} was successfully updated.&quot;},&quot;destroy&quot;:{&quot;notice&quot;:&quot;%{resource_name} was successfully destroyed.&quot;,&quot;alert&quot;:&quot;%{resource_name} could not be destroyed.&quot;}}},&quot;views&quot;:{&quot;pagination&quot;:{&quot;first&quot;:&quot;\u0026laquo; First&quot;,&quot;last&quot;:&quot;Last \u0026raquo;&quot;,&quot;previous&quot;:&quot;\u0026lsaquo; Prev&quot;,&quot;next&quot;:&quot;Next \u0026rsaquo;&quot;,&quot;truncate&quot;:&quot;\u0026hellip;&quot;}},&quot;captcha&quot;:{&quot;suspected_bot&quot;:&quot;SUSPECTED BOT: Captcha failed with direct HTTP form post IP %{ip}\n&quot;,&quot;failed_to_load&quot;:&quot;Google Recaptcha service cannot be loaded.&quot;,&quot;failed&quot;:&quot;Oops! We were unable to verify your Captcha response.&quot;,&quot;help_center&quot;:&quot;Our system has flagged this application as potentially being associated with bot traffic. Please turn off any VPNs, clear your browser cache and cookies, or try submitting your application in a different browser. If this issue persists, please reach out to our support team via our \u003ca target=\&quot;_blank\&quot; href=\&quot;https://support.greenhouse.io/hc/en-us/sections/360011273391-Connecting-with-support\&quot;\u003ehelp center\u003c/a\u003e.&quot;,&quot;geetest_failed_to_load&quot;:&quot;Geetest Captcha service failed to load.&quot;,&quot;fallback&quot;:&quot;Please complete the reCAPTCHA above.&quot;},&quot;job_post&quot;:{&quot;add_education&quot;:&quot;+ Add another education&quot;,&quot;add_employment&quot;:&quot;+ Add another employment&quot;,&quot;almost_there&quot;:&quot;Almost there! Review your information then click &#39;Submit Application&#39; to apply.&quot;,&quot;apply_for_this_job&quot;:&quot;Apply for this Job&quot;,&quot;apply_now&quot;:&quot;Apply Now&quot;,&quot;apply_with_linkedin&quot;:&quot;Apply With LinkedIn&quot;,&quot;attach&quot;:&quot;Attach&quot;,&quot;attachment&quot;:&quot;An attachment&quot;,&quot;at_org&quot;:&quot;at %{organization_name}&quot;,&quot;back_to_application&quot;:&quot;Back to application&quot;,&quot;cancel&quot;:&quot;Cancel&quot;,&quot;city&quot;:&quot;City&quot;,&quot;company_name&quot;:&quot;Company Name&quot;,&quot;cover_letter&quot;:&quot;Cover Letter&quot;,&quot;current&quot;:&quot;Current&quot;,&quot;degree&quot;:&quot;Degree&quot;,&quot;discipline&quot;:&quot;Discipline&quot;,&quot;drop_files_here&quot;:&quot;Drop files here&quot;,&quot;education&quot;:&quot;Education&quot;,&quot;education_end_date&quot;:&quot;End Date&quot;,&quot;education_start_date&quot;:&quot;Start Date&quot;,&quot;email&quot;:&quot;Email&quot;,&quot;employment&quot;:&quot;Employment&quot;,&quot;field_chosen&quot;:&quot;%{field} chosen&quot;,&quot;file_types&quot;:&quot;File types&quot;,&quot;first_name&quot;:&quot;First Name&quot;,&quot;loading_attachment&quot;:&quot;Loading attachment from %{uploader}...&quot;,&quot;locate_me&quot;:&quot;Locate me&quot;,&quot;location&quot;:&quot;Location&quot;,&quot;last_name&quot;:&quot;Last Name&quot;,&quot;name&quot;:&quot;Name&quot;,&quot;no&quot;:&quot;No&quot;,&quot;optional&quot;:&quot;Optional&quot;,&quot;or&quot;:&quot;or&quot;,&quot;paste&quot;:&quot;or enter manually&quot;,&quot;phone&quot;:&quot;Phone&quot;,&quot;please_select&quot;:&quot;Please select&quot;,&quot;question&quot;:&quot;Question&quot;,&quot;required&quot;:&quot;Required&quot;,&quot;remove_attachment&quot;:&quot;Remove attachment&quot;,&quot;resume&quot;:&quot;Resume/CV&quot;,&quot;school_name&quot;:&quot;School&quot;,&quot;share_this_job&quot;:&quot;Share this job: &quot;,&quot;select&quot;:&quot;Select&quot;,&quot;select_one&quot;:&quot;Select one&quot;,&quot;select_one_or_more&quot;:&quot;Select one or more&quot;,&quot;select_field&quot;:&quot;Select a %{field}&quot;,&quot;submit_application&quot;:&quot;Submit Application&quot;,&quot;file_uploader_timeout&quot;:&quot;Unable to load %{uploader}. It has either timed out or you can try again later.&quot;,&quot;textarea&quot;:&quot;Enter manually&quot;,&quot;title&quot;:&quot;Title&quot;,&quot;view_more_jobs&quot;:&quot;View more jobs at %{organization_name}&quot;,&quot;view_all_jobs&quot;:&quot;View all jobs&quot;,&quot;without_browser_support&quot;:&quot;The browser does not support %{uploader} upload.&quot;,&quot;year&quot;:&quot;Year&quot;,&quot;yes&quot;:&quot;Yes&quot;},&quot;validation&quot;:{&quot;at_least_one_required&quot;:&quot;At least one option must be checked&quot;,&quot;consent_is_required&quot;:&quot;Please accept the terms to proceed&quot;,&quot;did_you_mean&quot;:&quot;Did you mean&quot;,&quot;empty_attachment&quot;:&quot;Attached files must be larger than 0 bytes&quot;,&quot;field_is_required&quot;:&quot;%{field} is required.&quot;,&quot;invalid_date&quot;:&quot;End Date cannot be before Start Date&quot;,&quot;invalid_email&quot;:&quot;Please use the format \&quot;text@example.com\&quot;&quot;,&quot;invalid_field&quot;:&quot;Invalid %{field}&quot;,&quot;invalid_location&quot;:&quot;Please enter your location and select it from the dropdown&quot;,&quot;month_format&quot;:&quot;Month must be a number between 1 and 12&quot;,&quot;this_field_is_required&quot;:&quot;This field is required.&quot;,&quot;year_format&quot;:&quot;Year must be a number between 1900 and 2100&quot;},&quot;api_errors&quot;:{&quot;empty_file&quot;:&quot;Attachment &#39;%{field}&#39; is empty. Please provide a non-empty file.&quot;,&quot;invalid_file&quot;:&quot;Attachment &#39;%{field}&#39; is invalid. Please provide a valid file attachment.&quot;,&quot;large_file&quot;:&quot;Attachment &#39;%{field}&#39; exceeds %{max_file_size} MB file size.&quot;},&quot;job_application_request&quot;:{&quot;request_received&quot;:&quot;Thanks for your submission.&quot;},&quot;data_compliance&quot;:{&quot;gdpr&quot;:{&quot;disclaimer&quot;:&quot;%{company_name} has my consent to collect, store, and process my data for the purpose of considering me for employment, and for up to %{retention_period} days thereafter.&quot;,&quot;processing_disclaimer&quot;:&quot;By checking this box, I agree to allow %{company_name} to store and process my data for the purpose of considering my eligibility regarding my current application for employment.&quot;,&quot;retention_disclaimer&quot;:&quot;By checking this box, I agree to allow %{company_name} to retain my data for future opportunities for employment for up to %{retention_period} days after the conclusion of consideration of my current application for employment.&quot;,&quot;disabled_tooltip&quot;:&quot;You must consent to the processing of your data in order to activate this checkbox&quot;}},&quot;eeoc&quot;:{&quot;title&quot;:&quot;\u003ch3\u003e\u003cstrong\u003eVoluntary Self-Identification\u003c/strong\u003e\u003c/h3\u003e&quot;,&quot;intro&quot;:&quot;\u003cp\u003eFor government reporting purposes, we ask candidates to respond to the below self-identification survey.\nCompletion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring\nprocess or thereafter. Any information that you do provide will be recorded and maintained in a\nconfidential file.\u003c/p\u003e\n\n\u003cp\u003eAs set forth in %{organization_name}’s Equal Employment Opportunity policy,\nwe do not discriminate on the basis of any protected group status under any applicable law.\u003c/p\u003e\n&quot;,&quot;veteran&quot;:&quot;\u003cp\u003e\n  If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.\n  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure\n  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories\n  is as follows:\n\u003c/p\u003e\n\u003cp\u003eA \&quot;disabled veteran\&quot; is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.\u003c/p\u003e\n\u003cp\u003eA \&quot;recently separated veteran\&quot; means any veteran during the three-year period beginning on the date of such veteran&#39;s discharge or release from active duty in the U.S. military, ground, naval, or air service.\u003c/p\u003e\n\u003cp\u003eAn \&quot;active duty wartime or campaign badge veteran\&quot; means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.\u003c/p\u003e\n\u003cp\u003eAn \&quot;Armed forces service medal veteran\&quot; means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.\u003c/p\u003e\n&quot;,&quot;disability&quot;:&quot;\u003ch3\u003e\u003cstrong\u003eVoluntary Self-Identification of Disability\u003c/strong\u003e\u003c/h3\u003e\n\u003cdiv style=\&quot;display:flex; justify-content:space-between;\&quot;\u003e\n  \u003cdiv\u003e\n    \u003cdiv\u003eForm CC-305\u003c/div\u003e\n    \u003cdiv\u003ePage 1 of 1\u003c/div\u003e\n  \u003c/div\u003e\n  \u003cdiv\u003e\n    \u003cdiv\u003eOMB Control Number 1250-0005\u003c/div\u003e\n    \u003cdiv\u003eExpires 04/30/2026\u003c/div\u003e\n  \u003c/div\u003e\n\u003c/div\u003e\n\u003cbr\u003e\n\u003cstrong\u003eWhy are you being asked to complete this form?\u003c/strong\u003e\n\u003cp\u003eWe are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.\u003c/p\u003e\n\u003cp\u003eCompleting this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at \u003ca href=\&quot;https://www.dol.gov/ofccp\&quot; target=\&quot;_blank\&quot;\u003ewww.dol.gov/ofccp\u003c/a\u003e.\u003c/p\u003e\n\u003cstrong\u003eHow do you know if you have a disability?\u003c/strong\u003e\n\u003cp\u003eA disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability. \u003cstrong\u003eDisabilities include, but are not limited to:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n  \u003cli\u003eAlcohol or other substance use disorder (not currently using drugs illegally)\u003c/li\u003e\n  \u003cli\u003eAutoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS\u003c/li\u003e\n  \u003cli\u003eBlind or low vision\u003c/li\u003e\n  \u003cli\u003eCancer (past or present)\u003c/li\u003e\n  \u003cli\u003eCardiovascular or heart disease\u003c/li\u003e\n  \u003cli\u003eCeliac disease\u003c/li\u003e\n  \u003cli\u003eCerebral palsy\u003c/li\u003e\n  \u003cli\u003eDeaf or serious difficulty hearing\u003c/li\u003e\n  \u003cli\u003eDiabetes\u003c/li\u003e\n  \u003cli\u003eDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders\u003c/li\u003e\n  \u003cli\u003eEpilepsy or other seizure disorder\u003c/li\u003e\n  \u003cli\u003eGastrointestinal disorders, for example, Crohn&#39;s Disease, irritable bowel syndrome\u003c/li\u003e\n  \u003cli\u003eIntellectual or developmental disability\u003c/li\u003e\n  \u003cli\u003eMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD\u003c/li\u003e\n  \u003cli\u003eMissing limbs or partially missing limbs\u003c/li\u003e\n  \u003cli\u003eMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports\u003c/li\u003e\n  \u003cli\u003eNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)\u003c/li\u003e\n  \u003cli\u003eNeurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities\u003c/li\u003e\n  \u003cli\u003ePartial or complete paralysis (any cause)\u003c/li\u003e\n  \u003cli\u003ePulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema\u003c/li\u003e\n  \u003cli\u003eShort stature (dwarfism)\u003c/li\u003e\n  \u003cli\u003eTraumatic brain injury\u003c/li\u003e\n\u003c/ul\u003e\n&quot;,&quot;reasonable_accommodation_notice&quot;:&quot;\u003cp\u003ePUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.\u003c/p\u003e\n&quot;},&quot;eeoc_data&quot;:{&quot;links&quot;:{&quot;race_ethnicity_definitions&quot;:{&quot;href&quot;:&quot;/docs/RaceEthnicityDefinitions.pdf&quot;,&quot;text&quot;:&quot;Race \u0026amp; Ethnicity Definitions&quot;}},&quot;questions&quot;:{&quot;gender&quot;:&quot;Gender&quot;,&quot;hispanic_ethnicity&quot;:&quot;Are you Hispanic/Latino?&quot;,&quot;race&quot;:&quot;Please identify your race&quot;,&quot;veteran_status&quot;:&quot;Veteran Status&quot;,&quot;disability_status&quot;:&quot;Disability Status&quot;,&quot;api&quot;:{&quot;race&quot;:&quot;Race&quot;}},&quot;answers&quot;:{&quot;gender&quot;:[&quot;Male&quot;,&quot;Female&quot;,&quot;Decline To Self Identify&quot;],&quot;hispanic_ethnicity&quot;:[[&quot;Yes&quot;,&quot;Yes&quot;],[&quot;No&quot;,&quot;No&quot;],[&quot;Decline To Self Identify&quot;,&quot;Decline To Self Identify&quot;]],&quot;race&quot;:[&quot;American Indian or Alaskan Native&quot;,&quot;Asian&quot;,&quot;Black or African American&quot;,&quot;Hispanic or Latino&quot;,&quot;White&quot;,&quot;Native Hawaiian or Other Pacific Islander&quot;,&quot;Two or More Races&quot;,&quot;Decline To Self Identify&quot;],&quot;veteran_status&quot;:[&quot;I am not a protected veteran&quot;,&quot;I identify as one or more of the classifications of a protected veteran&quot;,&quot;I don&#39;t wish to answer&quot;],&quot;disability_status&quot;:[&quot;Yes, I have a disability, or have had one in the past&quot;,&quot;No, I do not have a disability and have not had one in the past&quot;,&quot;I do not want to answer&quot;]}}}" type="text/configuration"></script><script class="js-metadata" data-key="errorImageSource" data-type="string" data-value="https://boards.cdn.greenhouse.io/assets/svg/error-69893c3b3f8f27477ac24dbcb3d8e569fcc265882e77cd464d2bad69dd7d3918.svg" type="text/configuration"></script>
+    <meta property="og:title" content="Sr Compensation Analyst"></meta>
+    <meta property="og:description" content="Reston,Virginia,United States"></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/verisign/jobs/5955450003"></meta>
+    <meta property="og:image" content="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/366/000/original/VRSN_logo_Greenhouse_1024_x_512_New.png?1633115386"></meta>
+    <meta property="og:type" content="article"></meta>
+
+  
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<script class="js-metadata" data-key="JBEN.FormControl.maxFileSizeMb" data-type="number" data-value="100" type="text/configuration"></script>
+
+
+
+<div id='app_body' style='padding-left:20px'>
+  <div class="logo-container">
+      <div id="logo"><img alt="Verisign Logo" src="https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/366/000/resized/VRSN_logo_Greenhouse_1024_x_512_New.png?1633115386" width="150" height="75" /></div>
+  </div>
+
+    <div id="header">
+    <a href='#app' id='apply_button' class='button'>
+      Apply Now
+    </a>
+
+  <h1 class='app-title'>Sr Compensation Analyst</h1>
+
+  <span class='company-name'>
+    at Verisign
+  </span>
+
+    
+
+    <div class='location'>
+      Reston,Virginia,United States
+    </div>
+</div>
+  <div id="content" class="">
+    <div class="content-intro"><p>Verisign helps enable the security, stability, and resiliency of the internet. We are a trusted provider of internet infrastructure services for the networked world and deliver unmatched performance in domain name system (DNS) services.&nbsp;</p>
+<p>We are a mission focused, values driven company where each individual can contribute to building a stronger, more secure internet.&nbsp; We offer a dynamic and flexible work environment with competitive benefits and the ability to grow your career.</p></div>
+
+    <p>This is a unique opportunity to join the team that is responsible for helping to shape the total rewards strategy as our business evolves. In this role, you will have the opportunity to partner with an HR account team in support of our business.&nbsp; Among other more typical compensation responsibilities, the role also offers opportunities to support and enhance recognition programs and contribute toward the expansion of our HR analytics and dashboard initiatives.</p>
+<p>The Verisign compensation team is responsible for all elements of compensation for its ~900 employees, including strategy and design of new programs and administration of current programs. We are data-driven and committed to continuous improvement. The Senior Compensation Analyst will work with the team to contribute to the organization’s ability to attract, retain and motivate the talent needed for Verisign’s current and future success. This position will report to the Sr Manager – Compensation.</p>
+<p>Key responsibilities:</p>
+<ul>
+<li>Administers base pay strategies, policies and programs.&nbsp; This includes conducting job evaluations, market pricing and providing recommendations and support to the design process. Also reviews and finalizes job descriptions including the FLSA evaluations.&nbsp; Responsible for audits and job structure management within HRIS system.</li>
+<li>Provides integral support for annual salary planning, which includes submission of and management of salary surveys. Provides review, analysis and recommendations for current roles and overall salary structure. &nbsp;</li>
+<li>Responsible for consolidation of workforce reporting and analytics along with the design and maintenance of HR Dashboards to highlight trends and enable workforce decisions.&nbsp; Establishes and maintains knowledge of the business and internal team processes and initiatives to provide context for data gathering, reporting and recommending solutions.</li>
+<li>Acts as lead and primary point of contact for recognition programs, including system administration.</li>
+<li>Develops strong partnerships with the HR business partners, recruiting and business leaders in the organization in order to identify and solve compensation related issues and provide consultative expertise.&nbsp;</li>
+<li>Conducts research, analyzes data and identifies trends in compensation and continually reviews current practices and policies to ensure that best practices are being utilized.</li>
+<li>Assists in developing and delivering training and programs and presentations for educating HR business partners and managers about compensation-related topics and initiatives.</li>
+</ul>
+<p>An ideal candidate is data-driven and passionate about continuous improvement. They can visually present and communicate data, analyses and findings in a clear and concise manner.</p>
+<p>Qualifications:</p>
+<ul>
+<li>Bachelor’s Degree in Business, Finance, a related field, or equivalent experience</li>
+<li>Five to eight years or more years of progressive experience in compensation</li>
+<li>Three or more years’ experience using ERP software (Oracle, Workday, etc.)</li>
+<li>Minimum of two years of related workforce analytics and data analysis experience</li>
+<li>Experienced in clearly presenting and communicating data, analyses, and findings both visually and through written and oral communications</li>
+<li>Proficient in MS Office with a strong understanding of Excel including formulas, charts, graphs, pivot tables and other advanced capabilities</li>
+<li>Skilled at accessing and managing data from various salary surveys</li>
+<li>Ability to handle sensitive and confidential information with discretion</li>
+<li>Excellent time management skills to be able to handle multiple projects with overlapping time frames and cope with shifting priorities</li>
+<li>Excellent critical thinking and problem solving skills</li>
+<li>Comfortable with a certain degree of ambiguity</li>
+</ul>
+<p>Preferred</p>
+<ul>
+<li>Certified Compensation Professional (CCP)</li>
+<li>Experience with Payscale/MarketPay preferred</li>
+<li>Experience in the high technology industry</li>
+<li>Familiarity with SuccessFactors a plus</li>
+</ul>
+<p><strong>This position is based in our Reston, VA office and offers a flexible, hybrid work schedule.</strong></p>
+<p>The pay range for this role is $87,700-$118,700.</p>
+<p>The anticipated annual base salary range for this position is noted above, however, base pay offered may vary depending on job-related knowledge, skills, experience. Verisign offers a discretionary bonus which is based on individual and company performance, and certain roles may be eligible for discretionary stock awards.</p>
+
+    
+
+    <div class="content-conclusion"><p>Verisign is an equal opportunity employer. That means we recruit, hire, compensate, train, promote, transfer, and administer all terms and conditions of employment without regard to their race, color, religion, national origin, sex, sexual orientation, gender identity, age, protected veteran status, disability, or other protected categories under applicable law.</p>
+<p>Additional Information:<br><a href="https://www.verisign.com/en_US/company-information/verisign-careers/index.xhtml?dmn=verisign.careers" target="_blank">Our Careers Page</a><br><a href="https://www.verisign.com/assets/assets-overview-2024-benefits.pdf" target="_blank">Our Benefits Summary</a><br><a href="https://www.verisign.com/en_US/company-information/community/index.xhtml" target="_blank">Verisign in the Community</a><br><a href="https://www.verisign.com/assets/Equal-Employment-Opportunity.pdf" target="_blank">Our EEO Statement</a><br><a href="https://www.verisign.com/en_US/verisign-privacy-statement/job-privacy-notice/index.xhtml" target="_blank">Our Privacy Notice for Job Applicants/Candidates</a><br><a href="https://www.verisign.com/en_US/company-information/verisign-careers/index.xhtml?loc=en_US#:~:text=Reasonable%20Accommodations%20for%20Those%20With%20Disabilities" target="_blank">Reasonable Accommodations</a></p>
+<p>Staffing agency policy: No fees will be paid for unsolicited resumes submitted to Verisign or our employees by third parties.</p></div>
+</div>
+
+    <div id='application' class="">
+      <a name='app'></a>
+      <form id="application_form" enctype="multipart/form-data" action="https://boards.greenhouse.io/verisign/jobs/5955450003" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+        <input type="hidden" name="fingerprint" id="fingerprint" value="196950b453e95d48b729417c7e331d81237135a6" />
+        <input type="hidden" name="render_date" id="render_date" value="2024-05-11 00:53:40 +0000" />
+        <input type="hidden" name="page_load_time" id="page_load_time" value="1715388820" />
+
+
+
+        <div id='main_fields'>
+            <h2 class='heading'>Apply for this Job</h2>
+
+            <div class='required-fields'>
+              <span class='asterisk'>*</span> Required
+            </div>
+
+          <div class='clear'></div>
+
+
+          
+<script type="text/configuration" data-email-address-validator-url="https://email-address-validator.us.greenhouse.io/address/validate"></script>
+
+<div class='field'>
+  <label for='first_name'>First Name <span class='asterisk'>*</span></label>
+  <input type='text' id='first_name' name='job_application[first_name]' aria-required="true" maxlength="255" autocomplete="given-name"/>
+</div>
+<div class='field'>
+  <label for='last_name'>Last Name <span class='asterisk'>*</span></label>
+  <input type='text' id='last_name' name='job_application[last_name]' aria-required="true" maxlength="255" autocomplete="family-name" />
+</div>
+<div class='field'>
+  <label for='email'>Email <span class='asterisk'>*</span></label>
+  <input type='text' id='email' name='job_application[email]' aria-required="true" maxlength="255" autocomplete="email" />
+</div>
+<div class='field'>
+  <label for='phone'>Phone <span class='asterisk'>*</span></label>
+  <input type='text' id='phone' name='job_application[phone]' maxlength="255" autocomplete="tel" required='required' aria-required="true"/>
+</div>
+
+<div id='dev-fields' aria-hidden="true">
+  <div class='field'>
+    <label for='dev-field-1'></label>
+    <input type='text' id='dev-field-1' name='dev_field_1' maxlength="255" autocomplete="off"/>
+  </div>
+</div>
+
+
+
+          
+<div class='field'>
+  <fieldset id='resume_fieldset' aria-describedby="validate_resume">
+    <legend>
+      <label aria-label="required" id="resume">
+        Resume/CV <span class='asterisk'>*</span>
+      </label>
+    </legend>
+  
+<div class="attach-or-paste " required="required" data-allow-s3="true" data-field="resume" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="resume_chosen" class="chosen">
+    <img alt="resume chosen" src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
+    <span id="resume_filename"></span>
+    <button name="button" type="button" class="unstyled-button remove" aria-label="Remove attachment"><img width="11" height="11" alt="Remove attachment" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" /></button>
+</div>
+  <div class="link-container">
+    <button name="button" type="button" data-source="attach" class="unstyled-button link-button" aria-describedby="resume-allowable-file-types">Attach</button>
+
+        <a data-source="dropbox" href="#">Dropbox</a>
+
+        <a data-source="google-drive" href="#">Google Drive</a>
+
+      <button name="button" type="button" data-source="paste" class="unstyled-button link-button" aria-pressed="false">or enter manually</button>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id="validate_resume" style="display: none"></div>
+  <div id="resume-allowable-file-types" class="file-types">
+    (File types: pdf, doc, docx, txt, rtf)
+  </div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" alt="Cancel" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+    <textarea name="job_application[resume_text]" id="resume_text" class="paste" title="Enter manually">
+</textarea>
+
+</div>
+
+  </fieldset>
+</div>
+
+  <div class='field'>
+    <fieldset id='cover_letter_fieldset' aria-describedby="validate_cover_letter">
+      <legend>
+        <label id='cover_letter' aria-label="">
+          Cover Letter
+        </label>
+      </legend>
+      
+<div class="attach-or-paste " data-allow-s3="true" data-field="cover_letter" data-file-types="[&quot;pdf&quot;,&quot;doc&quot;,&quot;docx&quot;,&quot;txt&quot;,&quot;rtf&quot;]" data-model="job_application">
+
+  <div class="drop-zone hidden">
+    Drop files here
+  </div>
+
+  <div id="cover_letter_chosen" class="chosen">
+    <img alt="cover_letter chosen" src="https://boards.cdn.greenhouse.io/assets/file-296f4c2a42607d24e6901b7c58b0693d4178df7fe4edf1b50e9585efdfad7d39.png" />&nbsp;&nbsp;
+    <span id="cover_letter_filename"></span>
+    <button name="button" type="button" class="unstyled-button remove" aria-label="Remove attachment"><img width="11" height="11" alt="Remove attachment" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" /></button>
+</div>
+  <div class="link-container">
+    <button name="button" type="button" data-source="attach" class="unstyled-button link-button" aria-describedby="cover_letter-allowable-file-types">Attach</button>
+
+        <a data-source="dropbox" href="#">Dropbox</a>
+
+        <a data-source="google-drive" href="#">Google Drive</a>
+
+      <button name="button" type="button" data-source="paste" class="unstyled-button link-button" aria-pressed="false">or enter manually</button>
+</div>  <div data-messages="uploaders"></div>
+
+  <div class="validation-anchor" id="validate_cover_letter" style="display: none"></div>
+  <div id="cover_letter-allowable-file-types" class="file-types">
+    (File types: pdf, doc, docx, txt, rtf)
+  </div>
+
+  <div class="progress-bar">
+    <div class="upload">
+      <div class="progress"><div class="bar" style="width: 0%"></div></div>
+    </div>
+    <a href="#" class="cancel">
+      <img width="11" height="11" alt="Cancel" src="https://boards.cdn.greenhouse.io/assets/cancellation/x-00cb7c69bded92bc90f03e0028a3457a4905b1e28c8a7fe16b792086c4288c29.png" />
+    </a>
+</div>
+    <textarea name="job_application[cover_letter_text]" id="cover_letter_text" class="paste" title="Enter manually">
+</textarea>
+
+</div>
+
+    </fieldset>
+  </div>
+
+
+
+        </div>
+
+            <hr/>
+
+          <div id='custom_fields'>
+            <div class="field">
+  <label>Preferred Name
+    <br/>
+    <span><p>Preferred Name</p></span>
+    <input type="hidden" name="job_application[answers_attributes][0][question_id]" id="job_application_answers_attributes_0_question_id" value="16347445003" />
+<input type="hidden" name="job_application[answers_attributes][0][priority]" id="job_application_answers_attributes_0_priority" value="0" />
+
+<input type="text" name="job_application[answers_attributes][0][text_value]" id="job_application_answers_attributes_0_text_value" aria-required="false" maxlength="255" autocomplete="custom-question-preferred-name" />
+
+
+</label></div>
+<div class="field">
+  <label>Address<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][1][question_id]" id="job_application_answers_attributes_1_question_id" value="16347446003" />
+<input type="hidden" name="job_application[answers_attributes][1][priority]" id="job_application_answers_attributes_1_priority" value="1" />
+
+<input type="text" name="job_application[answers_attributes][1][text_value]" id="job_application_answers_attributes_1_text_value" aria-required="true" maxlength="255" autocomplete="custom-question-address" />
+
+
+</label></div>
+<div class="field">
+  <label>Address Line 2
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][2][question_id]" id="job_application_answers_attributes_2_question_id" value="16347447003" />
+<input type="hidden" name="job_application[answers_attributes][2][priority]" id="job_application_answers_attributes_2_priority" value="2" />
+
+<input type="text" name="job_application[answers_attributes][2][text_value]" id="job_application_answers_attributes_2_text_value" aria-required="false" maxlength="255" autocomplete="custom-question-address-line-2" />
+
+
+</label></div>
+<div class="field">
+  <label>City/Region<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][3][question_id]" id="job_application_answers_attributes_3_question_id" value="16347448003" />
+<input type="hidden" name="job_application[answers_attributes][3][priority]" id="job_application_answers_attributes_3_priority" value="3" />
+
+<input type="text" name="job_application[answers_attributes][3][text_value]" id="job_application_answers_attributes_3_text_value" aria-required="true" maxlength="255" autocomplete="custom-question-cityregion" />
+
+
+</label></div>
+<div class="field">
+  <label>State/Province<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][4][question_id]" id="job_application_answers_attributes_4_question_id" value="16347449003" />
+<input type="hidden" name="job_application[answers_attributes][4][priority]" id="job_application_answers_attributes_4_priority" value="4" />
+
+<input type="text" name="job_application[answers_attributes][4][text_value]" id="job_application_answers_attributes_4_text_value" aria-required="true" maxlength="255" autocomplete="custom-question-stateprovince" />
+
+
+</label></div>
+<div class="field">
+  <label>Country Code<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][5][question_id]" id="job_application_answers_attributes_5_question_id" value="16347450003" />
+<input type="hidden" name="job_application[answers_attributes][5][priority]" id="job_application_answers_attributes_5_priority" value="5" />
+
+<select name="job_application[answers_attributes][5][answer_selected_options_attributes][5][question_option_id]" id="job_application_answers_attributes_5_answer_selected_options_attributes_5_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="101435775003">United States</option>
+<option value="101435776003">Algeria</option>
+<option value="101435777003">Angola</option>
+<option value="101435778003">Benin</option>
+<option value="101435779003">Botswana</option>
+<option value="101435780003">Burkina Faso</option>
+<option value="101435781003">Burundi</option>
+<option value="101435782003">Cameroon</option>
+<option value="101435783003">Cape Verde</option>
+<option value="101435784003">Central African Republic</option>
+<option value="101435785003">Chad</option>
+<option value="101435786003">Comoros</option>
+<option value="101435787003">Congo</option>
+<option value="101435788003">Congo, Democratic Republic of</option>
+<option value="101435789003">Côte d&#39;Ivoire</option>
+<option value="101435790003">Djibouti</option>
+<option value="101435791003">Egypt</option>
+<option value="101435792003">Equatorial Guinea</option>
+<option value="101435793003">Eritrea</option>
+<option value="101435794003">Ethiopia</option>
+<option value="101435795003">Gabon</option>
+<option value="101435796003">Gambia</option>
+<option value="101435797003">Ghana</option>
+<option value="101435798003">Guinea</option>
+<option value="101435799003">Guinea-Bissau</option>
+<option value="101435800003">Kenya</option>
+<option value="101435801003">Lesotho</option>
+<option value="101435802003">Liberia</option>
+<option value="101435803003">Libyan Arab Jamahiriya</option>
+<option value="101435804003">Madagascar</option>
+<option value="101435805003">Malawi</option>
+<option value="101435806003">Mali</option>
+<option value="101435807003">Mauritania</option>
+<option value="101435808003">Mauritius</option>
+<option value="101435809003">Mayotte</option>
+<option value="101435810003">Morocco</option>
+<option value="101435811003">Mozambique</option>
+<option value="101435812003">Namibia</option>
+<option value="101435813003">Niger</option>
+<option value="101435814003">Nigeria</option>
+<option value="101435815003">Reunion</option>
+<option value="101435816003">Rwanda</option>
+<option value="101435817003">Saint Helena</option>
+<option value="101435818003">Sao Tome and Principe</option>
+<option value="101435819003">Senegal</option>
+<option value="101435820003">Seychelles</option>
+<option value="101435821003">Sierra Leone</option>
+<option value="101435822003">Somalia</option>
+<option value="101435823003">South Africa</option>
+<option value="101435824003">South Sudan</option>
+<option value="101435825003">Sudan</option>
+<option value="101435826003">Eswatini, formerly known as Swaziland</option>
+<option value="101435827003">Tanzania</option>
+<option value="101435828003">Togo</option>
+<option value="101435829003">Tunisia</option>
+<option value="101435830003">Uganda</option>
+<option value="101435831003">Western Sahara</option>
+<option value="101435832003">Zambia</option>
+<option value="101435833003">Zimbabwe</option>
+<option value="101435834003">Antarctica</option>
+<option value="101435835003">Bouvet Island</option>
+<option value="101435836003">French Southern Territories</option>
+<option value="101435837003">Heard Island and McDonald Islands</option>
+<option value="101435838003">South Georgia and the South Sandwich Islands</option>
+<option value="101435839003">American Samoa</option>
+<option value="101435840003">Australia</option>
+<option value="101435841003">Cook Islands</option>
+<option value="101435842003">Fiji</option>
+<option value="101435843003">French Polynesia</option>
+<option value="101435844003">Guam</option>
+<option value="101435845003">Kiribati</option>
+<option value="101435846003">Marshall Islands</option>
+<option value="101435847003">Micronesia</option>
+<option value="101435848003">Nauru</option>
+<option value="101435849003">New Caledonia</option>
+<option value="101435850003">New Zealand</option>
+<option value="101435851003">Niue</option>
+<option value="101435852003">Norfolk Island</option>
+<option value="101435853003">Northern Mariana Islands</option>
+<option value="101435854003">Palau</option>
+<option value="101435855003">Papua New Guinea</option>
+<option value="101435856003">Pitcairn Islands</option>
+<option value="101435857003">Samoa</option>
+<option value="101435858003">Solomon Islands</option>
+<option value="101435859003">Tokelau</option>
+<option value="101435860003">Tonga, Kingdom of</option>
+<option value="101435861003">Tuvalu</option>
+<option value="101435862003">United States Minor Outlying Islands</option>
+<option value="101435863003">Vanuatu</option>
+<option value="101435864003">Wallis and Futuna</option>
+<option value="101435865003">Afghanistan</option>
+<option value="101435866003">Azerbaijan</option>
+<option value="101435867003">Bahrain</option>
+<option value="101435868003">Bangladesh</option>
+<option value="101435869003">Bhutan</option>
+<option value="101435870003">British Indian Ocean Territory</option>
+<option value="101435871003">Brunei Darussalam</option>
+<option value="101435872003">Cambodia</option>
+<option value="101435873003">China, People&#39;s Republic of</option>
+<option value="101435874003">Christmas Island</option>
+<option value="101435875003">Cocos (Keeling) Islands</option>
+<option value="101435876003">Cyprus</option>
+<option value="101435877003">Georgia</option>
+<option value="101435878003">Hong Kong</option>
+<option value="101435879003">India</option>
+<option value="101435880003">Indonesia</option>
+<option value="101435881003">Iran, Islamic Republic of</option>
+<option value="101435882003">Iraq</option>
+<option value="101435883003">Israel</option>
+<option value="101435884003">Japan</option>
+<option value="101435885003">Jordan</option>
+<option value="101435886003">Kazakhstan</option>
+<option value="101435887003">Korea, Democratic People&#39;s Republic of</option>
+<option value="101435888003">Korea, Republic of</option>
+<option value="101435889003">Kuwait</option>
+<option value="101435890003">Kyrgyzstan</option>
+<option value="101435891003">Lao People&#39;s Democratic Republic</option>
+<option value="101435892003">Lebanon</option>
+<option value="101435893003">Macao</option>
+<option value="101435894003">Malaysia</option>
+<option value="101435895003">Maldives</option>
+<option value="101435896003">Mongolia</option>
+<option value="101435897003">Myanmar</option>
+<option value="101435898003">Nepal</option>
+<option value="101435899003">Oman</option>
+<option value="101435900003">Pakistan</option>
+<option value="101435901003">Palestinian Territory</option>
+<option value="101435902003">Philippines</option>
+<option value="101435903003">Qatar</option>
+<option value="101435904003">Saudi Arabia</option>
+<option value="101435905003">Singapore</option>
+<option value="101435906003">Sri Lanka</option>
+<option value="101435907003">Syrian Arab Republic</option>
+<option value="101435908003">Taiwan</option>
+<option value="101435909003">Tajikistan</option>
+<option value="101435910003">Thailand</option>
+<option value="101435911003">Timor-Leste</option>
+<option value="101435912003">Turkey</option>
+<option value="101435913003">Turkmenistan</option>
+<option value="101435914003">United Arab Emirates</option>
+<option value="101435915003">Uzbekistan</option>
+<option value="101435916003">Vietnam</option>
+<option value="101435917003">Yemen</option>
+<option value="101435918003">Aland Islands</option>
+<option value="101435919003">Albania</option>
+<option value="101435920003">Andorra</option>
+<option value="101435921003">Armenia</option>
+<option value="101435922003">Austria</option>
+<option value="101435923003">Belarus</option>
+<option value="101435924003">Belgium</option>
+<option value="101435925003">Bosnia and Herzegovina</option>
+<option value="101435926003">Bulgaria, Republic of</option>
+<option value="101435927003">Croatia</option>
+<option value="101435928003">Czech Republic (Czechia)</option>
+<option value="101435929003">Denmark</option>
+<option value="101435930003">Estonia</option>
+<option value="101435931003">Faroe Islands</option>
+<option value="101435932003">Finland</option>
+<option value="101435933003">France</option>
+<option value="101435934003">Germany</option>
+<option value="101435935003">Gibraltar</option>
+<option value="101435936003">Greece</option>
+<option value="101435937003">Guernsey</option>
+<option value="101435938003">Holy See (Vatican City State)</option>
+<option value="101435939003">Hungary</option>
+<option value="101435940003">Iceland</option>
+<option value="101435941003">Ireland</option>
+<option value="101435942003">Isle of Man</option>
+<option value="101435943003">Italy</option>
+<option value="101435944003">Jersey</option>
+<option value="101435945003">Latvia</option>
+<option value="101435946003">Liechtenstein</option>
+<option value="101435947003">Lithuania</option>
+<option value="101435948003">Luxembourg</option>
+<option value="101435949003">Republic of North Macedonia</option>
+<option value="101435950003">Malta</option>
+<option value="101435951003">Moldova</option>
+<option value="101435952003">Monaco</option>
+<option value="101435953003">Montenegro</option>
+<option value="101435954003">Netherlands</option>
+<option value="101435955003">Norway</option>
+<option value="101435956003">Poland</option>
+<option value="101435957003">Portugal</option>
+<option value="101435958003">Romania</option>
+<option value="101435959003">Russian Federation</option>
+<option value="101435960003">San Marino</option>
+<option value="101435961003">Serbia</option>
+<option value="101435962003">Slovakia (Slovak Republic)</option>
+<option value="101435963003">Slovenia</option>
+<option value="101435964003">Spain</option>
+<option value="101435965003">Svalbard &amp; Jan Mayen Islands</option>
+<option value="101435966003">Sweden</option>
+<option value="101435967003">Switzerland</option>
+<option value="101435968003">Ukraine</option>
+<option value="101435969003">United Kingdom</option>
+<option value="101435970003">Anguilla</option>
+<option value="101435971003">Aruba</option>
+<option value="101435972003">Bonaire, Sint Eustatius and Saba</option>
+<option value="101435973003">Canada</option>
+<option value="101435974003">Cuba</option>
+<option value="101435975003">Curaçao</option>
+<option value="101435976003">Dominica</option>
+<option value="101435977003">Dominican Republic</option>
+<option value="101435978003">El Salvador</option>
+<option value="101435979003">Greenland</option>
+<option value="101435980003">Grenada</option>
+<option value="101435981003">Guadeloupe</option>
+<option value="101435982003">Guatemala</option>
+<option value="101435983003">Haiti</option>
+<option value="101435984003">Honduras</option>
+<option value="101435985003">Jamaica</option>
+<option value="101435986003">Martinique</option>
+<option value="101435987003">Mexico</option>
+<option value="101435988003">Montserrat</option>
+<option value="101435989003">Netherlands Antilles</option>
+<option value="101435990003">Nicaragua</option>
+<option value="101435991003">Panama</option>
+<option value="101435992003">Puerto Rico</option>
+<option value="101435993003">Saint Barthelemy</option>
+<option value="101435994003">Saint Kitts and Nevis</option>
+<option value="101435995003">Saint Lucia</option>
+<option value="101435996003">Saint Martin</option>
+<option value="101436009003">Saint Pierre and Miquelon</option>
+<option value="101436116003">Saint Vincent and the Grenadines</option>
+<option value="101436119003">Sint Maarten (Netherlands)</option>
+<option value="101436150003">Trinidad and Tobago</option>
+<option value="101436153003">Turks and Caicos Islands</option>
+<option value="101436159003">United States Virgin Islands</option>
+<option value="101436199003">Argentina</option>
+<option value="101436200003">Bolivia</option>
+<option value="101436201003">Brazil</option>
+<option value="101436202003">Chile</option>
+<option value="101436203003">Colombia</option>
+<option value="101436204003">Ecuador</option>
+<option value="101436205003">Falkland Islands (Malvinas)</option>
+<option value="101436206003">French Guiana</option>
+<option value="101436207003">Guyana</option>
+<option value="101436208003">Paraguay</option>
+<option value="101436209003">Peru</option>
+<option value="101436210003">Suriname</option>
+<option value="101436211003">Uruguay</option>
+<option value="101436212003">Venezuela</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Zip code<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][6][question_id]" id="job_application_answers_attributes_6_question_id" value="16347451003" />
+<input type="hidden" name="job_application[answers_attributes][6][priority]" id="job_application_answers_attributes_6_priority" value="6" />
+
+<input type="text" name="job_application[answers_attributes][6][text_value]" id="job_application_answers_attributes_6_text_value" aria-required="true" maxlength="255" autocomplete="custom-question-zip-code" />
+
+
+</label></div>
+<div class="field">
+  <label>This position offers a flexible, hybrid work schedule and is located in Reston, Virginia. Is this a commutable distance for you?<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][7][question_id]" id="job_application_answers_attributes_7_question_id" value="16347452003" />
+<input type="hidden" name="job_application[answers_attributes][7][priority]" id="job_application_answers_attributes_7_priority" value="7" />
+
+<select name="job_application[answers_attributes][7][answer_selected_options_attributes][7][question_option_id]" id="job_application_answers_attributes_7_answer_selected_options_attributes_7_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="101436213003">Yes</option>
+<option value="101436214003">No</option>
+<option value="101436215003">No, but I am ready to relocate.</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>How did you hear about us?<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][8][question_id]" id="job_application_answers_attributes_8_question_id" value="16347453003" />
+<input type="hidden" name="job_application[answers_attributes][8][priority]" id="job_application_answers_attributes_8_priority" value="8" />
+
+<select name="job_application[answers_attributes][8][answer_selected_options_attributes][8][question_option_id]" id="job_application_answers_attributes_8_answer_selected_options_attributes_8_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="101436216003">Campus recruiting</option>
+<option value="101436217003">Conferences/Trade shows</option>
+<option value="101436218003">Dice</option>
+<option value="101436219003">Diversity Job Board</option>
+<option value="101436220003">Experteer.ch</option>
+<option value="101436221003">Facebook</option>
+<option value="101436222003">Glassdoor</option>
+<option value="101436223003">Google Job Search</option>
+<option value="101436224003">Handshake</option>
+<option value="101436225003">Indeed</option>
+<option value="101436226003">Indeed.ch</option>
+<option value="101436227003">Job fair</option>
+<option value="101436228003">Jobs.ch</option>
+<option value="101436229003">Jobup.ch</option>
+<option value="101436230003">Jopwell</option>
+<option value="101436231003">Ladders</option>
+<option value="101436232003">LinkedIn</option>
+<option value="101436233003">Meetups</option>
+<option value="101436234003">Monster</option>
+<option value="101436235003">Other</option>
+<option value="101436236003">PowerToFly</option>
+<option value="101436237003">Referral</option>
+<option value="101436238003">SeekOut</option>
+<option value="101436239003">SimplyHired</option>
+<option value="101436240003">Stack</option>
+<option value="101436241003">Staffing agency</option>
+<option value="101436242003">Twitter</option>
+<option value="101436243003">Verisign Careers Site</option>
+<option value="101436244003">Verisign recruiter outreach</option>
+<option value="101436245003">Veterans organization</option>
+<option value="101436246003">Xing</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>If your response is &#39;Other&#39;, &#39;Job Fair&#39; or &#39;Employee Referral&#39;, please provide details:
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][9][question_id]" id="job_application_answers_attributes_9_question_id" value="16347454003" />
+<input type="hidden" name="job_application[answers_attributes][9][priority]" id="job_application_answers_attributes_9_priority" value="9" />
+
+<input type="text" name="job_application[answers_attributes][9][text_value]" id="job_application_answers_attributes_9_text_value" aria-required="false" maxlength="255" autocomplete="custom-question-if-your-response-is-other-job-fair-or-employee-referral-please-provide-details" />
+
+
+</label></div>
+<div class="field">
+  <label>Are you currently or were you previously a U.S. Government civilian or military employee?<span class="asterisk">&nbsp;*</span>
+    <br/>
+    <span><p><em>If you answered Yes, you may be asked to provide the ethic opinion letter (DAEO Letter).</em></p></span>
+    <input type="hidden" name="job_application[answers_attributes][10][question_id]" id="job_application_answers_attributes_10_question_id" value="16347455003" />
+<input type="hidden" name="job_application[answers_attributes][10][priority]" id="job_application_answers_attributes_10_priority" value="10" />
+
+<select name="job_application[answers_attributes][10][boolean_value]" id="job_application_answers_attributes_10_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Do you have a personal (extended family or friend) or business relationship with a Non-U.S. government official or employee of a state-owned enterprise?<span class="asterisk">&nbsp;*</span>
+    <br/>
+    <span><p><em>A state-owned enterprise (SOE) or government-owned enterprise (GOE) is a business enterprise where the government or state has significant control through full, majority, or significant minority ownership.</em></p></span>
+    <input type="hidden" name="job_application[answers_attributes][11][question_id]" id="job_application_answers_attributes_11_question_id" value="16347456003" />
+<input type="hidden" name="job_application[answers_attributes][11][priority]" id="job_application_answers_attributes_11_priority" value="11" />
+
+<select name="job_application[answers_attributes][11][boolean_value]" id="job_application_answers_attributes_11_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Have you previously worked for Verisign?<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][12][question_id]" id="job_application_answers_attributes_12_question_id" value="16347457003" />
+<input type="hidden" name="job_application[answers_attributes][12][priority]" id="job_application_answers_attributes_12_priority" value="12" />
+
+<select name="job_application[answers_attributes][12][boolean_value]" id="job_application_answers_attributes_12_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Do you currently have a relative employed with Verisign?<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][13][question_id]" id="job_application_answers_attributes_13_question_id" value="16347458003" />
+<input type="hidden" name="job_application[answers_attributes][13][priority]" id="job_application_answers_attributes_13_priority" value="13" />
+
+<select name="job_application[answers_attributes][13][boolean_value]" id="job_application_answers_attributes_13_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>I acknowledge that all information provided is accurate and true.<span class="asterisk">&nbsp;*</span>
+    <br/>
+    
+    <input type="hidden" name="job_application[answers_attributes][14][question_id]" id="job_application_answers_attributes_14_question_id" value="16347459003" />
+<input type="hidden" name="job_application[answers_attributes][14][priority]" id="job_application_answers_attributes_14_priority" value="14" />
+
+<select name="job_application[answers_attributes][14][boolean_value]" id="job_application_answers_attributes_14_boolean_value" aria-required="true"><option value="">--</option>
+<option value="1">Yes</option>
+<option value="0">No</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Voluntary Self-Identification: Gender and Race<span class="asterisk">&nbsp;*</span>
+    <br/>
+    <span><p>For government reporting purposes, we ask candidates to respond to the below self-identification survey. Completion of the form is entirely <strong>voluntary</strong>. Whatever your decision, it will not be considered in the hiring process or thereafter. Any information that you do provide will be recorded and maintained in a confidential file.</p>
+<p>As set forth in Verisign’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.</p>
+<p><strong>Gender:</strong></p></span>
+    <input type="hidden" name="job_application[answers_attributes][15][question_id]" id="job_application_answers_attributes_15_question_id" value="16347460003" />
+<input type="hidden" name="job_application[answers_attributes][15][priority]" id="job_application_answers_attributes_15_priority" value="15" />
+
+<select name="job_application[answers_attributes][15][answer_selected_options_attributes][15][question_option_id]" id="job_application_answers_attributes_15_answer_selected_options_attributes_15_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="101436247003">Male</option>
+<option value="101436248003">Female</option>
+<option value="101436249003">Decline To Self Identify</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>Please identify your race/ethnicity<span class="asterisk">&nbsp;*</span>
+    <br/>
+    <span><p><strong>Race/Ethnicity:&nbsp; </strong><a href="https://boards.cdn.greenhouse.io/docs/RaceEthnicityDefinitions.pdf" target="_blank">Definitions</a></p></span>
+    <input type="hidden" name="job_application[answers_attributes][16][question_id]" id="job_application_answers_attributes_16_question_id" value="16347461003" />
+<input type="hidden" name="job_application[answers_attributes][16][priority]" id="job_application_answers_attributes_16_priority" value="16" />
+
+<select name="job_application[answers_attributes][16][answer_selected_options_attributes][16][question_option_id]" id="job_application_answers_attributes_16_answer_selected_options_attributes_16_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="101436250003">American Indian or Alaskan Native</option>
+<option value="101436251003">Asian</option>
+<option value="101436252003">Black or African American</option>
+<option value="101436253003">Hispanic or Latino</option>
+<option value="101436254003">Native Hawaiian or Other Pacific Islander</option>
+<option value="101436255003">White</option>
+<option value="101436256003">Two or More Races</option>
+<option value="101436257003">Decline To Self Identify</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>
+Voluntary Self-Identification:  Veteran Status<span class="asterisk">&nbsp;*</span>
+    <br/>
+    <span><p>If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection. As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories is as follows:</p>
+<p>A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.</p>
+<p>A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.</p>
+<p>An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.</p>
+<p>An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.</p>
+<p><strong>Veteran Status:</strong></p></span>
+    <input type="hidden" name="job_application[answers_attributes][17][question_id]" id="job_application_answers_attributes_17_question_id" value="16347462003" />
+<input type="hidden" name="job_application[answers_attributes][17][priority]" id="job_application_answers_attributes_17_priority" value="17" />
+
+<select name="job_application[answers_attributes][17][answer_selected_options_attributes][17][question_option_id]" id="job_application_answers_attributes_17_answer_selected_options_attributes_17_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="101436258003">I am not a protected veteran</option>
+<option value="101436259003">I identify as one or more of the classifications of a protected veteran</option>
+<option value="101436260003">I don&#39;t wish to answer</option></select>
+
+
+</label></div>
+<div class="field">
+  <label>
+
+Voluntary Self-Identification of Disability<span class="asterisk">&nbsp;*</span>
+    <br/>
+    <span><p style="           text-align: right;          "></p>
+<p style="text-align: right;">Form CC-305</p>
+<p style="text-align: right;">OMB Control Number 1250-0005</p>
+<p style="text-align: right;">Expires 04/30/2026</p>
+<p><strong>Why are you being asked to complete this form?</strong></p>
+<p>We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.</p>
+<p>Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website at <a href="https://www.dol.gov/ofccp">www.dol.gov/ofccp</a>.</p>
+<p><strong>How do you know if you have a disability?</strong></p>
+<p>A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.</p>
+<p><strong>Disabilities include, but are not limited to:</strong></p>
+<ul>
+<li>Alcohol or other substance use disorder (not currently using drugs illegally)</li>
+<li>Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS</li>
+<li>Blind or low vision</li>
+<li>Cancer (past or present)</li>
+<li>Cardiovascular or heart disease</li>
+<li>Celiac disease</li>
+<li>Cerebral palsy</li>
+<li>Deaf or serious difficulty hearing</li>
+<li>Diabetes</li>
+<li>Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders</li>
+<li>Epilepsy or other seizure disorder</li>
+<li>Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome</li>
+<li>Intellectual or developmental disability</li>
+<li>Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD</li>
+<li>Missing limbs or partially missing limbs</li>
+<li>Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports</li>
+<li>Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)</li>
+<li>Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities</li>
+<li>Partial or complete paralysis (any cause)</li>
+<li>Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema</li>
+<li>Short stature (dwarfism)</li>
+<li>Traumatic brain injury</li>
+</ul>
+<p>PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.</p>
+<p><strong><sup>1</sup></strong><strong>Section 503 of the Rehabilitation Act of 1973, as amended. For more information about this form or the equal employment obligations of Federal contractors, visit the U.S. Department of Labor's Office of Federal Contract Compliance Programs (OFCCP) website at&nbsp;<a href="https://www.dol.gov/ofccp">www.dol.gov/ofccp</a>.</strong></p>
+<p><strong>Disability Status:</strong></p></span>
+    <input type="hidden" name="job_application[answers_attributes][18][question_id]" id="job_application_answers_attributes_18_question_id" value="16347463003" />
+<input type="hidden" name="job_application[answers_attributes][18][priority]" id="job_application_answers_attributes_18_priority" value="18" />
+
+<select name="job_application[answers_attributes][18][answer_selected_options_attributes][18][question_option_id]" id="job_application_answers_attributes_18_answer_selected_options_attributes_18_question_option_id" aria-required="true" style="width: 200px;"><option value="">Please select</option><option value="101436261003">Yes, I have a disability, or have a history/record of having a disability</option>
+<option value="101436262003">No, I don&#39;t have a disability, or a history/record of having a disability</option>
+<option value="101436263003">I don&#39;t wish to answer</option></select>
+
+
+</label></div>
+
+          </div>
+
+
+
+
+          <div id='captcha_container' style="margin-top: 16px"></div>
+  <hr/>
+
+
+
+        <div id='error_message'></div>
+
+        <div id='captcha_error_message'>
+          Our system has flagged this application as potentially being associated with bot traffic. Please turn off any VPNs, clear your browser cache and cookies, or try submitting your application in a different browser. If this issue persists, please reach out to our support team via our <a target="_blank" href="https://support.greenhouse.io/hc/en-us/sections/360011273391-Connecting-with-support">help center</a>.
+        </div>
+
+        <div id='captcha_fallback_message'>Please complete the reCAPTCHA above.</div>
+
+        <div id='submit_buttons'>
+          <input
+            type='button'
+            value='Submit Application'
+            id='submit_app'
+            class='button'>
+        </div>
+</form>    </div>
+</div>
+
+
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-8204e8076a0ea4ddda1be1a05e5e273ddd851ab804ce60dc245c78a13f3b8fb7.js"></script>
+
+  <div class="s3-upload-form" data-presigned-form="resume"></div>
+
+  <div class="s3-upload-form" data-presigned-form="cover_letter"></div>
+<script class="js-metadata" data-key="JBEN.hideCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.alternateCaptcha" data-type="boolean" data-value="false" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.geetestPath" data-type="string" data-value="/geetest" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.publicKey" data-type="string" data-value="6Lc_7sYpAAAAAIwx29jsS1yyzLio4oW3atTTi6MO" type="text/configuration"></script><script class="js-metadata" data-key="JBEN.Recaptcha.checkboxPublicKey" data-type="string" data-value="6Le8YQAoAAAAAKEFkEzy2pAd7xCGNgDI037EDDUm" type="text/configuration"></script>      <script type="text/javascript">
+        var captchaLoadCallback = function() {
+          grecaptcha.enterprise.execute(JBEN.Recaptcha.publicKey, { action: 'load_job' }).then(function(token) {
+            // Future: send this assessment token to the server?
+          });
+        };
+      </script>
+      <script src='https://www.google.com/recaptcha/enterprise.js?onload=captchaLoadCallback&render=6Lc_7sYpAAAAAIwx29jsS1yyzLio4oW3atTTi6MO' async></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/show_init-2f5fdd5c5ac90ad3c0ac0d76992d75eafc694581fdc565f42aa90e0fdc3c5d2c.js"></script>
+  
+
+
+  <script class="js-metadata" data-key="JBEN.PublicJobBoard.UncacheableAttributes.path" data-type="string" data-value="/uncacheable_attributes.json" type="text/configuration"></script><script class="js-metadata" data-key="LocationControl.Providers.Mapbox.apiKey" data-type="string" data-value="pk.eyJ1IjoiamNtdWxsZXIiLCJhIjoiY2l2YmI2ZG82MDA4bzJ6b3UwNTB1enkycSJ9.oRrvDNk1PKKA76v6qSRFXg" type="text/configuration"></script>
+  <script class="js-metadata" data-key="LocationControl.Providers.Pelias.apiKey" data-type="string" data-value="ge-39f1178289d5d0c5" type="text/configuration"></script>
+  <script type="application/ld+json">
+  {"@context":"schema.org","@type":"JobPosting","hiringOrganization":{"@type":"Organization","name":"Verisign","logo":"https://s3-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/366/000/resized/VRSN_logo_Greenhouse_1024_x_512_New.png?1633115386"},"title":"Sr Compensation Analyst","datePosted":"2024-04-16","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Reston, Virginia, United States","addressRegion":"VA","addressCountry":null,"postalCode":null}},"description":"\u003cp\u003eThis is a unique opportunity to join the team that is responsible for helping to shape the total rewards strategy as our business evolves. In this role, you will have the opportunity to partner with an HR account team in support of our business.\u0026nbsp; Among other more typical compensation responsibilities, the role also offers opportunities to support and enhance recognition programs and contribute toward the expansion of our HR analytics and dashboard initiatives.\u003c/p\u003e\n\u003cp\u003eThe Verisign compensation team is responsible for all elements of compensation for its ~900 employees, including strategy and design of new programs and administration of current programs. We are data-driven and committed to continuous improvement. The Senior Compensation Analyst will work with the team to contribute to the organization’s ability to attract, retain and motivate the talent needed for Verisign’s current and future success. This position will report to the Sr Manager – Compensation.\u003c/p\u003e\n\u003cp\u003eKey responsibilities:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAdministers base pay strategies, policies and programs.\u0026nbsp; This includes conducting job evaluations, market pricing and providing recommendations and support to the design process. Also reviews and finalizes job descriptions including the FLSA evaluations.\u0026nbsp; Responsible for audits and job structure management within HRIS system.\u003c/li\u003e\n\u003cli\u003eProvides integral support for annual salary planning, which includes submission of and management of salary surveys. Provides review, analysis and recommendations for current roles and overall salary structure. \u0026nbsp;\u003c/li\u003e\n\u003cli\u003eResponsible for consolidation of workforce reporting and analytics along with the design and maintenance of HR Dashboards to highlight trends and enable workforce decisions.\u0026nbsp; Establishes and maintains knowledge of the business and internal team processes and initiatives to provide context for data gathering, reporting and recommending solutions.\u003c/li\u003e\n\u003cli\u003eActs as lead and primary point of contact for recognition programs, including system administration.\u003c/li\u003e\n\u003cli\u003eDevelops strong partnerships with the HR business partners, recruiting and business leaders in the organization in order to identify and solve compensation related issues and provide consultative expertise.\u0026nbsp;\u003c/li\u003e\n\u003cli\u003eConducts research, analyzes data and identifies trends in compensation and continually reviews current practices and policies to ensure that best practices are being utilized.\u003c/li\u003e\n\u003cli\u003eAssists in developing and delivering training and programs and presentations for educating HR business partners and managers about compensation-related topics and initiatives.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eAn ideal candidate is data-driven and passionate about continuous improvement. They can visually present and communicate data, analyses and findings in a clear and concise manner.\u003c/p\u003e\n\u003cp\u003eQualifications:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eBachelor’s Degree in Business, Finance, a related field, or equivalent experience\u003c/li\u003e\n\u003cli\u003eFive to eight years or more years of progressive experience in compensation\u003c/li\u003e\n\u003cli\u003eThree or more years’ experience using ERP software (Oracle, Workday, etc.)\u003c/li\u003e\n\u003cli\u003eMinimum of two years of related workforce analytics and data analysis experience\u003c/li\u003e\n\u003cli\u003eExperienced in clearly presenting and communicating data, analyses, and findings both visually and through written and oral communications\u003c/li\u003e\n\u003cli\u003eProficient in MS Office with a strong understanding of Excel including formulas, charts, graphs, pivot tables and other advanced capabilities\u003c/li\u003e\n\u003cli\u003eSkilled at accessing and managing data from various salary surveys\u003c/li\u003e\n\u003cli\u003eAbility to handle sensitive and confidential information with discretion\u003c/li\u003e\n\u003cli\u003eExcellent time management skills to be able to handle multiple projects with overlapping time frames and cope with shifting priorities\u003c/li\u003e\n\u003cli\u003eExcellent critical thinking and problem solving skills\u003c/li\u003e\n\u003cli\u003eComfortable with a certain degree of ambiguity\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003ePreferred\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eCertified Compensation Professional (CCP)\u003c/li\u003e\n\u003cli\u003eExperience with Payscale/MarketPay preferred\u003c/li\u003e\n\u003cli\u003eExperience in the high technology industry\u003c/li\u003e\n\u003cli\u003eFamiliarity with SuccessFactors a plus\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eThis position is based in our Reston, VA office and offers a flexible, hybrid work schedule.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe pay range for this role is $87,700-$118,700.\u003c/p\u003e\n\u003cp\u003eThe anticipated annual base salary range for this position is noted above, however, base pay offered may vary depending on job-related knowledge, skills, experience. Verisign offers a discretionary bonus which is based on individual and company performance, and certain roles may be eligible for discretionary stock awards.\u003c/p\u003e"}
+</script>
+
+    <script type='text/javascript' src='https://www.dropbox.com/static/api/2/dropins.js' id='dropboxjs' data-app-key='mh9jyh4mfwjnfhj' async></script>
+
+<script class="js-metadata" data-key="googlePickerDeveloperKey" data-type="string" data-value="AIzaSyCratp6KuOmiXWfR3ABY8azVmw8XFnBl64" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerClientId" data-type="string" data-value="594601915089-7c2994029qkt5qu2tmbppujr9jqrqqrs.apps.googleusercontent.com" type="text/configuration"></script><script class="js-metadata" data-key="googlePickerAppId" data-type="number" data-value="594601915089" type="text/configuration"></script>
+  <script>
+    function callDriveMethodWhenAvailable(method, retries) {
+      retries = retries || 0;
+
+      if (window[method]) {
+        window[method]();
+      } else if (retries < 10){
+        retries++;
+        setTimeout(function() {
+          callDriveMethodWhenAvailable(method, retries);
+        }, retries * 1000);
+      }
+    }
+  </script>
+
+  <script src='https://apis.google.com/js/api.js' onload="callDriveMethodWhenAvailable('gapiLoaded')" async defer></script>
+  <script src='https://accounts.google.com/gsi/client' onload="callDriveMethodWhenAvailable('gisLoaded')" async defer></script>
+
+
+  </body>
+</html>

@@ -1,0 +1,951 @@
+
+<!doctype html>
+
+  <html class="no-js" dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Force IE to use the latest rendering engine available -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta class="foundation-mq" name="foundation-mq" content="">
+
+		<!-- Open Graph - edit as needed -->
+				<meta property="og:title" content="Life at Thunes | Thunes" />
+				<meta property="og:type" content="website" />
+				<meta property="og:url" content="https://www.thunes.com/life-at-thunes/" />
+				<meta property="og:description" content="" />
+				<meta property="og:site_name" content="Thunes" />
+		<meta name="twitter:card" content="summary" />
+
+		<link rel="pingback" href="https://www.thunes.com/xmlrpc.php">
+
+		<title>Life at Thunes | Thunes</title>
+
+		<!-- All in One SEO 4.6.2 - aioseo.com -->
+		<meta name="description" content="Let’s build the future of payments, together Inclusion and belonging We work tirelessly to build our internal people network to represent the markets that we serve – by continuously developing our people, knowledge, programmes, initiatives and tools." />
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://www.thunes.com/life-at-thunes/" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.6.2" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Thunes - Payment infrastructure for a connected world." />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Life at Thunes | Thunes" />
+		<meta property="og:description" content="Let’s build the future of payments, together Inclusion and belonging We work tirelessly to build our internal people network to represent the markets that we serve – by continuously developing our people, knowledge, programmes, initiatives and tools." />
+		<meta property="og:url" content="https://www.thunes.com/life-at-thunes/" />
+		<meta property="og:image" content="https://www.thunes.com/wp-content/uploads/2022/04/social-image-small.png" />
+		<meta property="og:image:secure_url" content="https://www.thunes.com/wp-content/uploads/2022/04/social-image-small.png" />
+		<meta property="og:image:width" content="1640" />
+		<meta property="og:image:height" content="856" />
+		<meta property="article:published_time" content="2024-01-22T09:44:37+00:00" />
+		<meta property="article:modified_time" content="2024-03-20T18:13:15+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:site" content="@thunespayments" />
+		<meta name="twitter:title" content="Life at Thunes | Thunes" />
+		<meta name="twitter:description" content="Let’s build the future of payments, together Inclusion and belonging We work tirelessly to build our internal people network to represent the markets that we serve – by continuously developing our people, knowledge, programmes, initiatives and tools." />
+		<meta name="twitter:creator" content="@thunespayments" />
+		<meta name="twitter:image" content="https://www.thunes.com/wp-content/uploads/2022/04/social-image-small.png" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.thunes.com\/life-at-thunes\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.thunes.com\/#listItem","position":1,"name":"Home","item":"https:\/\/www.thunes.com\/","nextItem":"https:\/\/www.thunes.com\/life-at-thunes\/#listItem"},{"@type":"ListItem","@id":"https:\/\/www.thunes.com\/life-at-thunes\/#listItem","position":2,"name":"Life at Thunes | Thunes","previousItem":"https:\/\/www.thunes.com\/#listItem"}]},{"@type":"Organization","@id":"https:\/\/www.thunes.com\/#organization","name":"Thunes - Pay the World","url":"https:\/\/www.thunes.com\/","logo":{"@type":"ImageObject","url":"\/wp-content\/uploads\/2021\/06\/thunes-logo-dark.svg","@id":"https:\/\/www.thunes.com\/life-at-thunes\/#organizationLogo"},"image":{"@id":"https:\/\/www.thunes.com\/life-at-thunes\/#organizationLogo"},"sameAs":["https:\/\/twitter.com\/thunespayments","https:\/\/www.linkedin.com\/company\/thunespayments\/"]},{"@type":"WebPage","@id":"https:\/\/www.thunes.com\/life-at-thunes\/#webpage","url":"https:\/\/www.thunes.com\/life-at-thunes\/","name":"Life at Thunes | Thunes","description":"Let\u2019s build the future of payments, together Inclusion and belonging We work tirelessly to build our internal people network to represent the markets that we serve \u2013 by continuously developing our people, knowledge, programmes, initiatives and tools.","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.thunes.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.thunes.com\/life-at-thunes\/#breadcrumblist"},"datePublished":"2024-01-22T17:44:37+08:00","dateModified":"2024-03-21T02:13:15+08:00"},{"@type":"WebSite","@id":"https:\/\/www.thunes.com\/#website","url":"https:\/\/www.thunes.com\/","name":"Thunes","description":"Payment infrastructure for a connected world.","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.thunes.com\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel="alternate" type="application/rss+xml" title="Thunes &raquo; Feed" href="https://www.thunes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Thunes &raquo; Comments Feed" href="https://www.thunes.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.thunes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.thunes.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='pardot-css' href='https://www.thunes.com/wp-content/plugins/pardot/build/style-index.css?ver=1712178311' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--forest: #002D24;--wp--preset--color--green: #46E696;--wp--preset--color--warm-grey: #F4F1EE;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 18px;--wp--preset--font-size--cta: 14px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cookie-law-info-css' href='https://www.thunes.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://www.thunes.com/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.2.2' type='text/css' media='all' />
+<style id='fsb-flexible-spacer-style-inline-css' type='text/css'>
+.fsb-style-show-front{position:relative;z-index:2;}@media screen and (min-width:1025px){.fsb-flexible-spacer__device--md,.fsb-flexible-spacer__device--sm{display:none;}}@media screen and (min-width:600px) and (max-width:1024px){.fsb-flexible-spacer__device--lg,.fsb-flexible-spacer__device--sm{display:none;}}@media screen and (max-width:599px){.fsb-flexible-spacer__device--lg,.fsb-flexible-spacer__device--md{display:none;}}
+</style>
+<link rel='stylesheet' id='gridmaster-frontend-css' href='https://www.thunes.com/wp-content/plugins/ajax-filter-posts/assets/css/frontend.min.css?ver=3.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css-css' href='https://www.thunes.com/wp-content/themes/thunes/foundation-sites/dist/css/foundation.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.thunes.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flickity-css-css' href='https://www.thunes.com/wp-content/themes/thunes/assets/libs/flickity.min.css?ver=all' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-css' href='https://www.thunes.com/wp-content/themes/thunes/assets/styles/print.css?ver=print' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css-css' href='https://www.thunes.com/wp-content/themes/thunes/assets/styles/style.css?ver=2634963479' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css' href='https://www.thunes.com/wp-content/themes/thunes/assets/styles/custom.css?ver=4457631177' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.thunes.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#3566bb","button_3_button_hover":"#2a5296","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#333333","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/www.thunes.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.2.2" id="cookie-law-info-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/themes/thunes/assets/libs/matchHeight.min.js?ver=1" id="matchheight-js-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/themes/thunes/assets/libs/flickity.pkgd.min.js?ver=1" id="flickity-js-js"></script>
+<script type="text/javascript" defer='defer' src="//cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js?ver=1" id="cookies-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.thunes.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.thunes.com/wp-json/wp/v2/pages/16281" /><link rel='shortlink' href='https://www.thunes.com/?p=16281' />
+<link rel="alternate" type="application/json+oembed" href="https://www.thunes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thunes.com%2Flife-at-thunes%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.thunes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thunes.com%2Flife-at-thunes%2F&#038;format=xml" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PQ3TLSB');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 10785161571 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10785161571"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-10785161571');
+</script>
+
+<!-- Event snippet for Website traffic conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-10785161571/ET-jCKLFv4ADEOOC4pYo'});
+</script>
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','oc0cc');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+
+
+
+		<script type="text/javascript">
+            var ajaxurl = 'https://www.thunes.com/wp-admin/admin-ajax.php';
+		</script>
+		<script language="javascript" type="text/javascript">
+			 var style = document.createElement("style");
+			 style.type = "text/css";
+			 style.id = "antiClickjack";
+			 if ("cssText" in style){
+			   style.cssText = "body{display:none !important;}";
+			 }else{
+			   style.innerHTML = "body{display:none !important;}";
+			}
+			document.getElementsByTagName("head")[0].appendChild(style);
+
+			if (top.document.domain === document.domain) {
+			 var antiClickjack = document.getElementById("antiClickjack");
+			 antiClickjack.parentNode.removeChild(antiClickjack);
+			} else {
+			 top.location = self.location;
+			}
+		  </script>	<script>
+		jQuery('html').addClass('show-for-sr')
+		jQuery(document).ready(function($){
+			$('html').removeClass('show-for-sr')
+		})
+	</script>
+<meta name="description" content="" />
+<meta name="generator" content="Elementor 3.21.4; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto">
+<link rel="icon" href="https://www.thunes.com/wp-content/uploads/2021/07/cropped-thunes-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.thunes.com/wp-content/uploads/2021/07/cropped-thunes-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.thunes.com/wp-content/uploads/2021/07/cropped-thunes-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.thunes.com/wp-content/uploads/2021/07/cropped-thunes-favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.elementor-kit-5157 h1 {
+	text-transform: none !important
+}
+
+.wp-block-media-text {
+    padding: 30px 30px 0 30px;
+    background: #002d24;
+    margin-bottom: 30px;
+    border-radius: 30px;
+}
+
+.wp-block-media-text p {
+    color: #fff !important;
+}
+		</style>
+		
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WRHCWDK');</script>
+		<!-- End Google Tag Manager -->
+
+		
+	</head>
+
+	<body class="page-template-default page page-id-16281 elementor-default elementor-kit-5157">
+
+
+		<div class="off-canvas-wrapper">
+
+			<!--[if IE]>
+				<div class="ie-change-browser">Your web browser (Internet Explorer) is out of date. Please use an alternative browser (such as Edge, Chrome or Safari) for more security, speed and the best experience on this site.</div>
+			<![endif]-->
+
+			<!-- Load off-canvas container. Feel free to remove if not using. -->
+			
+<div class="off-canvas position-right" id="off-canvas" data-off-canvas>
+	
+	
+</div>
+
+			<div class="off-canvas-content" data-off-canvas-content>
+
+				<header id="header" class="header" role="banner">
+
+					 						
+<div class="title-bar" data-responsive-toggle="top-bar-menu" data-hide-for="large" data-tpl="nav-default">
+
+	<ul id="mobile-branding">
+		<li>
+			<a href="https://www.thunes.com">
+								<img src="https://www.thunes.com/wp-content/uploads/2021/06/thunes-logo-dark.svg" alt="Thunes" />
+			</a>
+		</li>
+	</ul>
+
+	<div id="mobile-menu-button" class="mobile-menu" data-toggle>
+
+		<div class="closed">
+			<img src="https://www.thunes.com/wp-content/themes/thunes/assets/images/burger.svg" alt="Open Menu" />
+		</div>
+
+		<div class="opened hide">
+			<img src="https://www.thunes.com/wp-content/themes/thunes/assets/images/burgerx.svg" alt="Close Menu" />
+		</div>
+
+	</div>
+
+</div>
+
+<div id="top-bar-menu" class="grid-container" data-tpl="nav-default">
+	<div class="grid-x grid-margin-x grid-padding-x">
+		<div class="header-logo cell small-6 show-for-large large-3">
+			<ul id="main-branding" class="menu">
+				<li>
+					<a href="https://www.thunes.com">
+											<img src="https://www.thunes.com/wp-content/uploads/2021/06/thunes-logo-dark.svg" alt="Thunes" />
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="header-menu cell small-12 large-9">
+			<ul id="main-nav" class="vertical large-horizontal menu" data-responsive-menu="accordion large-dropdown"><li id="menu-item-3722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3722"><a href="/our-network/">Network</a></li>
+<li id="menu-item-15167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15167"><a href="https://www.thunes.com/products/">Products</a>
+<ul class="menu">
+	<li id="menu-item-15168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15168"><a href="#">Pay</a>
+	<ul class="menu">
+		<li id="menu-item-15173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15173"><a href="https://www.thunes.com/products/pay-to-wallets/">Pay-to-Wallets</a></li>
+		<li id="menu-item-15172" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15172"><a href="https://www.thunes.com/products/pay-to-banks/">Pay-to-Banks</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15169"><a href="#">Accept</a>
+	<ul class="menu">
+		<li id="menu-item-15174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15174"><a href="/products/accept-mobile-wallets">Accept Mobile Wallets</a></li>
+		<li id="menu-item-15175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15175"><a href="/products/accept-bank-payments">Accept Bank Payments</a></li>
+		<li id="menu-item-15176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15176"><a href="/products/accept-digital-vouchers">Accept Digital Vouchers</a></li>
+		<li id="menu-item-15177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15177"><a href="/products/accept-buy-now-pay-later">Accept BNPL</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15170"><a href="#">Exchange</a>
+	<ul class="menu">
+		<li id="menu-item-15178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15178"><a href="/products/exchange-currencies">Exchange Currencies</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15171"><a href="#">Comply</a>
+	<ul class="menu">
+		<li id="menu-item-15179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15179"><a href="https://www.thunes.com/products/dynamic-risk-scoring">Dynamic Risk Scoring</a></li>
+		<li id="menu-item-15180" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15180"><a href="/products/smart-screening">Smart Screening</a></li>
+		<li id="menu-item-15181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15181"><a href="/products/transaction-monitoring">Transaction Monitoring</a></li>
+		<li id="menu-item-15182" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15182"><a href="/products/case-manager">Case Manager</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-2513" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2513"><a href="/who-we-serve">Who we serve</a>
+<ul class="menu">
+	<li id="menu-item-15185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15185"><a href="https://www.thunes.com/money-transfer-operators/">Money Transfer Operators</a></li>
+	<li id="menu-item-15188" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15188"><a href="https://www.thunes.com/payment-service-providers/">Payment Service Providers</a></li>
+	<li id="menu-item-15193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15193"><a href="https://www.thunes.com/creator-economy-platforms/">Creator Economy Platforms</a></li>
+	<li id="menu-item-15198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15198"><a href="https://www.thunes.com/platforms/">Marketplaces</a></li>
+	<li id="menu-item-15202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15202"><a href="https://www.thunes.com/digital-merchants/">Digital Merchants</a></li>
+	<li id="menu-item-15205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15205"><a href="https://www.thunes.com/banks/">Banks</a></li>
+	<li id="menu-item-15209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15209"><a href="https://www.thunes.com/mobile-wallets/">Mobile Wallets</a></li>
+</ul>
+</li>
+<li id="menu-item-3074" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-3074 active"><a href="/about-us/">Company</a>
+<ul class="menu">
+	<li id="menu-item-11337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11337"><a href="https://www.thunes.com/about-us/">About Us</a></li>
+	<li id="menu-item-16424" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16281 current_page_item menu-item-16424 active"><a href="https://www.thunes.com/life-at-thunes/" aria-current="page">Careers</a></li>
+	<li id="menu-item-7418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7418"><a href="https://www.thunes.com/esg/">ESG Programme</a></li>
+	<li id="menu-item-5332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5332"><a href="https://www.thunes.com/thunes-partner-programme/">Partner Programme</a></li>
+	<li id="menu-item-12255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12255"><a href="https://www.thunes.com/press-centre/">Press Centre</a></li>
+	<li id="menu-item-18340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18340"><a href="/events">Events</a></li>
+</ul>
+</li>
+<li id="menu-item-7412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7412"><a href="#">Resources</a>
+<ul class="menu">
+	<li id="menu-item-8477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8477"><a href="https://www.thunes.com/case-studies/">Case studies</a></li>
+	<li id="menu-item-1474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1474"><a href="https://www.thunes.com/news/">News &#038; Views</a></li>
+	<li id="menu-item-7414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7414"><a href="https://www.thunes.com/reports/">Knowledge Base</a></li>
+</ul>
+</li>
+<li id="menu-item-18252" class="button menu-item menu-item-type-custom menu-item-object-custom menu-item-18252"><a href="/contact">Get in touch</a></li>
+</ul>		</div>
+	</div>
+</div>
+					 
+				</header> <!-- end .header -->
+
+<div id="content" class="content" data-tpl="page">
+
+	<main class="main" role="main">
+
+		
+			
+<article id="post-16281" class="post-16281 page type-page status-publish hentry" role="article" itemscope itemtype="http://schema.org/WebPage" data-tpl="loop-page">
+
+	<section class="entry-content grid-container" itemprop="text">
+
+		<div class="grid-x grid-margin-x grid-padding-x">
+
+			<div class="small-12 medium-12 large-12 cell">
+
+				
+       </div>
+    </div>
+</section>
+
+
+        
+            <div class="top-careers">
+            <div class="top-bg">
+                                <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/Group-19947.png" alt="">
+                            </div>
+            <div class="container">
+                <div class="top-inner">
+                    <div class="top-description">
+                                                <h1 class="title-page white">Let’s build the future of payments <strong>together</strong></h1>
+                                                <a class="button" href="https://www.thunes.com/vacancies">See our vacancies</a>
+                                            </div>
+                </div>
+            </div>
+                        <div class="top-icon">
+                <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/top_careers_icon.svg" alt="">
+            </div>
+                    </div>
+    
+    
+
+    
+    <div class="careers-content bg-green">
+        <div class="container">
+                        <div class="careers-content-wrap">
+                <div class="careers-content-info">
+                                        <div class="careers-content-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_icon_1.svg" alt="">
+                    </div>
+                                        <p class="careers-content-name">Our work makes a world of difference</p>
+                                        <div class="simple-text white">
+                        <p>Thunesters are driven by a shared mission: To connect every corner of the world and make the global economy more accessible to all. Our products solve real problems &#8211; every line of code, every new connection and every idea helps bring people together.</p>
+<p>You will positively impact the lives of millions of people as we work passionately with purpose towards a better, more connected world.</p>
+                    </div>
+                                    </div>
+                                <div class="careers-content-media">
+                    <div class="careers-content-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_img_1.jpg" alt="">
+                    </div>
+                </div>
+                            </div>
+                        <div class="careers-content-wrap reverse">
+                <div class="careers-content-info">
+                                        <div class="careers-content-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_icon_2.svg" alt="">
+                    </div>
+                                        <p class="careers-content-name">We never stop learning</p>
+                                        <div class="simple-text white">
+                        <p>At Thunes we are at the forefront of change and adaptability. The world of payments is diverse and dynamic, our entrepreneurial mindset is agile and willing to face challenges head-on. Curiosity wins and is rewarded.</p>
+<p>At Thunes, you are empowered to be at your best &#8211; we encourage everyone to ask questions, propose ideas and create solutions.</p>
+                    </div>
+                                    </div>
+                                <div class="careers-content-media">
+                    <div class="careers-content-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_img_2.jpg" alt="">
+                    </div>
+                </div>
+                            </div>
+                        <div class="careers-content-wrap">
+                <div class="careers-content-info">
+                                        <div class="careers-content-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_icon_3.svg" alt="">
+                    </div>
+                                        <p class="careers-content-name">We are as global and diverse as the people that we serve</p>
+                                        <div class="simple-text white">
+                        <p>Our diversity is our strength. It is what sets us apart. It allows us to approach problems from fresh angles and find better solutions.</p>
+<p>We know everyone’s different experiences, backgrounds and perspectives make us stronger and enable us to do the right thing. We stay open-minded and enjoy learning from each other &#8211; your uniqueness is your value-add at Thunes!</p>
+                    </div>
+                                    </div>
+                                <div class="careers-content-media">
+                    <div class="careers-content-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_img_3.jpg" alt="">
+                    </div>
+                </div>
+                            </div>
+                        <div class="careers-content-wrap reverse">
+                <div class="careers-content-info">
+                                        <div class="careers-content-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_icon_4.svg" alt="">
+                    </div>
+                                        <p class="careers-content-name">We’re in this together</p>
+                                        <div class="simple-text white">
+                        <p>At Thunes, help is only one question away. By working together and thinking big, we win together: we achieve things that we would not be able to do alone.</p>
+<p>That means we never leave a person behind. We lean in and don’t let each other down. Real relationships are forged as we value each other as people, not only as professionals. Join us in building a better, more connected world.</p>
+                    </div>
+                                    </div>
+                                <div class="careers-content-media">
+                    <div class="careers-content-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_img_4.jpg" alt="">
+                    </div>
+                </div>
+                            </div>
+                    </div>
+    </div>
+
+    
+
+    
+    <div class="our-values">
+                <h2 class="title-content serif">Our values</h2>
+                <div class="our-values-slider swiper-container">
+            <div class="swiper-wrapper">
+                                <div class="our-value-item swiper-slide">
+                                        <div class="our-value-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/our_value_1.png" width="827" alt="">
+                    </div>
+                                        <p class="our-value-name">We are ONE team and we celebrate our differences.</p>
+                                        <div class="simple-text">  
+                        <p>We celebrate and encourage diversity, equality, and inclusion. We treat each other with respect, honesty, and empathy. We work together across borders and cultures. We share credit, praise, and constructive feedback. We win together because success for one is success for all.</p>
+                    </div>
+                                    </div>
+                                <div class="our-value-item swiper-slide">
+                                        <div class="our-value-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/our_value_2.png" alt="">
+                    </div>
+                                        <p class="our-value-name">We care about enabling everyone, everywhere, to participate in the global digital economy.</p>
+                                        <div class="simple-text">  
+                        <p>We are passionate about making a difference to millions of people around the world. We deliver exceptional service to our end consumers, stakeholders, clients, and partners. We love what we do and have fun doing it.</p>
+                    </div>
+                                    </div>
+                                <div class="our-value-item swiper-slide">
+                                        <div class="our-value-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/our_value_3.png" width="516" alt="">
+                    </div>
+                                        <p class="our-value-name">We are ambitious &#8211; we make the impossible happen.</p>
+                                        <div class="simple-text">  
+                        <p>We never limit our thinking. We dream big… then we do big. It is ok to fail fast; we learn and move on. We set the bar high – and we always strive for better.</p>
+                    </div>
+                                    </div>
+                                <div class="our-value-item swiper-slide">
+                                        <div class="our-value-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/03/DO-THE-RIGHT-THING-copy.png" alt="">
+                    </div>
+                                        <p class="our-value-name">Our integrity is non-negotioable</p>
+                                        <div class="simple-text">  
+                        <p><span style="font-weight: 300;">We are ethical and honest. We keep our word to our partners, clients, and each other. We are compliance advocates and experts. We are empowered to speak up.</span></p>
+                    </div>
+                                    </div>
+                                <div class="our-value-item swiper-slide">
+                                        <div class="our-value-img">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/03/ALWAYS-ENTREPRENEURIAL.png" width="1300" alt="">
+                    </div>
+                                        <p class="our-value-name">We embrace our start-up energy</p>
+                                        <div class="simple-text">  
+                        <p><span style="font-weight: 300;">We seek and seize opportunities. We find creative solutions together. We are adaptable, flexible and future–focussed. We are always curious. We own the problem. We feel a sense of urgency.</span></p>
+                    </div>
+                                    </div>
+                            </div>
+            <div class="our-values-arrow our-values-prev">
+                <svg xmlns="http://www.w3.org/2000/svg" width="26.807" height="22.491" viewBox="0 0 26.807 22.491">
+                    <path d="M9.175,0V19.259L2.792,12.8,0,15.525,11.242,26.807,22.491,15.525,19.7,12.8l-6.383,6.455V0Z" transform="translate(26.807) rotate(90)" />
+                </svg>
+            </div>
+            <div class="our-values-arrow our-values-next">
+                <svg xmlns="http://www.w3.org/2000/svg" width="26.807" height="22.491" viewBox="0 0 26.807 22.491">
+                    <path d="M9.175,0V19.259L2.792,12.8,0,15.525,11.242,26.807,22.491,15.525,19.7,12.8l-6.383,6.455V0Z" transform="translate(26.807) rotate(90)" />
+                </svg>
+            </div>
+        </div>
+        <div class="our-values-dots"></div>
+            </div>
+
+    
+
+        
+        <div class="our-benefits">
+        <div class="container">
+                        <h2 class="title-content serif">Our benefits &#038; perks</h2>
+                        <div class="our-benefits-wrap">
+                                <div class="our-benefit-item">
+                                        <div class="our-benefit-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_1.svg" alt="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_1.svg">
+                    </div>
+                                        <p class="our-benefit-name">Community and workplace experience </p>
+                                        <div class="simple-text">
+                        <p>Join a workplace that values community and personal enrichment. We’re a diverse team that has fun. We work across five continents, with a passion for all things digital to progress financial and economic inclusion.</p>
+                    </div>
+                                    </div>
+                                <div class="our-benefit-item">
+                                        <div class="our-benefit-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_5.svg" alt="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_5.svg">
+                    </div>
+                                        <p class="our-benefit-name">Grow with us</p>
+                                        <div class="simple-text">
+                        <p>We offer multiple ways to progress your career, not only through a variety of L&amp;D initiatives but also through internal opportunities within the <a href="https://www.transferto.com/" target="_blank" rel="noopener">TransferTo Group</a> of companies.</p>
+                    </div>
+                                    </div>
+                                <div class="our-benefit-item">
+                                        <div class="our-benefit-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_2.svg" alt="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_2.svg">
+                    </div>
+                                        <p class="our-benefit-name">Health and wellness</p>
+                                        <div class="simple-text">
+                        <p>We provide comprehensive well-being support for you and your immediate family. This includes extended medical coverage, maternity, paternity and childcare leave and compassionate time off. </p>
+<p>For business travel, we provide health, security, wellbeing and travel coverage for peace of mind on every journey.</p>
+                    </div>
+                                    </div>
+                                <div class="our-benefit-item">
+                                        <div class="our-benefit-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_3.svg" alt="https://www.thunes.com/wp-content/uploads/2024/01/our_benefit_3.svg">
+                    </div>
+                                        <p class="our-benefit-name">Flexibility and time off</p>
+                                        <div class="simple-text">
+                        <p>Our flexible work options and generous time-off benefits help ensure you benefit from  work-life balance. Enjoy flexible-hybrid work arrangements and paid-time off, with two &#8216;Thune Out&#8217; days per year for time away from work. We also encourage employees to take part in two ‘Community Days’ per year so you can give back.</p>
+                    </div>
+                                    </div>
+                                <div class="our-benefit-item">
+                                        <div class="our-benefit-icon">
+                        <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/03/Rewarding-success.png" alt="https://www.thunes.com/wp-content/uploads/2024/03/Rewarding-success.png">
+                    </div>
+                                        <p class="our-benefit-name">Rewarding success</p>
+                                        <div class="simple-text">
+                        <p>Thrive in an environment that values your dedication and contribution. We provide competitive compensation, mobile phone allowances, variable performance bonuses, commission plans and a company-wide performance-based equity plan.</p>
+                    </div>
+                                    </div>
+                            </div>
+                        <div class="our-benefits-bottom">
+                <div class="simple-text">
+                    <p>* Please note that while our philosophy is the same in every place Thunesters work, benefits may vary by each office and / or country.</p>
+                </div>
+            </div>
+                    </div>
+    </div>
+    
+    
+
+    
+    <div class="employee-spotlights">
+        <div class="container">
+            <div class="employee-spotlights-inner">
+                                <h2 class="title-content serif">Employee spotlights</h2>
+                                <div class="employee-spotlights-wrap">
+                                        <div class="employee-spotlight-item">
+                          
+                        <p class="employee-spotlight-title">Alix Charlier</p>
+                                                <div class="employee-spotlight-img">
+                            <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/1610763462589.jpg" alt="">
+                        </div>
+                                                <p class="employee-spotlight-name">Compliance Director, Americas</p>
+                                                <a class="button" href="https://www.thunes.com/news/employee-spotlight-alix-charlier/">Read the article</a>
+                                            </div>
+                                        <div class="employee-spotlight-item">
+                          
+                        <p class="employee-spotlight-title">Cristobal Lagos</p>
+                                                <div class="employee-spotlight-img">
+                            <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/1690555079319.jpg" alt="">
+                        </div>
+                                                <p class="employee-spotlight-name">Commercial Strategy Senior Analyst</p>
+                                                <a class="button" href="https://www.thunes.com/news/employee-spotlight-cristobal-lagos/">Read the article</a>
+                                            </div>
+                                        <div class="employee-spotlight-item">
+                          
+                        <p class="employee-spotlight-title">Lakshmi Rajagopalan</p>
+                                                <div class="employee-spotlight-img">
+                            <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/1679122269017.jpg" alt="">
+                        </div>
+                                                <p class="employee-spotlight-name">Vice President of Network Commercialisation</p>
+                                                <a class="button" href="https://www.thunes.com/news/from-apps-chores-to-flexi-work-how-equity-benefits-everyone/">Read the article</a>
+                                            </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+
+    
+
+    
+    <div class="careers-about">
+        <div class="container">
+            <div class="careers-about-wrap">
+                                <div class="careers-about-img careers-about-left">
+                    <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_about_left.png" alt="">
+                </div>
+                                <div class="careers-about-content">
+                    <div class="careers-about-info">
+                        <div class="careers-about-description">
+                                                        <h2 class="title-content serif">Diversity, Equity and Inclusion <strong>Statement</strong></h2>
+                                                        <div class="simple-text">
+                                <p>We work tirelessly to build our internal people network to represent the markets that we serve – by continuously developing our people, knowledge, programmes, initiatives and tools.</p>
+<p>Our goal as we grow is to build a more diverse workplace and a culture where everyone, from any background, can do their best work and feel supported and included while doing so.</p>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                                <div class="careers-about-img careers-about-right">
+                    <img decoding="async" src="https://www.thunes.com/wp-content/uploads/2024/01/careers_about_right.png" alt="">
+                </div>
+                            </div>
+        </div>
+    </div>
+
+    
+
+    
+    <div class="hiring-process">
+        <div class="container">
+            <div class="hiring-process-inner">
+                                <h2 class="title-content serif white">See our latest vacancies </h2>
+                                <div class="hiring-process-buttons">
+                    <a class="button" href="https://www.thunes.com/vacancies">Latest vacancies</a>
+                </div>
+                            </div>
+        </div>
+    </div>
+    
+   
+
+<section class="entry-content grid-container" itemprop="text">
+    <div class="grid-x grid-margin-x grid-padding-x">
+        <div class="small-12 medium-12 large-12 cell">
+
+
+			</div>
+
+		</div>
+
+	</section> <!-- end article section -->
+
+</article> <!-- end article -->
+
+		
+	</main> <!-- end #main -->
+
+</div> <!-- end #content -->
+
+
+				
+								<footer class="footer" role="contentinfo">
+					<div class="grid-container">
+						<div class="inner-footer grid-x grid-margin-x grid-padding-x">
+							<div class="small-12 medium-4 large-4 cell">
+																<div class="footer-logo">
+									<img src="https://www.thunes.com/wp-content/uploads/2021/06/thunes-logo-light.svg" alt="Thunes" />
+								</div>
+																										<div class="footer-social">
+										<a href="https://www.linkedin.com/company/thunespayments/" target="_blank" rel="noopener noreferrer"><i class="fa fa-linkedin-square"></i></a>										<a href="https://twitter.com/ThunesPayments/" target="_blank" rel="noopener noreferrer"><svg width="22" height="24" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="#46E696"/></svg></a>																													</div>
+															</div>
+							<div class="small-12 medium-8 large-8 cell">
+								<nav role="navigation" class="grid-x">
+																			<div id="nav_menu-3" class="widget cell small-6 medium-4 large-auto widget_nav_menu"><h4 class="widgettitle">Network</h4><div class="menu-network-container"><ul id="menu-network" class="menu"><li id="menu-item-10648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10648"><a href="/our-network/">Payments</a></li>
+<li id="menu-item-3561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3561"><a href="https://www.thunes.com/network-collections/">Collections</a></li>
+<li id="menu-item-18398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18398"><a href="/cross-border-payments/">Cross-border payments</a></li>
+</ul></div></div><div id="nav_menu-4" class="widget cell small-6 medium-4 large-auto widget_nav_menu"><h4 class="widgettitle">Who we serve</h4><div class="menu-who-we-serve-container"><ul id="menu-who-we-serve" class="menu"><li id="menu-item-15210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15210"><a href="https://www.thunes.com/money-transfer-operators/">Money Transfer Operators</a></li>
+<li id="menu-item-15211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15211"><a href="https://www.thunes.com/payment-service-providers/">Payment Service Providers</a></li>
+<li id="menu-item-15212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15212"><a href="https://www.thunes.com/creator-economy-platforms/">Creator Economy Platforms</a></li>
+<li id="menu-item-15213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15213"><a href="https://www.thunes.com/platforms/">Marketplaces</a></li>
+<li id="menu-item-15214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15214"><a href="https://www.thunes.com/digital-merchants/">Digital Merchants</a></li>
+<li id="menu-item-15215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15215"><a href="https://www.thunes.com/banks/">Banks</a></li>
+<li id="menu-item-15216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15216"><a href="https://www.thunes.com/mobile-wallets/">Mobile Wallets</a></li>
+</ul></div></div><div id="nav_menu-7" class="widget cell small-6 medium-4 large-auto widget_nav_menu"><h4 class="widgettitle">Company</h4><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-15367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15367"><a href="/about-us/">About us</a></li>
+<li id="menu-item-16428" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16281 current_page_item menu-item-16428 active"><a href="https://www.thunes.com/life-at-thunes/" aria-current="page">Careers</a></li>
+<li id="menu-item-12411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12411"><a href="https://www.thunes.com/esg/">ESG Programme</a></li>
+<li id="menu-item-5331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5331"><a href="https://www.thunes.com/thunes-partner-programme/">Partner Programme</a></li>
+<li id="menu-item-12412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12412"><a href="https://www.thunes.com/press-centre/">Press Centre</a></li>
+<li id="menu-item-15353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15353"><a href="/a-fully-compliant-and-regulated-network/">Compliance and regulation</a></li>
+</ul></div></div><div id="nav_menu-8" class="widget cell small-6 medium-4 large-auto widget_nav_menu"><h4 class="widgettitle">Resources</h4><div class="menu-resources-container"><ul id="menu-resources" class="menu"><li id="menu-item-9241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9241"><a href="https://www.thunes.com/case-studies/">Case studies</a></li>
+<li id="menu-item-9245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9245"><a href="https://www.thunes.com/news/">News &#038; Views</a></li>
+<li id="menu-item-9244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9244"><a href="https://www.thunes.com/reports/">Knowledge Base</a></li>
+<li id="menu-item-3089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3089"><a href="https://docs.thunes.com">Developer Portal &#038; API Documentation</a></li>
+<li id="menu-item-4873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4873"><a href="https://login.limonetik.com/account/login">Collections Platform Login</a></li>
+<li id="menu-item-15386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15386"><a href="https://businesshub.thunes.com">Thunes Business Hub</a></li>
+</ul></div></div>																	</nav>
+							</div>
+							<div class="small-12 medium-12 large-12 cell">
+								<p class="source-org copyright"><small>&copy; 2024 Thunes Ltd. All rights reserved. <a href="/privacy-policy/">Privacy policy</a> | <a href="/terms-conditions/">Terms of Use</a></small></p>
+							</div>
+						</div> <!-- end #inner-footer -->
+					</div>
+				</footer> <!-- end .footer -->
+				
+			</div>  <!-- end .off-canvas-content -->
+
+		</div> <!-- end .off-canvas-wrapper -->
+
+		<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><br />
+<br />
+<div class="cli-bar-message">We use cookies on our site to provide you with a personalised and better browsing experience, and to analyse website traffic. For these reasons, we may share your site usage with our analytics partners. You can change your cookie setting at any time by clicking “Cookie Settings” below.<br />
+<br />
+By clicking “Accept” below, you consent to the cookies we use, including their purpose, as stated in our <a style="text-decoration: underline" href="/cookie-policy/">Cookie Policy</a><br />
+</div><br />
+<br />
+<div class="cli-bar-btn_container"><a role='button' class="cli_settings_button" style="margin:0px 0px 0px 0px">Cookie settings</a><a role='button' data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn">ACCEPT</a></div><div class="cli-bar-btn_container"><a role='button' id="cookie_action_close_header_reject" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button wt-cli-reject-btn" data-cli_action="reject" style="margin:0px 0px 0px 0px">REJECT</a></div><br />
+</div><br />
+</span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+		  <button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Close</span>
+		  </button>
+		  <div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+															<div class="wt-cli-necessary-checkbox">
+									<input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+								</div>
+								<span class="cli-necessary-caption">Always Enabled</span>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<div class="wt-cli-cookie-description">
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+								Non-necessary							</a>
+															<div class="cli-switch">
+									<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary" checked='checked' />
+									<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
+								</div>
+													</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+								<div class="wt-cli-cookie-description">
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+		  </div>
+		  <div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all-->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PQ3TLSB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/javascript">
+_linkedin_partner_id = "3608980";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3608980&fmt=gif" />
+</noscript>
+
+
+<script>
+  window.intercomSettings = {
+    api_base: "https://api-iam.intercom.io",
+    app_id: "vabm5ixo",
+	"Current Hostname": "www.thunes.com"
+  };
+</script>
+
+<script>
+// We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/vabm5ixo'
+(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',w.intercomSettings);}else{var d=document;var i=function(){i.c(arguments);};i.q=[];i.c=function(args){i.q.push(args);};w.Intercom=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/vabm5ixo';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(document.readyState==='complete'){l();}else if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+
+<script type='text/javascript'>
+piAId = '979363';
+piCId = '';
+piHostname = 'go.thunes.com';
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + piHostname + '/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+</script><script type="text/javascript">
+<!--
+piCId = '44724';
+piAId = '979363';
+
+piHostname = 'pi.pardot.com';
+
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();
+-->
+</script><script type="text/javascript" id="gridmaster-frontend-js-extra">
+/* <![CDATA[ */
+var asr_ajax_params = {"nonce":"9c3a65bc10","asr_ajax_url":"https:\/\/www.thunes.com\/wp-admin\/admin-ajax.php","is_pro":"","breakpoints":{"xs":{"label":"Extra Small","value":"320","default":false,"icon":"dashicons dashicons-smartphone"},"sm":{"label":"Small","value":"768","default":false,"icon":"dashicons dashicons-smartphone"},"md":{"label":"Medium","value":"992","default":false,"icon":"dashicons dashicons-tablet"},"lg":{"label":"Large","value":"1200","default":true,"icon":"dashicons dashicons-laptop"},"xl":{"label":"Extra Large","value":"1600","default":false,"icon":"dashicons dashicons-desktop"}}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/plugins/ajax-filter-posts/assets/frontend.min.js?ver=3.4.8" id="gridmaster-frontend-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/themes/thunes/foundation-sites/dist/js/foundation.min.js?ver=6.4.1" id="foundation-js-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/themes/thunes/assets/scripts/swiper-bundle.min.js?ver=3671468693" id="swiper-bundle-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/themes/thunes/assets/scripts/scripts.js?ver=4709451458" id="site-js-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.thunes.com/wp-content/plugins/pardot/js/asyncdc.min.js?ver=6.5.3" id="pddc-js"></script>
+
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRHCWDK"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+		<div id="redirect_overlay">
+				<div class="overlay-content boxed rounded gradient">
+					<span class="popup-close">
+						<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<line x1="6.48832" y1="6.48959" x2="18.5091" y2="18.5104" stroke="white"></line>
+							<line x1="6.48824" y1="18.5104" x2="18.5091" y2="6.48958" stroke="white"></line>
+						</svg>
+					</span>
+					<div class="grid-x">
+						<div class="cell medium-8 large-6">
+							<h3>Sorry, the page you were looking for no longer exists.</h3>
+							<p class="heading"><strong>You've been redirected to Thunes.com...</strong></p>
+							<p>Limonetik is now Thunes Collections - part of the leading cross-border payments platform Thunes.</p>
+							<div class="logos">
+								<img src="https://www.thunes.com/wp-content/uploads/2021/10/thunes-logo.svg" alt="Thunes"/>
+								<img src="https://www.thunes.com/wp-content/uploads/2021/10/limonetik-logo.svg" alt="Thunes Collections"/>
+							</div>
+							<a class="link" href="#"><strong>Continue to thunes.com</strong></a>
+						</div>
+						<div class="cell medium-4 large-6">
+							<div class="overlay-image">
+								<img src="https://www.thunes.com/wp-content/uploads/2021/10/thunes-transfers-2.png" alt="Thunes"/>
+							</div>
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+
+
+
+
+		<script>
+		/*if (window.location.href.indexOf("?redirect") > -1) {
+			if ( ! Cookies.get('popup') ) {
+				dataLayer.push({
+					'event' : 'GAE',
+					'GAE' : {
+					'category' : 'banners',
+					'action' : 'view banner',
+					'label' : 'view Lima merge banner',
+					}
+				});
+			}
+		}*/
+		</script>
+
+	</body>
+
+</html> <!-- end page -->

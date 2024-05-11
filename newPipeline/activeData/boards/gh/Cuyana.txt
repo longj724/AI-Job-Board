@@ -1,0 +1,2854 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height">
+    <meta name="theme-color" content="">
+
+    <title>
+      Careers &ndash; Cuyana
+    </title><link rel="canonical" href="https://cuyana.com/pages/careers"><link rel="shortcut icon" href="//cuyana.com/cdn/shop/files/favicon-96x96_96x.png?v=1689715959" type="image/png"><script src="//d2wy8f7a9ursnm.cloudfront.net/v7/bugsnag.min.js"></script>
+      <script>
+        Bugsnag.start({ 
+          apiKey: 'f33e7d3463260d886152d3cbb18250f3',
+          releaseStage: 'shopify/main'
+        })
+      </script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-MTW8M2D');</script><script>
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        'orderCount': 0
+      });
+    </script>
+
+    
+      
+<script>
+  window.growthbook_config = { enableDevMode: true }
+</script>
+
+<script async
+  data-api-host="https://cdn.growthbook.io"
+  data-client-key="sdk-P9DxPQ3KR0zFQFq"
+  src="//cuyana.com/cdn/shop/t/10/assets/growthbook.auto.min.js?v=35015122912179277691709223036"
+></script>
+    
+
+    <meta property="og:type" content="website">
+  <meta property="og:title" content="Careers"><meta property="og:url" content="https://cuyana.com/pages/careers">
+<meta property="og:site_name" content="Cuyana"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Careers">
+  <meta name="twitter:description" content="Careers">
+    <style>
+@font-face {
+  font-family: "icomoon";
+  font-weight: normal;
+  font-style: normal;
+  font-display: block; 
+  src: url(//cuyana.com/cdn/shop/t/10/assets/icomoon.eot?v=109647688303263198781685557662), url(//cuyana.com/cdn/shop/t/10/assets/icomoon.eot?v=109647688303263198781685557662) format("embedded-opentype"), url(//cuyana.com/cdn/shop/t/10/assets/icomoon.ttf?v=34728531487565650841685557663) format("truetype"), url(//cuyana.com/cdn/shop/t/10/assets/icomoon.woff?v=46769287622890042141685557663) format("woff"), url(//cuyana.com/cdn/shop/t/10/assets/icomoon.svg?v=182909199261828164981685557662) format("svg");
+}
+
+@font-face {
+  font-family: StyreneA-Regular-Web;
+  font-style: normal;
+  font-weight: normal;
+  src: url(//cuyana.com/cdn/shop/t/10/assets/StyreneA-Regular-Web.eot?v=101846117620549042571678298615), url(//cuyana.com/cdn/shop/t/10/assets/StyreneA-Regular-Web.eot?v=101846117620549042571678298615) format("embedded-opentype"), url(//cuyana.com/cdn/shop/t/10/assets/StyreneA-Regular-Web.woff2?v=132241075114481702051678298616) format("woff2"), url(//cuyana.com/cdn/shop/t/10/assets/StyreneA-Regular-Web.woff?v=66257218741428130821678298615) format("woff"), url(//cuyana.com/cdn/shop/t/10/assets/StyreneA-Regular-Web.ttf?90961) format("truetype"), url(//cuyana.com/cdn/shop/t/10/assets/StyreneA-Regular-Web.svg%23StyreneA-Regular-Web?90961) format("svg"); 
+}
+
+  @font-face {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//cuyana.com/cdn/fonts/montserrat/montserrat_n5.e72d00d31ae5399d260a80ec70322c62c1819762.woff2?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=c0110faf6d8b101d200dbfef17bd43a6f85ec10337e742da889c44803f9d7726") format("woff2"),
+       url("//cuyana.com/cdn/fonts/montserrat/montserrat_n5.18a018b6c83e89030c5d70a6d4c02c969f228500.woff?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=fc5dec49445902275dd7b7b282762cccefce6da575d7a008182a5235045a4507") format("woff");
+}
+
+  @font-face {
+  font-family: "Nunito Sans";
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_n4.2b61d9dcf54d8ac8282cfd1ebb6964c79a7efcd1.woff2?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=990ff3d40d192e6be125d435fa7274fe32d2642686aa484979d85163bd49b250") format("woff2"),
+       url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_n4.420cbf408f643f8ff8fd948b99c10dade8b6af79.woff?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=0e514f7f1d3d543d5711a9a6243869da41426275f701dc6986c19aa48847380d") format("woff");
+}
+
+
+  @font-face {
+  font-family: "Nunito Sans";
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+  src: url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_n7.5bd4fb9346d13afb61b3d78f8a1e9f31b128b3d9.woff2?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=6e7daf30df510e41e9f324f2f2934b27f3b6dd782c4696cc857ff8dc04427440") format("woff2"),
+       url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_n7.2bcf0f11aa6af91c784a857ef004bcca8c2d324d.woff?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=50424cbd65227d9327b8182101b9d1bf4189f6e64a5ba3d062efea7110cd1664") format("woff");
+}
+
+  @font-face {
+  font-family: "Nunito Sans";
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_i4.e88a2041a6cfbeacffb96db0e8efdfaaa38ddc5c.woff2?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=0c9c80716d8a164919d1b66515e38f1492baa0c19a3a3432c04a742a9b211d67") format("woff2"),
+       url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_i4.2c3733ccdf579e6e89e929a950e6a93484fdf6b4.woff?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=f8deaed331251d0770b81929a9a776286ff4b8e8c1dfc3432efd1604887ee8fc") format("woff");
+}
+
+  @font-face {
+  font-family: "Nunito Sans";
+  font-weight: 700;
+  font-style: italic;
+  font-display: fallback;
+  src: url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_i7.975ea93f521412ef99ca1e2e434d8ca6a5cf77e7.woff2?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=1b7bb61feb5945ba1b513b72d26f08e4cf3492274c3208976ca547313e91d5c7") format("woff2"),
+       url("//cuyana.com/cdn/fonts/nunito_sans/nunitosans_i7.83b70272d04b71e88f25fc6834dc9b88e4ba4e95.woff?h1=Y3V5YW5hLXByb2QuYWNjb3VudC5teXNob3BpZnkuY29t&h2=Y3V5YW5hLmNvbQ&h3=YWNjb3VudC5jdXlhbmEuY29t&hmac=b997ce30e1fb18d4495ba2fa5edc2278853e39966fd7b3a7d5e0821a2a98f879") format("woff");
+}
+
+
+  :root {
+    --heading-font-family : "StyreneA-Regular-Web",sans-serif; /*Montserrat, sans-serif;*/
+    --heading-font-weight : 500;
+    --heading-font-style  : normal;
+
+    --text-font-family : "StyreneA-Regular-Web",sans-serif; /*"Nunito Sans", sans-serif;*/
+    --text-font-weight : 400;
+    --text-font-style  : normal;
+
+    --base-text-font-size   : 13px;
+    --default-text-font-size: 14px;
+
+    --max-content-width: 1400px;--background          : #ffffff;
+    --background-rgb      : 255, 255, 255;
+    --light-background    : #ffffff;
+    --light-background-rgb: 255, 255, 255;
+    --heading-color       : #1c1b1b;
+    --text-color          : #1a1a1a;
+    --text-color-rgb      : 26, 26, 26;
+    --text-color-light    : #6a6a6a;
+    --text-color-light-rgb: 106, 106, 106;
+    --link-color          : #6a6a6a;
+    --link-color-rgb      : 106, 106, 106;
+    --border-color        : #dddddd;
+    --border-color-rgb    : 221, 221, 221;
+
+    --button-background    : #1a1a1a;
+    --button-background-rgb: 26, 26, 26;
+    --button-border        : #1a1a1a;
+    --button-hover         : #565656;
+    --button-text-color    : #ffffff;
+
+    --header-background       : #ffffff;
+    --header-heading-color    : #1c1b1b;
+    --header-light-text-color : #6a6a6a;
+    --header-border-color     : #dddddd;
+
+    --footer-background    : #f8f3f0;
+    --footer-text-color    : #565656;
+    --footer-heading-color : #1c1b1b;
+    --footer-border-color  : #e0dbd9;
+
+    --navigation-background      : #ffffff;
+    --navigation-background-rgb  : 255, 255, 255;
+    --navigation-text-color      : #1a1a1a;
+    --navigation-text-color-light: rgba(26, 26, 26, 0.5);
+    --navigation-border-color    : rgba(26, 26, 26, 0.25);
+    
+    --newsletter-popup-background     : #1c1b1b;
+    --newsletter-popup-text-color     : #ffffff;
+    --newsletter-popup-text-color-rgb : 255, 255, 255;
+
+    --secondary-elements-background       : #1c1b1b;
+    --secondary-elements-background-rgb   : 28, 27, 27;
+    --secondary-elements-text-color       : #ffffff;
+    --secondary-elements-text-color-light : rgba(255, 255, 255, 0.5);
+    --secondary-elements-border-color     : rgba(255, 255, 255, 0.25);
+
+    --product-sale-price-color    : #1a1a1a;
+    --product-sale-price-color-rgb: 26, 26, 26;
+    --product-star-rating: #f6a429;
+
+    /* Shopify related variables */
+    --payment-terms-background-color: #ffffff;
+
+    /* Products */
+
+    --horizontal-spacing-four-products-per-row: 20px;
+        --horizontal-spacing-two-products-per-row : 20px;
+
+    --vertical-spacing-four-products-per-row: calc(75px - 1rem);  /* -1rem to account for margin being set on individual product tiles */
+        --vertical-spacing-two-products-per-row : 100px;
+
+    /* Animation */
+    --drawer-transition-timing: cubic-bezier(0.645, 0.045, 0.355, 1);
+    --header-base-height: 80px; /* We set a default for browsers that do not support CSS variables */
+
+    /* Cursors */
+    --cursor-zoom-in-svg    : url(//cuyana.com/cdn/shop/t/10/assets/cursor-zoom-in.svg?v=170532930330058140181678140532);
+    --cursor-zoom-in-2x-svg : url(//cuyana.com/cdn/shop/t/10/assets/cursor-zoom-in-2x.svg?v=56685658183649387561678140532);
+    
+    /* Swatches with texture images */
+    --swatch-black-croco : url(//cuyana.com/cdn/shop/t/10/assets/black-croco_40x.jpg?v=105877104043541577301692395181);
+    --swatch-stone-croco : url(//cuyana.com/cdn/shop/t/10/assets/stone-croco_40x.jpg?v=54099556784646316691692395181);
+
+    --swatch-brown-snake : url(//cuyana.com/cdn/shop/t/10/assets/brown-snake_40x.jpg?v=89756181906683536601710449752);
+    --swatch-navy-snake  : url(//cuyana.com/cdn/shop/t/10/assets/navy-snake_40x.jpg?v=139102756783246703421710449753);
+
+    --swatch-misc : url(//cuyana.com/cdn/shop/t/10/assets/misc-color-swatch_40x.jpg?v=160095080111440784971700688998);
+  }
+</style>
+
+<script>
+  // IE11 does not have support for CSS variables, so we have to polyfill them
+  if (!(((window || {}).CSS || {}).supports && window.CSS.supports('(--a: 0)'))) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://cdn.jsdelivr.net/npm/css-vars-ponyfill@2';
+    script.onload = function() {
+      cssVars({});
+    };
+
+    document.getElementsByTagName('head')[0].appendChild(script);
+  }
+</script>
+
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="EuhDjOhvXkODeoDf9ej-7rmVCc4crzpQwLnsMMQ4Oxg">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/71250542907/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="745cd6e1e5249a2499f0460da57efc6c">
+<meta id="in-context-paypal-metadata" data-shop-id="71250542907" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<script async="async" src="/checkouts/internal/preloads.js?locale=en-US"></script>
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=71250542907" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":71250542907,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/71250542907","merchantName":"Cuyana","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb"],"total":{"type":"pending","label":"Cuyana","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"745cd6e1e5249a2499f0460da57efc6c","betas":["rich-media-storefront-analytics"],"domain":"cuyana.com","predictiveSearch":true,"shopId":71250542907,"smart_payment_buttons_url":"https:\/\/cuyana.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cuyana.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","flg4ff40b22":true}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "cuyana-prod.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"shopify\/main","id":145419764027,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cuyana.com/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script id="shop-js-features" type="application/json">{"compact":""}</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_9bcdcb39.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_1a8a1481.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_3fcea504.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_6281e5ef.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"avatar":["modules/client.avatar_d929532e.en.esm.js"],"shop-pay-checkout-sheet":["modules/client.shop-pay-checkout-sheet_fd52a97a.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_ac379358.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_53066ffe.en.esm.js","modules/chunk.common_bdd2b974.esm.js","modules/chunk.shop-pay_7e03e752.esm.js"],"login-button":["modules/client.login-button_83577952.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"discount-app":["modules/client.discount-app_edac4cc1.en.esm.js","modules/chunk.common_bdd2b974.esm.js"],"payment-terms":["modules/client.payment-terms_5f827999.en.esm.js","modules/chunk.common_bdd2b974.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/d1liekpayvooaz.cloudfront.net\/apps\/customizery\/customizery.js?shop=cuyana-prod.myshopify.com","https:\/\/cdn-scripts.signifyd.com\/shopify\/script-tag.js?shop=cuyana-prod.myshopify.com","\/\/cdn.shopify.com\/proxy\/2fc70ef15038c85b213f7b194ab0f74bd026a809d958067cb136b8e883f15463\/app.retention.com\/shopify\/reids.js?shop=cuyana-prod.myshopify.com\u0026sp-cache-control=cHVibGljLCBtYXgtYWdlPTkwMA","https:\/\/cdn.attn.tv\/cuyana\/dtag.js?shop=cuyana-prod.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":71250542907,"offset":-25200,"reqid":"2cbd08ec-1487-461f-b245-da6e24194eee-1715388669","pageurl":"cuyana.com\/pages\/careers","s":"pages-119814914363","u":"e1ebf97d4aa5","p":"page","rtyp":"page","rid":119814914363};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(){'use strict';const e='contact',t='account',n='new_comment',o=e=>e.map((([e,t])=>`form[action*='/${e}'] input[name='form_type'][value='${t}']`)).join(',');function c(e,t){try{const n=window.sessionStorage;for(const[o,c]of Object.entries(JSON.parse(n.getItem(t))))e.elements[o]&&(e.elements[o].value=c);n.removeItem(t)}catch{}}const s='form_type',r='cptcha';var a,m,i,u;a=window,m=document,u='ce_forms',a[i='Shopify']=a[i]||{},a[i][u]=a[i][u]||{},a[i][u].q=[],function(a,m,i,u,f){const[d,l]=function(c,s){const r=s?[[e,e],['blogs',n],['comments',n],[e,'customer']]:[],a=c?[[t,'customer_login'],[t,'recover_customer_password'],[t,'create_customer']]:[],m=o([...r,...a]),i=o(r.slice(0,3)),u=e=>()=>e?[...document.querySelectorAll(e)].map((e=>e.form)):[];return[u(m),u(i)]}(!0,!0),p=e=>{const t=e.target,n=t instanceof HTMLFormElement?t:t&&t.form;return n&&d().find((e=>n===e))};a.addEventListener('submit',(e=>{p(e)&&e.preventDefault()}));for(const e of['focusin','change'])a.addEventListener(e,(e=>{const t=p(e);t&&!t.dataset[r]&&(i(t,l().some((e=>e===t))),t.dataset[r]=!0)}));const _=m.get('form_key'),v=m.get(s);_&&v&&a.addEventListener('DOMContentLoaded',(()=>{for(const e of l())e.elements[s].value===v&&c(e,_)}))}(m,new URLSearchParams(a.location.search),((e,t)=>{const n=a[i][u],o=n.bindForm,c='6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey';if(o)return o(e,c,t);n.q.push([e,c,t]),m.body.append(Object.assign(m.createElement('script'),{async:!0,src:'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_recaptcha.v1.0.5.iife.js'}))}))}();</script>
+<script integrity="sha256-n5Uet9jVOXPHGd4hH4B9Y6+BxkTluaaucmYaxAjUcvY=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cuyana.com/cdn/shopifycloud/shopify/assets/storefront/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cuyana.com/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-80e528be853eac23af2454534897ca9536b1d3d04aa043b042f34879a3c111c8.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cuyana.com/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+<script type='text/javascript' async='' src='https://cdn.shopify.com/shopifycloud/privacy-banner/storefront-banner.js'></script>
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 240px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+    <link rel="stylesheet" href="//cuyana.com/cdn/shop/t/10/assets/bootstrap.min.css?v=140419661939791314031683663948">
+    <link rel="stylesheet" href="//cuyana.com/cdn/shop/t/10/assets/theme.css?v=24535437521440819141715208080">
+    <link rel="stylesheet" href="//cuyana.com/cdn/shop/t/10/assets/bootstrap.overrides.css?v=127921676701783228551690923256">
+    <link rel="stylesheet" href="//cuyana.com/cdn/shop/t/10/assets/product-configurator.css?v=17294791692509641501713193884">
+    <link rel="stylesheet" href="//cuyana.com/cdn/shop/t/10/assets/swatch-colors.css?v=96995027177853419541714419700">
+    <link rel="stylesheet" href="//cuyana.com/cdn/shop/t/10/assets/green-audio-player.css?v=75825189830608689351692457162">
+    
+    <script>// This allows to expose several variables to the global scope, to be used in scripts
+      window.theme = {
+        pageType: "page",
+        moneyFormat: "${{amount}}",
+        moneyWithCurrencyFormat: "${{amount}} USD",
+        currencyCodeEnabled: false,
+        productImageSize: "natural",
+        searchMode: "product",
+        showPageTransition: false,
+        showElementStaggering: true,
+        showImageZooming: true
+      };
+
+      window.routes = {
+        rootUrl: "\/",
+        rootUrlWithoutSlash: '',
+        cartUrl: "\/cart",
+        cartAddUrl: "\/cart\/add",
+        cartChangeUrl: "\/cart\/change",
+        cartUpdateUrl: "\/cart\/update",
+        searchUrl: "\/search",
+        productRecommendationsUrl: "\/recommendations\/products"
+      };
+
+      window.languages = {
+        cartAddNote: "Add a gift message to your order",
+        cartEditNote: "Edit gift message",
+        productImageLoadingError: "This image could not be loaded. Please try to reload the page.",
+        productFormAddToCart: "Add to Bag",
+        productFormPreorder: "Preorder",
+        productFormUnavailable: "Unavailable",
+        productFormSoldOut: "Sold Out",
+        productFormPreorderMono: "Preorder with Monogram",
+        productFormMonogram: "Buy with Monogramming",
+        shippingEstimatorOneResult: "1 option available:",
+        shippingEstimatorMoreResults: "{{count}} options available:",
+        shippingEstimatorNoResults: "No shipping could be found"
+      };
+
+      window.lazySizesConfig = {
+        loadHidden: false,
+        hFac: 0.5,
+        expFactor: 2,
+        ricTimeout: 150,
+        lazyClass: 'Image--lazyLoad',
+        loadingClass: 'Image--lazyLoading',
+        loadedClass: 'Image--lazyLoaded'
+      };
+
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+      document.documentElement.style.setProperty('--window-height', window.innerHeight + 'px');
+
+      // We do a quick detection of some features (we could use Modernizr but for so little...)
+      (function() {
+        document.documentElement.className += ((window.CSS && window.CSS.supports('(position: sticky) or (position: -webkit-sticky)')) ? ' supports-sticky' : ' no-supports-sticky');
+        document.documentElement.className += (window.matchMedia('(-moz-touch-enabled: 1), (hover: none)')).matches ? ' no-supports-hover' : ' supports-hover';
+      }());
+
+      
+    </script>
+
+    <script src="//cuyana.com/cdn/shop/t/10/assets/lazysizes.min.js?v=56805471290311245611678699827" async></script><script src="//cuyana.com/cdn/shop/t/10/assets/bootstrap.bundle.min.js?v=82555717343401019091694131156" defer></script>
+    <script src="//cuyana.com/cdn/shop/t/10/assets/libs.min.js?v=26178543184394469741678140526" defer></script>
+    <script src="//cuyana.com/cdn/shop/t/10/assets/green-audio-player.js?v=177653252926354619831693323595" defer></script>
+    <script src="//cuyana.com/cdn/shop/t/10/assets/theme.js?v=175910311151049518331715369602" defer></script>
+    <script src="//cuyana.com/cdn/shop/t/10/assets/custom.js?v=176799999586751847501708024575" defer></script> 
+    <script src="//cuyana.com/cdn/shop/t/10/assets/cuyana-product-tile.js?v=2758319817703694791689867745" defer></script> 
+
+    <script>
+      (function () {
+        window.onpageshow = function() {
+          if (window.theme.showPageTransition) {
+            var pageTransition = document.querySelector('.PageTransition');
+
+            if (pageTransition) {
+              pageTransition.style.visibility = 'visible';
+              pageTransition.style.opacity = '0';
+            }
+          }
+
+          // When the page is loaded from the cache, we have to reload the cart content
+          document.documentElement.dispatchEvent(new CustomEvent('cart:refresh', {
+            bubbles: true
+          }));
+        };
+      })();
+    </script>
+
+    
+
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://cuyana.com"
+    },{
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Careers",
+          "item": "https://cuyana.com/pages/careers"
+        }]
+  }
+  </script>
+
+
+    
+  <!-- BEGIN app block: shopify://apps/eg-auto-add-to-cart/blocks/app-embed/0f7d4f74-1e89-4820-aec4-6564d7e535d2 -->
+
+
+
+  
+    <script async type="text/javascript" src="https://cdn.506.io/eg/script.js?shop=cuyana-prod.myshopify.com"></script>
+  
+
+
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/yotpo-product-photo-reviews/blocks/settings/eb7dfd7d-db44-4334-bc49-c893b51b36cf -->
+
+
+  <script type="text/javascript" src="https://cdn-widgetsrepository.yotpo.com/v1/loader/GR7cFyLaEKoNggv62pENy1bIdGzXyI80GsJY5VAt?languageCode=en" async></script>
+
+
+
+  
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/attentive/blocks/attn-tag/8df62c72-8fe4-407e-a5b3-72132be30a0d --><script type="text/javascript" src="https://cdn.attn.tv/cuyana/dtag.js?source=app-embed" defer="defer"></script>
+
+
+<!-- END app app block --><!-- BEGIN app block: shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507 -->
+
+
+
+
+
+
+
+
+
+
+
+
+  <script async src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=VV2vHd"></script>
+  <script>!function(){if(!window.klaviyo){window._klOnsite=window._klOnsite||[];try{window.klaviyo=new Proxy({},{get:function(n,i){return"push"===i?function(){var n;(n=window._klOnsite).push.apply(n,arguments)}:function(){for(var n=arguments.length,o=new Array(n),w=0;w<n;w++)o[w]=arguments[w];var t="function"==typeof o[o.length-1]?o.pop():void 0,e=new Promise((function(n){window._klOnsite.push([i].concat(o,[function(i){t&&t(i),n(i)}]))}));return e}}})}catch(n){window.klaviyo=window.klaviyo||[],window.klaviyo.push=function(){var n;(n=window._klOnsite).push.apply(n,arguments)}}}}();</script>
+
+  
+
+
+
+
+  <script>
+    window.klaviyoReviewsProductDesignMode = false
+  </script>
+
+
+
+<!-- END app app block --><meta property="og:image" content="https://cdn.shopify.com/s/files/1/0712/5054/2907/files/BagsPLP_3.webp?v=1692076711" />
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0712/5054/2907/files/BagsPLP_3.webp?v=1692076711" />
+<meta property="og:image:width" content="1196" />
+<meta property="og:image:height" content="868" />
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 71250542907,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 71250542907,storefrontBaseUrl: "https://cuyana.com",cdnBaseUrl: "https://cuyana.com/cdn",surface: "storefront-renderer",enabledBetaFlags: ["5de24938","3b4293f9"],webPixelsConfigList: [{"id":"209420603","configuration":"{\"tagID\":\"2612783580595\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"54f3ea9d23f4af69f7d812fb978ff7ee","type":"APP","apiClientId":3009811,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"129990971","configuration":"{\"env\":\"prod\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"58f1628c9c780ae2069bf1c8030ee254","type":"APP","apiClientId":3977633,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"127238459","configuration":"{\"partnerId\": \"105050\", \"environment\": \"prod\", \"countryCode\": \"US\", \"logLevel\": \"debug\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"e8426a0aa30bd0531bec632c55be635b","type":"APP","apiClientId":5829751,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"70353211","configuration":"{\"campaignID\":\"10312\",\"externalExecutionURL\":\"https:\/\/engine.saasler.com\/api\/v1\/webhook_executions\/afb36e85273fa7747599f542a7d1d28c\"}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"998f3c8caf9818516fb950d08d4d98a3","type":"APP","apiClientId":3546795,"privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"47448379","eventPayloadVersion":"1","runtimeContext":"LAX","scriptVersion":"9","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"78643515","eventPayloadVersion":"1","runtimeContext":"LAX","scriptVersion":"1","type":"CUSTOM","privacyPurposes":["ANALYTICS","MARKETING","SALE_OF_DATA"]},{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"064","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS","MARKETING"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"064","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS","MARKETING"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://cuyana.com/cdn","450fe82a425e03d02db73e42e7d530b4ab094da5","399647f0wd5be980fpfcf428cem4f3a29f6",);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":119814914363}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 71250542907,
+      theme_id: 145419764027,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//cuyana.com/cdn/s/trekkie.storefront.dd626a6a6fbdab104f8779acc4331c330134c832.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//cuyana.com/cdn/s/trekkie.storefront.dd626a6a6fbdab104f8779acc4331c330134c832.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//cuyana.com/cdn/s/trekkie.storefront.dd626a6a6fbdab104f8779acc4331c330134c832.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":71250542907,"isMerchantRequest":null,"themeId":145419764027,"themeCityHash":"16548743744505769180","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["bbcf04e6"]},"Facebook Pixel":{"pixelIds":["176175428575141"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"G-BBND1S0GS1","eventLabels":[{"type":"begin_checkout","action_label":"G-BBND1S0GS1"},{"type":"search","action_label":"G-BBND1S0GS1"},{"type":"view_item","action_label":["G-BBND1S0GS1","MC-Y8ZCXN41Y3"]},{"type":"purchase","action_label":["G-BBND1S0GS1","MC-Y8ZCXN41Y3"]},{"type":"page_view","action_label":["G-BBND1S0GS1","MC-Y8ZCXN41Y3"]},{"type":"add_payment_info","action_label":"G-BBND1S0GS1"},{"type":"add_to_cart","action_label":"G-BBND1S0GS1"}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"176175428575141","source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+  
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":119814914363});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//cuyana.com/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Prestige";
+  window.BOOMR.themeVersion = "6.0.0";
+  window.BOOMR.shopId = 71250542907;
+  window.BOOMR.themeId = 145419764027;
+  window.BOOMR.renderRegion = "gcp-us-east1";
+  window.BOOMR.url =
+    "https://cuyana.com/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head><body class="prestige--v4 features--heading-normal features--show-image-zooming features--show-element-staggering  template-page"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MTW8M2D"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><svg class="u-visually-hidden">
+      <linearGradient id="rating-star-gradient-half">
+        <stop offset="50%" stop-color="var(--product-star-rating)" />
+        <stop offset="50%" stop-color="var(--text-color-light)" />
+      </linearGradient>
+    </svg>
+
+    <a class="PageSkipLink u-visually-hidden" href="#main">Skip to content</a>
+    <span class="LoadingBar"></span>
+    <div class="PageOverlay"></div><div id="shopify-section-popup" class="shopify-section"></div>
+    <div id="shopify-section-sidebar-menu" class="shopify-section"><section id="sidebar-menu" class="SidebarMenu Drawer Drawer--small Drawer--fromLeft" aria-hidden="true" data-section-id="sidebar-menu" data-section-type="sidebar-menu">
+    <header class="Drawer__Header" data-drawer-animated-left>
+      <button class="Drawer__Close Icon-Wrapper--clickable" data-action="close-drawer" data-drawer-id="sidebar-menu" aria-label="Close navigation"><svg class="Icon Icon--close " role="presentation" viewBox="0 0 16 14">
+      <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
+    </svg></button>
+    </header>
+
+    <div class="Drawer__Content">
+      <div class="Drawer__Main" data-drawer-animated-left data-scrollable>
+        <div class="Drawer__Container">
+          <nav class="SidebarMenu__Nav SidebarMenu__Nav--primary" aria-label="Sidebar navigation"><div class="Collapsible"><button 
+                    class="Collapsible__Button Heading u-h6" 
+                    data-action="toggle-collapsible" 
+                    aria-expanded="true"
+                    
+                    data-link-title="Shop"
+                    data-link-l1-position=1
+                  >Shop<span class="Collapsible__Plus"></span>
+                  </button>
+
+                  <div class="Collapsible__Inner" style="overflow: visible; height: auto;">
+                    <div class="Collapsible__Content"><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="true"
+                              data-link-title="Categories"
+                              data-link-l1-position=1
+                              data-link-l1-title="Shop"
+                              data-link-l2-position=1
+                            >Categories<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner" style="overflow: visible; height: auto;">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/collections/bags" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Bags"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=1
+                                      >
+                                        Bags
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/clothing" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Clothing"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=2
+                                      >
+                                        Clothing
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/small-leather-goods" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Small Leather Goods"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=3
+                                      >
+                                        Small Leather Goods
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/accessories" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Accessories"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=4
+                                      >
+                                        Accessories
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/products/gift-card?variant=45541936890171" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Gift Card"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=5
+                                      >
+                                        Gift Card
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/shop" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Shop All"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=6
+                                      >
+                                        Shop All
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="false"
+                              data-link-title="Featured"
+                              data-link-l1-position=1
+                              data-link-l1-title="Shop"
+                              data-link-l2-position=2
+                            >Featured<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/collections/new-arrivals" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="New Arrivals"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=1
+                                      >
+                                        New Arrivals
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/bestsellers" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Bestsellers"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=2
+                                      >
+                                        Bestsellers
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/summer-collection" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Coming Soon"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=3
+                                      >
+                                        Coming Soon
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/mothers-day-gifts" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Mother&#39;s Day Gifts"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=4
+                                      >
+                                        Mother&#39;s Day Gifts
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/graduation-gifts" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Graduation Gifts"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=5
+                                      >
+                                        Graduation Gifts
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/work-bags" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Work Bags"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=6
+                                      >
+                                        Work Bags
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/travel-capsule" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Travel Capsule"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=7
+                                      >
+                                        Travel Capsule
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/celebration-bags" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Celebration Bags"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=8
+                                      >
+                                        Celebration Bags
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/color-crush" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Color Crush"
+                                        data-link-l1-position=1
+                                        data-link-l1-title="Shop"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=9
+                                      >
+                                        Color Crush
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div></div>
+                  </div></div><div class="Collapsible"><button 
+                    class="Collapsible__Button Heading u-h6" 
+                    data-action="toggle-collapsible" 
+                    aria-expanded="false"
+                    
+                    data-link-title="Bags"
+                    data-link-l1-position=2
+                  >Bags<span class="Collapsible__Plus"></span>
+                  </button>
+
+                  <div class="Collapsible__Inner">
+                    <div class="Collapsible__Content"><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="true"
+                              data-link-title="Categories"
+                              data-link-l1-position=2
+                              data-link-l1-title="Bags"
+                              data-link-l2-position=1
+                            >Categories<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner" style="overflow: visible; height: auto;">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/totes" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Totes"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=1
+                                      >
+                                        Totes
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/satchels" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Satchels"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=2
+                                      >
+                                        Satchels
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/backpacks" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Backpacks"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=3
+                                      >
+                                        Backpacks
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/travel-bags" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Travel Bags"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=4
+                                      >
+                                        Travel Bags
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/shoulder-bags" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Shoulder Bags"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=5
+                                      >
+                                        Shoulder Bags
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/mini-totes-and-crossbodies" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Mini Totes and Crossbodies"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=6
+                                      >
+                                        Mini Totes and Crossbodies
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/occassion-bags" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Occasion Bags"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=7
+                                      >
+                                        Occasion Bags
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/bag-organizers" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Bag Organizers"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=8
+                                      >
+                                        Bag Organizers
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/straps" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Straps"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=9
+                                      >
+                                        Straps
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/care" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Care"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=10
+                                      >
+                                        Care
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="false"
+                              data-link-title="Featured"
+                              data-link-l1-position=2
+                              data-link-l1-title="Bags"
+                              data-link-l2-position=2
+                            >Featured<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/pages/backpack" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Backpack"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=1
+                                      >
+                                        The Backpack
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/introducing-easy-tote" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Easy Tote"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=2
+                                      >
+                                        The Easy Tote
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/introducing-zipper-tote" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Zipper Tote"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=3
+                                      >
+                                        The Zipper Tote
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/system-tote" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The System Tote"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=4
+                                      >
+                                        The System Tote
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/travel-bag" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Travel Bag"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=5
+                                      >
+                                        The Travel Bag
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/double-loop" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Double Loop"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=6
+                                      >
+                                        The Double Loop
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/linea" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Linea"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=7
+                                      >
+                                        The Linea
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="false"
+                              data-link-title="Stories"
+                              data-link-l1-position=2
+                              data-link-l1-title="Bags"
+                              data-link-l2-position=3
+                            >Stories<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/pages/the-easy-travel-tote" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Easy Travel Tote"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=3
+                                        data-link-l2-title="Stories"
+                                        data-link-l3-position=1
+                                      >
+                                        The Easy Travel Tote
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/the-double-loop-satchel" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="The Double Loop Satchel"
+                                        data-link-l1-position=2
+                                        data-link-l1-title="Bags"
+                                        data-link-l2-position=3
+                                        data-link-l2-title="Stories"
+                                        data-link-l3-position=2
+                                      >
+                                        The Double Loop Satchel
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div></div>
+                  </div></div><div class="Collapsible"><button 
+                    class="Collapsible__Button Heading u-h6" 
+                    data-action="toggle-collapsible" 
+                    aria-expanded="false"
+                    
+                    data-link-title="Small Leather Goods"
+                    data-link-l1-position=3
+                  >Small Leather Goods<span class="Collapsible__Plus"></span>
+                  </button>
+
+                  <div class="Collapsible__Inner">
+                    <div class="Collapsible__Content"><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="true"
+                              data-link-title="Categories"
+                              data-link-l1-position=3
+                              data-link-l1-title="Small Leather Goods"
+                              data-link-l2-position=1
+                            >Categories<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner" style="overflow: visible; height: auto;">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/cases" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Cases"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=1
+                                      >
+                                        Cases
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/passport" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Passport"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=2
+                                      >
+                                        Passport
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/pouches" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Pouches"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=3
+                                      >
+                                        Pouches
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/tech" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Tech"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=4
+                                      >
+                                        Tech
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/wallets" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Wallets"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=5
+                                      >
+                                        Wallets
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/keychains" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Keychains"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=6
+                                      >
+                                        Keychains
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="https://cuyana.com/collections/mens-small-leather-goods" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Men"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="Categories"
+                                        data-link-l3-position=7
+                                      >
+                                        Men
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="false"
+                              data-link-title="Featured"
+                              data-link-l1-position=3
+                              data-link-l1-title="Small Leather Goods"
+                              data-link-l2-position=2
+                            >Featured<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/pages/beauty-organizers" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Beauty Organizers"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=1
+                                      >
+                                        Beauty Organizers
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/wallet-systems" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Wallet Systems"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=2
+                                      >
+                                        Wallet Systems
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/collections/organizational-capsule" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Organizational Capsule"
+                                        data-link-l1-position=3
+                                        data-link-l1-title="Small Leather Goods"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Featured"
+                                        data-link-l3-position=3
+                                      >
+                                        Organizational Capsule
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div></div>
+                  </div></div><div class="Collapsible"><button 
+                    class="Collapsible__Button Heading u-h6" 
+                    data-action="toggle-collapsible" 
+                    aria-expanded="false"
+                    
+                    data-link-title="Fewer, better"
+                    data-link-l1-position=4
+                  >Fewer, better<span class="Collapsible__Plus"></span>
+                  </button>
+
+                  <div class="Collapsible__Inner">
+                    <div class="Collapsible__Content"><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="true"
+                              data-link-title="About Us"
+                              data-link-l1-position=4
+                              data-link-l1-title="Fewer, better"
+                              data-link-l2-position=1
+                            >About Us<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner" style="overflow: visible; height: auto;">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/pages/about-us" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Our Story "
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="About Us"
+                                        data-link-l3-position=1
+                                      >
+                                        Our Story 
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/visit-us" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Stores"
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=1
+                                        data-link-l2-title="About Us"
+                                        data-link-l3-position=2
+                                      >
+                                        Stores
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="false"
+                              data-link-title="Sustainability"
+                              data-link-l1-position=4
+                              data-link-l1-title="Fewer, better"
+                              data-link-l2-position=2
+                            >Sustainability<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="/pages/our-pledge" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Sustainability Pledge"
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Sustainability"
+                                        data-link-l3-position=1
+                                      >
+                                        Sustainability Pledge
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/suppliers" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Suppliers"
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Sustainability"
+                                        data-link-l3-position=2
+                                      >
+                                        Suppliers
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/materials" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Materials"
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Sustainability"
+                                        data-link-l3-position=3
+                                      >
+                                        Materials
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/care-guide" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Care Guides"
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Sustainability"
+                                        data-link-l3-position=4
+                                      >
+                                        Care Guides
+                                      </a>
+                                    </li><li class="Linklist__Item">
+                                      <a href="/pages/lean-closet" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Lean Closet"
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=2
+                                        data-link-l2-title="Sustainability"
+                                        data-link-l3-position=5
+                                      >
+                                        Lean Closet
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div><div class="Collapsible"><button class="Collapsible__Button Heading Text--subdued Link--primary u-h7" 
+                              data-action="toggle-collapsible" 
+                              aria-expanded="false"
+                              data-link-title="Resale"
+                              data-link-l1-position=4
+                              data-link-l1-title="Fewer, better"
+                              data-link-l2-position=3
+                            >Resale<span class="Collapsible__Plus"></span>
+                            </button>
+
+                            <div class="Collapsible__Inner">
+                              <div class="Collapsible__Content">
+                                <ul class="Linklist Linklist--bordered Linklist--spacingLoose"><li class="Linklist__Item">
+                                      <a href="https://revive.cuyana.com/?utm_source=cuyana.com" 
+                                        class="Text--subdued Link Link--primary"
+                                        data-link-title="Revive: Shop Preloved"
+                                        data-link-l1-position=4
+                                        data-link-l1-title="Fewer, better"
+                                        data-link-l2-position=3
+                                        data-link-l2-title="Resale"
+                                        data-link-l3-position=1
+                                      >
+                                        Revive: Shop Preloved
+                                      </a>
+                                    </li></ul>
+                              </div>
+                            </div></div></div>
+                  </div></div><div class="Collapsible"><a 
+                    href="/collections/new-arrivals" 
+                    class="Collapsible__Button Heading Link Link--primary u-h6"
+                    style="color: #986e48"
+                    data-link-title="New Arrivals"
+                    data-link-l1-position=5
+                  >New Arrivals</a></div></nav><nav class="SidebarMenu__Nav SidebarMenu__Nav--secondary">
+            <ul class="Linklist Linklist--spacingLoose"><li class="Linklist__Item">
+                  <a href="/account" class="Text--subdued Link Link--primary">Account</a>
+                </li><li class="Linklist__Item">
+                <a href="/pages/visit-us" class="Text--subdued Link Link--primary">Stores</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div></div>
+</section>
+
+</div>
+
+    <div class="modal fade" id="giftboxInfoModal" role="dialog" aria-modal="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header justify-content-center">
+        <div class="modal-title h4">Gift Box</div>
+        <button type="button" class="close" data-bs-dismiss="modal">
+          <span aria-hidden="true">×</span> <span class="sr-only">Close</span>
+        </button>
+      </div>
+      <div class="modal-body p-4">
+        <div class="row">
+          <div class="col-12 col-md-6 text-center text-md-right">
+            <img
+              alt="Stacked gift boxes"
+              class="img-fluid"
+              height="260"
+              src="//cuyana.com/cdn/shop/files/HO21_GiftBoxStack_PDP_8078_900x900_9ea7b982-8f78-4a6f-8655-cd61fb6105a1.jpg?v=1698076301"
+              title=""
+              width="260"
+            >
+          </div>
+          <div class="col-12 col-md-6 d-flex flex-column justify-content-center py-5 py-md-0">
+            <p>Take your gift to the next level with our gift box. Designed with thoughtful inscriptions, each box is made from 100% recycled materials.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><div class="modal fade" id="giftbagInfoModal" role="dialog" aria-modal="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header justify-content-center">
+        <div class="modal-title h4">Gift Bag</div>
+        <button type="button" class="close" data-bs-dismiss="modal">
+          <span aria-hidden="true">×</span> <span class="sr-only">Close</span>
+        </button>
+      </div>
+      <div class="modal-body p-4">
+        <div class="row">
+          <div class="col-12 col-md-6 text-center text-md-right">
+            <img
+              alt=""
+              class="img-fluid"
+              height="260"
+              src="//cuyana.com/cdn/shop/files/PDP_1080x1350_HO23_LargeShoppingBagGiftWrap_2660.jpg?v=1698102417"
+              title=""
+              width="260"
+            >
+          </div>
+          <div class="col-12 col-md-6 d-flex flex-column justify-content-center py-5 py-md-0">
+            <p>Take your gift to the next level with our gift bag. Crafted from repurposed, durable deadstock cotton. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="sidebar-cart" class="Drawer Drawer--fromRight" aria-hidden="true" data-section-id="cart" data-section-type="cart" data-section-settings='{
+  "type": "drawer",
+  "itemCount": 0,
+  "drawer": true,
+  "hasShippingEstimator": false
+}'>
+  <div class="Drawer__Header Drawer__Header--bordered Drawer__Container">
+      <span class="Drawer__Title Heading u-h4">Shopping Bag</span>
+
+      <button class="Drawer__Close Icon-Wrapper--clickable" data-action="close-drawer" data-drawer-id="sidebar-cart" aria-label="Close bag"><svg class="Icon Icon--close " role="presentation" viewBox="0 0 16 14">
+      <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
+    </svg></button>
+  </div>
+
+  <form class="Cart Drawer__Content" action="/cart" method="POST" novalidate>
+    <div class="Drawer__Main" data-scrollable><p class="Cart__Empty Heading u-h5">Your bag is empty</p></div></form>
+</div>
+<section class="" data-section-id="" data-section-type="product-quickview" data-section-settings='{
+      "enableHistoryState": false,
+      "templateSuffix": "",
+      "stackProductImages": true,
+      "showThumbnails": false,
+      "enableVideoLooping": false,
+      "inventoryQuantityThreshold": 0,
+      "showPriceInButton": false,
+      "enableImageZoom": false,
+      "showInventoryQuantity": false,
+      "showPaymentButton": false,
+      "useAjaxCart": true
+    }'>
+    <div class="modal fade" id="quickViewModal" tabindex="-1" role="dialog" aria-modal="true">
+        <div class="modal-dialog modal-dialog-scrollable quick-view-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header ">
+                    <button type="button" class="close pull-right" data-bs-dismiss="modal">
+                        <svg style="display:none;" width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 8L15.5 15.5" stroke="#545454"></path><path d="M15.5 8L8 15.5" stroke="#545454"></path><circle cx="11.5" cy="11.5" r="11" stroke="#545454"></circle></svg>
+                        <span aria-hidden="true">×</span><span class="sr-only">Close Quickview Dialog</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                     
+                </div>
+            </div>
+        </div>
+    </div>
+</section><div class="PageContainer">
+      <div id="shopify-section-announcement" class="shopify-section"><section id="section-announcement" data-section-id="announcement" data-section-type="announcement-bar" data-rotation-delay="4">
+      <div class="AnnouncementBar">
+        <div class="AnnouncementBar__Wrapper"><p class="AnnouncementBar__Content Heading active"><a href="/products/gift-card">Visit our retail locations or shop our gift cards for the perfect last-minute Mother&#39;s Day gifts.</a></p>
+          
+          
+        </div>
+      </div>
+    </section>
+
+    <style>
+      #section-announcement, #section-announcement a {
+        background: #1c1b1b;
+        color: #ffffff;
+      }
+    </style>
+    <script>
+      document.documentElement.style.setProperty('--announcement-bar-height', document.getElementById('shopify-section-announcement').offsetHeight + 'px');
+    </script>
+    <!-- announced --></div>
+      <div id="shopify-section-header" class="shopify-section shopify-section--header"><div id="Search" class="Search" aria-hidden="true">
+  <div class="Search__Inner">
+    <div class="Search__SearchBar">
+      <form action="/search" name="GET" role="search" class="Search__Form">
+        <div class="Search__InputIconWrapper">
+          <span class="hidden-tablet-and-up"><i class="icon icon-search-mobile"></i></span>
+          <span class="hidden-phone"><i class="icon icon-search"></i></span>
+        </div>
+
+        <input type="search" class="Search__Input Heading" name="q" autocomplete="off" autocorrect="off" autocapitalize="off" aria-label="Search..." placeholder="Search..." autofocus>
+        <input type="hidden" name="type" value="product">
+        <input type="hidden" name="options[prefix]" value="last">
+      </form>
+
+      <button class="Search__Close Link Link--primary" data-action="close-search" aria-label="Close search"><svg class="Icon Icon--close " role="presentation" viewBox="0 0 16 14">
+      <path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path>
+    </svg></button>
+    </div>
+
+    <div class="Search__Results" aria-hidden="true"></div>
+  </div>
+</div><header id="section-header"
+        class="Header Header--logoLeft   Header--withIcons"
+        data-section-id="header"
+        data-section-type="header"
+        data-section-settings='{
+  "navigationStyle": "logoLeft",
+  "hasTransparentHeader": false,
+  "isSticky": true
+}'
+        role="banner">
+  <div class="Header__Wrapper">
+    <div class="Header__FlexItem Header__FlexItem--fill">
+      <button class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable hidden-desk" aria-expanded="false" data-action="open-drawer" data-drawer-id="sidebar-menu" aria-label="Open navigation">
+        <span class="hidden-tablet-and-up"><svg class="Icon Icon--nav " role="presentation" viewBox="0 0 20 14">
+      <path d="M0 14v-1h20v1H0zm0-7.5h20v1H0v-1zM0 0h20v1H0V0z" fill="currentColor"></path>
+    </svg></span>
+        <span class="hidden-phone"><svg class="Icon Icon--nav-desktop " role="presentation" viewBox="0 0 24 16">
+      <path d="M0 15.985v-2h24v2H0zm0-9h24v2H0v-2zm0-7h24v2H0v-2z" fill="currentColor"></path>
+    </svg></span>
+      </button><nav class="Header__MainNav hidden-pocket hidden-lap" aria-label="Main navigation">
+          <ul class="HorizontalList HorizontalList--spacingExtraLoose"><li class="HorizontalList__Item " aria-haspopup="true">
+                <a 
+                  href="/collections/shop" 
+                  class="Heading u-h6"
+                  
+                  data-link-title="Shop"
+                  data-link-l1-position=1
+                >Shop<span class="Header__LinkSpacer">Shop</span></a><div class="MegaMenu " aria-hidden="true" >
+                      <div class="MegaMenu__Inner"><div class="MegaMenu__Item">
+                            <a href="/collections/shop" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Categories"
+                              data-link-l1-position=1
+                              data-link-l1-title="Shop"
+                              data-link-l2-position=1
+                              >
+                                Categories
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/collections/bags" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Bags"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=1
+                                    >
+                                      Bags
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/clothing" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Clothing"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=2
+                                    >
+                                      Clothing
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/small-leather-goods" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Small Leather Goods"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=3
+                                    >
+                                      Small Leather Goods
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/accessories" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Accessories"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=4
+                                    >
+                                      Accessories
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/products/gift-card?variant=45541936890171" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Gift Card"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=5
+                                    >
+                                      Gift Card
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/shop" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Shop All"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=6
+                                    >
+                                      Shop All
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item">
+                            <a href="/collections/new-arrivals" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Featured"
+                              data-link-l1-position=1
+                              data-link-l1-title="Shop"
+                              data-link-l2-position=2
+                              >
+                                Featured
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/collections/new-arrivals" 
+                                      class="Link Link--secondary"
+                                      data-link-title="New Arrivals"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=1
+                                    >
+                                      New Arrivals
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/bestsellers" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Bestsellers"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=2
+                                    >
+                                      Bestsellers
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/summer-collection" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Coming Soon"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=3
+                                    >
+                                      Coming Soon
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/mothers-day-gifts" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Mother&#39;s Day Gifts"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=4
+                                    >
+                                      Mother&#39;s Day Gifts
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/graduation-gifts" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Graduation Gifts"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=5
+                                    >
+                                      Graduation Gifts
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/work-bags" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Work Bags"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=6
+                                    >
+                                      Work Bags
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/travel-capsule" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Travel Capsule"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=7
+                                    >
+                                      Travel Capsule
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/celebration-bags" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Celebration Bags"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=8
+                                    >
+                                      Celebration Bags
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/color-crush" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Color Crush"
+                                      data-link-l1-position=1
+                                      data-link-l1-title="Shop"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=9
+                                    >
+                                      Color Crush
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item w-100 mb-0 d-flex justify-content-end" style="max-width: unset;  min-width: 250px;"><div class="MegaMenu__Push " style="--aspect-ratio: 0.75"><div class="MegaMenu__PushImageWrapper AspectRatio" style="background: url(//cuyana.com/cdn/shop/files/May_Nav_Shop_1x1.jpg?v=1714999259);">
+                                  <img class="Image--lazyLoad Image--fadeIn"
+                                       data-src="//cuyana.com/cdn/shop/files/May_Nav_Shop_370x230@2x.jpg?v=1714999259"
+                                       alt="">
+
+                                  <span class="Image__Loader"></span>
+                                </div></div></div></div>
+                    </div></li><li class="HorizontalList__Item " aria-haspopup="true">
+                <a 
+                  href="/collections/bags" 
+                  class="Heading u-h6"
+                  
+                  data-link-title="Bags"
+                  data-link-l1-position=2
+                >Bags<span class="Header__LinkSpacer">Bags</span></a><div class="MegaMenu " aria-hidden="true" >
+                      <div class="MegaMenu__Inner"><div class="MegaMenu__Item">
+                            <a href="https://cuyana.com/collections/bags" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Categories"
+                              data-link-l1-position=2
+                              data-link-l1-title="Bags"
+                              data-link-l2-position=1
+                              >
+                                Categories
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/totes" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Totes"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=1
+                                    >
+                                      Totes
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/satchels" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Satchels"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=2
+                                    >
+                                      Satchels
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/backpacks" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Backpacks"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=3
+                                    >
+                                      Backpacks
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/travel-bags" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Travel Bags"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=4
+                                    >
+                                      Travel Bags
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/shoulder-bags" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Shoulder Bags"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=5
+                                    >
+                                      Shoulder Bags
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/mini-totes-and-crossbodies" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Mini Totes and Crossbodies"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=6
+                                    >
+                                      Mini Totes and Crossbodies
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/occassion-bags" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Occasion Bags"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=7
+                                    >
+                                      Occasion Bags
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/bag-organizers" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Bag Organizers"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=8
+                                    >
+                                      Bag Organizers
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/straps" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Straps"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=9
+                                    >
+                                      Straps
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/care" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Care"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=10
+                                    >
+                                      Care
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item">
+                            <a href="https://cuyana.com/collections/bags" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Featured"
+                              data-link-l1-position=2
+                              data-link-l1-title="Bags"
+                              data-link-l2-position=2
+                              >
+                                Featured
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/pages/backpack" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Backpack"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=1
+                                    >
+                                      The Backpack
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/introducing-easy-tote" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Easy Tote"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=2
+                                    >
+                                      The Easy Tote
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/introducing-zipper-tote" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Zipper Tote"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=3
+                                    >
+                                      The Zipper Tote
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/system-tote" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The System Tote"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=4
+                                    >
+                                      The System Tote
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/travel-bag" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Travel Bag"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=5
+                                    >
+                                      The Travel Bag
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/double-loop" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Double Loop"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=6
+                                    >
+                                      The Double Loop
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/linea" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Linea"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=7
+                                    >
+                                      The Linea
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item">
+                            <a href="/pages/all-about-minis" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Stories"
+                              data-link-l1-position=2
+                              data-link-l1-title="Bags"
+                              data-link-l2-position=3
+                              >
+                                Stories
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/pages/the-easy-travel-tote" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Easy Travel Tote"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=3
+                                      data-link-l2-title="Stories"
+                                      data-link-l3-position=1
+                                    >
+                                      The Easy Travel Tote
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/the-double-loop-satchel" 
+                                      class="Link Link--secondary"
+                                      data-link-title="The Double Loop Satchel"
+                                      data-link-l1-position=2
+                                      data-link-l1-title="Bags"
+                                      data-link-l2-position=3
+                                      data-link-l2-title="Stories"
+                                      data-link-l3-position=2
+                                    >
+                                      The Double Loop Satchel
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item w-100 mb-0 d-flex justify-content-end" style="max-width: unset;  min-width: 250px;"><div class="MegaMenu__Push " style="--aspect-ratio: 0.75"><div class="MegaMenu__PushImageWrapper AspectRatio" style="background: url(//cuyana.com/cdn/shop/files/May_Nav_Bags_1x1.jpg?v=1714999259);">
+                                  <img class="Image--lazyLoad Image--fadeIn"
+                                       data-src="//cuyana.com/cdn/shop/files/May_Nav_Bags_370x230@2x.jpg?v=1714999259"
+                                       alt="">
+
+                                  <span class="Image__Loader"></span>
+                                </div></div></div></div>
+                    </div></li><li class="HorizontalList__Item " aria-haspopup="true">
+                <a 
+                  href="https://cuyana.com/collections/small-leather-goods" 
+                  class="Heading u-h6"
+                  
+                  data-link-title="Small Leather Goods"
+                  data-link-l1-position=3
+                >Small Leather Goods<span class="Header__LinkSpacer">Small Leather Goods</span></a><div class="MegaMenu " aria-hidden="true" >
+                      <div class="MegaMenu__Inner"><div class="MegaMenu__Item">
+                            <a href="https://cuyana.com/collections/small-leather-goods" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Categories"
+                              data-link-l1-position=3
+                              data-link-l1-title="Small Leather Goods"
+                              data-link-l2-position=1
+                              >
+                                Categories
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/cases" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Cases"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=1
+                                    >
+                                      Cases
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/passport" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Passport"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=2
+                                    >
+                                      Passport
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/pouches" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Pouches"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=3
+                                    >
+                                      Pouches
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/tech" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Tech"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=4
+                                    >
+                                      Tech
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/wallets" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Wallets"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=5
+                                    >
+                                      Wallets
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/keychains" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Keychains"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=6
+                                    >
+                                      Keychains
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="https://cuyana.com/collections/mens-small-leather-goods" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Men"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="Categories"
+                                      data-link-l3-position=7
+                                    >
+                                      Men
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item">
+                            <a href="https://cuyana.com/collections/small-leather-goods" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Featured"
+                              data-link-l1-position=3
+                              data-link-l1-title="Small Leather Goods"
+                              data-link-l2-position=2
+                              >
+                                Featured
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/pages/beauty-organizers" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Beauty Organizers"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=1
+                                    >
+                                      Beauty Organizers
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/wallet-systems" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Wallet Systems"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=2
+                                    >
+                                      Wallet Systems
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/collections/organizational-capsule" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Organizational Capsule"
+                                      data-link-l1-position=3
+                                      data-link-l1-title="Small Leather Goods"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Featured"
+                                      data-link-l3-position=3
+                                    >
+                                      Organizational Capsule
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item w-100 mb-0 d-flex justify-content-end" style="max-width: unset;  min-width: 250px;"><div class="MegaMenu__Push " style="--aspect-ratio: 0.75"><div class="MegaMenu__PushImageWrapper AspectRatio" style="background: url(//cuyana.com/cdn/shop/files/May_Nav_SLGs_1x1.jpg?v=1714999259);">
+                                  <img class="Image--lazyLoad Image--fadeIn"
+                                       data-src="//cuyana.com/cdn/shop/files/May_Nav_SLGs_370x230@2x.jpg?v=1714999259"
+                                       alt="">
+
+                                  <span class="Image__Loader"></span>
+                                </div></div></div></div>
+                    </div></li><li class="HorizontalList__Item " aria-haspopup="true">
+                <a 
+                  href="/pages/about-us" 
+                  class="Heading u-h6"
+                  
+                  data-link-title="Fewer, better"
+                  data-link-l1-position=4
+                >Fewer, better<span class="Header__LinkSpacer">Fewer, better</span></a><div class="MegaMenu " aria-hidden="true" >
+                      <div class="MegaMenu__Inner"><div class="MegaMenu__Item">
+                            <a href="/pages/about-us" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="About Us"
+                              data-link-l1-position=4
+                              data-link-l1-title="Fewer, better"
+                              data-link-l2-position=1
+                              >
+                                About Us
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/pages/about-us" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Our Story "
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="About Us"
+                                      data-link-l3-position=1
+                                    >
+                                      Our Story 
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/visit-us" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Stores"
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=1
+                                      data-link-l2-title="About Us"
+                                      data-link-l3-position=2
+                                    >
+                                      Stores
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item">
+                            <a href="/pages/our-pledge" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Sustainability"
+                              data-link-l1-position=4
+                              data-link-l1-title="Fewer, better"
+                              data-link-l2-position=2
+                              >
+                                Sustainability
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="/pages/our-pledge" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Sustainability Pledge"
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Sustainability"
+                                      data-link-l3-position=1
+                                    >
+                                      Sustainability Pledge
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/suppliers" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Suppliers"
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Sustainability"
+                                      data-link-l3-position=2
+                                    >
+                                      Suppliers
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/materials" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Materials"
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Sustainability"
+                                      data-link-l3-position=3
+                                    >
+                                      Materials
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/care-guide" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Care Guides"
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Sustainability"
+                                      data-link-l3-position=4
+                                    >
+                                      Care Guides
+                                    </a>
+                                  </li><li class="Linklist__Item">
+                                    <a href="/pages/lean-closet" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Lean Closet"
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=2
+                                      data-link-l2-title="Sustainability"
+                                      data-link-l3-position=5
+                                    >
+                                      Lean Closet
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item">
+                            <a href="https://revive.cuyana.com/?utm_source=cuyana.com" 
+                              class="MegaMenu__Title Heading Text--subdued u-h7"
+                              data-link-title="Resale"
+                              data-link-l1-position=4
+                              data-link-l1-title="Fewer, better"
+                              data-link-l2-position=3
+                              >
+                                Resale
+                              </a><ul class="Linklist"><li class="Linklist__Item">
+                                    <a href="https://revive.cuyana.com/?utm_source=cuyana.com" 
+                                      class="Link Link--secondary"
+                                      data-link-title="Revive: Shop Preloved"
+                                      data-link-l1-position=4
+                                      data-link-l1-title="Fewer, better"
+                                      data-link-l2-position=3
+                                      data-link-l2-title="Resale"
+                                      data-link-l3-position=1
+                                    >
+                                      Revive: Shop Preloved
+                                    </a>
+                                  </li></ul></div><div class="MegaMenu__Item w-100 mb-0 d-flex justify-content-end" style="max-width: unset;  min-width: 250px;"><div class="MegaMenu__Push " style="--aspect-ratio: 1.2841091492776886"><div class="MegaMenu__PushImageWrapper AspectRatio" style="background: url(//cuyana.com/cdn/shop/files/menu-fewer-better_8e30546b-c269-4252-89d7-5f4952f55671_1x1.jpg?v=1689703625);">
+                                  <img class="Image--lazyLoad Image--fadeIn"
+                                       data-src="//cuyana.com/cdn/shop/files/menu-fewer-better_8e30546b-c269-4252-89d7-5f4952f55671_370x230@2x.jpg?v=1689703625"
+                                       alt="">
+
+                                  <span class="Image__Loader"></span>
+                                </div><div class="MegaMenu__PushHeadingWrapper"><p class="MegaMenu__PushSubHeading">Fewer, better means valuing a simpler, smarter way of life. Each piece is made with premium quality, smart design, and sustainable production.</p></div></div></div></div>
+                    </div></li><li class="HorizontalList__Item " >
+                <a 
+                  href="/collections/new-arrivals" 
+                  class="Heading u-h6"
+                  style="color: #986e48"
+                  data-link-title="New Arrivals"
+                  data-link-l1-position=5
+                >New Arrivals<span class="Header__LinkSpacer">New Arrivals</span></a></li></ul>
+        </nav></div><div class="Header__FlexItem Header__FlexItem--logo"><div class="Header__Logo"><a href="/" class="Header__LogoLink"><img class="Header__LogoImage Header__LogoImage--primary"
+               src="//cuyana.com/cdn/shop/files/CUYANA_new_115x.svg?v=1676664108"
+               srcset="//cuyana.com/cdn/shop/files/CUYANA_new_115x.svg?v=1676664108 1x, //cuyana.com/cdn/shop/files/CUYANA_new_115x@2x.svg?v=1676664108 2x"
+               width="99"
+               height="14"
+               alt="Cuyana"></a></div></div>
+
+    <div class="Header__FlexItem Header__FlexItem--fill"><a href="/search" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable " data-action="toggle-search" aria-label="Search">
+        <span class="hidden-tablet-and-up"><i class="icon icon-search-mobile"></i></span>
+        <span class="hidden-phone"><i class="icon icon-search"></i></span>
+      </a>
+      
+      <a href="/pages/visit-us" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable hidden-phone">
+        <span class="">Stores</span>
+      </a><a href="/account" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable hidden-phone"><i class="icon icon-account"></i></a><a href="/cart" rel="nofollow" class="Header__Icon Icon-Wrapper Icon-Wrapper--clickable " data-action="open-drawer" data-drawer-id="sidebar-cart" aria-expanded="false" aria-haspopup="true" aria-label="Open bag">
+        <span class="u-visually-hidden">Open bag</span>
+        <span class="hidden-tablet-and-up"><i class="icon icon-bag-mobile"></i></span>
+        <span class="hidden-phone"><i class="icon icon-bag-desktop"></i></span>
+        
+        <span class="Header__CartCount ">0</span>
+      </a>
+    </div>
+  </div>
+</header>
+
+<style>:root {
+      --use-sticky-header: 1;
+      --use-unsticky-header: 0;
+    }
+
+    .shopify-section--header {
+      position: -webkit-sticky;
+      position: sticky;
+    }.Header__LogoImage {
+      max-width: 115px;
+    }
+
+    @media screen and (max-width: 640px) {
+      .Header__LogoImage {
+        max-width: 100px;
+      }
+    }:root {
+      --header-is-not-transparent: 1;
+      --header-is-transparent: 0;
+    }</style>
+
+<script>
+  document.documentElement.style.setProperty('--header-height', document.getElementById('shopify-section-header').offsetHeight + 'px');
+</script>
+
+</div>
+
+      <main id="main" role="main">
+        <div id="shopify-section-template--19506252087611__main" class="shopify-section"><div class="Container">
+  <header class="PageHeader">
+    <div class="SectionHeader SectionHeader--center">
+      <h1 class="SectionHeader__Heading Heading u-h1">Careers</h1>
+    </div>
+  </header>
+
+  <div class="PageContent PageContent--narrow Rte">
+    
+  </div>
+</div>
+
+</div><div id="shopify-section-template--19506252087611__7a36a00f-73db-4eee-a191-3f5c48d73c39" class="shopify-section"><section id="section-template--19506252087611__7a36a00f-73db-4eee-a191-3f5c48d73c39" class=""><div class="hero ">
+    <div class="hero-container position-relative d-flex flex-column align-items-start justify-content-end"><picture>
+            <source media="(min-width:1280px)" srcset="//cuyana.com/cdn/shop/files/careers-hero.jpg?v=1686091530&width=5760">
+            <source media="(min-width:768px)" srcset="//cuyana.com/cdn/shop/files/careers-hero.jpg?v=1686091530&width=1440">
+            
+            <img
+              loading="lazy"
+              src="//cuyana.com/cdn/shop/files/careers-hero.jpg?v=1686091530&width=1024"
+              alt="">
+            
+          </picture>
+        
+
+        <div class="hero-text mb-32 p-32  col-md-6 position-absolute  text-start"><div class="
+              subheading
+              hero-subtitle 
+              order-0
+              h5 
+              text-white">
+              <p></p>
+            </div>
+
+        </div>
+      </div>
+  </div>
+</section>
+
+</div><div id="shopify-section-template--19506252087611__e8260819-42bd-4d1d-a27f-c7c368572e49" class="shopify-section shopify-section--bordered"><section class="Section Section--spacingNormal" id="section-template--19506252087611__e8260819-42bd-4d1d-a27f-c7c368572e49">
+  <div class="Container"><div class="Liquid">
+      <div id="grnhse_app"></div>
+<script src="https://boards.greenhouse.io/embed/job_board/js?for=cuyana"></script>
+    </div>
+  </div>
+</section>
+
+</div>
+      </main>
+
+      <div id="shopify-section-footer" class="shopify-section shopify-section--footer"><footer id="section-footer" data-section-id="footer" data-section-type="footer" class="Footer " role="contentinfo">
+  <div class="Container"><div class="Footer__Inner row"><div class="Footer__Block Footer__Block--links col-md-2" ><h2 class="Footer__Title Heading u-h6">Contact Us</h2>
+
+                  <ul class="Linklist"><li class="Linklist__Item">
+                        <a href="tel:+18443266005" class="Link Link--primary">+1 (844) 326-6005</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://cuyana.zendesk.com/hc/en-us/requests/new" class="Link Link--primary">Email Us</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://cuyana.zendesk.com/hc/en-us/requests/new" class="Link Link--primary">Mon-Fri 9am-3pm PT</a>
+                      </li></ul></div><div class="Footer__Block Footer__Block--links col-md-2" ><h2 class="Footer__Title Heading u-h6">Customers</h2>
+
+                  <ul class="Linklist"><li class="Linklist__Item">
+                        <a href="https://cuyana-prod.happyreturns.com" class="Link Link--primary">Start a Return</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/policies/refund-policy" class="Link Link--primary">Return Policy</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://cuyana.zendesk.com/hc/en-us/categories/5444527181076-FAQs" class="Link Link--primary">FAQ</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://docs.google.com/a/cuyana.com/forms/d/e/1FAIpQLSfeuptD5CXrE6UC2pYQ-_3VgN47j1nk6e4PlpO4qBVzEoT_aw/viewform" class="Link Link--primary">Catalogs and Mailers</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://privacyportal-cdn.onetrust.com/dsarwebform/fae834b9-e75d-412d-8923-da3a018512cc/dd4ded60-40c5-4010-b65a-cea6cf09c201.html" class="Link Link--primary">Do Not Sell My Info</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/pages/group-gifting" class="Link Link--primary">About Group Gifting</a>
+                      </li></ul></div><div class="Footer__Block Footer__Block--links col-md-3" ><h2 class="Footer__Title Heading u-h6">Company</h2>
+
+                  <ul class="Linklist"><li class="Linklist__Item">
+                        <a href="/pages/about-us" class="Link Link--primary">About Us</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/pages/our-pledge" class="Link Link--primary">Sustainability</a>
+                      </li><li class="Linklist__Item">
+                        <a href="https://revive.cuyana.com/?utm_source=cuyana.com" class="Link Link--primary">Discover Revive</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/pages/careers" class="Link Link--primary">Careers</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/policies/privacy-policy" class="Link Link--primary">Privacy Policy</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/policies/terms-of-service" class="Link Link--primary">Terms</a>
+                      </li><li class="Linklist__Item">
+                        <a href="/pages/web-accessibility" class="Link Link--primary">Accessibility</a>
+                      </li></ul></div><div class="Footer__Block Footer__Block--newsletter col-md-5" ><div class="Footer__Content Rte">
+                    <p>Join us in living fewer, better. Every day.</p>
+                  </div><form method="post" action="/contact#footer-newsletter" id="footer-newsletter" accept-charset="UTF-8" class="Footer__Newsletter Form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter">
+                    <input type="email" name="contact[email]" class="Form__Input mb-1 mw-100" aria-label="Enter your email address" placeholder="Enter your email address" required>
+                    <span class="p--small text-secondary">By signing up, you agree to Cuyana’s <a href="/policies/privacy-policy" target="_blank" class="text-link">Privacy Policy</a> and <a href="/policies/terms-of-service" target="_blank" class="text-link">Terms of Service</a>.</span>
+                    <button type="submit" class="Form__Submit Button Button--primary">Subscribe</button></form></div></div><div class="Footer__Aside"><div class="Footer__Copyright">
+        <a href="/" class="Footer__StoreName Heading u-h7 Link Link--secondary">© Cuyana</a>
+        <p class="Footer__ThemeAuthor"><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore"> </a></p>
+      </div></div>
+  </div>
+</footer><style> #shopify-section-footer footer {border-top: solid 1px #dddddd;} </style></div>
+    </div>
+    <script>
+    async function addedToCart(addedItems) {
+      //request cart information from /cart.js endpoint
+      const data = await fetch(`${window.location.origin}/cart.js`).then(res => res.json());
+
+      let eventProperties = {
+        cart_items: JSON.stringify(data.items),
+        total_price: data.total_price / 100,
+        $value: data.total_price / 100,
+        total_discount: data.total_discount,
+        original_total_price: data.original_total_price / 100
+      };
+
+      var mainItem = addedItems.shift();
+
+      var formattedItem = {
+        "Name": mainItem.title,
+        "ProductID": mainItem.product_id,
+        "VariantID": mainItem.id,
+        "VariantOptions": JSON.stringify(mainItem.variant_options),
+        "Properties": JSON.stringify(mainItem.properties),
+        "ImageURL": mainItem.image,
+        "URL": `${window.location.origin}${mainItem.url}`,
+        "Brand": mainItem.vendor,
+        "Price": mainItem.price / 100,
+      };
+
+      var addOns = [];
+
+      for (let addedItem of addedItems) {
+        var addOn = {
+          "Name": addedItem.title,
+          "ProductID": addedItem.product_id,
+          "VariantID": addedItem.id,
+          "VariantOptions": JSON.stringify(addedItem.variant_options),
+          "Properties": JSON.stringify(addedItem.properties),
+          "ImageURL": addedItem.image,
+          "URL": `${window.location.origin}${addedItem.url}`,
+          "Brand": addedItem.vendor,
+          "Price": addedItem.price / 100
+        };
+        addOns.push(addOn);
+      }
+      klaviyo.track("Added to Cart", {...formattedItem, "Add Ons": JSON.stringify(addOns), ...eventProperties});
+    }
+
+    (function (ns, fetch) {
+      ns.fetch = function() {
+        const response = fetch.apply(this, arguments);
+        response.then(res => {
+          if (`${window.location.origin}/cart/add.js`
+            .includes(res.url)) {
+              return res.json();
+          }
+        })
+        .then(data => {
+          if (data) {
+            if (data.items) {
+              addedToCart(data.items);
+            } else {
+              addedToCart([data]);
+            }
+          }
+        });
+        return response
+      }
+    }(window, window.fetch));
+      </script>
+  
+
+<div id="shopify-block-12795042946931334281" class="shopify-block shopify-app-block"><div id="wishlist-whale"></div>
+
+<!-- Config and setup JS -->
+<script id="WishlistWhaleConfig">
+  window._WishlistWhaleConfig = window._WishlistWhaleConfig || {}
+
+  window._WishlistWhaleConfig.locale = 'en';
+  window._WishlistWhaleConfig.shop = 'cuyana-prod.myshopify.com'
+  window._WishlistWhaleConfig.shop_primary_domain = 'cuyana.com'
+  window._WishlistWhaleConfig.currency = Shopify.currency.active
+  window._WishlistWhaleConfig.customer = null
+  
+
+
+  window._WishlistWhaleConfig.pageType = 'page';
+
+  window._WishlistWhaleConfig.scriptUrl = 'https://cdn.shopify.com/extensions/90c2365a-5f41-4a77-9297-15f7c9050823/wishlist-rocket-10/assets/wishlistwhale-main.js'
+  window._WishlistWhaleConfig.host = 'https://app.wishlistwhale.com'
+
+  function createWishlistWhaleScript() {
+    const wishlistWhaleScriptElement = document.createElement('script');
+    wishlistWhaleScriptElement.setAttribute('defer', 'defer');
+    wishlistWhaleScriptElement.src = window._WishlistWhaleConfig.scriptUrl;
+    document.body.appendChild(wishlistWhaleScriptElement);
+  }
+
+  function createWishlistWhaleContainer() {
+    const wishlistWhaleContainer = document.createElement('div');
+    wishlistWhaleContainer.id = 'wishlist-whale';
+    document.body.appendChild(wishlistWhaleContainer);
+  }
+
+  createWishlistWhaleContainer()
+
+  fetch(
+    `${window._WishlistWhaleConfig.host}/api/v1/setting.json?translation_locale=${window._WishlistWhaleConfig.locale}`,
+    {
+      headers: {
+        'X-Shopify-Shop-Domain': Shopify.shop || window._WishlistWhaleConfig.shop,
+        'ngrok-skip-browser-warning': 'skip',
+      }
+    }
+  )
+  .then(function(response) {
+    return response.json()
+  })
+  .then(function(settings) {
+    window._WishlistWhaleConfig.settings = settings;
+
+    if(settings.enable_app) {
+      createWishlistWhaleScript();
+    }
+  })
+  .catch(function(e) {
+    console.error(e)
+  })
+</script>
+
+<!-- Critical CSS -->
+<style id="WishlistWhaleStyle" type="text/css">
+  @font-face {font-family: OpenSans;font-weight: 200;src: url(https://d382hokyqag45a.cloudfront.net/assets/OpenSans-Light.woff);}@font-face {font-family: OpenSans;font-weight: 300;src: url(https://d382hokyqag45a.cloudfront.net/assets/OpenSans-Regular.woff);}@font-face {font-family: OpenSans;font-weight: 600;src: url(https://d382hokyqag45a.cloudfront.net/assets/OpenSans-SemiBold.woff);}.wishlist-whale-launcher {cursor: pointer;background: #ccc;border: 0;min-width: 40px;height: 40px;line-height: 40px;display: inline-block;box-shadow: none !important;z-index: 999999;padding: 0 10px;position: fixed;font-family: inherit;font-size: inherit;display: flex;justify-content: center;align-items: center;}.wishlist-whale-icon-float-launcher, .wishlist-whale-icon-product {display: inline-block;clip-rule: evenodd;fill-rule: evenodd;}.launcher-bottom-right {bottom: 60px;right: 10px;}.launcher-bottom-left {bottom: 60px;left: 10px;}.launcher-center-left, .launcher-center-right {top: 50%;transform: translateY(-50%);bottom: auto;}.launcher-center-right {right: 10px;left: auto;}.launcher-center-left {left: 10px;right: auto;}.launcher-float-right {position: fixed;top: calc(50% - 120px);right: 0;transform: rotate(270deg);transform-origin: bottom right;}.launcher-float-left {position: fixed;top: calc(50% - 120px);left: 40px;transform: rotate(90deg);transform-origin: top left;}.wishlist-whale-button-container-image {position: absolute;right: 0;z-index: 2;top: 0;}.wishlist-whale-button-container-float-right {position: fixed;top: calc(50% - 200px);right: 0;transform: rotate(270deg);transform-origin: bottom right;}.wishlist-whale-button-container-float-left {position: fixed;top: calc(50% - 200px);left: 50px;transform: rotate(90deg);transform-origin: top left;}.wishlist-whale-button-container-float-left:hover, .wishlist-whale-button-container-float-right:hover, .wishlist-whale-button-container:hover {opacity: 0.9 !important;}.wishlist-whale-icon-collection,.wishlist-whale-icon-index,.wishlist-whale-icon-page {width: 20px;height: 20px;clip-rule: evenodd;fill-rule: evenodd;}.wishlist-whale-icon-float-launcher {width: 16px;height: 16px;margin-right: 5px;}.ww-icon-with-text {height: 18px;width: 18px;margin-right: 5px;}.ww-icon-without-text {height: 24px;width: 24px;}.wishlist-whale-button, .wishlist-whale-button-float {opacity: 1 !important;cursor: pointer !important;background-image: none !important;box-shadow: none !important;height: 50px;line-height: 0;font-family: inherit;}.wishlist-whale-button {padding: 20px;margin-top: 10px;margin-bottom: 10px;font-size: 14px;display: flex;align-items: center;justify-content: center;}.wishlist-whale-button-float {padding: 10px 20px;width: 100%;font-size: 16px;}.wishlist-whale-button-float:hover, .wishlist-whale-button:hover {opacity: 0.8 !important;}.wishlist-whale-button-collection,.wishlist-whale-button-index,.wishlist-whale-button-page {position: absolute;top: 10px;right: 10px;font-size: 13px;line-height: 1;padding: 0;height: auto;border: none;width: auto;z-index: 2;margin: 0;background: 0 0;}.wishlist-whale-wrapper {background-color: rgba(0, 0, 0, 0.5);z-index: 622004;width: 100%;height: 100%;overflow: auto;position: fixed;right: 0;top: 0;padding-top: 50px;transition-property: all;transition-duration: 0.3s;}.wishlist-whale-icon-launcher {display: flex;align-items: center;position: relative;height: auto;padding-left: 5px;padding-right: 5px;text-decoration: none;}.wishlist-whale-icon-launcher-svg {height: 20px;width: 20px;display: block;stroke-width: 1.5px;}.wishlist-whale-count,.wishlist-whale-icon-launcher-text {margin-left: 5px;}.wishlist-whale-toast {position: fixed;cursor: pointer;background: #fff;border: 0;min-width: 40px;min-height: 40px;box-shadow: 0 0 15px rgba(0, 0, 0, 0.1) !important;z-index: 622004;padding: 20px 30px 20px 20px;font-family: OpenSans;font-size: 14px;color: #000;display: flex;justify-content: center;align-items: center;}.wishlist-whale-toast a {text-decoration: none;font-weight: 700;color: #000;}.toast-branding {margin-top: 10px;}.toast-branding a {font-size: 12px;}.wishlist-whale-toast .dismiss {position: absolute;top: 23px;right: 5px;font-size: 12px;font-weight:200;z-index: 622622;height: 20px;width: 20px;text-align: center;}.wishlist-whale-toast-top {top: 60px;}.wishlist-whale-toast-bottom {bottom: 75px;}.wishlist-whale-toast-left, .wishlist-whale-toast-right {-webkit-animation: 0.5s forwards slide;animation: 0.5s forwards slide;}.wishlist-whale-toast-left {left: 0;transform: translateX(-100%);-webkit-transform: translateX(-100%);border-radius: 0 10px 10px 0;}.wishlist-whale-toast-left.slide-out {-webkit-animation: 0.5s forwards slide-out-left;animation: 0.5s forwards slide-out-left;}.wishlist-whale-toast-right {right: 0;transform: translateX(100%);-webkit-transform: translateX(100%);border-radius: 10px 0 0 10px;}.wishlist-whale-toast-right.slide-out {-webkit-animation: 0.5s forwards slide-out-right;animation: 0.5s forwards slide-out-right;}@keyframes slide {100% {transform: translateX(0);}}@-webkit-keyframes slide {100% {-webkit-transform: translateX(0);}}@keyframes slide-out-left {0% {transform: translateX(0);}100% {transform: translateX(-100%);}}@-webkit-keyframes slide-out-left {0% {-webkit-transform: translateX(0);}100% {-webkit-transform: translateX(-100%);}}@keyframes slide-out-right {0% {transform: translateX(0);}100% {transform: translateX(100%);}}@-webkit-keyframes slide-out-right {0% {-webkit-transform: translateX(0);}100% {-webkit-transform: translateX(100%);}}
+</style>
+
+
+</div></body>
+</html>

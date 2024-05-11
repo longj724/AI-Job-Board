@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<script>var _rollbarConfig = {"accessToken":"a9e544e2eb674f56b12d47e1d2ed4cd1","captureUncaught":true,"payload":{"environment":"production"},"hostBlockList":["linkedin.com","recruitics.com"],"checkIgnore":function(isUncaught, args, payload) {
+  try {
+    var isPhantomJS = window.navigator.userAgent.match(/phantomjs/i);
+    var isSplash= window.navigator.userAgent.match(/splash version/i);
+    var firefox = window.navigator.userAgent.match(/(firefox)\/(\w+)/i); // JSON, must escape slash
+    var chrome = window.navigator.userAgent.match(/(chrome)\/(\w+)/i); // JSON, must escape slash
+
+    var browserExtensionOrAutomationFile = function(frame) {
+      var regExPatterns = [/^chrome-extension/, /^safari-extension/, /^moz-extension/, /^pptr/];
+      return regExPatterns.some(function(regEx) {
+        return regEx.test(frame.filename);
+      });
+    }
+
+    var isBrowserExtensionOrAutomation = payload.body.trace &&
+                                         payload.body.trace.frames &&
+                                         payload.body.trace.frames.some(browserExtensionOrAutomationFile);
+
+    var isFirefoxLessThan50;
+    if (firefox) {
+      var majorVersion = Number(firefox[2]);
+      isFirefoxLessThan50 = majorVersion < 50
+    }
+
+    var isChromeLessThan50;
+    if (chrome) {
+      var chromeVersion = Number(chrome[2]);
+      isChromeLessThan50 = chromeVersion < 50;
+    }
+
+    return Boolean(isPhantomJS) ||
+           Boolean(isSplash) ||
+           Boolean(isFirefoxLessThan50) ||
+           Boolean(isChromeLessThan50) ||
+           Boolean(isBrowserExtensionOrAutomation);
+  } catch (e) {
+    return true;
+  }
+}
+,"ignoredMessages":["BetterJsPop","vungle","Script error","awliwidget","ResizeObserver loop completed with undelivered notifications.","jQuery is missing","Attempting to configurable attribute of unconfigurable property.","WeakMap is not defined","Cannot change the configurable attribute of","Cannot call method \"get\" of undefined","\\$ is not defined","Can't find variable: \\$","uncaught exception: \\[object Object\\]","Unexpected token ';'","Failed S3 Direct Upload for field: resume","Failed to open/load the window. Dropbox.choose and Dropbox.save should only be called from within a user-triggered event handler such as a tap or click event.","googletag","solana|ethereum","originalPrompt"]};</script>
+<script>!function(r){var e={};function o(n){if(e[n])return e[n].exports;var t=e[n]={i:n,l:!1,exports:{}};return r[n].call(t.exports,t,t.exports,o),t.l=!0,t.exports}o.m=r,o.c=e,o.d=function(r,e,n){o.o(r,e)||Object.defineProperty(r,e,{enumerable:!0,get:n})},o.r=function(r){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(r,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(r,"__esModule",{value:!0})},o.t=function(r,e){if(1&e&&(r=o(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var n=Object.create(null);if(o.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var t in r)o.d(n,t,function(e){return r[e]}.bind(null,t));return n},o.n=function(r){var e=r&&r.__esModule?function(){return r.default}:function(){return r};return o.d(e,"a",e),e},o.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},o.p="",o(o.s=0)}([function(r,e,o){"use strict";var n=o(1),t=o(5);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdn.rollbar.com/rollbarjs/refs/tags/v2.26.1/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,o){"use strict";var n=o(2),t=o(3);function a(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}var l=0;function i(r,e){this.options=r,this._rollbarOldOnError=null;var o=l++;this.shimId=function(){return o},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[o]={handler:e,messages:[]})}var s=o(4),d=function(r,e){return new i(r,e)},c=function(r){return new s(d,r)};function u(r){return a((function(){var e=this,o=Array.prototype.slice.call(arguments,0),n={shim:e,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)}))}i.prototype.loadFull=function(r,e,o,n,t){var l=!1,i=e.createElement("script"),s=e.getElementsByTagName("script")[0],d=s.parentNode;i.crossOrigin="",i.src=n.rollbarJsUrl,o||(i.async=!0),i.onload=i.onreadystatechange=a((function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){i.onload=i.onreadystatechange=null;try{d.removeChild(i)}catch(r){}l=!0,function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var o,n,a,l,i=0;o=r._rollbarShims[i++];)for(o=o.messages||[];n=o.shift();)for(a=n.args||[],i=0;i<a.length;++i)if("function"==typeof(l=a[i])){l(e);break}}"function"==typeof t&&t(e)}()}})),d.insertBefore(i,s)},i.prototype.wrap=function(r,e,o){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){o&&"function"==typeof o&&o.apply(this,arguments);try{return r.apply(this,arguments)}catch(o){var e=o;throw e&&("string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e),e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var p="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<p.length;++f)i.prototype[p[f]]=u(p[f]);r.exports={setupShim:function(r,e){if(r){var o=e.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShims={},r._rollbarWrappedError=null;var l=new c(e);return a((function(){e.captureUncaught&&(l._rollbarOldOnError=r.onerror,n.captureUncaughtExceptions(r,l,!0),e.wrapGlobalEventHandlers&&t(r,l,!0)),e.captureUnhandledRejections&&n.captureUnhandledRejections(r,l,!0);var a=e.autoInstrument;return!1!==e.enabled&&(void 0===a||!0===a||function(r){return!("object"!=typeof r||void 0!==r.page&&!r.page)}(a))&&r.addEventListener&&(r.addEventListener("load",l.captureLoad.bind(l)),r.addEventListener("DOMContentLoaded",l.captureDomContentLoaded.bind(l))),r[o]=l,l}))()}},Rollbar:c}},function(r,e,o){"use strict";function n(r,e,o,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null);var t=e.handleUncaughtException.apply(e,n);o&&o.apply(r,n),"anonymous"===t&&(e.anonymousErrorsPending+=1)}r.exports={captureUncaughtExceptions:function(r,e,o){if(r){var t;if("function"==typeof e._rollbarOldOnError)t=e._rollbarOldOnError;else if(r.onerror){for(t=r.onerror;t._rollbarOldOnError;)t=t._rollbarOldOnError;e._rollbarOldOnError=t}e.handleAnonymousErrors();var a=function(){var o=Array.prototype.slice.call(arguments,0);n(r,e,t,o)};o&&(a._rollbarOldOnError=t),r.onerror=a}},captureUnhandledRejections:function(r,e,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var o,n,t;try{o=r.reason}catch(r){o=void 0}try{n=r.promise}catch(r){n="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!o&&t&&(o=t.reason,n=t.promise)}catch(r){}o||(o="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(o,n)};n.belongsToShim=o,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}}},function(r,e,o){"use strict";function n(r,e,o){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var n=e.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(e,o,t){n.call(this,e,r.wrap(o),t)};t._rollbarOldAdd=n,t.belongsToShim=o,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,o){a.call(this,r,e&&e._rollbar_wrapped||e,o)};l._rollbarOldRemove=a,l.belongsToShim=o,e.removeEventListener=l}}r.exports=function(r,e,o){if(r){var t,a,l="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<l.length;++t)r[a=l[t]]&&r[a].prototype&&n(e,r[a].prototype,o)}}},function(r,e,o){"use strict";function n(r,e){this.impl=r(e,this),this.options=e,function(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},o="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<o.length;n++)r[o[n]]=e(o[n])}(n.prototype)}n.prototype._swapAndProcessMessages=function(r,e){var o,n,t;for(this.impl=r(this.options);o=e.shift();)n=o.method,t=o.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],o.ts]):this[n].apply(this,t));return this},r.exports=n},function(r,e,o){"use strict";r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){for(var o,n,t=(r=r||{}).globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;o=window._rollbarShims[i++];)n||(n=o.handler),o.handler._swapAndProcessMessages(l,o.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);</script>
+  <title>Jobs at Forter</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-e29eeeeaffa6e21c2acd8ed593e7b9333d5991f4d98df3fedf41dfb407d274bf.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://gistcdn.githack.com/galengidman/3f3a785444343edeb752c8dd53163707/raw/ff502a914a6ea8bbffd41139f77cf14bd3d04e88/forter-jobs.css" />
+
+
+
+    <meta property="og:title" content="Forter"></meta>
+    <meta property="og:description" content="
+
+ 
+ 
+ "></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/forter"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/695/300/original/forter-logo-new-blue_(1).jpg?1707426222"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="accessible">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="https://www.forter.com/"><img alt="Forter Logo" src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/695/300/resized/forter-logo-new-blue_(1).jpg?1707426222" width="144" height="75" /></a></div>
+
+  <h1>Forter</h1>
+
+  <div id="content">
+    <p><img src="https://imgur.com/6if9QCM" alt=""><img src="https://files.slack.com/files-pri/T039LJAV1-F025PSMNCLA/forter-people.png" alt=""></p>
+<p><img class="image-header" src="https://www.forter.com/wp-content/themes/blank/img/deco/hp/home-hero-111820.svg" alt="" width="826" height="842"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+  </div>
+
+    <h2 id="board_title">Current Job Openings</h2>
+
+    <div class="filter-container">
+      <label class="filter-label" for="departments-select">Department</label>
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="4036090002">
+  Customer Success
+</option>
+
+
+
+<option value="4062247002">
+  Engineering
+</option>
+
+
+
+<option value="4036095002">
+  Finance 
+</option>
+
+
+
+<option value="4036088002">
+  HR
+</option>
+
+
+
+<option value="4036087002">
+  Marketing
+</option>
+
+
+
+<option value="4036093002">
+  Operations 
+</option>
+
+
+
+<option value="4062252002">
+  Precision
+</option>
+
+
+
+<option value="4068497002">
+  Sales 
+</option>
+
+
+<option value="4068491002">
+  &#160;&#160;Enterprise Sales
+</option>
+
+
+
+<option value="4036085002">
+  &#160;&#160;Sales Management
+</option>
+
+
+
+<option value="4068495002">
+  &#160;&#160;Sales Ops &amp; Enablement
+</option>
+
+
+
+<option value="4068494002">
+  &#160;&#160;SDR
+</option>
+
+
+
+<option value="4068493002">
+  &#160;&#160;Strategic Sales
+</option>
+
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+      <label class="filter-label" for="offices-select">Office</label>
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="4057521002">
+  APAC
+</option>
+
+
+<option value="4045595002">
+  &#160;&#160;Japan - Tokyo
+</option>
+
+
+
+<option value="4019253002">
+  &#160;&#160;Singapore
+</option>
+
+
+
+
+<option value="4057520002">
+  EMEA
+</option>
+
+
+<option value="4045599002">
+  &#160;&#160;France - Paris
+</option>
+
+
+
+<option value="4045600002">
+  &#160;&#160;France - Remote
+</option>
+
+
+
+<option value="4041755002">
+  &#160;&#160;Germany - Berlin
+</option>
+
+
+
+<option value="4045591002">
+  &#160;&#160;Germany - Remote
+</option>
+
+
+
+<option value="4019381002">
+  &#160;&#160;United Kingdom - London
+</option>
+
+
+
+
+<option value="4019254002">
+  Israel - Tel Aviv
+</option>
+
+
+
+<option value="4057519002">
+  North America
+</option>
+
+
+<option value="4080138002">
+  &#160;&#160;Canada - Toronto
+</option>
+
+
+
+<option value="4019255002">
+  &#160;&#160;United States - New York 
+</option>
+
+
+
+<option value="4019405002">
+  &#160;&#160;United States - Remote
+</option>
+
+
+
+    </select>
+  </div>
+
+
+
+<div id="filter-count"></div>
+
+  
+
+<section class="level-0">
+  <h3 id="4036090002">Customer Success</h3>
+
+  <div class="opening" department_id="4036090002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4036090002="true">
+  <a data-mapped="true" href="/forter/jobs/7272630002">Customer Success Manager</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div><div class="opening" department_id="4036090002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4036090002="true">
+  <a data-mapped="true" href="/forter/jobs/7105950002">Senior Director of Customer Support</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div><div class="opening" department_id="4036090002" office_id="4057519002,4080138002" data-office-4057519002="true" data-office-4080138002="true" data-department-4036090002="true">
+  <a data-mapped="true" href="/forter/jobs/7328755002">Technical Support Engineer</a>
+  <br/>
+  <span class="location">Toronto, Ontario, Canada</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4062247002">Engineering</h3>
+
+  <div class="opening" department_id="4062247002" office_id="4057520002,4019381002" data-office-4057520002="true" data-office-4019381002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7259821002">Engineering Manager, Observability</a>
+  <br/>
+  <span class="location">United Kingdom - London</span>
+</div><div class="opening" department_id="4062247002" office_id="4019254002" data-office-4019254002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7303695002">Senior Data Engineer, Billing</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div><div class="opening" department_id="4062247002" office_id="4057519002,4080138002" data-office-4057519002="true" data-office-4080138002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7024146002">Senior Full-Stack Engineer, Product Experience (Toronto)</a>
+  <br/>
+  <span class="location">Toronto, Ontario, Canada</span>
+</div><div class="opening" department_id="4062247002" office_id="4019254002" data-office-4019254002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7304347002">Senior Software Engineer, Billing</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div><div class="opening" department_id="4062247002" office_id="4019254002" data-office-4019254002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7040186002">Senior Software Engineer, Data Experience</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div><div class="opening" department_id="4062247002" office_id="4057520002,4019381002" data-office-4057520002="true" data-office-4019381002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7322796002">Senior Software Engineer, Data Store</a>
+  <br/>
+  <span class="location">United Kingdom - London</span>
+</div><div class="opening" department_id="4062247002" office_id="4019254002" data-office-4019254002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7025971002">Senior Software Engineer, Identity</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div><div class="opening" department_id="4062247002" office_id="4019254002" data-office-4019254002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7075614002">Senior Software Engineer, ML Platform</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div><div class="opening" department_id="4062247002" office_id="4019254002" data-office-4019254002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7068810002">Senior Software Engineer, Payments</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div><div class="opening" department_id="4062247002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7429286002">Senior Software Engineer, Platform Extensions</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div><div class="opening" department_id="4062247002" office_id="4019254002" data-office-4019254002="true" data-department-4062247002="true">
+  <a data-mapped="true" href="/forter/jobs/7333864002">Senior Software Engineer - Research Engineering</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4036095002">Finance </h3>
+
+  <div class="opening" department_id="4036095002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4036095002="true">
+  <a data-mapped="true" href="/forter/jobs/7310115002">FP&amp;A Analyst</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4036088002">HR</h3>
+
+  <div class="opening" department_id="4036088002" office_id="4057520002,4019381002" data-office-4057520002="true" data-office-4019381002="true" data-department-4036088002="true">
+  <a data-mapped="true" href="/forter/jobs/7327368002">Office Experience Manager</a>
+  <br/>
+  <span class="location">United Kingdom - London</span>
+</div><div class="opening" department_id="4036088002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4036088002="true">
+  <a data-mapped="true" href="/forter/jobs/7124996002">Senior Director, Total Rewards</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div><div class="opening" department_id="4036088002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4036088002="true">
+  <a data-mapped="true" href="/forter/jobs/7276810002">Senior HR Operations Manager</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4036087002">Marketing</h3>
+
+  <div class="opening" department_id="4036087002" office_id="4057519002,4019405002" data-office-4057519002="true" data-office-4019405002="true" data-department-4036087002="true">
+  <a data-mapped="true" href="/forter/jobs/7100948002">Audience Marketing Manager - Contractor</a>
+  <br/>
+  <span class="location">United States - Remote</span>
+</div><div class="opening" department_id="4036087002" office_id="4057519002,4019405002" data-office-4057519002="true" data-office-4019405002="true" data-department-4036087002="true">
+  <a data-mapped="true" href="/forter/jobs/7165718002">Group Product Marketing Manager, Fraud Management</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4036093002">Operations </h3>
+
+  <div class="opening" department_id="4036093002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4036093002="true">
+  <a data-mapped="true" href="/forter/jobs/7171940002">Operations Analyst</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div><div class="opening" department_id="4036093002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4036093002="true">
+  <a data-mapped="true" href="/forter/jobs/7171939002">Operations Analyst</a>
+  <br/>
+  <span class="location">Toronto, Ontario, Canada</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4062252002">Precision</h3>
+
+  <div class="opening" department_id="4062252002" office_id="4019254002" data-office-4019254002="true" data-department-4062252002="true">
+  <a data-mapped="true" href="/forter/jobs/7259068002">Data Science Team Lead</a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h3 id="4068497002">Sales </h3>
+
+  
+  
+
+<section class="child level-1">
+  <h4 id="4068491002">Enterprise Sales</h4>
+
+  <div class="opening" department_id="4068491002,4068497002" office_id="4057521002,4045595002" data-office-4057521002="true" data-office-4045595002="true" data-department-4068491002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7215891002">エンタープライズ アカウント エグゼクティブ</a>
+  <br/>
+  <span class="location">Japan - Tokyo</span>
+</div><div class="opening" department_id="4068491002,4068497002" office_id="4057521002,4045595002" data-office-4057521002="true" data-office-4045595002="true" data-department-4068491002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7165830002">Enterprise Account Executive</a>
+  <br/>
+  <span class="location">Japan - Tokyo</span>
+</div><div class="opening" department_id="4068491002,4068497002" office_id="4057520002,4045591002,4057520002,4041755002" data-office-4057520002="true" data-office-4045591002="true" data-office-4041755002="true" data-department-4068491002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/6928662002">Enterprise Account Executive</a>
+  <br/>
+  <span class="location">Germany - Berlin</span>
+</div><div class="opening" department_id="4068491002,4068497002" office_id="4057521002,4019253002" data-office-4057521002="true" data-office-4019253002="true" data-department-4068491002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7319809002">Enterprise Account Executive</a>
+  <br/>
+  <span class="location">Singapore - Singapore </span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4036085002">Sales Management</h4>
+
+  <div class="opening" department_id="4036085002,4068497002" office_id="4057520002,4045600002,4057520002,4045599002" data-office-4057520002="true" data-office-4045600002="true" data-office-4045599002="true" data-department-4036085002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7342933002">VP, Sales - EMEA</a>
+  <br/>
+  <span class="location">France - Paris</span>
+</div><div class="opening" department_id="4036085002,4068497002" office_id="4057520002,4045600002,4057520002,4045599002" data-office-4057520002="true" data-office-4045600002="true" data-office-4045599002="true" data-department-4036085002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7342934002">VP, Sales - EMEA</a>
+  <br/>
+  <span class="location">Germany - Berlin</span>
+</div><div class="opening" department_id="4036085002,4068497002" office_id="4057520002,4045600002,4057520002,4045599002" data-office-4057520002="true" data-office-4045600002="true" data-office-4045599002="true" data-department-4036085002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7339928002">VP, Sales - EMEA</a>
+  <br/>
+  <span class="location">United Kingdom - London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4068495002">Sales Ops &amp; Enablement</h4>
+
+  <div class="opening" department_id="4068495002,4068497002" office_id="4057520002,4019381002" data-office-4057520002="true" data-office-4019381002="true" data-department-4068495002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7337311002">Sales Enablement Manager</a>
+  <br/>
+  <span class="location">United Kingdom - London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4068494002">SDR</h4>
+
+  <div class="opening" department_id="4068494002,4068497002" office_id="4057520002,4019381002" data-office-4057520002="true" data-office-4019381002="true" data-department-4068494002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7424481002">Sales Development Representative</a>
+  <br/>
+  <span class="location">United Kingdom - London</span>
+</div>
+  
+</section>
+
+<section class="child level-1">
+  <h4 id="4068493002">Strategic Sales</h4>
+
+  <div class="opening" department_id="4068493002,4068497002" office_id="4057519002,4019255002" data-office-4057519002="true" data-office-4019255002="true" data-department-4068493002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7327343002">Identity Sales Specialist</a>
+  <br/>
+  <span class="location">United States - New York </span>
+</div><div class="opening" department_id="4068493002,4068497002" office_id="4057521002,4019253002" data-office-4057521002="true" data-office-4019253002="true" data-department-4068493002="true" data-department-4068497002="true">
+  <a data-mapped="true" href="/forter/jobs/7320091002">Strategic Account Executive</a>
+  <br/>
+  <span class="location">Singapore - Singapore </span>
+</div>
+  
+</section>
+</section>
+  <section class="level-0" data-department-0="0">
+  <h3 id="4000506002" data-department-0="0">General Applications </h3>
+
+  <div class="opening" department_id="0" office_id="" data-department-0="true">
+  <a data-mapped="true" href="/forter/jobs/6349983002">General Application (Israel) </a>
+  <br/>
+  <span class="location">Israel - Tel Aviv</span>
+</div><div class="opening" department_id="0" office_id="" data-department-0="true">
+  <a data-mapped="true" href="/forter/jobs/6350021002">General Application (Singapore)</a>
+  <br/>
+  <span class="location">Singapore - Singapore </span>
+</div><div class="opening" department_id="0" office_id="" data-department-0="true">
+  <a data-mapped="true" href="/forter/jobs/6349963002">General Application (United Kingdom) </a>
+  <br/>
+  <span class="location">United Kingdom - Remote</span>
+</div><div class="opening" department_id="0" office_id="" data-department-0="true">
+  <a data-mapped="true" href="/forter/jobs/6347082002">General Application (United States)</a>
+  <br/>
+  <span class="location">United States - Remote</span>
+</div>
+</section>
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-8204e8076a0ea4ddda1be1a05e5e273ddd851ab804ce60dc245c78a13f3b8fb7.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-a6a131b5ca4d4c5f93159e6682892d3c22c184dc5c33ad13c69c5fad2dc18a4a.js"></script>  
+
+  </body>
+</html>

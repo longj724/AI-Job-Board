@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 <head prefix="og: http://ogp.me/ns#">
 <script>var _rollbarConfig = {"accessToken":"a9e544e2eb674f56b12d47e1d2ed4cd1","captureUncaught":true,"payload":{"environment":"production"},"hostBlockList":["linkedin.com","recruitics.com"],"checkIgnore":function(isUncaught, args, payload) {
   try {
@@ -170,6 +170,29 @@
 </div>
   
 </section>
+</section>
+
+<section class="level-0">
+  <h3 id="4043748002">Revenue Operations</h3>
+
+  <div class="opening" department_id="4043748002" office_id="4022829002" data-office-4022829002="true" data-department-4043748002="true">
+  <a data-mapped="true" href="/nextroll/jobs/7446256002">Senior Manager, Sales Analytics and Compensation</a>
+  <br/>
+  <span class="location">San Francisco, CA</span>
+</div><div class="opening" department_id="4043748002" office_id="4022829002" data-office-4022829002="true" data-department-4043748002="true">
+  <a data-mapped="true" href="/nextroll/jobs/7446258002">Senior Manager, Sales Analytics and Compensation</a>
+  <br/>
+  <span class="location">Seattle, WA</span>
+</div><div class="opening" department_id="4043748002" office_id="4022829002" data-office-4022829002="true" data-department-4043748002="true">
+  <a data-mapped="true" href="/nextroll/jobs/7446259002">Senior Manager, Sales Analytics and Compensation</a>
+  <br/>
+  <span class="location">New York, NY</span>
+</div><div class="opening" department_id="4043748002" office_id="4022829002" data-office-4022829002="true" data-department-4043748002="true">
+  <a data-mapped="true" href="/nextroll/jobs/7446257002">Senior Manager, Sales Analytics and Compensation</a>
+  <br/>
+  <span class="location">Los Angeles, CA</span>
+</div>
+  
 </section>
 
 <section class="level-0">
