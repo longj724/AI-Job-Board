@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<script>var _rollbarConfig = {"accessToken":"a9e544e2eb674f56b12d47e1d2ed4cd1","captureUncaught":true,"payload":{"environment":"production"},"hostBlockList":["linkedin.com","recruitics.com"],"checkIgnore":function(isUncaught, args, payload) {
+  try {
+    var isPhantomJS = window.navigator.userAgent.match(/phantomjs/i);
+    var isSplash= window.navigator.userAgent.match(/splash version/i);
+    var firefox = window.navigator.userAgent.match(/(firefox)\/(\w+)/i); // JSON, must escape slash
+    var chrome = window.navigator.userAgent.match(/(chrome)\/(\w+)/i); // JSON, must escape slash
+
+    var browserExtensionOrAutomationFile = function(frame) {
+      var regExPatterns = [/^chrome-extension/, /^safari-extension/, /^moz-extension/, /^pptr/];
+      return regExPatterns.some(function(regEx) {
+        return regEx.test(frame.filename);
+      });
+    }
+
+    var isBrowserExtensionOrAutomation = payload.body.trace &&
+                                         payload.body.trace.frames &&
+                                         payload.body.trace.frames.some(browserExtensionOrAutomationFile);
+
+    var isFirefoxLessThan50;
+    if (firefox) {
+      var majorVersion = Number(firefox[2]);
+      isFirefoxLessThan50 = majorVersion < 50
+    }
+
+    var isChromeLessThan50;
+    if (chrome) {
+      var chromeVersion = Number(chrome[2]);
+      isChromeLessThan50 = chromeVersion < 50;
+    }
+
+    return Boolean(isPhantomJS) ||
+           Boolean(isSplash) ||
+           Boolean(isFirefoxLessThan50) ||
+           Boolean(isChromeLessThan50) ||
+           Boolean(isBrowserExtensionOrAutomation);
+  } catch (e) {
+    return true;
+  }
+}
+,"ignoredMessages":["BetterJsPop","vungle","Script error","awliwidget","ResizeObserver loop completed with undelivered notifications.","jQuery is missing","Attempting to configurable attribute of unconfigurable property.","WeakMap is not defined","Cannot change the configurable attribute of","Cannot call method \"get\" of undefined","\\$ is not defined","Can't find variable: \\$","uncaught exception: \\[object Object\\]","Unexpected token ';'","Failed S3 Direct Upload for field: resume","Failed to open/load the window. Dropbox.choose and Dropbox.save should only be called from within a user-triggered event handler such as a tap or click event.","googletag","solana|ethereum","originalPrompt"]};</script>
+<script>!function(r){var e={};function o(n){if(e[n])return e[n].exports;var t=e[n]={i:n,l:!1,exports:{}};return r[n].call(t.exports,t,t.exports,o),t.l=!0,t.exports}o.m=r,o.c=e,o.d=function(r,e,n){o.o(r,e)||Object.defineProperty(r,e,{enumerable:!0,get:n})},o.r=function(r){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(r,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(r,"__esModule",{value:!0})},o.t=function(r,e){if(1&e&&(r=o(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var n=Object.create(null);if(o.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var t in r)o.d(n,t,function(e){return r[e]}.bind(null,t));return n},o.n=function(r){var e=r&&r.__esModule?function(){return r.default}:function(){return r};return o.d(e,"a",e),e},o.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},o.p="",o(o.s=0)}([function(r,e,o){"use strict";var n=o(1),t=o(5);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdn.rollbar.com/rollbarjs/refs/tags/v2.26.1/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,o){"use strict";var n=o(2),t=o(3);function a(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}var l=0;function i(r,e){this.options=r,this._rollbarOldOnError=null;var o=l++;this.shimId=function(){return o},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[o]={handler:e,messages:[]})}var s=o(4),d=function(r,e){return new i(r,e)},c=function(r){return new s(d,r)};function u(r){return a((function(){var e=this,o=Array.prototype.slice.call(arguments,0),n={shim:e,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)}))}i.prototype.loadFull=function(r,e,o,n,t){var l=!1,i=e.createElement("script"),s=e.getElementsByTagName("script")[0],d=s.parentNode;i.crossOrigin="",i.src=n.rollbarJsUrl,o||(i.async=!0),i.onload=i.onreadystatechange=a((function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){i.onload=i.onreadystatechange=null;try{d.removeChild(i)}catch(r){}l=!0,function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var o,n,a,l,i=0;o=r._rollbarShims[i++];)for(o=o.messages||[];n=o.shift();)for(a=n.args||[],i=0;i<a.length;++i)if("function"==typeof(l=a[i])){l(e);break}}"function"==typeof t&&t(e)}()}})),d.insertBefore(i,s)},i.prototype.wrap=function(r,e,o){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){o&&"function"==typeof o&&o.apply(this,arguments);try{return r.apply(this,arguments)}catch(o){var e=o;throw e&&("string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e),e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var p="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<p.length;++f)i.prototype[p[f]]=u(p[f]);r.exports={setupShim:function(r,e){if(r){var o=e.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShims={},r._rollbarWrappedError=null;var l=new c(e);return a((function(){e.captureUncaught&&(l._rollbarOldOnError=r.onerror,n.captureUncaughtExceptions(r,l,!0),e.wrapGlobalEventHandlers&&t(r,l,!0)),e.captureUnhandledRejections&&n.captureUnhandledRejections(r,l,!0);var a=e.autoInstrument;return!1!==e.enabled&&(void 0===a||!0===a||function(r){return!("object"!=typeof r||void 0!==r.page&&!r.page)}(a))&&r.addEventListener&&(r.addEventListener("load",l.captureLoad.bind(l)),r.addEventListener("DOMContentLoaded",l.captureDomContentLoaded.bind(l))),r[o]=l,l}))()}},Rollbar:c}},function(r,e,o){"use strict";function n(r,e,o,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null);var t=e.handleUncaughtException.apply(e,n);o&&o.apply(r,n),"anonymous"===t&&(e.anonymousErrorsPending+=1)}r.exports={captureUncaughtExceptions:function(r,e,o){if(r){var t;if("function"==typeof e._rollbarOldOnError)t=e._rollbarOldOnError;else if(r.onerror){for(t=r.onerror;t._rollbarOldOnError;)t=t._rollbarOldOnError;e._rollbarOldOnError=t}e.handleAnonymousErrors();var a=function(){var o=Array.prototype.slice.call(arguments,0);n(r,e,t,o)};o&&(a._rollbarOldOnError=t),r.onerror=a}},captureUnhandledRejections:function(r,e,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var o,n,t;try{o=r.reason}catch(r){o=void 0}try{n=r.promise}catch(r){n="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!o&&t&&(o=t.reason,n=t.promise)}catch(r){}o||(o="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(o,n)};n.belongsToShim=o,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}}},function(r,e,o){"use strict";function n(r,e,o){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var n=e.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(e,o,t){n.call(this,e,r.wrap(o),t)};t._rollbarOldAdd=n,t.belongsToShim=o,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,o){a.call(this,r,e&&e._rollbar_wrapped||e,o)};l._rollbarOldRemove=a,l.belongsToShim=o,e.removeEventListener=l}}r.exports=function(r,e,o){if(r){var t,a,l="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<l.length;++t)r[a=l[t]]&&r[a].prototype&&n(e,r[a].prototype,o)}}},function(r,e,o){"use strict";function n(r,e){this.impl=r(e,this),this.options=e,function(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},o="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<o.length;n++)r[o[n]]=e(o[n])}(n.prototype)}n.prototype._swapAndProcessMessages=function(r,e){var o,n,t;for(this.impl=r(this.options);o=e.shift();)n=o.method,t=o.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],o.ts]):this[n].apply(this,t));return this},r.exports=n},function(r,e,o){"use strict";r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){for(var o,n,t=(r=r||{}).globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;o=window._rollbarShims[i++];)n||(n=o.handler),o.handler._swapAndProcessMessages(l,o.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);</script>
+  <title>Jobs at Snyk</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta id="viewport" name="viewport" content ="width=device-width, minimum-scale=1.0" />
+  <meta id="rendered-by" content="jben" />
+  <link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/application-e29eeeeaffa6e21c2acd8ed593e7b9333d5991f4d98df3fedf41dfb407d274bf.css" />
+<link rel="stylesheet" media="all" href="https://boards.cdn.greenhouse.io/assets/responsive-95ad71d0f9cbcb13adb28ed74687b15c00a64bb1c4a6ab47ab9072493777804c.css" />
+  
+        <link rel="stylesheet" media="screen" href="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/custom_css_files/400/166/500/original/greenhouse-jobs-smui-2023-03-28.css?1679998327" />
+
+
+
+    <meta property="og:title" content="Snyk"></meta>
+    <meta property="og:description" content="Working at Snyk
+Join us on our mission to help teams develop securely.
+Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.
+Joining Snyk means embracing our core values: One Team, Care Deeply, Customer Centric, and Forward Thinking. As a member of our team, you’ll have the opportunity to thrive in a dynamic environment where fostering collaboration, leading with empathy, driving business impact, and inspiring trust are at the heart of everything we do.
+About Snyk
+Founded in London and Tel Aviv in 2015, we’ve grown to a united global team of more than 1300+ employees. No matter where we are in the world, we operate as one team and work together to shape the future of application security. We take immense pride in the diversity of our people, cultures, and experiences.
+Every team member at Snyk contributes to our vision for a more secure digital world. By combining developer-first tooling and deep cybersecurity intelligence, we deliver solutions that help any developer build securely without slowing down productivity.
+Our customers trust Snyk to help them find and fix vulnerabilities in their code, open source dependencies, containers, and cloud infrastructure. From Google to Anheuser-Busch InBev, thousands of customers rely on our developer-friendly tools to help them securely build their innovative new products.
+Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk.
+The heart of Snyk Culture:
+
+One Team: We extend beyond geographical and departmental limits, fostering collaboration, inclusion, and transparency in the ways we work and support each other.
+Care Deeply: We lead with empathy for our customers, partners, and Snykers globally to evolve our customers’ organizations, as well as communities in which we live and work.
+Customer Centric: We build security solutions, adapting quickly to market changes to provide an outstanding customer experience, leading to adoption and high satisfaction.
+Forward Thinking: We are driven by our ambition to inspire trust and lead the industry, surpassing limits to build unparalleled technology.
+"></meta>
+    <meta property="og:url" content="https://boards.greenhouse.io/snyk"></meta>
+    <meta property="og:type" content="article"></meta>
+      <meta property="og:image" content="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/166/500/original/Snyk-logo-colour-2020.png?1603191972"></meta>
+
+</head>
+<body>
+  <div id="wrapper">
+    <div id="main" class="">
+      
+<div id="flash_wrapper">
+</div>
+
+
+<div id="logo"><a target="_blank" href="https://snyk.io/"><img alt="Snyk Logo" src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/166/500/resized/Snyk-logo-colour-2020.png?1603191972" width="134" height="75" /></a></div>
+
+
+  <div id="content">
+    <h1><strong>Working at Snyk</strong></h1>
+<h2><strong>Join us on our mission to help teams develop securely.</strong></h2>
+<p>Every day, the world gets more digital thanks to tens of millions of developers building the future faster than ever. But with exponential growth comes exponential risk, as outnumbered security teams struggle to secure mountains of code. This is where Snyk (pronounced “sneak”) comes in. Snyk is a developer security platform that makes it easy for development teams to find, prioritize, and fix security vulnerabilities in code, dependencies, containers, and cloud infrastructure — and do it all right from the start. Snyk is on a mission to make the world a more secure place by empowering developers to develop fast and stay secure.</p>
+<p>Joining Snyk means embracing our core values: One Team, Care Deeply, Customer Centric, and Forward Thinking. As a member of our team, you’ll have the opportunity to thrive in a dynamic environment where fostering collaboration, leading with empathy, driving business impact, and inspiring trust are at the heart of everything we do.</p>
+<h2><strong>About Snyk</strong></h2>
+<p>Founded in London and Tel Aviv in 2015, we’ve grown to a united global team of more than 1300+ employees. No matter where we are in the world, we operate as one team and work together to shape the future of application security. We take immense pride in the diversity of our people, cultures, and experiences.</p>
+<p>Every team member at Snyk contributes to our vision for a more secure digital world. By combining developer-first tooling and deep cybersecurity intelligence, we deliver solutions that help any developer build securely without slowing down productivity.</p>
+<p>Our customers trust Snyk to help them find and fix vulnerabilities in their code, open source dependencies, containers, and cloud infrastructure. From Google to Anheuser-Busch InBev, thousands of customers rely on our developer-friendly tools to help them securely build their innovative new products.</p>
+<p>Snyk is committed to creating an inclusive and engaging environment where our employees can thrive as we rally behind our common mission to make the digital world a safer place. From Snyk employee resource groups, to global benefits that help our employees prioritize their health, wellness, financial security, and a work/life blend, we aim to support our employees along their entire journeys here at Snyk.</p>
+<h2><strong>The heart of Snyk Culture:</strong></h2>
+<ul>
+<li><strong>One Team:</strong> We extend beyond geographical and departmental limits, fostering collaboration, inclusion, and transparency in the ways we work and support each other.</li>
+<li><strong>Care Deeply: </strong>We lead with empathy for our customers, partners, and Snykers globally to evolve our customers’ organizations, as well as communities in which we live and work.</li>
+<li><strong>Customer Centric:</strong> We build security solutions, adapting quickly to market changes to provide an outstanding customer experience, leading to adoption and high satisfaction.</li>
+<li><strong>Forward Thinking:</strong> We are driven by our ambition to inspire trust and lead the industry, surpassing limits to build unparalleled technology.</li>
+</ul>
+  </div>
+
+    <h1 id="board_title">Current Job Openings at Snyk</h1>
+
+    <div class="filter-container">
+
+    <select name="departments-select" id="departments-select">
+      <option value="">All Departments</option>
+      
+
+<option value="4061570002">
+  Corp Info Systems
+</option>
+
+
+
+<option value="4051354002">
+  Customer Solutions
+</option>
+
+
+
+<option value="4051349002">
+  Engineering
+</option>
+
+
+
+<option value="4051348002">
+  Finance
+</option>
+
+
+
+<option value="4051357002">
+  Marketing
+</option>
+
+
+
+<option value="4051353002">
+  People
+</option>
+
+
+
+<option value="4051356002">
+  Sales
+</option>
+
+
+
+<option value="4051360002">
+  Strategy &amp; Operations
+</option>
+
+
+    </select>
+  </div>
+
+  <div class="filter-container">
+
+    <select name="offices-select" id="offices-select">
+      <option value="">All Offices</option>
+      
+
+<option value="4077943002">
+  Canada - Ottawa Office
+</option>
+
+
+
+<option value="4033579002">
+  Israel - Tel Aviv Office
+</option>
+
+
+
+<option value="4042903002">
+  Japan - Remote
+</option>
+
+
+
+<option value="4077997002">
+  Romania - Bucharest Office
+</option>
+
+
+
+<option value="4058491002">
+  Romania - Cluj Office
+</option>
+
+
+
+<option value="4033583002">
+  United Kingdom - London Office
+</option>
+
+
+
+<option value="4033586002">
+  United States - Boston Office
+</option>
+
+
+
+<option value="4033588002">
+  US - Remote
+</option>
+
+
+    </select>
+  </div>
+
+
+
+<div id="filter-count"></div>
+
+  
+
+<section class="level-0">
+  <h2 id="4061570002">Corp Info Systems</h2>
+
+  <div class="opening" department_id="4061570002" office_id="" data-department-4061570002="true">
+  <a data-mapped="true" href="/snyk/jobs/7418675002">Helpdesk Specialist</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4061570002" office_id="4033579002" data-office-4033579002="true" data-department-4061570002="true">
+  <a data-mapped="true" href="/snyk/jobs/7434352002">Senior Helpdesk Specialist</a>
+  <br/>
+  <span class="location">Tel Aviv</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="4051354002">Customer Solutions</h2>
+
+  <div class="opening" department_id="4051354002" office_id="" data-department-4051354002="true">
+  <a data-mapped="true" href="/snyk/jobs/7442226002">Director, Global Professional Services</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051354002" office_id="4077997002,4058491002" data-office-4077997002="true" data-office-4058491002="true" data-department-4051354002="true">
+  <a data-mapped="true" href="/snyk/jobs/7076525002">Implementation Consultant</a>
+  <br/>
+  <span class="location">Bucharest, Cluj</span>
+</div><div class="opening" department_id="4051354002" office_id="4077943002" data-office-4077943002="true" data-department-4051354002="true">
+  <a data-mapped="true" href="/snyk/jobs/7090715002">Implementation Consultant</a>
+  <br/>
+  <span class="location">Canada (Remote)</span>
+</div><div class="opening" department_id="4051354002" office_id="4033586002" data-office-4033586002="true" data-department-4051354002="true">
+  <a data-mapped="true" href="/snyk/jobs/7315283002">Manager, Technical Success</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051354002" office_id="" data-department-4051354002="true">
+  <a data-mapped="true" href="/snyk/jobs/7421976002">Senior Technical Success Manager</a>
+  <br/>
+  <span class="location">Boston, US East Coast (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="4051349002">Engineering</h2>
+
+  <div class="opening" department_id="4051349002" office_id="4077943002" data-office-4077943002="true" data-department-4051349002="true">
+  <a data-mapped="true" href="/snyk/jobs/7240006002">Engineering Director - Developer Experience </a>
+  <br/>
+  <span class="location">Ottawa</span>
+</div><div class="opening" department_id="4051349002" office_id="" data-department-4051349002="true">
+  <a data-mapped="true" href="/snyk/jobs/7241158002">R&amp;D Engineering Intern</a>
+  <br/>
+  <span class="location">Cluj</span>
+</div><div class="opening" department_id="4051349002" office_id="4058491002,4077997002" data-office-4058491002="true" data-office-4077997002="true" data-department-4051349002="true">
+  <a data-mapped="true" href="/snyk/jobs/7120574002">Senior Data Engineer - AppRisk team (Typescript, Node.js)</a>
+  <br/>
+  <span class="location">Bucharest, Cluj</span>
+</div><div class="opening" department_id="4051349002" office_id="" data-department-4051349002="true">
+  <a data-mapped="true" href="/snyk/jobs/7111506002">Senior Software Engineer - IaC (Typescript, GO)</a>
+  <br/>
+  <span class="location">Romania (Remote)</span>
+</div><div class="opening" department_id="4051349002" office_id="4077943002" data-office-4077943002="true" data-department-4051349002="true">
+  <a data-mapped="true" href="/snyk/jobs/6733737002">Senior Software Engineer - Jedi team (Node.js, TypeScript)</a>
+  <br/>
+  <span class="location">Ottawa</span>
+</div><div class="opening" department_id="4051349002" office_id="4077997002" data-office-4077997002="true" data-department-4051349002="true">
+  <a data-mapped="true" href="/snyk/jobs/7057350002">Staff Software Engineer - Developer Experience (Typescript, Go)</a>
+  <br/>
+  <span class="location">Bucharest, Cluj</span>
+</div><div class="opening" department_id="4051349002" office_id="4033583002,4033586002" data-office-4033583002="true" data-office-4033586002="true" data-department-4051349002="true">
+  <a data-mapped="true" href="/snyk/jobs/7105092002">VP, Engineering</a>
+  <br/>
+  <span class="location">Boston, London</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="4051348002">Finance</h2>
+
+  <div class="opening" department_id="4051348002" office_id="" data-department-4051348002="true">
+  <a data-mapped="true" href="/snyk/jobs/7355048002">Senior Accountant, Commissions </a>
+  <br/>
+  <span class="location">Boston</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="4051357002">Marketing</h2>
+
+  <div class="opening" department_id="4051357002" office_id="4033586002" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7435351002">Demand Marketing Specialist</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051357002" office_id="4033586002" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7289543002">Director, Content Marketing</a>
+  <br/>
+  <span class="location">Boston, US East Coast (Remote)</span>
+</div><div class="opening" department_id="4051357002" office_id="4033588002,4033586002" data-office-4033588002="true" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7326664002">Director, Regional Marketing</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051357002" office_id="4033586002" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7255260002">Expansion Marketing Manager</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051357002" office_id="4033586002" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7438237002">Product Marketing &amp; Competitive Research Co-Op</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051357002" office_id="4033586002" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7326697002">Regional Marketing Specialist</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051357002" office_id="4033586002" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7441528002">Senior Customer Advocacy Program Manager</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051357002" office_id="4033586002" data-office-4033586002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7289535002">Senior Event Marketing Manager</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051357002" office_id="4033583002" data-office-4033583002="true" data-department-4051357002="true">
+  <a data-mapped="true" href="/snyk/jobs/7419464002">Senior Regional Marketing Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="4051353002">People</h2>
+
+  <div class="opening" department_id="4051353002" office_id="4033586002" data-office-4033586002="true" data-department-4051353002="true">
+  <a data-mapped="true" href="/snyk/jobs/7241137002">Learning &amp; Development Internship</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051353002" office_id="4077997002" data-office-4077997002="true" data-department-4051353002="true">
+  <a data-mapped="true" href="/snyk/jobs/7329038002">Senior Talent Attraction Partner</a>
+  <br/>
+  <span class="location">Bucharest</span>
+</div><div class="opening" department_id="4051353002" office_id="4033586002" data-office-4033586002="true" data-department-4051353002="true">
+  <a data-mapped="true" href="/snyk/jobs/7076536002">Talent Business Partner Director</a>
+  <br/>
+  <span class="location">Boston</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="4051356002">Sales</h2>
+
+  <div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7093181002">Account Director</a>
+  <br/>
+  <span class="location">US West Coast (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7331108002">Account Director - Atlanta</a>
+  <br/>
+  <span class="location">Boston, US East Coast (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033586002" data-office-4033586002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7299090002">Customer Acquisition Account Executive - LATAM</a>
+  <br/>
+  <span class="location">US East Coast (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033586002" data-office-4033586002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7314038002">Sales Development Representative</a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7293131002">Senior Channel Manager</a>
+  <br/>
+  <span class="location">US West Coast (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033583002" data-office-4033583002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7354974002">Senior Manager, Sales Development</a>
+  <br/>
+  <span class="location">London</span>
+</div><div class="opening" department_id="4051356002" office_id="" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7421350002">Senior Manager, Solutions Engineering</a>
+  <br/>
+  <span class="location">US (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4042903002" data-office-4042903002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7418673002">Senior Solutions Engineer</a>
+  <br/>
+  <span class="location">Tokyo</span>
+</div><div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7094628002">Senior Solutions Engineering Specialist, AppSec</a>
+  <br/>
+  <span class="location">US East Coast (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7342131002">Senior Solutions Engineering Specialist, AppSec</a>
+  <br/>
+  <span class="location">Canada (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7081779002">Solutions Engineering Specialist, AppSec</a>
+  <br/>
+  <span class="location">Boston, US East Coast (Remote), US West Coast (Remote), Canada East Coast (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7076558002">Strategic Solutions Engineer</a>
+  <br/>
+  <span class="location">US West Coast (Remote)</span>
+</div><div class="opening" department_id="4051356002" office_id="4033588002" data-office-4033588002="true" data-department-4051356002="true">
+  <a data-mapped="true" href="/snyk/jobs/7105240002">Strategic Solutions Engineer</a>
+  <br/>
+  <span class="location">US East Coast (Remote)</span>
+</div>
+  
+</section>
+
+<section class="level-0">
+  <h2 id="4051360002">Strategy &amp; Operations</h2>
+
+  <div class="opening" department_id="4051360002" office_id="" data-department-4051360002="true">
+  <a data-mapped="true" href="/snyk/jobs/7313994002">Business Intelligence Analyst</a>
+  <br/>
+  <span class="location">Bucharest, Cluj</span>
+</div><div class="opening" department_id="4051360002" office_id="" data-department-4051360002="true">
+  <a data-mapped="true" href="/snyk/jobs/7323942002">Senior R&amp;D Operations Program Manager</a>
+  <br/>
+  <span class="location">London, Ottawa</span>
+</div><div class="opening" department_id="4051360002" office_id="4033586002" data-office-4033586002="true" data-department-4051360002="true">
+  <a data-mapped="true" href="/snyk/jobs/7321333002">Senior Strategic Initiatives Manager </a>
+  <br/>
+  <span class="location">Boston</span>
+</div><div class="opening" department_id="4051360002" office_id="" data-department-4051360002="true">
+  <a data-mapped="true" href="/snyk/jobs/7318380002">Senior Strategic Planning Manager</a>
+  <br/>
+  <span class="location">London</span>
+</div>
+  
+</section>
+  
+
+
+
+    </div>
+  </div>
+
+      <div id="footer">
+    <span>Powered by</span>&nbsp;<a target="_blank" href="http://www.greenhouse.io/">
+      <img border="0" alt="Greenhouse Logo" id="gh_logo" src="https://boards.cdn.greenhouse.io/assets/greenhouse-in-app-logo-green-236d994ee39682bb46e214901c264de0df582c97e949e7c854c3531b79f00240.svg" width="100" height="30" />
+</a>    <div class="privacy-policy">
+      Read our <a href="http://www.greenhouse.io/privacy-policy">Privacy Policy</a>
+    </div>
+  </div>
+
+      <script src="https://boards.cdn.greenhouse.io/assets/application-8204e8076a0ea4ddda1be1a05e5e273ddd851ab804ce60dc245c78a13f3b8fb7.js"></script>
+
+  <script src="https://boards.cdn.greenhouse.io/assets/index_init-a6a131b5ca4d4c5f93159e6682892d3c22c184dc5c33ad13c69c5fad2dc18a4a.js"></script>    <script src="//jsv3.recruitics.com/partner/d056b859-3c00-11e7-8fe9-89f468934c80.js" async></script>
+
+
+  </body>
+</html>

@@ -1,0 +1,262 @@
+<!DOCTYPE html><!-- Last Published: Fri May 10 2024 16:43:37 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="www.rex.com" data-wf-page="65fe5a9340d2e564b5f0741d" data-wf-site="62e195813385ccf99508a9ba" lang="en"><head><meta charset="utf-8"/><title>Rex | Careers</title><meta content="Rex missionaries build the world’s best tech. Rexans work hard, have fun, go biggest." name="description"/><meta content="Rex | Careers" property="og:title"/><meta content="Rex missionaries build the world’s best tech. Rexans work hard, have fun, go biggest." property="og:description"/><meta content="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6536b6c3314f3f2a9525b69b_Empower%20People%20(1).png" property="og:image"/><meta content="Rex | Careers" property="twitter:title"/><meta content="Rex missionaries build the world’s best tech. Rexans work hard, have fun, go biggest." property="twitter:description"/><meta content="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6536b6c3314f3f2a9525b69b_Empower%20People%20(1).png" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://assets-global.website-files.com/62e195813385ccf99508a9ba/css/rex-2022-1.4494ce02e.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Playfair Display:regular,500,600,700,800","Poppins:300,regular,500,600,700,800"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://assets-global.website-files.com/62e195813385ccf99508a9ba/65301be1bcd4047016e272a7_Untitled%20design%20(23).png" rel="shortcut icon" type="image/x-icon"/><link href="https://assets-global.website-files.com/62e195813385ccf99508a9ba/65301bb17092810118a420a0_Untitled%20design%20(22).png" rel="apple-touch-icon"/><link href="https://www.rex.com//careers" rel="canonical"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-199958771-1"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-199958771-1', {'anonymize_ip': true});</script><script type="text/javascript">!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.agent='plwebflow';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '934801600719706');fbq('track', 'PageView');</script><style type="text/css">
+  .body-text {
+    word-break: break-word;
+  }
+  .company-arrow.company-color {
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
+    border-bottom-color: transparent !important;
+  }
+</style>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3DNERGSTGT"></script>
+
+<meta name="facebook-domain-verification" content="4o2o27auanohdywsrwfgl4yvlp6arg" />
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WJ73FKN');</script>
+<!-- End Google Tag Manager --><style>/* owl slider */
+.carousel-wrap{
+    width: 1000px;
+    margin: auto;
+    position: relative;
+
+  }
+  .owl-carousel .owl-nav{
+    overflow: hidden;
+    height: 0px;
+  }
+
+.owl-stage {
+    display: -webkit-flex;
+   display: -ms-flexbox;
+   display: flex;
+
+   -webkit-flex-direction: row;
+   -ms-flex-direction: row;
+    flex-direction: row;
+
+   -webkit-align-items: stretch;
+   -ms-flex-align: stretch;
+    align-items: stretch;
+
+   -webkit-justify-content: space-between;
+   -ms-flex-pack: justify;
+    justify-content: space-between; 
+    margin-top:60px;
+  
+}
+
+.owl-stage-outer {
+  width: 100%;
+}
+
+.owl-dots {
+ display: none;
+}
+
+
+
+.owl-nav {
+  margin: 10px 0;
+  text-align: right;
+  position: absolute;
+  top:0;
+  right:60px;
+}
+
+.owl-prev {
+  padding:15px;
+  background: url('https://assets-global.website-files.com/61e837026b867543ca60d625/6213e3deeee2375007ae3922_arrow-left.png') center center no-repeat;
+  opacity: 0.5;
+  
+}
+
+.owl-next {
+  padding:15px;
+  background: url('https://assets-global.website-files.com/61e837026b867543ca60d625/6213e3de51bf1174ccb08b40_arrow-right.png') center center no-repeat;
+    opacity: 0.5;
+  
+}
+
+.owl-prev span, .owl-next span {
+  display: none;
+}
+
+.owl-next:hover, .owl-prev:hover {
+  opacity: 1;
+}
+
+.quotes-item {
+  height: 100%!important;
+}
+ .job-items-wrap a{
+  text-decoration: none;
+}
+
+.testimonils-col-list .testimonils-col-item:last-child {
+  margin-right: 0!important;
+}
+ </style>
+ 
+<!-- [Attributes by Finsweet] List item counter -->
+<script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-countitems@1/countitems.js"></script>
+<!-- [Attributes by Finsweet] CMS Filter -->
+<script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsfilter@1/cmsfilter.js"></script></head><body><div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease-out-quad" data-easing2="ease-out-quad" role="banner" class="section---no-padding nav w-nav"><div class="nav---header-bar"><div class="nav-inner"><div class="nav-left"><a href="/" class="brand w-nav-brand"><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/652ffd52ee0427f269d54928_Untitled%20design%20(17).png" loading="lazy" sizes="(max-width: 479px) 18vw, 84.6875px" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/652ffd52ee0427f269d54928_Untitled%20design%20(17)-p-500.png 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/652ffd52ee0427f269d54928_Untitled%20design%20(17)-p-800.png 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/652ffd52ee0427f269d54928_Untitled%20design%20(17)-p-1080.png 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/652ffd52ee0427f269d54928_Untitled%20design%20(17)-p-1600.png 1600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/652ffd52ee0427f269d54928_Untitled%20design%20(17).png 1985w" alt="" class="logo"/></a><nav role="navigation" id="w-node-_741cf5cd-d6f7-13ce-ea8c-5ff10c35de78-0c35de72" class="nav-menu w-nav-menu"><a href="/overview" class="nav-link w-nav-link">Overview</a><a href="/news" class="nav-link w-nav-link">News</a><a href="/careers" aria-current="page" class="nav-link w-nav-link w--current">Careers</a><a href="/pete" class="nav-link w-nav-link">Founder</a><div class="centered-buttons top-margin-60 is-1-column-grid"></div><div class="mobile-button-wrap"><a href="/connect" class="button---ghost w-button">Get in touch</a></div></nav></div><div class="menu-button w-nav-button"><div class="w-icon-nav-menu"></div></div><a href="/connect" class="button---ghost mobile-hidden w-button">Connect</a></div></div><div class="nav-bg shadow-dark-80"></div></div><div class="section---hero"><div class="rc"><div class="col hero"><p class="para-med limited-hero-wide">Our companies solve the largest, most lucrative problems in the industry - ranging from insuring and paying workers to investing and managing assets.</p><h1 class="hero-heading">Empower at Rex</h1><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/633f324f2810b6c7c998ba40_62963232f47c4d7457fcce86_Screen%20Shot%202022-03-11%20at%201.45.55%20PM%20-%20optimized.jpg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 1439px) 92vw, 1320px" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/633f324f2810b6c7c998ba40_62963232f47c4d7457fcce86_Screen%20Shot%202022-03-11%20at%201.45.55%20PM%20-%20optimized-p-500.jpg 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/633f324f2810b6c7c998ba40_62963232f47c4d7457fcce86_Screen%20Shot%202022-03-11%20at%201.45.55%20PM%20-%20optimized-p-800.jpg 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/633f324f2810b6c7c998ba40_62963232f47c4d7457fcce86_Screen%20Shot%202022-03-11%20at%201.45.55%20PM%20-%20optimized-p-1080.jpg 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/633f324f2810b6c7c998ba40_62963232f47c4d7457fcce86_Screen%20Shot%202022-03-11%20at%201.45.55%20PM%20-%20optimized-p-1600.jpg 1600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/633f324f2810b6c7c998ba40_62963232f47c4d7457fcce86_Screen%20Shot%202022-03-11%20at%201.45.55%20PM%20-%20optimized-p-2000.jpg 2000w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/633f324f2810b6c7c998ba40_62963232f47c4d7457fcce86_Screen%20Shot%202022-03-11%20at%201.45.55%20PM%20-%20optimized.jpg 2000w" alt="" class="hero-image-wide top-margin-60"/></div></div><div class="centered-buttons top-margin-60 is-1-column-grid"></div></div><div class="section---no-padding"></div><div class="section---standard"><div class="rc"><div class="centered-head-wrap"><h2 class="centered limited smaller mobile">Rex missionaries build the world’s best tech.</h2><h2 class="centered limited desktop">Rex missionaries build the world’s best tech.</h2><p class="para-med limited-hero-wide top-margin-20">We are startups with structure. We’ve invested in an infrastructure that allows us to throw gasoline on a spark, and support new businesses not only with capital, but also legal, accounting, HR, talent acquisition, and facilities.</p></div><div class="_2-col"><a href="#" id="w-node-_590556a8-d7c8-005b-be6e-28d0c92d5842-b5f0741d" class="w-inline-block w-lightbox"><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/62e195813385cc4d0408aa65_Frame%2055%20(2).jpg" loading="lazy" id="w-node-_61bd4bd9-a7a8-204d-0af4-858db0c6b53c-b5f0741d" sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 1439px) 44vw, 630px" alt="" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/62e195813385cc4d0408aa65_Frame%252055%2520(2)-p-500.jpg 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/62e195813385cc4d0408aa65_Frame%252055%2520(2)-p-800.jpg 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/62e195813385cc4d0408aa65_Frame%252055%2520(2)-p-1080.jpg 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/62e195813385cc4d0408aa65_Frame%2055%20(2).jpg 1128w" class="grid-image no-minimum-height"/><script type="application/json" class="w-json">{
+  "items": [
+    {
+      "url": "https://vimeo.com/679203356",
+      "originalUrl": "https://vimeo.com/679203356",
+      "width": 940,
+      "height": 496,
+      "thumbnailUrl": "https://i.vimeocdn.com/video/1382369165-6d46bd9289183db7ccb969d8b856519379de92cf07722965543c8db1d077f6c7-d_1280",
+      "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F679203356%3Fh%3D1303923ced%26app_id%3D122963&dntp=1&display_name=Vimeo&url=https%3A%2F%2Fvimeo.com%2F679203356&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1382369165-6d46bd9289183db7ccb969d8b856519379de92cf07722965543c8db1d077f6c7-d_1280&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=vimeo\" width=\"940\" height=\"496\" scrolling=\"no\" title=\"Vimeo embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
+      "type": "video"
+    }
+  ],
+  "group": ""
+}</script></a><a href="#" id="w-node-ccd574f3-9d8f-e4f4-9c91-95b2c4805e8a-b5f0741d" class="w-inline-block w-lightbox"><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6348291a134614af4da8665a_Frame%2056.png" loading="lazy" id="w-node-e5615a4c-0d9e-7a19-2ad2-bb1cc73c9b75-b5f0741d" sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 1439px) 44vw, 630px" alt="" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6348291a134614af4da8665a_Frame%2056-p-500.png 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6348291a134614af4da8665a_Frame%2056-p-800.png 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6348291a134614af4da8665a_Frame%2056-p-1080.png 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6348291a134614af4da8665a_Frame%2056.png 1128w" class="grid-image no-minimum-height"/><script type="application/json" class="w-json">{
+  "items": [
+    {
+      "url": "https://vimeo.com/679203920",
+      "originalUrl": "https://vimeo.com/679203920",
+      "width": 940,
+      "height": 496,
+      "thumbnailUrl": "https://i.vimeocdn.com/video/1382368251-4439ede7c6eccb8ab73368952e46e320850a71c9ac4f505e35b9d30332eb7b49-d_1280",
+      "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F679203920%3Fh%3Dccd38791d4%26app_id%3D122963&dntp=1&display_name=Vimeo&url=https%3A%2F%2Fvimeo.com%2F679203920&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F1382368251-4439ede7c6eccb8ab73368952e46e320850a71c9ac4f505e35b9d30332eb7b49-d_1280&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=vimeo\" width=\"940\" height=\"496\" scrolling=\"no\" title=\"Vimeo embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
+      "type": "video"
+    }
+  ],
+  "group": ""
+}</script></a></div></div></div><div class="section---standard"><div class="rc"><h2 class="centered limited smaller mobile">Rexans work hard, have fun, go biggest.</h2><h2 class="centered limited desktop">Rexans work hard, have fun, go biggest.</h2><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535.jpeg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 1439px) 92vw, 1320px" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535-p-500.jpeg 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535-p-800.jpeg 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535-p-1080.jpeg 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535-p-1600.jpeg 1600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535-p-2000.jpeg 2000w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535-p-2600.jpeg 2600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535-p-3200.jpeg 3200w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531762c24df4efd6928a81e_IMG_7535.jpeg 3571w" alt="Rex team outdoors with cigars" class="hero-image-wide top-margin-60"/><div class="_3-col top-margin-60"><div id="w-node-_8a42c680-cfd7-9e82-e393-4b60ba083e11-b5f0741d" class="col outline left"><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical.png" loading="lazy" sizes="80px" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical-p-500.png 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical-p-800.png 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical-p-1080.png 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical-p-1600.png 1600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical-p-2000.png 2000w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical-p-2600.png 2600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical-p-3200.png 3200w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/653178239db9a199e6163fab_Icon%20Medical.png 3375w" alt="" class="icon large"/><div class="benefit-head">Medical, Dental, and Vision</div></div><div id="w-node-_643a08a7-8012-c0c3-d666-312224c7796b-b5f0741d" class="col outline left"><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K.png" loading="lazy" sizes="80px" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K-p-500.png 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K-p-800.png 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K-p-1080.png 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K-p-1600.png 1600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K-p-2000.png 2000w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K-p-2600.png 2600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K-p-3200.png 3200w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/65317823cd50aaa6d1119722_Icon%20401K.png 3375w" alt="" class="icon large"/><div class="benefit-head">401(K)</div><div class="top-margin-10">With employer match</div></div><div id="w-node-_967b26a6-a099-dd74-b85c-9ba81b105cef-b5f0741d" class="col outline left"><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability.png" loading="lazy" sizes="80px" srcset="https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability-p-500.png 500w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability-p-800.png 800w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability-p-1080.png 1080w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability-p-1600.png 1600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability-p-2000.png 2000w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability-p-2600.png 2600w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability-p-3200.png 3200w, https://assets-global.website-files.com/62e195813385ccf99508a9ba/6531782357db2962e144b477_Icon%20Disability.png 3375w" alt="" class="icon large"/><div class="benefit-head">Disability</div><div class="top-margin-10">Short and long term disability (100% company paid)</div></div></div></div></div><div id="Roles" class="section---standard no-lower-padding hide"><div class="rc auto"><div class="line-head-wrap alt"><h6>Join us</h6><div id="w-node-_7fe7dcb6-27ea-f580-13c9-53dd4025f892-b5f0741d" class="head-line vertical"></div></div></div></div><div class="section---standard gray hide"><div class="rc"><div class="centered-head-wrap"><h2 class="centered limited smaller">Open Roles</h2><p class="para-med limited-hero-wide top-margin-20">We are looking for foundational teammates to fill critical roles across multiple companies in our ecosystem.</p></div><div class="careers-wrap"><div class="filters-wrap w-form"><form id="jobfilterform" name="wf-form-" data-name="jobfilterform" method="get" fs-cmsfilter-element="filters" class="filters-grid" data-wf-page-id="65fe5a9340d2e564b5f0741d" data-wf-element-id="52c1a502-f341-39a5-8e57-a6d54a901d62"><input class="text-field border w-node-_52c1a502-f341-39a5-8e57-a6d54a901d63-b5f0741d w-input" maxlength="256" name="fullsearch" fs-cmsfilter-field="job-name" data-name="fullsearch" placeholder="Search open roles" type="text" id="fullsearch"/><select id="locations" name="locations" data-name="locations" fs-cmsfilter-field="locations" class="text-field border w-node-_52c1a502-f341-39a5-8e57-a6d54a901d64-b5f0741d w-select"><option value="">All Locations</option><option value="Austin, Texas">Austin, Texas</option></select><select id="departments" name="departments" data-name="departments" fs-cmsfilter-field="department" class="text-field border w-node-_52c1a502-f341-39a5-8e57-a6d54a901d65-b5f0741d w-select"><option value="">All departments</option><option value="Engineering">Engineering</option><option value="Media &amp; Marketing">Media &amp; Marketing</option><option value="Private Equity &amp; Finance">Private Equity &amp; Finance</option><option value="Product &amp; Design">Product &amp; Design</option></select><input type="submit" data-wait="Please wait..." id="filterbutton" class="submit-button w-node-_52c1a502-f341-39a5-8e57-a6d54a901d66-b5f0741d w-button" value="Submit"/></form><div class="w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div><div fs-cmsfilter-element="list" class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Business Development</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5136409004?gh_jid=5136409004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Account Executive (Early-Stage/Startup)</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Business Development</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5163397004?gh_jid=5163397004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Customer Success</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Business Development</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5160362004?gh_jid=5160362004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Sales Development Representative (SDR)</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Business Development</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5136412004?gh_jid=5136412004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Strategic Account Executive</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Engineering</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5136417004?gh_jid=5136417004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Software Engineer (Full Stack Early-Stage/Startup)</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Executive Support</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5069179004?gh_jid=5069179004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Chief of Staff</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Executive Support</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5137252004?gh_jid=5137252004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Executive Assistant</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Executive Support</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5163423004?gh_jid=5163423004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Recruiting Coordinator / Administrative Assistant</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Investments</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5137243004?gh_jid=5137243004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Capital Growth Partner, Investor Relations</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Investments</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5164413004?gh_jid=5164413004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Managing Director, Investments and Growth</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Media &amp; Marketing</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5162184004?gh_jid=5162184004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Digital Marketing Manager, B2B Tech</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Media &amp; Marketing</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5164354004?gh_jid=5164354004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Marketing Manager, Influencer Business Brand</div><div fs-cmsfilter-field="locations" class="job-location">Remote</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Product &amp; Design</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5137327004?gh_jid=5137327004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Senior Product Manager</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Product &amp; Design</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5069171004?gh_jid=5069171004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">VP of Product Management</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Strategy &amp; Operations</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5069130004?gh_jid=5069130004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Director of Strategic Initiatives</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div><div role="listitem" class="career-collection-item w-dyn-item"><div fs-cmsfilter-field="department" class="job-category-name">Strategy &amp; Operations</div><div fs-cmsfilter-field="description" class="text-block-2 w-dyn-bind-empty"></div><div class="job-items-wrap"><a href="https://www.rex.com/careers/5137290004?gh_jid=5137290004" class="job-departments w-inline-block"><div fs-cmsfilter-field="job-name" class="job-name">Growth Catalyst Partner / Technical Advisor (Peter Rex’s Shadow)</div><div fs-cmsfilter-field="locations" class="job-location">Austin, Texas</div></a></div></div></div></div><div fs-cmsfilter-element="empty" class="text-block-3">No roles found meeting your criteria.</div></div><div class="centered top-margin-60 hidden"><a href="#" class="button---ghost w-button">See All Posts</a></div></div></div><div class="cta-footer-wrap"><div class="section---standard"><div class="rc"><div class="cta-wrap"><h2 class="centered"><span class="centered limited smaller even-smaller">External Referral Program</span></h2><p class="para centered">We are always on the lookout for the best talent that aligns with our culture and values, and we love making connections with high-caliber individuals who have experience, energy, and fresh ideas! We want to reward those that help us, so let us know if your colleagues, friends, or neighbors would be a good fit.</p><div class="centered-buttons top-margin-60"><a href="/connect" class="button---ghost w-button">Refer a Friend</a><a href="/connect" class="button---dark w-button">Join Rex Now</a><div class="centered-buttons top-margin-60 is-1-column-grid"></div></div></div></div></div><div><div class="rc"><div class="divider"></div></div></div><div class="section---standard footer"><div class="rc"><div class="footer-wrap"><div class="footer-bottom"><div class="footer-text dark"><a href="/privacy-policy" class="footer_link">Privacy Policy</a> © 2024 Rex</div><div class="social-menu"><a href="https://www.linkedin.com/in/peterex/" target="_blank" class="social-link w-inline-block"><img src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/62e195813385cc903308aa14_Icon.svg" loading="lazy" alt="" class="social-icon"/></a></div></div></div></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=62e195813385ccf99508a9ba" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://assets-global.website-files.com/62e195813385ccf99508a9ba/js/rex-2022-1.771dc93fa.js" type="text/javascript"></script><script type="text/javascript">
+  // Code for LinkedIn Tracker
+_linkedin_partner_id = "3165044";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3165044&fmt=gif" />
+</noscript>
+
+<script>
+$(document).ready(function(){
+var dteNow = new Date();
+var intYear = dteNow.getFullYear();
+$('.year').append(intYear);
+});
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.3/jquery.scrollTo.min.js" integrity="sha512-PsJ1f4lw0Jrga4wbDOvdWs9DFl88C1vlcH2VQYqgljHBmzmqtGivUkzRHWx2ZxFlnysKUcROqLeuOpYh9q4YNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+var locations_list = [];
+var departmans_list = [];
+var fullJson;
+
+function onlyUnique(value, index, self) {
+  return self.indexOf(value) === index;
+}
+
+$(document).ready(()=>{
+
+  //check for query string parameters, include them if present
+//but only internal links
+var queryString = new URL(window.location).search;
+console.log(queryString);
+document.querySelectorAll("[href]").forEach(link => {
+  if (link.href.startsWith("/") || link.href.startsWith(".") || (link.href.startsWith("http") && link.href.includes(window.location.hostname)) ){
+        var current = link.href.split("#");
+        if (link.href.indexOf("?")==-1) {
+            link.href = current[0] + queryString;
+        } else {
+            link.href = current[0] + queryString.replace("?","&");
+        }
+        if (current.length > 1 ) {
+          link.href = link.href + "#" + current[1]
+        }
+    }
+});
+
+$.ajax({
+        url: "https://s3swz9iu9k.execute-api.us-east-2.amazonaws.com/response_dep_with_jobs",
+        type: 'GET',
+        dataType: 'json', // added data type
+        success: function(res) {
+        		fullJson = res;
+            for (var a of res){
+              departmans_list.push(a.name)              
+              for(var s of a.jobs){
+  	            locations_list.push(s['job-location'])
+              }
+            }
+            departmans_list2 = departmans_list.filter(onlyUnique)
+            departmans_list2.sort()
+            setTimeout(()=>{
+            		$('#departments').html();
+                $('#locations').html();
+            		for(var l of departmans_list2){
+                		$('#departments').append('<option value="'+l+'">'+l+'</option>')
+                }
+                
+                for(var g of locations_list.filter(onlyUnique)){
+                		$('#locations').append('<option value="'+g+'">'+g+'</option>')
+                }
+                
+                //$('#totalJobs').text(allJobsCount)
+              },500)
+        },
+        error:function(res){
+        	console.log(res)
+        }
+    });
+})
+
+
+$('.category-name').click(function(){
+      //$("#departments").val($(this).text()).trigger('change')
+      $.scrollTo( $('#jobRoles'), 500); 
+})
+
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script>
+// owl carousel for quotes slider
+   var owl = $('.quotes');
+   owl.owlCarousel({
+            loop:true,
+    		nav:true,
+   			margin:20,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                600: {
+                    items: 3
+                },
+                1000: {
+                    items: 3
+                }
+            }
+        });
+ </script>
+
+<script>
+$(window).bind("load", function(){
+  $('.close-video').click(function() {
+     vimeoWrap = $('#video_container');
+     vimeoWrap.html( vimeoWrap.html() );
+  });
+});
+</script></body></html>
