@@ -24,7 +24,14 @@ export const getJobApplicationsFromGreenhouse = async (): Promise<void> => {
 
       for (const [index, url] of applicationHrefs.entries()) {
         try {
-          const res = await axios.get(`https://boards.greenhouse.io${url}`);
+          // Sometimes the url is just a path and sometimes it is a full url
+          const urlToFetch = url.startsWith('https://')
+            ? url
+            : `https://boards.greenhouse.io${url}`;
+
+          const res = await axios.get(urlToFetch, {
+            timeout: 10000,
+          });
           fs.writeFile(
             `./activeData/applications/gh/${file.replace(
               /(\.txt)$/,
@@ -38,6 +45,9 @@ export const getJobApplicationsFromGreenhouse = async (): Promise<void> => {
             }
           );
         } catch (err) {
+          console.log('Error reading directory:', {
+            url,
+          });
           console.error('Error fetching application:', err);
         }
       }
