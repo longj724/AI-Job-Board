@@ -1,0 +1,2434 @@
+<!DOCTYPE html>
+<html class="is-loading" lang="en-US">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+  <meta name="referrer" content="origin-when-cross-origin"/>
+  <meta property="og:image" content="https://static.wikia.nocookie.net/f1225510-0480-4090-a1b2-b910a239f904" />
+
+  
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/meta-icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/meta-icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/meta-icons/favicon-16x16.png">
+<link rel="manifest" href="/assets/meta-icons/site.webmanifest">
+<link rel="mask-icon" href="/assets/meta-icons/safari-pinned-tab.svg" color="#fa005a">
+<meta name="msapplication-TileColor" content="#520044">
+<meta name="theme-color" content="#520044">
+
+  
+
+
+    <link rel="preload" href="/assets/fonts/Rubik/Rubik-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/Rubik/Rubik-Medium.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/Rubik/Rubik-Light.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/Rubik/Rubik-Bold.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/Rubik/Rubik-ExtraBold.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/Rubik/Rubik-Black.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/SpaceGrotesk/SpaceGrotesk-VariableFont_wght.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/SpaceMono/SpaceMono-Regular.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/SpaceMono/SpaceMono-Bold.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/SpaceMono/SpaceMono-BoldItalic.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/SpaceMono/SpaceMono-Italic.ttf" as="font" type="font/ttf" crossorigin>
+
+<style>
+      @font-face{
+      font-family: 'Rubik-Regular';
+      src: url(/assets/fonts/Rubik/Rubik-Regular.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'Rubik-Medium';
+      src: url(/assets/fonts/Rubik/Rubik-Medium.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'Rubik-Light';
+      src: url(/assets/fonts/Rubik/Rubik-Light.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'Rubik-Bold';
+      src: url(/assets/fonts/Rubik/Rubik-Bold.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'Rubik-ExtraBold';
+      src: url(/assets/fonts/Rubik/Rubik-ExtraBold.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'Rubik-Black';
+      src: url(/assets/fonts/Rubik/Rubik-Black.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'SpaceGrotesk';
+      src: url(/assets/fonts/SpaceGrotesk/SpaceGrotesk-VariableFont_wght.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'SpaceMono-Regular';
+      src: url(/assets/fonts/SpaceMono/SpaceMono-Regular.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'SpaceMono-Bold';
+      src: url(/assets/fonts/SpaceMono/SpaceMono-Bold.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'SpaceMono-BoldItalic';
+      src: url(/assets/fonts/SpaceMono/SpaceMono-BoldItalic.ttf) format('truetype');
+      font-display: swap;
+    }
+      @font-face{
+      font-family: 'SpaceMono-Italic';
+      src: url(/assets/fonts/SpaceMono/SpaceMono-Italic.ttf) format('truetype');
+      font-display: swap;
+    }
+  </style>
+
+<script>if("fonts" in document) { var rubikRegular = new FontFace("Rubik-Regular","url(/assets/fonts/Rubik/Rubik-Regular-hint-all.ttf) format('ttf'),");var rubikMedium = new FontFace("Rubik-Medium","url(/assets/fonts/Rubik/Rubik-Medium-hint-all.ttf) format('ttf'),");var rubikLight = new FontFace("Rubik-Light","url(/assets/fonts/Rubik/Rubik-Light-hint-all.ttf) format('ttf'),");var rubikBold = new FontFace("Rubik-Bold","url(/assets/fonts/Rubik/Rubik-Bold-hint-all.ttf) format('ttf'),");var rubikExtraBold = new FontFace("Rubik-ExtraBold","url(/assets/fonts/Rubik/Rubik-ExtraBold-hint-all.ttf) format('ttf'),");var rubikBlack = new FontFace("Rubik-Black","url(/assets/fonts/Rubik/Rubik-Black-hint-all.ttf) format('ttf'),");var spaceGrotesk = new FontFace("SpaceGrotesk","url(/assets/fonts/SpaceGrotesk/SpaceGrotesk-VariableFont_wght-hint-all.ttf) format('ttf'),");var spaceMonoRegular = new FontFace("SpaceMono-Regular","url(/assets/fonts/SpaceMono/SpaceMono-Regular-hint-all.ttf) format('ttf'),");var spaceMonoBold = new FontFace("SpaceMono-Bold","url(/assets/fonts/SpaceMono/SpaceMono-Bold-hint-all.ttf) format('ttf'),");var spaceMonoBoldItalic = new FontFace("SpaceMono-BoldItalic","url(/assets/fonts/SpaceMono/SpaceMono-BoldItalic-hint-all.ttf) format('ttf'),");var spaceMonoItalic = new FontFace("SpaceMono-Italic","url(/assets/fonts/SpaceMono/SpaceMono-Italic-hint-all.ttf) format('ttf'),");Promise.all([rubikRegular,rubikMedium,rubikLight,rubikBold,rubikExtraBold,rubikBlack,spaceGrotesk,spaceMonoRegular,spaceMonoBold,spaceMonoBoldItalic,spaceMonoItalic]).then(function(fonts){fonts.forEach(function(font) {document.fonts.add(font);});});}</script>
+  
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-N69CZPD');</script>
+  <!-- End Google Tag Manager -->
+
+  <noscript><style>html,html body{opacity:1!important;}img{opacity:1!important;}</style></noscript>
+
+  <script>
+    function loaded(func) {if(document.readyState !== 'loading') {func()}else{document.addEventListener('DOMContentLoaded', function(){func()});}}
+    function interactive(func) {if(document.readyState !== 'loading') {func()}else{document.addEventListener('readystatechange', function(event) {if(event.target.readyState === 'interactive'){func()}});}}
+
+    loaded(function() {document.body.style.opacity = '1';if(!window.loadingImgs){window.loadingImgs = imgs = document.querySelectorAll('img:not(.loaded)[loading="lazy"]');}for (let i = 0; i < window.loadingImgs.length; i++) {const img = window.loadingImgs[i];if(img['complete'] || img['readyState'] == "complete") {showImg(window.loadingImgs[i], 'loaded')}}});
+
+    interactive(() => {if(!window.loadingImgs){window.loadingImgs = imgs = document.querySelectorAll('img:not(.loaded)[loading="lazy"]');};for (let i = 0; i < window.loadingImgs.length; i++) {window.loadingImgs[i].addEventListener('load', function() {showImg(window.loadingImgs[i], 'interactive')})};})
+
+    function showImg(img, type) {img.style.opacity='0';setTimeout(function(){img.style.transition='opacity 1s ease';img.style.opacity='1';img.classList.add('loaded');img.addEventListener('transitionend', function() {img.style = ''});},10);}
+
+  </script>
+
+    <link rel="stylesheet" href="/_compiled/css/app.css">
+  <noscript>
+    <style>html {opacity: 1;}</style>
+  </noscript>
+  
+<title>Fandom | Careers</title>
+<script>dataLayer = [];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFJQB4G');
+</script><meta name="generator" content="SEOmatic">
+<meta name="keywords" content="Careers, Fandom">
+<meta name="description" content="There are more than 350 million reasons to work at Fandom—the fans that we serve every day.">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="en_US" property="og:locale">
+<meta content="es_ES" property="og:locale:alternate">
+<meta content="pt_PT" property="og:locale:alternate">
+<meta content="Fandom" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://about.fandom.com/careers" property="og:url">
+<meta content="Careers" property="og:title">
+<meta content="There are more than 350 million reasons to work at Fandom—the fans that we serve every day." property="og:description">
+<meta content="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1200x630_crop_center-center_82_none/Fandom_acq_announce_2022_full_03_2023-11-06-155012_enei.png?mtime=1699285821" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="Careers Powered By Passion | Fandom" property="og:image:alt">
+<meta content="https://www.instagram.com/getfandom/" property="og:see_also">
+<meta content="https://www.youtube.com/channel/UC988qTQImTjO7lUdPfYabgQ" property="og:see_also">
+<meta content="https://www.linkedin.com/company/fandomwikia" property="og:see_also">
+<meta content="https://www.facebook.com/getFANDOM/" property="og:see_also">
+<meta content="https://twitter.com/getfandom" property="og:see_also">
+<link href="https://about.fandom.com/careers" rel="canonical">
+<link href="https://about.fandom.com" rel="home">
+<link type="text/plain" href="https://about.fandom.com/humans.txt" rel="author">
+<link href="https://about.fandom.com/es/careers" rel="alternate" hreflang="es">
+<link href="https://about.fandom.com/pt/careers" rel="alternate" hreflang="pt">
+<link href="https://about.fandom.com/careers" rel="alternate" hreflang="x-default">
+<link href="https://about.fandom.com/careers" rel="alternate" hreflang="en-us"></head>
+  <body class="font-normal font-regular text-14 md:text-16 text-black"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFJQB4G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCMP93Z5"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <a class="sr-only" href="#main">Skip to Page Contents</a>
+    <header
+  data-js-module="Header"
+  class="js-module global-header fixed z-20 top-0 w-full left-0 bg-darkpurple">
+  <div class="o-container">
+    <div class="global-header__inner flex items-center">
+      <a
+        aria-label="Back to homepage"
+        href="https://about.fandom.com/"
+        class=" z-10 block mr-auto relative logo">
+        
+<svg width="117" height="30" viewBox="0 0 184 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <path d="M142.357 21.3231L121.259 0.231346C121.15 0.122466 121.012 0.048253 120.861 0.0180643C120.71 -0.0121245 120.553 0.00306325 120.411 0.0617123C120.268 0.120361 120.147 0.219845 120.061 0.347619C119.975 0.475393 119.929 0.625734 119.928 0.779685V18.5162L113.538 12.1318C113.429 12.0227 113.29 11.9485 113.139 11.9184C112.987 11.8883 112.831 11.9037 112.688 11.9627C112.546 12.0217 112.424 12.1217 112.338 12.2499C112.253 12.3781 112.207 12.5289 112.207 12.6831V30.9976C112.206 31.5712 112.318 32.1394 112.537 32.6695C112.756 33.1996 113.078 33.681 113.485 34.0861L121.799 42.3853C122.618 43.2003 123.726 43.6584 124.881 43.6598H130.966C132.121 43.6592 133.228 43.2009 134.046 42.3853L142.36 34.0861C142.764 33.6819 143.085 33.2018 143.304 32.6734C143.523 32.1449 143.635 31.5784 143.634 31.0065V24.4057C143.635 23.8331 143.522 23.266 143.303 22.737C143.084 22.208 142.762 21.7275 142.357 21.3231Z" fill="#FA005A"/>
+    <path d="M135.922 29.0471C135.921 29.3927 135.784 29.7241 135.54 29.9689L128.841 36.6912C128.72 36.8135 128.576 36.9106 128.417 36.9769C128.258 37.0432 128.087 37.0773 127.915 37.0773C127.743 37.0773 127.572 37.0432 127.413 36.9769C127.254 36.9106 127.11 36.8135 126.989 36.6912L120.305 29.96C120.062 29.7179 119.923 29.3901 119.919 29.0471V26.4802C119.92 26.3083 119.954 26.1382 120.02 25.9795C120.086 25.8208 120.183 25.6767 120.305 25.5555L122.712 23.1487C122.957 22.904 123.29 22.7666 123.636 22.7666C123.983 22.7666 124.315 22.904 124.561 23.1487L127.925 26.5158L131.283 23.1487C131.529 22.904 131.861 22.7666 132.208 22.7666C132.555 22.7666 132.887 22.904 133.133 23.1487L135.537 25.5555C135.659 25.6767 135.755 25.8208 135.821 25.9795C135.888 26.1382 135.922 26.3083 135.922 26.4802V29.0471Z" fill="#FFC500"/>
+    <path d="M174.24 16.6846C172.518 16.6851 170.847 17.2679 169.498 18.3385L168.422 19.2277C168.259 19.3543 168.058 19.4231 167.852 19.4231C167.645 19.4231 167.444 19.3543 167.281 19.2277L166.202 18.3385C164.853 17.2679 163.182 16.6851 161.46 16.6846H161.261C158.668 16.6846 156.391 18.1014 155.126 20.5378C155.1 20.5876 155.059 20.6275 155.009 20.6512C154.958 20.6748 154.901 20.6808 154.847 20.6682C154.793 20.6555 154.744 20.625 154.709 20.5814C154.674 20.5379 154.655 20.4839 154.654 20.4281V17.6983C154.654 17.4805 154.568 17.2717 154.414 17.1177C154.26 16.9637 154.051 16.8772 153.833 16.8772H148.134C147.915 16.878 147.705 16.9655 147.551 17.1205C147.396 17.2755 147.31 17.4854 147.31 17.7042V40.2009C147.31 40.4218 147.397 40.6336 147.554 40.7898C147.71 40.946 147.922 41.0338 148.142 41.0338H153.821C154.042 41.0338 154.254 40.946 154.41 40.7898C154.567 40.6336 154.654 40.4218 154.654 40.2009V26.7799C154.654 26.4108 154.726 26.0453 154.867 25.7042C155.009 25.3631 155.215 25.0532 155.476 24.7922C155.737 24.5312 156.047 24.3242 156.388 24.1832C156.73 24.0421 157.095 23.9697 157.464 23.9701H158.902C159.271 23.9697 159.637 24.0421 159.978 24.1831C160.319 24.3241 160.629 24.531 160.891 24.792C161.152 25.053 161.359 25.3629 161.5 25.704C161.642 26.0451 161.715 26.4107 161.715 26.7799L161.732 40.2039C161.732 40.3131 161.754 40.4213 161.796 40.5221C161.838 40.623 161.899 40.7146 161.976 40.7918C162.054 40.8689 162.146 40.9299 162.247 40.9715C162.348 41.013 162.456 41.0342 162.565 41.0338H168.244C168.465 41.0338 168.677 40.946 168.833 40.7898C168.989 40.6336 169.077 40.4218 169.077 40.2009V26.7799C169.077 26.0347 169.373 25.32 169.9 24.7931C170.427 24.2661 171.142 23.9701 171.887 23.9701H173.327C173.697 23.9697 174.062 24.0421 174.403 24.1832C174.744 24.3242 175.054 24.5312 175.315 24.7922C175.576 25.0532 175.783 25.3631 175.924 25.7042C176.065 26.0453 176.138 26.4108 176.137 26.7799L176.158 40.2039C176.158 40.424 176.246 40.6351 176.401 40.7907C176.557 40.9463 176.768 41.0338 176.988 41.0338H182.67C182.779 41.0338 182.887 41.0122 182.988 40.9703C183.089 40.9284 183.181 40.867 183.258 40.7897C183.335 40.7123 183.396 40.6204 183.438 40.5194C183.479 40.4184 183.5 40.3101 183.5 40.2009V26.0834C183.516 24.8565 183.288 23.6387 182.83 22.5004C182.372 21.3621 181.692 20.3259 180.831 19.4519C179.97 18.5778 178.944 17.8831 177.813 17.4081C176.682 16.9331 175.467 16.6872 174.24 16.6846Z" fill="#F9EDD8"/>
+    <path d="M107.204 8.14566L101.928 2.86975C101.815 2.75561 101.671 2.67768 101.513 2.64589C101.356 2.6141 101.192 2.62988 101.044 2.69123C100.895 2.75258 100.769 2.85671 100.68 2.99037C100.591 3.12404 100.543 3.28118 100.544 3.4418V17.8112C100.544 17.8974 100.52 17.9819 100.475 18.0556C100.431 18.1293 100.367 18.1895 100.291 18.2298C100.215 18.27 100.129 18.2887 100.043 18.2839C99.9571 18.2791 99.874 18.251 99.8028 18.2025C98.493 17.3134 96.9396 16.8526 95.3568 16.8835H92.0401C90.8098 16.8831 89.5916 17.1251 88.4549 17.5956C87.3182 18.0662 86.2853 18.756 85.4152 19.6258C84.5452 20.4955 83.855 21.5282 83.3841 22.6648C82.9133 23.8013 82.6709 25.0195 82.6709 26.2497V29.0744V31.6976C82.6709 32.9279 82.9132 34.1463 83.3841 35.283C83.8549 36.4197 84.5451 37.4526 85.4151 38.3226C86.2851 39.1926 87.3179 39.8827 88.4546 40.3536C89.5914 40.8244 90.8097 41.0668 92.0401 41.0668H93.8837C96.4772 41.0668 98.7535 39.65 100.019 37.2136C100.044 37.1637 100.085 37.1238 100.136 37.1001C100.187 37.0765 100.244 37.0705 100.298 37.0832C100.352 37.0958 100.401 37.1264 100.436 37.1699C100.471 37.2134 100.49 37.2674 100.49 37.3232V40.2398C100.49 40.3476 100.512 40.4544 100.553 40.554C100.594 40.6536 100.655 40.7441 100.731 40.8204C100.807 40.8966 100.898 40.9571 100.997 40.9983C101.097 41.0396 101.204 41.0608 101.311 41.0608H107.011C107.23 41.06 107.439 40.973 107.593 40.8186C107.747 40.6643 107.834 40.4551 107.835 40.2368V9.66619C107.834 9.09576 107.607 8.54896 107.204 8.14566ZM89.986 31.2648V30.2334V26.6766C89.9868 25.9316 90.2831 25.2173 90.8099 24.6905C91.3367 24.1638 92.0509 23.8675 92.7959 23.8667H97.5175C98.2628 23.8667 98.9775 24.1627 99.5044 24.6897C100.031 25.2166 100.327 25.9313 100.327 26.6766V29.3679V31.2648C100.328 31.6341 100.255 31.9998 100.114 32.341C99.9733 32.6823 99.7664 32.9924 99.5055 33.2536C99.2445 33.5149 98.9346 33.7221 98.5935 33.8635C98.2524 34.0049 97.8868 34.0777 97.5175 34.0777H92.7959C92.0509 34.0769 91.3367 33.7806 90.8099 33.2538C90.2831 32.727 89.9868 32.0128 89.986 31.2678V31.2648Z" fill="#F9EDD8"/>
+    <path d="M48.6411 16.8946H42.9443C42.7265 16.8946 42.5177 16.9811 42.3637 17.1351C42.2097 17.2891 42.1232 17.4979 42.1232 17.7157V20.6293C42.1227 20.6851 42.1034 20.7391 42.0685 20.7826C42.0336 20.8261 41.9851 20.8567 41.9307 20.8693C41.8764 20.882 41.8193 20.876 41.7688 20.8524C41.7182 20.8287 41.6771 20.7888 41.652 20.7389C40.3863 18.3085 38.0952 16.8857 35.5165 16.8857H33.6699C31.1859 16.8857 28.8035 17.8725 27.047 19.629C25.2905 21.3856 24.3037 23.7679 24.3037 26.252V31.6998C24.3033 32.93 24.5453 34.1483 25.0158 35.285C25.4863 36.4217 26.1762 37.4546 27.046 38.3246C27.9157 39.1947 28.9484 39.8849 30.085 40.3557C31.2215 40.8266 32.4397 41.069 33.6699 41.069H35.5165C38.107 41.069 40.3863 39.6522 41.652 37.2158C41.6771 37.166 41.7182 37.126 41.7688 37.1024C41.8193 37.0787 41.8764 37.0727 41.9307 37.0854C41.9851 37.098 42.0336 37.1286 42.0685 37.1721C42.1034 37.2157 42.1227 37.2697 42.1232 37.3255V40.242C42.1232 40.4598 42.2097 40.6686 42.3637 40.8226C42.5177 40.9766 42.7265 41.0631 42.9443 41.0631H48.6411C48.8596 41.0631 49.0692 40.9762 49.2237 40.8217C49.3783 40.6672 49.4651 40.4576 49.4651 40.2391V17.7127C49.4647 17.6049 49.4431 17.4982 49.4014 17.3987C49.3598 17.2993 49.299 17.209 49.2225 17.133C49.146 17.057 49.0553 16.9969 48.9555 16.956C48.8557 16.9151 48.7489 16.8942 48.6411 16.8946ZM41.9602 31.2789C41.9602 31.6483 41.8875 32.0141 41.7461 32.3553C41.6048 32.6966 41.3976 33.0067 41.1364 33.2679C40.8752 33.5291 40.5651 33.7363 40.2238 33.8776C39.8826 34.019 39.5168 34.0917 39.1474 34.0917H34.4287C33.6827 34.0917 32.9673 33.7954 32.4397 33.2679C31.9122 32.7404 31.6159 32.0249 31.6159 31.2789V26.6758C31.6167 25.9303 31.9134 25.2156 32.4408 24.6888C32.9682 24.1619 33.6832 23.866 34.4287 23.866H39.1474C39.8929 23.866 40.6079 24.1619 41.1353 24.6888C41.6627 25.2156 41.9594 25.9303 41.9602 26.6758V31.2789Z" fill="#F9EDD8"/>
+    <path d="M69.1993 16.8945H68.6717C66.0812 16.8945 63.8019 18.3084 62.5362 20.7477C62.5111 20.7976 62.47 20.8375 62.4194 20.8611C62.3689 20.8848 62.3119 20.8908 62.2575 20.8781C62.2031 20.8655 62.1546 20.8349 62.1197 20.7914C62.0848 20.7479 62.0655 20.6939 62.065 20.6381V17.7037C62.0619 17.488 61.974 17.2822 61.8203 17.1308C61.6667 16.9794 61.4597 16.8945 61.2439 16.8945H55.5471C55.4388 16.8941 55.3315 16.9152 55.2313 16.9565C55.1312 16.9977 55.0402 17.0584 54.9636 17.135C54.887 17.2116 54.8263 17.3026 54.7851 17.4027C54.7438 17.5029 54.7228 17.6102 54.7231 17.7185V40.2182C54.7231 40.4383 54.8106 40.6494 54.9662 40.8051C55.1219 40.9607 55.333 41.0481 55.5531 41.0481H61.235C61.344 41.0481 61.452 41.0267 61.5526 40.985C61.6533 40.9432 61.7448 40.8821 61.8219 40.8051C61.899 40.728 61.9601 40.6365 62.0018 40.5358C62.0435 40.4351 62.065 40.3272 62.065 40.2182L62.0857 26.9721C62.0857 26.2269 62.3818 25.5122 62.9087 24.9852C63.4357 24.4583 64.1504 24.1623 64.8956 24.1623H68.3931C69.1381 24.163 69.8523 24.4593 70.3791 24.9861C70.9059 25.5129 71.2022 26.2271 71.203 26.9721L71.2208 40.2034C71.2215 40.4238 71.3096 40.6349 71.4657 40.7904C71.6219 40.946 71.8333 41.0333 72.0536 41.0333H77.7327C77.8419 41.0337 77.9501 41.0125 78.0512 40.971C78.1522 40.9295 78.244 40.8684 78.3214 40.7913C78.3988 40.7142 78.4602 40.6226 78.5021 40.5217C78.544 40.4208 78.5655 40.3126 78.5655 40.2034V26.2489C78.5624 23.7669 77.5742 21.3876 75.818 19.6336C74.0619 17.8797 71.6813 16.8945 69.1993 16.8945Z" fill="#F9EDD8"/>
+    <path d="M5.31056 11.957C4.03445 11.9578 2.81087 12.4653 1.9088 13.3679C1.00673 14.2706 0.5 15.4944 0.5 16.7706L0.5 38.4522C0.500079 39.2202 0.804963 39.9569 1.3477 40.5003L6.35982 45.5095C6.48127 45.6307 6.63592 45.7132 6.80424 45.7467C6.97256 45.7801 7.14701 45.7629 7.30556 45.6972C7.46412 45.6316 7.59967 45.5205 7.69511 45.3778C7.79055 45.2352 7.8416 45.0675 7.84182 44.8959V33.7898C7.84182 33.5752 7.92707 33.3694 8.07882 33.2177C8.23057 33.0659 8.43638 32.9807 8.65099 32.9807H17.0984C17.3275 32.9807 17.5508 32.9077 17.7357 32.7723C17.9206 32.637 18.0576 32.4463 18.1269 32.2278L19.7185 27.189C19.7619 27.0528 19.7724 26.9082 19.7495 26.7671C19.7265 26.626 19.6706 26.4923 19.5863 26.3768C19.502 26.2614 19.3917 26.1674 19.2643 26.1025C19.1369 26.0376 18.996 26.0037 18.8531 26.0034H8.65099C8.54461 26.0038 8.43922 25.9831 8.34087 25.9426C8.24252 25.9021 8.15316 25.8425 8.07794 25.7673C8.00273 25.6921 7.94314 25.6027 7.90261 25.5044C7.86209 25.406 7.84142 25.3006 7.84182 25.1942V19.696C7.84181 19.5899 7.86277 19.4848 7.90347 19.3868C7.94417 19.2888 8.00382 19.1998 8.079 19.1249C8.15417 19.05 8.2434 18.9907 8.34155 18.9503C8.43971 18.91 8.54486 18.8894 8.65099 18.8898H21.6155C21.8439 18.8899 22.0664 18.8172 22.2508 18.6824C22.4351 18.5476 22.5718 18.3576 22.641 18.1399L24.2446 13.1426C24.2879 13.0064 24.2985 12.8619 24.2755 12.7207C24.2525 12.5796 24.1966 12.4459 24.1123 12.3305C24.028 12.215 23.9177 12.121 23.7903 12.0561C23.6629 11.9912 23.522 11.9573 23.3791 11.957H5.31056Z" fill="#F9EDD8"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="183" height="45.767" fill="white" transform="translate(0.5)"/>
+    </clipPath>
+  </defs>
+</svg>
+      </a>
+
+      <div class="shrink-0 absolute hamburger-wrap">
+        <svg class="burger block lg-px:hidden w-32 h-full cursor-pointer relative "  style="z-index: 15;" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="122.879px" height="103.609px" viewBox="0 0 122.879 103.609" enable-background="new 0 0 122.879 103.609" xml:space="preserve"><g><path fill-rule="evenodd" fill="white" clip-rule="evenodd" d="M10.368,0h102.144c5.703,0,10.367,4.665,10.367,10.367v0 c0,5.702-4.664,10.368-10.367,10.368H10.368C4.666,20.735,0,16.07,0,10.368v0C0,4.665,4.666,0,10.368,0L10.368,0z M10.368,82.875 h102.144c5.703,0,10.367,4.665,10.367,10.367l0,0c0,5.702-4.664,10.367-10.367,10.367H10.368C4.666,103.609,0,98.944,0,93.242l0,0 C0,87.54,4.666,82.875,10.368,82.875L10.368,82.875z M10.368,41.438h102.144c5.703,0,10.367,4.665,10.367,10.367l0,0 c0,5.702-4.664,10.368-10.367,10.368H10.368C4.666,62.173,0,57.507,0,51.805l0,0C0,46.103,4.666,41.438,10.368,41.438 L10.368,41.438z"/></g></svg>
+      </div>
+      
+<div class="flex items-center w-full md:w-auto">
+  <ul class="hidden opacity-0 ease-in-out duration-300 lg:opacity-100 lg-px:flex items-center flex-col lg:flex-row min-h-full justify-center lg:flex-row absolute left-0 right-0 top-100 lg:static z-10 bg-darkpurple text-center">
+          <li class="p-12 lg:px-12 transform transition scale-0 lg:scale-100 ease-in-out duration-300 ease-in-out  ">
+        <a href="https://about.fandom.com/what-is-fandom" class="transition duration-300 ease-in-out text-yellow hover:text-white">
+          What Is Fandom?
+        </a>
+      </li>
+          <li class="p-12 lg:px-12 transform transition scale-0 lg:scale-100 ease-in-out duration-300 ease-in-out  ">
+        <a href="https://about.fandom.com/about" class="transition duration-300 ease-in-out text-yellow hover:text-white">
+          About Us
+        </a>
+      </li>
+          <li class="p-12 lg:px-12 transform transition scale-0 lg:scale-100 ease-in-out duration-300 ease-in-out  ">
+        <a href="https://about.fandom.com/case-studies" class="transition duration-300 ease-in-out text-yellow hover:text-white">
+          Case Studies
+        </a>
+      </li>
+          <li class="p-12 lg:px-12 transform transition scale-0 lg:scale-100 ease-in-out duration-300 ease-in-out  ">
+        <a href="https://about.fandom.com/insights" class="transition duration-300 ease-in-out text-yellow hover:text-white">
+          Insights
+        </a>
+      </li>
+          <li class="p-12 lg:px-12 transform transition scale-0 lg:scale-100 ease-in-out duration-300 ease-in-out  ">
+        <a href="https://about.fandom.com/mediakit" class="transition duration-300 ease-in-out text-yellow hover:text-white">
+          Advertise
+        </a>
+      </li>
+          <li class="p-12 lg:px-12 transform transition scale-0 lg:scale-100 ease-in-out duration-300 ease-in-out  --active ">
+        <a href="https://about.fandom.com/careers" class="transition duration-300 ease-in-out text-yellow hover:text-white">
+          Careers
+        </a>
+      </li>
+          <li class="p-12 lg:px-12 transform transition scale-0 lg:scale-100 ease-in-out duration-300 ease-in-out  ">
+        <a href="https://about.fandom.com/press" class="transition duration-300 ease-in-out text-yellow hover:text-white">
+          News
+        </a>
+      </li>
+    
+      </ul>
+
+</div>
+    </div>
+  </div>
+</header>
+
+    
+    <div class="site-container">
+      <main id="main" class="site-content overflow-y-auto overflow-x-hidden" role="main">
+        
+  
+        
+
+        
+<section class="
+  block-marquee
+  imageOnRight
+  theme-purple-bg
+  " >
+
+
+  <div class="bkgd">
+
+    <div class="js-module" data-js-module="Animate">
+
+    <div class="
+      inner-container
+      js-module
+      w-full
+      flex
+      items-center
+      flex-wrap
+      lg:flex-nowrap
+      relative" data-js-module="MarqueeImages" data-dull="true">
+
+
+            
+                    <div class='block lg:hidden image-wrap w-full shrink-0'>
+          <div class="hidden lg:block image-container js-module">
+  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Back Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Middle Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Front Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture></div>
+
+
+<div class="block lg:hidden image-container mobile">
+  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Back Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Middle Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Front Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture></div>
+        </div>
+      
+
+            <div class='text-wrap w-full lg:w-1/2 shrink-0 '>
+              <h1 class="headline">Careers Powered By Passion</h1>
+  
+
+  <section class="copy">
+    <div class="body-large"><p><br /></p>
+<p>There are more than 350 million reasons to work at Fandom—the fans that we serve every day.<br /></p></div>
+
+        
+  </section>
+
+      </div>
+
+
+                    <div class='hidden lg:block animate-images-on-scroll image-wrap w-1/2 shrink-0'>
+          <div class="hidden lg:block image-container js-module">
+  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Back Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Middle Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Front Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture></div>
+
+
+<div class="block lg:hidden image-container mobile">
+  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Back_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Back Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Middle_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Middle Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture>  
+
+
+
+
+
+
+  
+
+
+
+<picture class="img-parent">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Front_Marquee_Careers_B2BSite_NT_1-1.png 2x"
+        >
+      
+    
+    
+
+  <img
+    class="stacked no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Front Marquee Careers B2 B Site NT 1 1">
+
+    
+</picture></div>
+        </div>
+      
+    </div>
+
+  </div>
+</section>
+      <section class="block-spacer space-l"></section>
+      <section class="block-spacer space-m"></section>
+      
+  
+
+
+<section class="block-wrapper theme-white-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-wysiwyg mx-auto text-parent-theme center">
+  <p>At Fandom, you'll work to help people find new ways to celebrate their passions. You could be helping to build a new community around the latest hit show, writing articles or shooting videos that help fans learn how to beat their favorite video game, or connecting advertisers with one of the biggest and most unique fan communities on the web.<br /><br />And you'll do it all at a company that lets you be you. Because you're awesome. (We're big fans!)</p>
+
+  </section>
+                            <section class="block-spacer space-l"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+
+<section class="block-wrapper theme-yellow-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-m"></section>
+                            <section class="block-wysiwyg mx-auto text-parent-theme center">
+  <h2>Find Your Opportunity</h2>
+            
+    
+  
+
+<button class="fandom-button js-module theme-red default" data-js-module="FandomButton">
+  <a href="#positions"  class="inner-btn">
+    <span>View Open Jobs →</span>
+  </a>
+</button>
+      </section>
+                            <section class="block-spacer space-m"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+
+<section class="block-wrapper theme-white-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-m"></section>
+                            
+
+<section class="block-txt-img arboard flex items-center flex-col o-container mb-60 js-module" data-js-module="Counter">
+
+  <div class="flex flex-col items-center w-24/24">
+
+    <div class="max-w-3xl mb-46 md:mb-99">
+
+              <h2 class="headline text-center">The #1 resource for fans worldwide</h2>
+      
+      <div class="flex items-stretch  max-w-663 justify-center mx-auto">
+                <div class="text-14 md:text-18 leading-27 w-3/4 text-center"></div>
+      </div>
+    </div>
+
+    <div class="wide-grid grid grid-cols-1 lg:grid-cols-3 gap-52">
+
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                    
+
+                                <div class="mb-8">
+              <span class="font-spacemono-bold text-50 lg:text-90 leading-32 count count-number" data-count="350">0</span>
+                              <span class="font-spacemono-bold text-50 lg:text-90 leading-32 count-number">M</span>
+                          </div>
+          
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p>Fans per Month</p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                    
+
+                                <div class="mb-8">
+              <span class="font-spacemono-bold text-50 lg:text-90 leading-32 count count-number" data-count="250">0</span>
+                              <span class="font-spacemono-bold text-50 lg:text-90 leading-32 count-number">K</span>
+                          </div>
+          
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p>Fan Communities</p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                    
+
+                                <div class="mb-8">
+              <span class="font-spacemono-bold text-50 lg:text-90 leading-32 count count-number" data-count="40">0</span>
+                              <span class="font-spacemono-bold text-50 lg:text-90 leading-32 count-number">M+</span>
+                          </div>
+          
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p>Pages of Unique Content</p>
+            </div>
+          
+        </div>
+      
+
+    </div>
+  </div>
+</section>
+                            <section class="block-spacer space-m"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+
+<section class="block-wrapper theme-red-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-m"></section>
+                            <section class="block-wysiwyg mx-auto text-parent-theme center">
+  <h2>BE A PART OF A GLOBAL COMPANY</h2>
+  </section>
+                            <section class="block-spacer space-m"></section>
+                            
+
+<div class="block-inline-asset w-full mx-auto">
+
+    
+          <picture class="w-full rounded-df overflow-hidden block">
+        <img class="block w-full" src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Careers_world_map_2023_V1.png" alt="">
+      </picture>
+    
+    
+    
+</div>
+                            <section class="block-spacer space-m"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+
+<section class="block-wrapper theme-white-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-m"></section>
+                            <section class="block-wysiwyg mx-auto text-parent-theme center">
+  <h2>"I FOUND MYSELF AT FANDOM"</h2>
+<p>Don't just take it from us - hear it from our biggest fans, and employees.</p>
+  </section>
+                            <section class="block-spacer space-m"></section>
+                            
+<section class="card-txt-slider theme-cream-bg js-module" data-js-module="ContentCarousel" data-block-id="76279">
+  <div class="o-container">
+    <div class="card-txt-slider__inner pt-50 swiper-container swiper76279 max-w-105 mx-auto" data-swiper="swiper76279">
+      <div class="swiper-wrapper">
+
+        
+          
+          <div class="swiper-slide" style="cursor: grab">
+
+            <div class="relative md:flex md:items-center md:justify-center">
+
+                            <div class="image-column">
+                
+
+
+
+
+
+
+  
+
+
+
+<picture class="block w-240 h-240">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Group-2432.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Group-2432.png 2x"
+        >
+      
+    
+    
+    
+    
+
+  <img
+    class="h-full w-full rounded-df"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Group 2432">
+
+    
+</picture>
+                <div class="relative bg-purple name-box">
+
+                  <h4 class="text-md">Wiktoria Borowiecka</h4>
+
+                                      <p class="text-red">Senior Ad Ops Specialist, Poznan, Poland</p>
+                  
+                </div>
+              </div>
+
+                                            <div class="copy-column ml-sm max-w-[500px]">
+                  <div class="">
+                    <p>"Fandom is a great place to work. I get to work with and learn from a diverse group of people across a bunch of different teams, who are all warm, engaging, and open. I get to work on amazing campaigns in partnership with the top entertainment companies. It's really fun!"<br /></p>
+                  </div>
+                </div>
+              
+
+            </div>
+          </div>
+
+        
+          
+          <div class="swiper-slide" style="cursor: grab">
+
+            <div class="relative md:flex md:items-center md:justify-center">
+
+                            <div class="image-column">
+                
+
+
+
+
+
+
+  
+
+
+
+<picture class="block w-240 h-240">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Group-2436.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Group-2436.png 2x"
+        >
+      
+    
+    
+    
+    
+
+  <img
+    class="h-full w-full rounded-df"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Group 2436">
+
+    
+</picture>
+                <div class="relative bg-purple name-box">
+
+                  <h4 class="text-md">Daniel (Grunny) Grunwell</h4>
+
+                                      <p class="text-red">Vice President, Software Engineering, Queensland, Australia</p>
+                  
+                </div>
+              </div>
+
+                                            <div class="copy-column ml-sm max-w-[500px]">
+                  <div class="">
+                    <p>"As a Star Wars fan, I was drawn to Fandom's Star Wars wiki, first as an editor, then an admin. Once I got my PhD in Information Security I joined Fandom's Engineering team.<br />I am a huge user of our products and get joy out of working on the obsessions that I love. I get to work with great people all over the world, have had a tremendous amount of growth, and get to work on things that excite me."</p>
+                  </div>
+                </div>
+              
+
+            </div>
+          </div>
+
+        
+          
+          <div class="swiper-slide" style="cursor: grab">
+
+            <div class="relative md:flex md:items-center md:justify-center">
+
+                            <div class="image-column">
+                
+
+
+
+
+
+
+  
+
+
+
+<picture class="block w-240 h-240">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Employee_Stephanie_1-2.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Employee_Stephanie_1-2.png 2x"
+        >
+      
+    
+    
+    
+    
+
+  <img
+    class="h-full w-full rounded-df"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Employee Stephanie 1 2">
+
+    
+</picture>
+                <div class="relative bg-purple name-box">
+
+                  <h4 class="text-md">Stephanie Ramirez</h4>
+
+                                      <p class="text-red">Executive Assistant, San Francisco, California</p>
+                  
+                </div>
+              </div>
+
+                                            <div class="copy-column ml-sm max-w-[500px]">
+                  <div class="">
+                    <p>"Something we really embrace here at Fandom is "building experiences" and I see it every day - not only with our fans but our employees. I am incredibly grateful to work for a company that believes in my personal career development and passions. Fandom really celebrates me as an individual and what I can contribute to the company culture and dynamic."</p>
+                  </div>
+                </div>
+              
+
+            </div>
+          </div>
+
+        
+          
+          <div class="swiper-slide" style="cursor: grab">
+
+            <div class="relative md:flex md:items-center md:justify-center">
+
+                            <div class="image-column">
+                
+
+
+
+
+
+
+  
+
+
+
+<picture class="block w-240 h-240">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Group-2429_2023-09-25-174012_brdl.png 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Group-2429_2023-09-25-174012_brdl.png 2x"
+        >
+      
+    
+    
+    
+    
+
+  <img
+    class="h-full w-full rounded-df"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Group 2429">
+
+    
+</picture>
+                <div class="relative bg-purple name-box">
+
+                  <h4 class="text-md">Emin Bassavand</h4>
+
+                                      <p class="text-red">Manager, Post Production</p>
+                  
+                </div>
+              </div>
+
+                                            <div class="copy-column ml-sm max-w-[500px]">
+                  <div class="">
+                    <p>"I love the culture here. What makes me most interested in Fandom is that you get people from all walks of life with all kinds of experiences, and each is crucial to the shared goal. I have total respect for my colleagues- everyone here is the best at what they do." </p>
+                  </div>
+                </div>
+              
+
+            </div>
+          </div>
+
+              </div>
+
+      <div class="swiper-pagination swiper-pagination76279"></div>
+
+
+
+    </div>
+
+          <div class="swiper-button swiper-next swiper-next-76279">
+        <div class="arrow-wrap">
+
+          <svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="Button-left" transform="translate(-102.000000, -23.000000)" fill="#280033" fill-rule="nonzero">
+                      <polygon id="Path" transform="translate(112.933950, 32.925850) rotate(-180.000000) translate(-112.933950, -32.925850) " points="102 36.8032 102 29.0486 108.0873 23 111.2279 26.1406 107.467 29.9016 104.7916 30.9872 105.0631 31.6464 107.467 30.7158 123.8679 30.7158 123.8679 35.1359 107.467 35.1359 105.0631 34.2054 104.7917 34.8645 107.467 35.9502 111.2279 39.7111 108.0873 42.8517"></polygon>
+                  </g>
+              </g>
+          </svg>
+        </div>
+
+        <div class="arrow-shadow rounded-lg absolute max-w-md" style="background-image: url(/assets/images/dots.png);"></div>
+
+      </div>
+
+      <div class="swiper-button swiper-previous swiper-previous-76279">
+
+        <div class="arrow-wrap">
+          <svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="Button-left" transform="translate(-102.000000, -23.000000)" fill="#280033" fill-rule="nonzero">
+                      <polygon id="Path" points="102 36.8032 102 29.0486 108.0873 23 111.2279 26.1406 107.467 29.9016 104.7916 30.9872 105.0631 31.6464 107.467 30.7158 123.8679 30.7158 123.8679 35.1359 107.467 35.1359 105.0631 34.2054 104.7917 34.8645 107.467 35.9502 111.2279 39.7111 108.0873 42.8517"></polygon>
+                  </g>
+              </g>
+          </svg>
+        </div>
+
+        <div class="arrow-shadow rounded-lg absolute max-w-md" style="background-image: url(/assets/images/dots.png);"></div>
+
+      </div>
+
+
+  </div>
+</section>
+                            <section class="block-spacer space-m"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+
+<section class="block-wrapper theme-cream-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-s"></section>
+                            
+
+<section class="block-txt-img arboard flex items-center flex-col o-container mb-60 js-module" data-js-module="Counter">
+
+  <div class="flex flex-col items-center w-24/24">
+
+    <div class="max-w-3xl mb-46 md:mb-99">
+
+              <h2 class="headline text-center">Our Values</h2>
+      
+      <div class="flex items-stretch  max-w-663 justify-center mx-auto">
+                <div class="text-14 md:text-18 leading-27 w-3/4 text-center"></div>
+      </div>
+    </div>
+
+    <div class="wide-grid grid grid-cols-1 lg:grid-cols-3 gap-52">
+
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto ">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/card1.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p>Connection with our fans, creators, and partners is at our core, all grounded in inclusivity</p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto ">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/card2.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p>We imagine, improve, and deliver solutions</p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto ">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/card3.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p>We celebrate our fandoms, our teammates, and the work we do</p>
+            </div>
+          
+        </div>
+      
+
+    </div>
+  </div>
+</section>
+                            <section class="block-spacer space-s"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+
+<section class="block-wrapper theme-white-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-m"></section>
+                            
+
+<section class="block-txt-img arboard flex items-center flex-col o-container mb-60 js-module" data-js-module="Counter">
+
+  <div class="flex flex-col items-center w-24/24">
+
+    <div class="max-w-3xl mb-46 md:mb-99">
+
+              <h2 class="headline text-center">You&#039;ll Be a Fan of Our Benefits</h2>
+      
+      <div class="flex items-stretch  max-w-663 justify-center mx-auto">
+                <div class="text-14 md:text-18 leading-27 w-3/4 text-center"><p>We are passionate about enabling our people to be at their best at work and at play.</p></div>
+      </div>
+    </div>
+
+    <div class="wide-grid grid grid-cols-1 lg:grid-cols-3 gap-52">
+
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto icon-dimensions">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/a1.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p><strong>ROBUST HEALTH PLANS</strong></p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto icon-dimensions">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/a2.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p><strong>FLEXIBLE TIME OFF</strong></p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto icon-dimensions">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/a3.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p><strong>RETIREMENT PROGRAMS INCLUDING 401K MATCH</strong></p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto icon-dimensions">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/a4.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p><strong>PAID PARENTAL LEAVE</strong></p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto icon-dimensions">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/a5.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p><strong>LEARNING RESOURCES</strong></p>
+            </div>
+          
+        </div>
+      
+                
+        <div class="flex flex-col max-w-xs mx-auto text-center ">
+
+                                <picture class="txt-img-picture  relative mb-12 w-full h-auto icon-dimensions">
+              <img src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/a6.png" alt="" class="w-full block h-auto m-auto">
+            </picture>
+          
+
+                    
+
+                    
+                    
+            <div class="font-semibold text-lg">
+              <p><strong>PAID VOLUNTEER TIME</strong></p>
+            </div>
+          
+        </div>
+      
+
+    </div>
+  </div>
+</section>
+                            <section class="block-spacer space-m"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+
+<section class="block-wrapper theme-light-purple-bg"  id="">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-m"></section>
+                            <section class="block-wysiwyg mx-auto text-parent-theme center">
+  <h2>IMAGINE YOURSELF HERE</h2>
+<p>Fandom works to ensure every employee feels empowered to be their authentic self.</p>
+  </section>
+                            
+<section class="block-half-block less-padding imageOnLeft theme-light-purple-bg">
+
+  <div class="inner-container  inner-center  js-module" data-js-module="Animate">
+
+    <div class="text-container">
+
+      
+              <section class="copy">
+          <div class="body-large"><ul><li>Work on a global brand in a uniquely multicultural environment with a commitment to diversity and inclusion<br /></li><li>Have a voice and be empowered to influence the business and company culture<br /></li><li>Create and operate in an environment that supports continuous learning and growth<br /></li><li>Have the flexibility to be in a creative office space or work remotely</li></ul></div>
+        </section>
+      
+          </div>
+
+
+    
+      <div class="image-container md:flex md:items-center">
+
+
+                  
+
+
+
+
+
+
+  
+
+
+
+<picture class="w-full img-parent not-stacked">
+    
+    
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Image-from-iOS-5_2023-09-25-180850_ausy.jpg 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Image-from-iOS-5_2023-09-25-180850_ausy.jpg 2x"
+        media="(min-width: 68.75em)">
+      
+    
+    
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_768xAUTO_fit_center-center_90_none/Image-from-iOS-5_2023-09-25-180850_ausy.jpg 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1536xAUTO_fit_center-center_90_none/Image-from-iOS-5_2023-09-25-180850_ausy.jpg 2x"
+        media="(min-width: 40em)">
+      
+    
+    
+                    
+        
+    
+                        
+      <source
+        srcset="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_500xAUTO_fit_center-center_90_none/Image-from-iOS-5_2023-09-25-180850_ausy.jpg 1x, https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1000xAUTO_fit_center-center_90_none/Image-from-iOS-5_2023-09-25-180850_ausy.jpg 2x"
+        >
+      
+    
+    
+
+  <img
+    class="w-full no-lazy-transition"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+    alt="Image from i OS 5">
+
+    
+</picture>        
+      </div>
+
+    
+
+
+
+
+  </div>
+
+</section>
+                            
+<section class="block-image-carousel">
+  <div class="carousel-wrap">
+
+    
+      <div class="js-module" data-js-module="ImageCarousel" data-block-id="76307">
+        <div class="swiper-container swiper76307"  data-swiper="swiper76307">
+          <div class="swiper-wrapper">
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Image-from-iOS-99.jpg" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Image-from-iOS-103.jpg" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Image-from-iOS-106.jpg" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Image-from-iOS-117.jpg" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/IMG_1146.jpg" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/IMG_1621.PNG" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/IMG_3438.jpg" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/IMG_4086.jpg" />
+
+            
+                            <img class='swiper-slide' src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/IMG_7752.jpg" />
+
+                      </div>
+        </div>
+      </div>
+
+      <div class="swiper-pagination swiper-pagination76307"></div>
+
+      <div class="swiper-button swiper-next swiper-next-76307">
+        <div class="arrow-wrap">
+
+          <svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="Button-left" transform="translate(-102.000000, -23.000000)" fill="#280033" fill-rule="nonzero">
+                      <polygon id="Path" transform="translate(112.933950, 32.925850) rotate(-180.000000) translate(-112.933950, -32.925850) " points="102 36.8032 102 29.0486 108.0873 23 111.2279 26.1406 107.467 29.9016 104.7916 30.9872 105.0631 31.6464 107.467 30.7158 123.8679 30.7158 123.8679 35.1359 107.467 35.1359 105.0631 34.2054 104.7917 34.8645 107.467 35.9502 111.2279 39.7111 108.0873 42.8517"></polygon>
+                  </g>
+              </g>
+          </svg>
+        </div>
+
+        <div class="arrow-shadow rounded-lg absolute max-w-md" style="background-image: url(/assets/images/dots.png);"></div>
+
+      </div>
+
+      <div class="swiper-button swiper-previous swiper-previous-76307">
+
+        <div class="arrow-wrap">
+          <svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                  <g id="Button-left" transform="translate(-102.000000, -23.000000)" fill="#280033" fill-rule="nonzero">
+                      <polygon id="Path" points="102 36.8032 102 29.0486 108.0873 23 111.2279 26.1406 107.467 29.9016 104.7916 30.9872 105.0631 31.6464 107.467 30.7158 123.8679 30.7158 123.8679 35.1359 107.467 35.1359 105.0631 34.2054 104.7917 34.8645 107.467 35.9502 111.2279 39.7111 108.0873 42.8517"></polygon>
+                  </g>
+              </g>
+          </svg>
+        </div>
+
+        <div class="arrow-shadow rounded-lg absolute max-w-md" style="background-image: url(/assets/images/dots.png);"></div>
+
+      </div>
+
+    
+  </div>
+</section>
+
+
+                            <section class="block-spacer space-m"></section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      
+  
+
+  
+<section class="block-wrapper theme-white-bg"  id="positions">
+
+  
+  
+  <div class="wrapper-inner-container" >
+
+    <div class="wrapper-grid">
+
+      <div class="child-blocks">
+                            <section class="block-spacer space-m"></section>
+                            <section class="block-careers">
+  <div>
+    <section
+  data-js-module="JobFilter"
+  class="js-module o-container filters pb-50 careers">
+  
+  <div class="grid grid-cols-1 md:grid-cols-3 filters--header mr-auto ml-auto max-w-1030 font-bold font-bold text-red text-14 leading-24 gap-30 md:gap-59 pb-43">
+    <div class="flex border-b-2 border-red filters--search pb-3 pl-5">
+      <button class="pr-7">
+        <picture>
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M10.563 10.504C10.553 10.514 10.542 10.524 10.533 10.533C10.522 10.543 10.513 10.553 10.503 10.564C9.601 11.451 8.363 12 7 12C4.243 12 2 9.757 2 7C2 4.243 4.243 2 7 2C9.756 2 12 4.243 12 7C12 8.363 11.451 9.602 10.563 10.504ZM15.707 14.293L12.604 11.19C13.48 10.022 14 8.57 14 7C14 3.141 10.859 0 7 0C3.14 0 0 3.141 0 7C0 10.859 3.14 14 7 14C8.569 14 10.021 13.481 11.189 12.604L14.292 15.707C14.488 15.902 14.744 16 15 16C15.255 16 15.511 15.902 15.707 15.707C16.097 15.316 16.097 14.684 15.707 14.293Z" fill="#FA005A"/>
+</svg>
+        </picture>
+      </button>
+      <input id="search-input" type="search" class="font-normal font-regular text-purple text-14 leading-16 w-full" placeholder="Search open positions">
+    </div>
+    <div class="filters--items-dropdown">
+      <form class="relative">
+        <div class="__select" data-state="">
+
+          <div class="__select__title --team cursor-pointer flex items-center" data-value="">
+            <span>TEAM</span>
+          <svg width="10" class="ml-4" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.29319 5.707C4.48819 5.902 4.74419 6 5.00019 6C5.25619 6 5.51219 5.902 5.70719 5.707L9.70719 1.707C9.99319 1.421 10.0792 0.991 9.92419 0.617C9.76919 0.243 9.40419 0 9.00019 0H1.00019C0.596189 0 0.230189 0.243 0.0761893 0.617C-0.0788107 0.991 0.00718925 1.421 0.293189 1.707L4.29319 5.707Z" fill="#520044"/>
+</svg>
+          </div>
+
+          <div id="team-options" data-filter="team" class="list w-215 select-items absolute z-10 w-max bg-red p-5 rounded-sm"></div>
+        </div>
+      </form>
+    </div>
+
+    <div class="filters--items-dropdown">
+      <form class="relative">
+        <div class="__select" data-state="">
+          <div class="__select__title --location cursor-pointer flex items-center" data-value="">
+            <span>LOCATION</span>
+            <svg width="10" class="ml-4" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M4.29319 5.707C4.48819 5.902 4.74419 6 5.00019 6C5.25619 6 5.51219 5.902 5.70719 5.707L9.70719 1.707C9.99319 1.421 10.0792 0.991 9.92419 0.617C9.76919 0.243 9.40419 0 9.00019 0H1.00019C0.596189 0 0.230189 0.243 0.0761893 0.617C-0.0788107 0.991 0.00718925 1.421 0.293189 1.707L4.29319 5.707Z" fill="#520044"/>
+</svg>
+          </div>
+
+          <div id="location-options" data-filter="location" class="list w-215 select-items absolute z-10 w-max bg-red p-5 rounded-sm"></div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="careers-heading md:grid grid-cols-3 hidden mr-auto ml-auto max-w-1030 font-black font-black text-purple text-14 md:text-16 leading-18 gap-59 pb-14">
+    <div>
+      <span class="border-b pb-4 border-red">POSITION</span>
+    </div>
+    <div>
+      <span class="border-b pb-4 border-red">TEAM</span>
+    </div>
+    <div>
+      <span class="border-b pb-4 border-red">LOCATION</span>
+    </div>
+  </div>
+
+  <div id="jobs-container" class="w-full">
+
+  </div>
+  <div class="hidden text-center grid-cols-1 md:grid-cols-3 mr-auto ml-auto max-w-1030 text-purple font-black text-14 md:text-16 leading-24 gap-20 md:gap-59 py-18 border-b last:border-0" id="search-none">
+    No results found
+  </div>
+</section>
+  </div>
+</section>
+              </div>
+
+    </div>
+
+  </div>
+
+  
+</section>
+      <section class="block-spacer space-m"></section>
+  
+      
+<section class="block-contact theme-light-purple-bg" id="fcf">
+  <div class="inner-container mx-auto js-module" data-js-module="Animate">
+
+    
+            <h2 class='headline-h2 text-yellow mb-12'>Connect With Us</h2>
+
+            <div class="flex items-start flex-wrap md:flex-nowrap">
+        <p class='text-14 md:text-16 text-white mb-12 w-full md:w-50 md:mr-60'>Want to work with us or one of our brands? Reach out!</p>
+
+        
+      </div>
+
+    
+        <div class="flex items-start mx-auto flex-wrap md:flex-nowrap md:mt-20">
+
+      <div class="form-column w-full md:w-50 md:mr-60">
+
+
+        
+                    <script src="https://www.google.com/recaptcha/api.js"></script>
+
+<div id="fcf">
+
+  <form action="https://app.boostr.com/api/leads/create_lead" enctype="application/json" id="leadGenerationForm" name="wf-form-Test-Inquiry-Form" data-name="Test Inquiry Form" method="post" class="get-in-touch-form" aria-label="Test Inquiry Form">
+
+      <div class="form-row">
+          <input type="text" class="input-field" maxlength="256" name="lead[first_name]" data-name="First Name" placeholder="First Name *" onkeydown="return /[a-z]/i.test(event.key)" id="First-Name" required="">
+      </div>
+
+      <div class="form-row">
+          <input type="text" class="input-field" maxlength="256" name="lead[last_name]" data-name="Last Name" placeholder="Last Name *" onkeydown="return /[a-z]/i.test(event.key)" id="Last-Name" required="">
+      </div>
+
+      <div class="form-row">
+          <input type="email" class="input-field" maxlength="256" name="lead[email]" data-name="Email Address" placeholder="Email Address *" id="Email-Address" required="">
+      </div>
+
+      <div class="form-row">
+          <input type="text" class="input-field" maxlength="256" name="lead[company_name]" data-name="Company" placeholder="Company *" id="Company" required="">
+      </div>
+
+      <div class="form-row">
+          <input type="text" class="input-field" maxlength="256" name="lead[title]" data-name="Job Title" placeholder="Job Title" id="Job-Title" required="">
+      </div>
+
+      <div class="form-row">
+        <input type="text" class="input-field" name="lead[custom_field_attributes][note1]" data-name="What is your interest in Fandom?" placeholder="What is your interest in Fandom?" id="note1" required="">
+      </div>
+
+      <div class="form-row">
+          
+        <div class='select-wrap'>
+          <div class='arrow'>
+            <svg width="8" height="4" viewBox="0 0 8 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.64123 0.205821C7.61601 0.144911 7.5733 0.0928468 7.5185 0.056211C7.46369 0.0195752 7.39925 1.36504e-05 7.33333 1.03261e-07H0.667072C0.60111 -5.1806e-05 0.536617 0.0194685 0.481756 0.0560899C0.426894 0.0927112 0.384132 0.144787 0.358883 0.205724C0.333634 0.266661 0.327032 0.33372 0.339915 0.398411C0.352798 0.463102 0.384585 0.522517 0.431253 0.569132L3.76438 3.90226C3.79534 3.93325 3.8321 3.95784 3.87256 3.97461C3.91303 3.99138 3.9564 4.00002 4.0002 4.00002C4.044 4.00002 4.08738 3.99138 4.12784 3.97461C4.1683 3.95784 4.20507 3.93325 4.23602 3.90226L7.56915 0.569132C7.61575 0.522492 7.64747 0.46308 7.6603 0.39841C7.67313 0.33374 7.66649 0.266718 7.64123 0.205821Z" fill="#FFC500"/>
+</svg>
+          </div>
+          <select name="lead[subject]" id="Subject" data-name="Subject">
+            <option value="advertising-and-partnerships" selected>Advertising & partnerships</option>
+            <option value="pr-pportunities">PR opportunities</option>
+            <option value="wiki-community-team">Wiki/Community Team</option>
+            <option value="job-opprotunities">Job opportunities  </option>
+            <option value="other">Other</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-checkbox">
+          <label for="communications" class="cursor-pointer flex items-start">
+              <input type="checkbox" id="communications" name="lead[custom_field_attributes][boolean1]">
+              <div class="box mr-7 shrink-0">
+                  <span class="check"></span>
+              </div>
+              <div class="label">I agree to receive communications from Fandom.</div>
+          </label>
+      </div>
+
+      <input name="lead[source_url]" type="hidden" value="https://about.fandom.com/careers">
+      <input name="lead[company_id]" type="hidden" value="142">
+      <input name="return_to" type="hidden" value="https://about.fandom.com/careers?success=true#fcf">
+      <div class="g-recaptcha mb-[20px]" data-sitekey="6LdDSA4TAAAAANZDWjPdTiQcYsTuge5fMPQTd7D_"></div>
+
+      <button type="submit" data-wait="Please wait..." class="button fandom-button theme-yellow">
+          <span>Submit</span>
+      </button>
+
+  </form>
+
+</div>
+
+        
+      </div>
+
+      <div class='image w-full md:w-50 mt-60'>
+
+        <div class='hidden md:block'>
+
+          
+
+
+
+
+
+
+  
+
+
+
+<picture class="w-full">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+  <img
+    class="w-11/12"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Company-Logos.png"
+    alt="Company Logos">
+
+    
+</picture>
+        </div>
+
+                  <div class=''>
+
+            
+
+
+
+
+
+
+  
+
+
+
+<picture class="w-full md:hidden">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+  <img
+    class="w-11/12"
+    style="object-position:50% 50%;opacity:0;transition:opacity 0.5s ease;"
+          loading="lazy"
+        src="https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/Company-Logos_2023-11-03-133239_ktco.png"
+    alt="Company Logos">
+
+    
+</picture>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+  
+      </main>
+    </div>
+
+    <footer class="text-white	pt-84" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), #520044;">
+  <div class="o-container pb-36">
+    <div class="global-footer__inner grid grid-cols-2 lg:grid-cols-4 lg-px:px-29">
+      <div class="relative mb-30">
+        <a href="https://about.fandom.com/" class="block mr-auto w-183 absolute -top-45 -left-10">
+          
+<svg width="184" height="46" viewBox="0 0 184 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0)">
+    <path d="M142.357 21.3231L121.259 0.231346C121.15 0.122466 121.012 0.048253 120.861 0.0180643C120.71 -0.0121245 120.553 0.00306325 120.411 0.0617123C120.268 0.120361 120.147 0.219845 120.061 0.347619C119.975 0.475393 119.929 0.625734 119.928 0.779685V18.5162L113.538 12.1318C113.429 12.0227 113.29 11.9485 113.139 11.9184C112.987 11.8883 112.831 11.9037 112.688 11.9627C112.546 12.0217 112.424 12.1217 112.338 12.2499C112.253 12.3781 112.207 12.5289 112.207 12.6831V30.9976C112.206 31.5712 112.318 32.1394 112.537 32.6695C112.756 33.1996 113.078 33.681 113.485 34.0861L121.799 42.3853C122.618 43.2003 123.726 43.6584 124.881 43.6598H130.966C132.121 43.6592 133.228 43.2009 134.046 42.3853L142.36 34.0861C142.764 33.6819 143.085 33.2018 143.304 32.6734C143.523 32.1449 143.635 31.5784 143.634 31.0065V24.4057C143.635 23.8331 143.522 23.266 143.303 22.737C143.084 22.208 142.762 21.7275 142.357 21.3231Z" fill="#FA005A"/>
+    <path d="M135.922 29.0471C135.921 29.3927 135.784 29.7241 135.54 29.9689L128.841 36.6912C128.72 36.8135 128.576 36.9106 128.417 36.9769C128.258 37.0432 128.087 37.0773 127.915 37.0773C127.743 37.0773 127.572 37.0432 127.413 36.9769C127.254 36.9106 127.11 36.8135 126.989 36.6912L120.305 29.96C120.062 29.7179 119.923 29.3901 119.919 29.0471V26.4802C119.92 26.3083 119.954 26.1382 120.02 25.9795C120.086 25.8208 120.183 25.6767 120.305 25.5555L122.712 23.1487C122.957 22.904 123.29 22.7666 123.636 22.7666C123.983 22.7666 124.315 22.904 124.561 23.1487L127.925 26.5158L131.283 23.1487C131.529 22.904 131.861 22.7666 132.208 22.7666C132.555 22.7666 132.887 22.904 133.133 23.1487L135.537 25.5555C135.659 25.6767 135.755 25.8208 135.821 25.9795C135.888 26.1382 135.922 26.3083 135.922 26.4802V29.0471Z" fill="#FFC500"/>
+    <path d="M174.24 16.6846C172.518 16.6851 170.847 17.2679 169.498 18.3385L168.422 19.2277C168.259 19.3543 168.058 19.4231 167.852 19.4231C167.645 19.4231 167.444 19.3543 167.281 19.2277L166.202 18.3385C164.853 17.2679 163.182 16.6851 161.46 16.6846H161.261C158.668 16.6846 156.391 18.1014 155.126 20.5378C155.1 20.5876 155.059 20.6275 155.009 20.6512C154.958 20.6748 154.901 20.6808 154.847 20.6682C154.793 20.6555 154.744 20.625 154.709 20.5814C154.674 20.5379 154.655 20.4839 154.654 20.4281V17.6983C154.654 17.4805 154.568 17.2717 154.414 17.1177C154.26 16.9637 154.051 16.8772 153.833 16.8772H148.134C147.915 16.878 147.705 16.9655 147.551 17.1205C147.396 17.2755 147.31 17.4854 147.31 17.7042V40.2009C147.31 40.4218 147.397 40.6336 147.554 40.7898C147.71 40.946 147.922 41.0338 148.142 41.0338H153.821C154.042 41.0338 154.254 40.946 154.41 40.7898C154.567 40.6336 154.654 40.4218 154.654 40.2009V26.7799C154.654 26.4108 154.726 26.0453 154.867 25.7042C155.009 25.3631 155.215 25.0532 155.476 24.7922C155.737 24.5312 156.047 24.3242 156.388 24.1832C156.73 24.0421 157.095 23.9697 157.464 23.9701H158.902C159.271 23.9697 159.637 24.0421 159.978 24.1831C160.319 24.3241 160.629 24.531 160.891 24.792C161.152 25.053 161.359 25.3629 161.5 25.704C161.642 26.0451 161.715 26.4107 161.715 26.7799L161.732 40.2039C161.732 40.3131 161.754 40.4213 161.796 40.5221C161.838 40.623 161.899 40.7146 161.976 40.7918C162.054 40.8689 162.146 40.9299 162.247 40.9715C162.348 41.013 162.456 41.0342 162.565 41.0338H168.244C168.465 41.0338 168.677 40.946 168.833 40.7898C168.989 40.6336 169.077 40.4218 169.077 40.2009V26.7799C169.077 26.0347 169.373 25.32 169.9 24.7931C170.427 24.2661 171.142 23.9701 171.887 23.9701H173.327C173.697 23.9697 174.062 24.0421 174.403 24.1832C174.744 24.3242 175.054 24.5312 175.315 24.7922C175.576 25.0532 175.783 25.3631 175.924 25.7042C176.065 26.0453 176.138 26.4108 176.137 26.7799L176.158 40.2039C176.158 40.424 176.246 40.6351 176.401 40.7907C176.557 40.9463 176.768 41.0338 176.988 41.0338H182.67C182.779 41.0338 182.887 41.0122 182.988 40.9703C183.089 40.9284 183.181 40.867 183.258 40.7897C183.335 40.7123 183.396 40.6204 183.438 40.5194C183.479 40.4184 183.5 40.3101 183.5 40.2009V26.0834C183.516 24.8565 183.288 23.6387 182.83 22.5004C182.372 21.3621 181.692 20.3259 180.831 19.4519C179.97 18.5778 178.944 17.8831 177.813 17.4081C176.682 16.9331 175.467 16.6872 174.24 16.6846Z" fill="#F9EDD8"/>
+    <path d="M107.204 8.14566L101.928 2.86975C101.815 2.75561 101.671 2.67768 101.513 2.64589C101.356 2.6141 101.192 2.62988 101.044 2.69123C100.895 2.75258 100.769 2.85671 100.68 2.99037C100.591 3.12404 100.543 3.28118 100.544 3.4418V17.8112C100.544 17.8974 100.52 17.9819 100.475 18.0556C100.431 18.1293 100.367 18.1895 100.291 18.2298C100.215 18.27 100.129 18.2887 100.043 18.2839C99.9571 18.2791 99.874 18.251 99.8028 18.2025C98.493 17.3134 96.9396 16.8526 95.3568 16.8835H92.0401C90.8098 16.8831 89.5916 17.1251 88.4549 17.5956C87.3182 18.0662 86.2853 18.756 85.4152 19.6258C84.5452 20.4955 83.855 21.5282 83.3841 22.6648C82.9133 23.8013 82.6709 25.0195 82.6709 26.2497V29.0744V31.6976C82.6709 32.9279 82.9132 34.1463 83.3841 35.283C83.8549 36.4197 84.5451 37.4526 85.4151 38.3226C86.2851 39.1926 87.3179 39.8827 88.4546 40.3536C89.5914 40.8244 90.8097 41.0668 92.0401 41.0668H93.8837C96.4772 41.0668 98.7535 39.65 100.019 37.2136C100.044 37.1637 100.085 37.1238 100.136 37.1001C100.187 37.0765 100.244 37.0705 100.298 37.0832C100.352 37.0958 100.401 37.1264 100.436 37.1699C100.471 37.2134 100.49 37.2674 100.49 37.3232V40.2398C100.49 40.3476 100.512 40.4544 100.553 40.554C100.594 40.6536 100.655 40.7441 100.731 40.8204C100.807 40.8966 100.898 40.9571 100.997 40.9983C101.097 41.0396 101.204 41.0608 101.311 41.0608H107.011C107.23 41.06 107.439 40.973 107.593 40.8186C107.747 40.6643 107.834 40.4551 107.835 40.2368V9.66619C107.834 9.09576 107.607 8.54896 107.204 8.14566ZM89.986 31.2648V30.2334V26.6766C89.9868 25.9316 90.2831 25.2173 90.8099 24.6905C91.3367 24.1638 92.0509 23.8675 92.7959 23.8667H97.5175C98.2628 23.8667 98.9775 24.1627 99.5044 24.6897C100.031 25.2166 100.327 25.9313 100.327 26.6766V29.3679V31.2648C100.328 31.6341 100.255 31.9998 100.114 32.341C99.9733 32.6823 99.7664 32.9924 99.5055 33.2536C99.2445 33.5149 98.9346 33.7221 98.5935 33.8635C98.2524 34.0049 97.8868 34.0777 97.5175 34.0777H92.7959C92.0509 34.0769 91.3367 33.7806 90.8099 33.2538C90.2831 32.727 89.9868 32.0128 89.986 31.2678V31.2648Z" fill="#F9EDD8"/>
+    <path d="M48.6411 16.8946H42.9443C42.7265 16.8946 42.5177 16.9811 42.3637 17.1351C42.2097 17.2891 42.1232 17.4979 42.1232 17.7157V20.6293C42.1227 20.6851 42.1034 20.7391 42.0685 20.7826C42.0336 20.8261 41.9851 20.8567 41.9307 20.8693C41.8764 20.882 41.8193 20.876 41.7688 20.8524C41.7182 20.8287 41.6771 20.7888 41.652 20.7389C40.3863 18.3085 38.0952 16.8857 35.5165 16.8857H33.6699C31.1859 16.8857 28.8035 17.8725 27.047 19.629C25.2905 21.3856 24.3037 23.7679 24.3037 26.252V31.6998C24.3033 32.93 24.5453 34.1483 25.0158 35.285C25.4863 36.4217 26.1762 37.4546 27.046 38.3246C27.9157 39.1947 28.9484 39.8849 30.085 40.3557C31.2215 40.8266 32.4397 41.069 33.6699 41.069H35.5165C38.107 41.069 40.3863 39.6522 41.652 37.2158C41.6771 37.166 41.7182 37.126 41.7688 37.1024C41.8193 37.0787 41.8764 37.0727 41.9307 37.0854C41.9851 37.098 42.0336 37.1286 42.0685 37.1721C42.1034 37.2157 42.1227 37.2697 42.1232 37.3255V40.242C42.1232 40.4598 42.2097 40.6686 42.3637 40.8226C42.5177 40.9766 42.7265 41.0631 42.9443 41.0631H48.6411C48.8596 41.0631 49.0692 40.9762 49.2237 40.8217C49.3783 40.6672 49.4651 40.4576 49.4651 40.2391V17.7127C49.4647 17.6049 49.4431 17.4982 49.4014 17.3987C49.3598 17.2993 49.299 17.209 49.2225 17.133C49.146 17.057 49.0553 16.9969 48.9555 16.956C48.8557 16.9151 48.7489 16.8942 48.6411 16.8946ZM41.9602 31.2789C41.9602 31.6483 41.8875 32.0141 41.7461 32.3553C41.6048 32.6966 41.3976 33.0067 41.1364 33.2679C40.8752 33.5291 40.5651 33.7363 40.2238 33.8776C39.8826 34.019 39.5168 34.0917 39.1474 34.0917H34.4287C33.6827 34.0917 32.9673 33.7954 32.4397 33.2679C31.9122 32.7404 31.6159 32.0249 31.6159 31.2789V26.6758C31.6167 25.9303 31.9134 25.2156 32.4408 24.6888C32.9682 24.1619 33.6832 23.866 34.4287 23.866H39.1474C39.8929 23.866 40.6079 24.1619 41.1353 24.6888C41.6627 25.2156 41.9594 25.9303 41.9602 26.6758V31.2789Z" fill="#F9EDD8"/>
+    <path d="M69.1993 16.8945H68.6717C66.0812 16.8945 63.8019 18.3084 62.5362 20.7477C62.5111 20.7976 62.47 20.8375 62.4194 20.8611C62.3689 20.8848 62.3119 20.8908 62.2575 20.8781C62.2031 20.8655 62.1546 20.8349 62.1197 20.7914C62.0848 20.7479 62.0655 20.6939 62.065 20.6381V17.7037C62.0619 17.488 61.974 17.2822 61.8203 17.1308C61.6667 16.9794 61.4597 16.8945 61.2439 16.8945H55.5471C55.4388 16.8941 55.3315 16.9152 55.2313 16.9565C55.1312 16.9977 55.0402 17.0584 54.9636 17.135C54.887 17.2116 54.8263 17.3026 54.7851 17.4027C54.7438 17.5029 54.7228 17.6102 54.7231 17.7185V40.2182C54.7231 40.4383 54.8106 40.6494 54.9662 40.8051C55.1219 40.9607 55.333 41.0481 55.5531 41.0481H61.235C61.344 41.0481 61.452 41.0267 61.5526 40.985C61.6533 40.9432 61.7448 40.8821 61.8219 40.8051C61.899 40.728 61.9601 40.6365 62.0018 40.5358C62.0435 40.4351 62.065 40.3272 62.065 40.2182L62.0857 26.9721C62.0857 26.2269 62.3818 25.5122 62.9087 24.9852C63.4357 24.4583 64.1504 24.1623 64.8956 24.1623H68.3931C69.1381 24.163 69.8523 24.4593 70.3791 24.9861C70.9059 25.5129 71.2022 26.2271 71.203 26.9721L71.2208 40.2034C71.2215 40.4238 71.3096 40.6349 71.4657 40.7904C71.6219 40.946 71.8333 41.0333 72.0536 41.0333H77.7327C77.8419 41.0337 77.9501 41.0125 78.0512 40.971C78.1522 40.9295 78.244 40.8684 78.3214 40.7913C78.3988 40.7142 78.4602 40.6226 78.5021 40.5217C78.544 40.4208 78.5655 40.3126 78.5655 40.2034V26.2489C78.5624 23.7669 77.5742 21.3876 75.818 19.6336C74.0619 17.8797 71.6813 16.8945 69.1993 16.8945Z" fill="#F9EDD8"/>
+    <path d="M5.31056 11.957C4.03445 11.9578 2.81087 12.4653 1.9088 13.3679C1.00673 14.2706 0.5 15.4944 0.5 16.7706L0.5 38.4522C0.500079 39.2202 0.804963 39.9569 1.3477 40.5003L6.35982 45.5095C6.48127 45.6307 6.63592 45.7132 6.80424 45.7467C6.97256 45.7801 7.14701 45.7629 7.30556 45.6972C7.46412 45.6316 7.59967 45.5205 7.69511 45.3778C7.79055 45.2352 7.8416 45.0675 7.84182 44.8959V33.7898C7.84182 33.5752 7.92707 33.3694 8.07882 33.2177C8.23057 33.0659 8.43638 32.9807 8.65099 32.9807H17.0984C17.3275 32.9807 17.5508 32.9077 17.7357 32.7723C17.9206 32.637 18.0576 32.4463 18.1269 32.2278L19.7185 27.189C19.7619 27.0528 19.7724 26.9082 19.7495 26.7671C19.7265 26.626 19.6706 26.4923 19.5863 26.3768C19.502 26.2614 19.3917 26.1674 19.2643 26.1025C19.1369 26.0376 18.996 26.0037 18.8531 26.0034H8.65099C8.54461 26.0038 8.43922 25.9831 8.34087 25.9426C8.24252 25.9021 8.15316 25.8425 8.07794 25.7673C8.00273 25.6921 7.94314 25.6027 7.90261 25.5044C7.86209 25.406 7.84142 25.3006 7.84182 25.1942V19.696C7.84181 19.5899 7.86277 19.4848 7.90347 19.3868C7.94417 19.2888 8.00382 19.1998 8.079 19.1249C8.15417 19.05 8.2434 18.9907 8.34155 18.9503C8.43971 18.91 8.54486 18.8894 8.65099 18.8898H21.6155C21.8439 18.8899 22.0664 18.8172 22.2508 18.6824C22.4351 18.5476 22.5718 18.3576 22.641 18.1399L24.2446 13.1426C24.2879 13.0064 24.2985 12.8619 24.2755 12.7207C24.2525 12.5796 24.1966 12.4459 24.1123 12.3305C24.028 12.215 23.9177 12.121 23.7903 12.0561C23.6629 11.9912 23.522 11.9573 23.3791 11.957H5.31056Z" fill="#F9EDD8"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="183" height="45.767" fill="white" transform="translate(0.5)"/>
+    </clipPath>
+  </defs>
+</svg>
+        </a>
+                                <h5 class="font-bold font-bold mt-22 text-12">Explore Properties</h5>
+        <ul class="text-yellow text-14">
+                                    <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.fandom.com/" rel="noopener" target="_blank">Fandom</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.fanatical.com/" rel="noopener" target="_blank">Fanatical</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.gamespot.com/" rel="noopener" target="_blank">GameSpot</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.tvguide.com/" rel="noopener" target="_blank">TV Guide</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.metacritic.com/" rel="noopener" target="_blank">Metacritic</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.giantbomb.com/" rel="noopener" target="_blank">Giant Bomb</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.muthead.com/" rel="noopener" target="_blank">Muthead</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.futhead.com/" rel="noopener" target="_blank">Futhead</a></li>
+                              </ul>
+      </div>
+                          <div class="">
+        <h5 class="font-bold font-bold mt-22 text-12">Overview</h5>
+        <ul class="text-yellow text-14">
+                                    <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.fandom.com/terms-of-use">Terms Of Use</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.fandom.com/privacy-policy">Privacy Policy</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://community.fandom.com/Sitemap">Global Sitemap</a></li>
+                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.fandom.com/local-sitemap">Local Sitemap</a></li>
+                              </ul>
+      </div>
+                          <div class="grid grid-cols-2 sm:grid-cols-1 col-start-1 col-end-3 sm:col-end-2 lg:col-start-3 lg:col-end-4">
+        <div class="mb-30">
+          <h5 class="font-bold font-bold mt-22 text-12">Community</h5>
+          <ul class="text-yellow text-14">
+                                          <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://community.fandom.com/wiki/Community_Central" rel="noopener" target="_blank">Community Central</a></li>
+                              <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://fandom.zendesk.com/">Support</a></li>
+                              <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://community.fandom.com/wiki/Help:Contents">Help</a></li>
+                              <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://www.fandom.com/do-not-sell-my-info" rel="noopener" target="_blank">Do Not Sell My Info</a></li>
+                                    </ul>
+        </div>
+      </div>
+                            <div class="text-14 leading-18 col-start-1 col-end-3 sm:col-start-2 lg:col-start-4 lg:col-end-5">
+          <div class="mb-30">
+            <h5 class="font-bold font-bold mt-22 text-12">Advertise</h5>
+            <ul class="text-yellow text-14">
+                                                <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://about.fandom.com/mediakit">Media Kit</a></li>
+                                  <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="/mediakit#contact">Contact</a></li>
+                                  <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://about.fandom.com/insights">Insights</a></li>
+                                  <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://about.fandom.com/case-studies">Case Studies</a></li>
+                                  <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://about.fandom.com/about">About</a></li>
+                                  <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://about.fandom.com/careers">Careers</a></li>
+                                  <li class="transition duration-300 ease-in-out text-yellow hover:text-white mt-10"><a  class="" href="https://about.fandom.com/press">Press</a></li>
+                                          </ul>
+          </div>
+            
+
+
+      <div>
+        <h5 class="font-bold font-bold mt-22 text-12">
+                              Follow Us
+        </h5>
+        
+<ul class="footer flex flex-row mt-13">
+          <li class="footer--social mr-10 md:mr-23 flex items-center">
+      <a href="https://twitter.com/getfandom" class="text-white hover:text-yellow transition-colors duration-300">
+        <div class="srd">View our twitter</div>
+        <svg width="19" height="15" viewBox="0 0 19 15" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M16.6053 3.89067C16.6053 4.11606 16.6053 4.22876 16.6053 4.34146C16.6053 8.96202 12.9342 14.2588 6.18421 14.2588C4.05263 14.2588 2.15789 13.6953 0.5 12.681C0.855263 12.681 1.09211 12.7937 1.44737 12.7937C3.10526 12.7937 4.76316 12.2302 6.06579 11.3287C4.52632 11.3287 3.10526 10.3144 2.63158 8.84933C2.86842 8.84933 3.10526 8.96202 3.34211 8.96202C3.69737 8.96202 3.69737 8.96202 4.17105 8.84933C2.39474 8.51124 0.855263 7.04618 0.855263 5.35573C0.855263 5.69382 2.15789 5.69382 2.75 5.80651C1.80263 5.13033 1.21053 4.11606 1.21053 2.8764C1.21053 2.20022 1.44737 1.63673 1.80263 1.07325C3.57895 3.21449 6.42105 4.56685 9.38158 4.79224C9.26316 4.45415 9.26316 4.22876 9.26316 4.00337C9.26316 2.08752 10.9211 0.509766 12.9342 0.509766C14 0.509766 14.9474 0.847856 15.6579 1.63673C16.4868 1.41134 17.1974 1.18595 17.9079 0.735159C17.5526 1.63673 16.9605 2.20022 16.3684 2.651C17.0789 2.53831 17.9079 2.31291 18.5 2.08752C17.9079 2.7637 17.3158 3.43988 16.6053 3.89067Z" fill="currentColor"/>
+</svg>
+      </a>
+    </li>
+          <li class="footer--social mr-10 md:mr-23 flex items-center">
+      <a href="https://www.youtube.com/channel/UC988qTQImTjO7lUdPfYabgQ" class="text-white hover:text-yellow transition-colors duration-300">
+        <div class="srd">View our youtube</div>
+        <svg width="19" height="14" viewBox="0 0 19 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M16.5323 0.873136C17.3065 1.08317 17.917 1.70093 18.1236 2.48548C18.5 3.90837 18.5 6.87565 18.5 6.87565C18.5 6.87565 18.5 9.84294 18.1236 11.2658C17.917 12.0504 17.3065 12.6681 16.5323 12.8782C15.1291 13.2591 9.5 13.2591 9.5 13.2591C9.5 13.2591 3.87091 13.2591 2.46773 12.8782C1.69352 12.6681 1.08295 12.0504 0.876364 11.2658C0.5 9.84294 0.5 6.87565 0.5 6.87565C0.5 6.87565 0.5 3.90837 0.876364 2.48548C1.08295 1.70093 1.69352 1.08317 2.46773 0.873136C3.87091 0.492188 9.5 0.492188 9.5 0.492188C9.5 0.492188 15.1291 0.492188 16.5323 0.873136ZM12.3637 6.87564L7.65918 9.57008V4.1812L12.3637 6.87564Z" fill="#F9EDD8"/>
+</svg>
+      </a>
+    </li>
+          <li class="footer--social mr-10 md:mr-23 flex items-center">
+      <a href="https://www.instagram.com/getfandom/" class="text-white hover:text-yellow transition-colors duration-300">
+        <div class="srd">View our instagram</div>
+        <svg width="17" height="17" viewBox="0 0 17 17" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M8.49967 1.74197C10.7026 1.74197 10.9632 1.75033 11.8333 1.78925C12.6376 1.82527 13.0745 1.95712 13.3652 2.06808C13.7504 2.21505 14.0251 2.39064 14.3139 2.67397C14.6028 2.95762 14.7816 3.22745 14.9309 3.60565C15.0439 3.89123 15.1781 4.32025 15.2148 5.1101C15.2544 5.96427 15.2629 6.22059 15.2629 8.384C15.2629 10.5474 15.2544 10.8034 15.2148 11.6579C15.1781 12.4477 15.0439 12.8768 14.9309 13.1623C14.7812 13.5405 14.6024 13.8104 14.3139 14.094C14.0251 14.3777 13.7504 14.5533 13.3652 14.6999C13.0745 14.8109 12.6376 14.9427 11.8333 14.9787C10.9636 15.0177 10.7026 15.026 8.49967 15.026C6.29677 15.026 6.03577 15.0177 5.16601 14.9787C4.36174 14.9427 3.92489 14.8109 3.63409 14.6999C3.24899 14.5529 2.97424 14.3773 2.68541 14.094C2.39658 13.8104 2.21778 13.5405 2.06845 13.1623C1.95547 12.8768 1.82121 12.4477 1.78453 11.6579C1.74491 10.8037 1.7364 10.5474 1.7364 8.384C1.7364 6.22059 1.74491 5.96459 1.78453 5.1101C1.82121 4.32025 1.95547 3.89123 2.06845 3.60565C2.21811 3.22745 2.39691 2.95762 2.68541 2.67397C2.97424 2.39032 3.24899 2.21473 3.63409 2.06808C3.92489 1.95712 4.36174 1.82527 5.16601 1.78925C6.0361 1.75033 6.29677 1.74197 8.49967 1.74197ZM8.49967 0.282227C6.25911 0.282227 5.97814 0.291553 5.09822 0.33111C4.22027 0.370345 3.62034 0.507347 3.09573 0.707705C2.55311 0.914815 2.09301 1.19171 1.63455 1.64228C1.17609 2.09252 0.89381 2.54437 0.682918 3.07694C0.478903 3.59214 0.3394 4.18132 0.299448 5.04353C0.259497 5.90767 0.25 6.1836 0.25 8.384C0.25 10.5844 0.259497 10.8603 0.299776 11.7245C0.339727 12.5867 0.47923 13.1758 0.683245 13.6911C0.894137 14.2239 1.17609 14.6758 1.63488 15.126C2.09367 15.5766 2.55344 15.8535 3.09606 16.0606C3.62067 16.261 4.2206 16.398 5.09855 16.4372C5.97847 16.4768 6.25944 16.4861 8.5 16.4861C10.7406 16.4861 11.0215 16.4768 11.9015 16.4372C12.7794 16.398 13.3793 16.261 13.9039 16.0606C14.4466 15.8535 14.9067 15.5766 15.3651 15.126C15.8239 14.6755 16.1059 14.2239 16.3168 13.6911C16.5208 13.1758 16.6603 12.5867 16.7002 11.7245C16.7405 10.8603 16.75 10.5844 16.75 8.384C16.75 6.1836 16.7405 5.90767 16.7002 5.04353C16.6603 4.18132 16.5208 3.59214 16.3168 3.07694C16.1059 2.54405 15.8239 2.0922 15.3651 1.64196C14.9063 1.19139 14.4466 0.914494 13.9039 0.707383C13.3793 0.507026 12.7794 0.370024 11.9015 0.330788C11.0212 0.291553 10.7402 0.282227 8.49967 0.282227ZM8.4996 4.22367C6.15982 4.22367 4.26343 6.08638 4.26343 8.3839C4.26343 10.6814 6.15982 12.5441 8.4996 12.5441C10.8394 12.5441 12.7358 10.6817 12.7358 8.3839C12.7358 6.08606 10.8394 4.22367 8.4996 4.22367ZM8.4996 11.0844C6.98079 11.0844 5.74982 9.87516 5.74982 8.3839C5.74982 6.89264 6.98112 5.68342 8.4996 5.68342C10.0184 5.68342 11.2494 6.89264 11.2494 8.3839C11.2494 9.87516 10.0184 11.0844 8.4996 11.0844ZM13.8934 4.05903C13.8934 4.59596 13.4502 5.03123 12.9035 5.03123C12.3568 5.03123 11.9135 4.59596 11.9135 4.05903C11.9135 3.5221 12.3568 3.08683 12.9035 3.08683C13.4502 3.08683 13.8934 3.5221 13.8934 4.05903Z" fill="currentColor"/>
+</svg>
+      </a>
+    </li>
+          <li class="footer--social mr-10 md:mr-23 flex items-center">
+      <a href="https://www.linkedin.com/company/fandomwikia" class="text-white hover:text-yellow transition-colors duration-300">
+        <div class="srd">View our linkedin</div>
+        <svg width="17" height="18" viewBox="0 0 17 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M2.34466 4.25617C1.32641 4.25617 0.5 3.4212 0.5 2.39175C0.5 1.36231 1.32641 0.527344 2.34466 0.527344C3.36291 0.527344 4.18931 1.36231 4.18931 2.39175C4.18931 3.4212 3.36396 4.25617 2.34466 4.25617ZM3.92545 17.2226H0.763184V5.59648H3.92545V17.2226ZM13.4128 17.2225H16.5751V10.0787C16.5751 4.52672 10.668 4.72859 9.19645 7.46179V5.59632H6.03418V17.2225H9.19645V11.2995C9.19645 8.00927 13.4128 7.73976 13.4128 11.2995V17.2225Z" fill="currentColor"/>
+</svg>
+      </a>
+    </li>
+  </ul>
+      </div>
+          </div>
+  </div>
+  <div class="bg-gray-4">
+    <div class="o-container">
+    </div>
+  </div>
+</footer>
+
+    <script>document.body.classList.remove('no-js');</script>
+
+
+
+            
+    
+    <script  src="/_compiled/js/app.js"></script>
+
+    
+    
+  <script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebPage","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"copyrightYear":"2023","creator":{"@id":"#creator"},"dateModified":"2023-11-07T12:48:35-05:00","datePublished":"2023-08-07T09:32:00-04:00","description":"There are more than 350 million reasons to work at Fandom—the fans that we serve every day.","headline":"Careers","image":{"@type":"ImageObject","url":"https://s3.us-east-1.amazonaws.com/fandom-craft-uploads/_1200x630_crop_center-center_82_none/Fandom_acq_announce_2022_full_03_2023-11-06-155012_enei.png?mtime=1699285821"},"inLanguage":"en-us","mainEntityOfPage":"https://about.fandom.com/careers","name":"Careers","publisher":{"@id":"#creator"},"url":"https://about.fandom.com/careers"},{"@id":"#identity","@type":"Organization","sameAs":["https://twitter.com/getfandom","https://www.facebook.com/getFANDOM/","https://www.linkedin.com/company/fandomwikia","https://www.youtube.com/channel/UC988qTQImTjO7lUdPfYabgQ","https://www.instagram.com/getfandom/"]},{"@id":"#creator","@type":"Organization"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://about.fandom.com","name":"Homepage","position":1},{"@type":"ListItem","item":"https://about.fandom.com/careers","name":"Careers","position":2}],"name":"Breadcrumbs"}]}</script></body>
+</html>

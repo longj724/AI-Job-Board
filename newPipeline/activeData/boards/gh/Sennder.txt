@@ -27,7 +27,7 @@
 <style>.v-enter-active[data-v-e56bf351],.v-leave-active[data-v-e56bf351]{opacity:1;transform:translateY("0");transition:all .2s ease-in-out}.v-enter-from[data-v-e56bf351],.v-leave-to[data-v-e56bf351]{opacity:0;transform:translateY(40px)}</style>
 <link rel="stylesheet" href="/_nuxt/entry.c85c7d90.css">
 <link rel="modulepreload" as="script" crossorigin href="/_nuxt/entry.2c54c61c.js">
-<link rel="modulepreload" as="script" crossorigin href="/_nuxt/index.2876a956.js">
+<link rel="modulepreload" as="script" crossorigin href="/_nuxt/_location_.11b5caed.js">
 <link rel="modulepreload" as="script" crossorigin href="/_nuxt/index.vue.46f32d09.js">
 <link rel="modulepreload" as="script" crossorigin href="/_nuxt/use-job-positions.655aa0a9.js">
 <link rel="modulepreload" as="script" crossorigin href="/_nuxt/InputText.vue.a00db5d4.js">
