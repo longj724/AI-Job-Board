@@ -5,7 +5,7 @@ import fs from 'fs';
 import { getJobBoards } from '../utils/getJobBoards';
 
 const getBessemerJobBoards = () => {
-  const data = fs.readFileSync('./data/companies/Bessemer.txt', 'utf8');
+  const data = fs.readFileSync('./activeData/companies/Bessemer.txt', 'utf8');
 
   const companiesList = data.split('\n');
 

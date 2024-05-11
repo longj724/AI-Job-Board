@@ -6,7 +6,11 @@ import cheerio from 'cheerio';
 const getBessemerPage = async (): Promise<void> => {
   try {
     const res = await axios.get('https://www.bvp.com/companies');
-    fs.writeFile('./data/firms/Bessemer.txt', res.data, (err: any) => err);
+    fs.writeFile(
+      './activeData/firms/Bessemer.txt',
+      res.data,
+      (err: any) => err
+    );
   } catch (err: any) {
     console.log(err);
     return err;
@@ -15,7 +19,10 @@ const getBessemerPage = async (): Promise<void> => {
 
 const parseCompaniesFromBessemerPage = async (): Promise<void> => {
   let companies: string[] = [];
-  const data = await fs.promises.readFile('./data/firms/Bessemer.txt', 'utf-8');
+  const data = await fs.promises.readFile(
+    './activeData/firms/Bessemer.txt',
+    'utf-8'
+  );
   const $ = cheerio.load(data);
 
   const divs = $('a.name.click-to-open');
@@ -25,7 +32,7 @@ const parseCompaniesFromBessemerPage = async (): Promise<void> => {
   });
 
   fs.writeFileSync(
-    './data/companies/Bessemer.txt',
+    './activeData/companies/Bessemer.txt',
     companies.join('\n'),
     'utf-8'
   );

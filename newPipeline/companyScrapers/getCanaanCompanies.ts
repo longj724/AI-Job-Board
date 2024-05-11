@@ -6,7 +6,7 @@ import cheerio from 'cheerio';
 const getCanaanPage = async (): Promise<void> => {
   try {
     const res = await axios.get('https://www.canaan.com/companies');
-    fs.writeFile('./data/firms/Canaan.txt', res.data, (err: any) => err);
+    fs.writeFile('./activeData/firms/Canaan.txt', res.data, (err: any) => err);
   } catch (err: any) {
     console.log(err);
     return err;
@@ -15,7 +15,10 @@ const getCanaanPage = async (): Promise<void> => {
 
 const parseCompaniesFromCanaanPage = async (): Promise<void> => {
   let companies: string[] = [];
-  const data = await fs.promises.readFile('./data/firms/Canaan.txt', 'utf-8');
+  const data = await fs.promises.readFile(
+    './activeData/firms/Canaan.txt',
+    'utf-8'
+  );
   const $ = cheerio.load(data);
 
   const container = $('a.list-item');
@@ -25,7 +28,7 @@ const parseCompaniesFromCanaanPage = async (): Promise<void> => {
   });
 
   fs.writeFileSync(
-    './data/companies/Canaan.txt',
+    './activeData/companies/Canaan.txt',
     companies.join('\n'),
     'utf-8'
   );

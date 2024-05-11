@@ -15,6 +15,8 @@ mkdir "$PROJECT_DIR/activeData/applications/lever"
 
 # Get job boards
 npx ts-node "$PROJECT_DIR/companyScrapers/getAccelJobBoards.ts"
+npx ts-node "$PROJECT_DIR/companyScrapers/getBessemerJobBoards.ts"
+npx ts-node "$PROJECT_DIR/companyScrapers/getCanaanJobBoards.ts"
 
 # Get job applications from those boards
 npx ts-node "$PROJECT_DIR/utils/getJobAppsFromLever.ts"
