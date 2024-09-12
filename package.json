@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "migrate": "node -r esbuild-register newPipeline/db/migrate.ts"
   },
   "author": "",
   "license": "ISC",
@@ -17,13 +20,17 @@
     "cheerio": "^1.0.0-rc.12",
     "commander": "^11.1.0",
     "dotenv": "^16.3.2",
+    "drizzle-orm": "^0.33.0",
     "html-to-text": "^9.0.5",
     "openai": "^4.25.0",
+    "pg": "^8.12.0",
     "typescript": "^5.3.3",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.35",
+    "@types/pg": "^8.11.9",
+    "drizzle-kit": "^0.24.2",
     "prisma": "^5.13.0",
     "ts-node": "^10.9.2"
   }
