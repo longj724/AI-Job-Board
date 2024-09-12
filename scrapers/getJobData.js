@@ -14,26 +14,25 @@ module.exports.getJobData = async (name, firm) => {
       return res.data;
     })
     .then((data) => {
-      console.log('lever - writing to files');
-      if (fs.existsSync('./data/boards/lever/' + name + '.txt')) {
+      if (fs.existsSync('../data/boards/lever/' + name + '.txt')) {
         return;
       }
 
-      if (fs.existsSync('./data/boards/gh/' + name + '.txt')) {
+      if (fs.existsSync('../data/boards/gh/' + name + '.txt')) {
         return;
       }
 
-      writeDataToFile('./data/boards/lever/' + name + '.txt', data);
+      writeDataToFile('../data/boards/lever/' + name + '.txt', data);
 
       const $ = cheerio.load(data);
       const openings = $('.posting');
       // Add firm name to file
-      // fs.appendFileSync('./data/openings/lever/' + name + '.txt', firm + '\n');
+      // fs.appendFileSync('../data/openings/lever/' + name + '.txt', firm + '\n');
       openings.each((_, opening) => {
         if ($(opening).html().toLowerCase().includes('software engineer')) {
           console.log('opening.html is', $(opening).html());
           fs.appendFileSync(
-            './data/openings/lever/' + name + '.txt',
+            '../data/openings/lever/' + name + '.txt',
             $(opening).html() + '\n'
           );
         }
@@ -62,17 +61,18 @@ module.exports.getJobData = async (name, firm) => {
       .then((data) => {
         console.log('greenhouse - writing to files');
 
-        writeDataToFile('./data/boards/gh/' + name + '.txt', data);
+        writeDataToFile('../data/boards/gh/' + name + '.txt', data);
 
         const $ = cheerio.load(data);
         const openings = $('.opening');
         // Add firm name to file
-        // fs.appendFileSync('./data/openings/gh/' + name + '.txt', firm);
+        // fs.appendFileSync('../data/openings/gh/' + name + '.txt', firm);
+        console.log('openings are', openings);
         openings.each((_, opening) => {
           // Check to see if the opening is for a software engineer position
           if ($(opening).html().toLowerCase().includes('software engineer')) {
             fs.appendFileSync(
-              './data/openings/gh/' + name + '.txt',
+              '../data/openings/gh/' + name + '.txt',
               $(opening).html()
             );
           }

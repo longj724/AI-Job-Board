@@ -8,7 +8,7 @@ const getAccelPage = async () => {
   axios
     .get('https://jobs.accel.com/')
     .then((res) => {
-      const result = writeDataToFile('./data/firms/accel.txt', res.data);
+      const result = writeDataToFile('../data/firms/accel.txt', res.data);
     })
     .catch((err) => {
       return err;
@@ -17,7 +17,7 @@ const getAccelPage = async () => {
 
 const getCompaniesFromAccel = async () => {
   let compList = [];
-  const data = await fs.promises.readFile('./data/firms/accel.txt');
+  const data = await fs.promises.readFile('../data/firms/accel.txt');
   const $ = cheerio.load(data);
 
   const divs = $('.company_text');
@@ -28,16 +28,23 @@ const getCompaniesFromAccel = async () => {
   return compList;
 };
 
-const getJobs = async () => {
-  let companies = await getCompaniesFromAccel();
+const getJobs = async (getAccelCompanies) => {
+  let companies = [];
+  if (getAccelCompanies) {
+    companies = await getCompaniesFromAccel();
+  }
+
+  console.log(companies);
   companies.forEach((name) => {
     getJobData(name, 'Accel');
   });
 };
 
-const main = async () => {
-  await getAccelPage();
-  getJobs();
+const main = async (getAccelPortfolio, getAccelCompanies) => {
+  if (getAccelPortfolio) {
+    await getAccelPage();
+  }
+  getJobs(getAccelCompanies);
 };
 
-main();
+main(false, true);

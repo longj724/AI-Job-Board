@@ -4,7 +4,6 @@ const cheerio = require('cheerio');
 const getOpeningsFromBoards = async () => {
   // Lever
   fs.readdir('./data/boards/lever/', (err, files) => {
-    console.log(files);
     files.forEach(async (file, _) => {
       fs.readFile('./data/boards/lever/' + file, (err, content) => {
         // Clear file if it exists
@@ -22,8 +21,6 @@ const getOpeningsFromBoards = async () => {
     });
   });
 
-  console.log('lever worked');
-
   // Greenhouse
   fs.readdir('./data/boards/gh/', (err, files) => {
     files.forEach(async (file, _) => {
@@ -34,10 +31,7 @@ const getOpeningsFromBoards = async () => {
         const $ = cheerio.load(content);
         const openings = $('.opening');
         openings.each((_, opening) => {
-          fs.appendFileSync(
-            './data/openings/gh/' + file,
-            $(opening).html()
-          );
+          fs.appendFileSync('./data/openings/gh/' + file, $(opening).html());
         });
       });
     });

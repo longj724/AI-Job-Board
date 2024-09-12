@@ -8,7 +8,7 @@ const geta16zPage = async () => {
   axios
     .get('https://a16z.com/portfolio')
     .then((res) => {
-      const result = writeDataToFile('./data/firms/a16z.txt', res.data);
+      const result = writeDataToFile('../data/firms/a16z.txt', res.data);
     })
     .catch((err) => {
       console.log(err);
@@ -42,7 +42,8 @@ const getCompaniesFroma16z = async (filePath) => {
 };
 
 const getJobs = async () => {
-  let companies = await getCompaniesFroma16z('./data/firms/a16z.txt');
+  let companies = await getCompaniesFroma16z('../data/firms/a16z.txt');
+
   companies.forEach((name) => {
     getJobData(name, 'a16z');
   });

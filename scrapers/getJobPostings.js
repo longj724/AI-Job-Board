@@ -19,7 +19,7 @@ const POSTING_LINK_END_INDICATOR = '*POSTING_LINK_END';
 
 const parseGreenhousePostings = () => {
   fs.readFile(
-    './data/postings/gh/postings.txt',
+    '../data/postings/gh/postings.txt',
     'utf-8',
     async (_, content) => {
       const jobInfoList = content.split('*** START NEW JOB POSTING ***');
@@ -94,7 +94,7 @@ const parseGreenhousePostings = () => {
         const allPostingsAsJSON = JSON.stringify(allJobPostings);
 
         fs.writeFile(
-          './data/parsedPostings/ghFinalOutput.json',
+          '../data/parsedPostings/ghFinalOutput.json',
           allPostingsAsJSON,
           (err) => {
             if (err) {
@@ -110,7 +110,7 @@ const parseGreenhousePostings = () => {
 
 const parseLeverPostings = () => {
   fs.readFile(
-    './data/postings/lever/postings.txt',
+    '../data/postings/lever/postings.txt',
     'utf-8',
     async (_, content) => {
       const jobInfoList = content.split('*** START NEW JOB POSTING ***');
@@ -185,7 +185,7 @@ const parseLeverPostings = () => {
         const allPostingsAsJSON = JSON.stringify(allJobPostings);
 
         fs.writeFile(
-          './data/parsedPostings/leverFinalOutput.json',
+          '../data/parsedPostings/leverFinalOutput.json',
           allPostingsAsJSON,
           (err) => {
             if (err) {
@@ -202,9 +202,9 @@ const parseLeverPostings = () => {
 // Get the postings for gh
 const readGreenhouseOpenings = async () => {
   try {
-    fs.readdir('./data/openings/gh', (err, files) => {
+    fs.readdir('../data/openings/gh', (err, files) => {
       files.forEach(async (file, _) => {
-        const fileStream = fs.createReadStream('./data/openings/gh/' + file);
+        const fileStream = fs.createReadStream('../data/openings/gh/' + file);
 
         const rl = readline.createInterface({
           input: fileStream,
@@ -266,13 +266,17 @@ const readGreenhouseOpenings = async () => {
               '*** END NEW JOB POSTING ***\n';
 
             // Clear file then append postings to it
-            // fs.truncate('./data/postings/gh/postings.txt', 0, () => {})
+            // fs.truncate('../data/postings/gh/postings.txt', 0, () => {})
 
-            fs.appendFile('./data/postings/gh/postings.txt', jobData, (err) => {
-              if (err) {
-                console.log('Error writing gh openings', err);
+            fs.appendFile(
+              '../data/postings/gh/postings.txt',
+              jobData,
+              (err) => {
+                if (err) {
+                  console.log('Error writing gh openings', err);
+                }
               }
-            });
+            );
           });
         });
       });
@@ -284,9 +288,11 @@ const readGreenhouseOpenings = async () => {
 
 const readLeverOpenings = async () => {
   try {
-    fs.readdir('./data/openings/lever', (err, files) => {
+    fs.readdir('../data/openings/lever', (err, files) => {
       files.forEach(async (file, _) => {
-        const fileStream = fs.createReadStream('./data/openings/lever/' + file);
+        const fileStream = fs.createReadStream(
+          '../data/openings/lever/' + file
+        );
 
         const rl = readline.createInterface({
           input: fileStream,
@@ -344,10 +350,10 @@ const readLeverOpenings = async () => {
               '*** END NEW JOB POSTING ***\n';
 
             // Clear file
-            // fs.truncate('./data/postings/gh/postings.txt', 0, () => {});
+            // fs.truncate('../data/postings/gh/postings.txt', 0, () => {});
 
             fs.appendFile(
-              './data/postings/lever/postings.txt',
+              '../data/postings/lever/postings.txt',
               jobData,
               (err) => {
                 if (err) {
@@ -365,8 +371,8 @@ const readLeverOpenings = async () => {
 };
 
 const main = async () => {
-  // await readGreenhouseOpenings();
-  // await readLeverOpenings();
+  await readGreenhouseOpenings();
+  await readLeverOpenings();
 
   parseGreenhousePostings();
   parseLeverPostings();

@@ -1,5 +1,6 @@
 # Get the absolute path to the project directory
-PROJECT_DIR="$(pwd)"
+PROJECT_DIR="$(pwd)/newPipeline"
+echo "Project directory is $PROJECT_DIR"
 
 # Clear temp folders
 rm -rf "$PROJECT_DIR/activeData/boards/gh/"
